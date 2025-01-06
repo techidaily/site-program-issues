@@ -1,7 +1,7 @@
 ---
 title: "No More Glitches: Effective Solutions for Stabilizing 'Age of Wonders: Planetfall' On Your Computer"
-date: 2024-12-25T21:03:10.942Z
-updated: 2024-12-26T21:51:51.084Z
+date: 2025-01-01T20:32:06.720Z
+updated: 2025-01-05T17:43:09.581Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -65,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -87,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -109,13 +113,13 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
@@ -137,18 +141,18 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
@@ -162,10 +166,6 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
@@ -193,19 +193,16 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-screen-capture-showdown-bandicam-vs-camtasia-battle/"><u>[New] Screen Capture Showdown Bandicam Vs Camtasia Battle</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-best-unfollow-tools-and-apps-for-twitter/"><u>[Updated] 2024 Approved Best Unfollow Tools and Apps for Twitter</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-share-your-vids-youtube-to-insta-stories/"><u>2024 Approved Share Your Vids YouTube to Insta-Stories</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-entrepreneurs-roadmap-turning-snapchat-into-a-profitable-venture/"><u>2024 Approved The Entrepreneur's Roadmap Turning Snapchat Into a Profitable Venture</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-14-pro-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 14 Pro Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-tips-for-remedying-lcdoled-screen-burn-in-problems/"><u>Comprehensive Tips for Remedying LCD/OLED Screen Burn In Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/escape-from-tarkov-pc-freezing-problems-heres-how-to-stabilize-the-game/"><u>Escape From Tarkov PC Freezing Problems? Here's How to Stabilize the Game</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/guide-transferring-data-from-restored-edb-mailboxes-to-an-active-exchange-server-via-video-tutorial/"><u>Guide: Transferring Data From Restored EDB Mailboxes to an Active Exchange Server via Video Tutorial</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-nokia-c02-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Nokia C02 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Nokia 150 (2023)? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-luck-with-your-pacifica-hard-drive-learn-fixes-for-a-successful-boot/"><u>No Luck with Your Pacifica Hard Drive? Learn Fixes for a Successful Boot</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-common-challenges-in-restoring-your-clownfish-vocal-manipulation-tools-functionality/"><u>Overcoming Common Challenges in Restoring Your Clownfish Vocal Manipulation Tool's Functionality</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-for-bless-unleashed-lag-spike-fixes-on-pc-platforms/"><u>Step-by-Step Troubleshooting for Bless Unleashed Lag Spike Fixes on PC Platforms</u></a></li>
-<li><a href="https://program-issues.techidaily.com/war-thunder-2024-stability-issues-proven-fixes-for-constant-game-crashes-now/"><u>War Thunder 2024 Stability Issues? Proven Fixes for Constant Game Crashes Now!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-battle-of-av1-and-vp9-outcomes-revealed/"><u>[New] 2024 Approved The Battle of AV1 and VP9 Outcomes Revealed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-amplify-your-videos-impact-with-strategically-placed-time-markers/"><u>[New] In 2024, Amplify Your Video's Impact with Strategically Placed Time Markers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-photographers-journey-to-jaw-dropping-colors/"><u>2024 Approved A Photographer's Journey to Jaw-Dropping Colors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-getting-acclimated-quick-tips-for-snapseed-users/"><u>2024 Approved Getting Acclimated Quick Tips for Snapseed Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722983071174-easy-fixes-for-a-broken-start-menu-on-your-new-windows-11-pc/"><u>Easy Fixes for a Broken Start Menu on Your New Windows 11 PC.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/live-streaming-mastery-discover-the-manycam-experience-top-ranked-video-software-with-virtual-camera-capabilities/"><u>Live Streaming Mastery: Discover the ManyCam Experience - Top-Ranked Video Software with Virtual Camera Capabilities</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-deployment-hurdles-a-comprehensive-guide-to-fixing-app-issues-before-the-2024-market-entry/"><u>Overcoming Deployment Hurdles: A Comprehensive Guide to Fixing App Issues Before the 2024 Market Entry</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-avatar-frontiers-of-pandora-performance-issues-boost-your-fps-and-smooth-out-the-motion/"><u>Solving 'Avatar: Frontiers of Pandora' Performance Issues – Boost Your FPS & Smooth Out the Motion</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-errgfxd3dinit-error-a-complete-guide-for-grand-theft-auto-v/"><u>Troubleshooting ERR_GFX_D3D_INIT Error: A Complete Guide for Grand Theft Auto V</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-pacific-drives-stability-issues-on-windows-machines/"><u>Troubleshooting Tips: Resolving Pacific Drive's Stability Issues on Windows Machines</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/write-protected-disk-fix-a-comprehensive-solution-for-usb-sd-card-and-cd-issues-in-windows-os/"><u>Write-Protected Disk Fix: A Comprehensive Solution for USB, SD Card & CD Issues in Windows OS</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Disco Elysium Crashing on PC"
-date: 2024-12-20T07:02:20.066Z
-updated: 2024-12-26T18:55:18.524Z
+date: 2025-01-04T16:33:43.803Z
+updated: 2025-01-05T18:47:59.207Z
 tags:
   - win11
   - win10
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/4813724d53b5cad6b133b133522844cf1838d9743
  If this doesn’t work for you, don’t worry. There are other solutions to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Stop overclocking your CPU
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/4813724d53b5cad6b133b133522844cf1838d9743
  Overclocking means setting your CPU and memory to run at speeds higher than their official speed rate, and almost all processors ship with a speed rating. However, this may cause your game to crash or freeze. In that case, you should**set your CPU clock speed rate back to the default** to fix your issue.
 
  Assassin’s Creed Odyssey still crashes? Don’t worry. Try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update available drivers
 
@@ -71,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/4813724d53b5cad6b133b133522844cf1838d9743
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-70.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged devices to automatically download the driver (you can do that with the**FREE** version), then install it on your computer.
 
  Or click**Update All** to automatically download and install all the correct drivers for problem devices (you can do this with the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , and you’ll be prompted to upgrade when you click**Update All** ).
@@ -87,10 +87,6 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
  Still no luck? Don’t give up hope. There is something else you can do.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Modify your in-game settings
 
  Many Assassin’s Creed Odyssey players have reported that configuring the settings in the game could help fix the crashing issue, such as switching to the other window mode or changing the graphics settings. So you can try this:
@@ -99,13 +95,13 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-72.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the**Display** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-73.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In**Window Mode** , click and change to another mode.
 
@@ -113,6 +109,10 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
  If you’re using**Borderless** mode, change it to**Fullscreen** mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-74.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Turn off**VSync** .
 
@@ -130,13 +130,13 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6) Restart your computer.
 
 Open Assassin’s Creed Odyssey and see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Verify Integrity of Game Files
 
@@ -149,7 +149,7 @@ Open Assassin’s Creed Odyssey and see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-78.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click on**Assassin’s Creed Odyssey** , and click**Properties** .
@@ -191,19 +191,24 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-interactive-slides-with-youtube-videos/"><u>[New] In 2024, Interactive Slides with YouTube Videos</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/essential-youtube-yoga-channels-for-fitness-enthusiasts-for-2024/"><u>Essential YouTube Yoga Channels for Fitness Enthusiasts for 2024</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/fuhrende-kostenfreie-datensicherungsprogramme-von-toshiba/"><u>Führende Kostenfreie Datensicherungsprogramme Von Toshiba</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-far-cry-6-from-crashing-on-your-pc/"><u>How to Stop Far Cry 6 From Crashing on Your PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-direct-compare-obs-and-twitch-studio-benefits/"><u>In 2024, Direct Compare OBS and Twitch Studio Benefits</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-final-cut-pro-x-hacks-10-must-have-free-plugins/"><u>In 2024, Final Cut Pro X Hacks 10 Must-Have Free Plugins</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/maximizing-clarity-4-steps-to-perfectly-capture-fb-video-calls/"><u>Maximizing Clarity 4 Steps to Perfectly Capture FB Video Calls</u></a></li>
-<li><a href="https://program-issues.techidaily.com/outpost-infinaturd-siege-stability-tips-avoid-game-crashing-on-pc-systems/"><u>Outpost: Infinaturd Siege Stability Tips - Avoid Game Crashing on PC Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-stability-solutions-top-tips-for-avoiding-system-freezes/"><u>PC Stability Solutions: Top Tips for Avoiding System Freezes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solutions-for-correcting-error-code-103003-in-arma-3-operation-husar/"><u>Solutions for Correcting Error Code 103003 in Arma 3: Operation Husar</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-fixing-windows-7-network-adapter-drivers-a-comprehensive-guide/"><u>Troubleshooting and Fixing Windows 7 Network Adapter Drivers: A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-troubleshoot-helldivers-2-pc-issues/"><u>Ultimate Guide to Troubleshoot Helldivers 2 PC Issues</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/behebe-den-geratedefekt-kann-nicht-starten-tipps-and-tricks-zu-fehlercode-10/"><u>Behebe Den Gerätedefekt 'Kann Nicht Starten' - Tipps & Tricks Zu Fehlercode 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-mw3-crash-resolved-a-step-by-step-solution-to-stop-it-from-stopping-working/"><u>COD MW3 Crash Resolved: A Step-by-Step Solution to Stop It From Stopping Working</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ensuring-uninterrupted-fun-with-the-mass-effect-trilogy-expert-fixes-to-prevent-game-crash-on-pc-and-xbox-devices/"><u>Ensuring Uninterrupted Fun with the Mass Effect Trilogy: Expert Fixes to Prevent Game Crash on PC & Xbox Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-xbox-and-pc-issues-resolving-call-of-duty-warzone-memory-error-code-0-1766/"><u>Fix Xbox and PC Issues: Resolving Call of Duty Warzone Memory Error Code 0-1766</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-motorola-moto-g14-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Motorola Moto G14 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-vivo-x-fold-2-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Vivo X Fold 2 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-vivo-t2-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Vivo T2 5G FRP Bypass</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993746834-join-deacon-st-john-for-an-unforgettable-post-apocalyptic-journey-days-gone-arrives-on-pc/"><u>Join Deacon St. John for an Unforgettable Post-Apocalyptic Journey - 'Days Gone' Arrives on PC</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/master-your-desktops-battery-life-and-performance-with-yl-software-power-management-strategies/"><u>Master Your Desktop's Battery Life & Performance with YL Software Power Management Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-in-bless-unleashed-strategies-for-overcoming-high-ping-on-pc-setups/"><u>Optimizing Performance in Bless Unleashed: Strategies for Overcoming High Ping on PC Setups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pathfinder-wrath-of-the-righteous-how-to-stop-game-crashes-for-good/"><u>Pathfinder: Wrath of the Righteous - How to Stop Game Crashes for Good</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-steps-when-discord-fails-to-launch/"><u>Resolved: Troubleshooting Steps When Discord Fails to Launch</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-xiaomi-13t-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Xiaomi 13T Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win11.techidaily.com/the-path-to-harmonized-workspaces-in-win1011/"><u>The Path to Harmonized Workspaces in WIN10/11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-for-truly-tuning-into-your-iphone-podcasts-for-2024/"><u>Tips for Truly Tuning Into Your iPhone Podcasts for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/transferring-data-from-a-virtual-machine-to-your-pc-four-effective-techniques/"><u>Transferring Data From a Virtual Machine to Your PC: Four Effective Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-stutter-and-lag-in-counter-strike-2-techniques-to-enhance-gameplay-speed/"><u>Troubleshooting Stutter and Lag in Counter-Strike 2: Techniques to Enhance Gameplay Speed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-how-to-fix-swtor-wont-start-up/"><u>Troubleshooting: How to Fix 'SWTOR Won't Start Up'</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-i-choose-apple-watch-series-7-over-series-10-the-ultimate-wearables-guide/"><u>Why I Choose Apple Watch Series 7 Over Series 10 - The Ultimate Wearables Guide</u></a></li>
 </ul></div>
 

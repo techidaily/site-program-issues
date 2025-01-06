@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Constant Game Crashes and Hang-Ups in Minecraft
-date: 2024-12-25T17:11:29.610Z
-updated: 2024-12-26T19:10:55.889Z
+date: 2024-12-31T00:23:24.526Z
+updated: 2025-01-05T21:50:50.401Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -72,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-1.jpg)
 3. Select **Verify files** . Then wait for the checking to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
 
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
@@ -88,11 +96,11 @@ You can use these steps to check for Windows updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . Windows will automatically download and install all the available updates. This might take up to an hour depending on your Internet speed.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In some cases, you might need to check several times to get all the updates. Simply repeat these steps until it prompts**You’re up to date** when you click**Check for updates** .
 
@@ -127,21 +135,21 @@ If the crash happens again, you can take a look at the next fix.
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and test the gameplay in Assassin’s Creed Valhalla.
 
  If the driver update doesn’t do the trick for you, simply continue to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Lower in-game graphics settings
 
@@ -154,15 +162,7 @@ If the crash happens again, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-lower-settings.jpg)
 3. Continue your game and check if it crashes again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this trick failed to solve your problem, you can move on to the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Disable peripherals
 
@@ -170,13 +170,13 @@ If the crash happens again, you can take a look at the next fix.
 
  If disabling peripherals doesn’t work for you, or you’re not using any at the first place, you can take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Check the launcher log
 
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
 
@@ -201,24 +201,16 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-fix-chrome-error-with-fb-videos/"><u>[New] Fix Chrome Error with FB Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-formulating-attractive-instagram-story-captions-for-2024/"><u>[New] Formulating Attractive Instagram Story Captions for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-navigating-negative-space-how-to-flip-vids-on-instagram-for-2024/"><u>[New] Navigating Negative Space How to Flip Vids on Instagram for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/chip-harmony-editors-reap-the-benefits-of-syncopated-precision-for-2024/"><u>Chip Harmony Editors Reap the Benefits of Syncopated Precision for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-solution-for-update-failures-in-minecrafts-original-launcher-platform/"><u>Comprehensive Solution for Update Failures in Minecraft's Original Launcher Platform</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/double-your-reach-youtube-and-facebook-cross-promotion-for-2024/"><u>Double Your Reach YouTube & Facebook Cross-Promotion for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-fixes-overcoming-installation-hiccups-with-fighting-networks-tekken-8-on-desktop-computers/"><u>Easy Fixes: Overcoming Installation Hiccups with Fighting Network's Tekken 8 on Desktop Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/end-stray-application-crashes-6-proven-techniques-for-a-smooth-pc-experience/"><u>End Stray Application Crashes: 6 Proven Techniques for a Smooth PC Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-cold-war-game-crash-on-both-pc-and-console-comprehensive-troubleshooting-guide/"><u>Fixing the 'Cold War' Game Crash on Both PC and Console: Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-war-thunders-constant-crashes-proven-techniques-and-best-practices/"><u>Fixing War Thunder's Constant Crashes: Proven Techniques and Best Practices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-lengthy-loading-issues-in-star-wars-battlefront-ii-on-pc/"><u>How to Fix Lengthy Loading Issues in Star Wars: Battlefront II on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-cod-modern-warfare-error-6-issue-for-a-smooth-pc-gaming-experience/"><u>How to Resolve COD: Modern Warfare Error 6 Issue for a Smooth PC Gaming Experience</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-y78plus-t1-edition-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo Y78+ (T1) Edition to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-art-of-overcoming-fifa-19-crashing-problems-on-your-pc-machine/"><u>Master the Art of Overcoming FIFA 19 Crashing Problems on Your PC Machine</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-visual-glitches-the-errgraphicsstate-issue-in-red-dead-redemption-2/"><u>Overcoming Visual Glitches: The ERR_GRAPHICS_STATE Issue in Red Dead Redemption 2</u></a></li>
-<li><a href="https://driver-error.techidaily.com/rectifying-windows-missing-press-enter-action/"><u>Rectifying Windows' Missing Press Enter Action</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-comprehensive-guide-to-correcting-the-d3dxtk9dll-not-found-issue/"><u>Resolved: Comprehensive Guide to Correcting the d3dxtk9.dll Not Found Issue</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-10-sketch-tools-ideal-for-chromebook-users/"><u>Top 10 Sketch Tools Ideal for Chromebook Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-12-free-disk-defragmentation-tools-of-july-2024/"><u>Top 12 Free Disk Defragmentation Tools of July 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-from-words-to-memos-iphone-sound-guide/"><u>[Updated] 2024 Approved From Words to Memos IPhone Sound Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-epic-finns-revenue-stream-analysis-for-2024/"><u>[Updated] Epic Finn's Revenue Stream Analysis for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-husqvarnas-sky-high-adventure-with-h501s-x4-review-for-2024/"><u>[Updated] Husqvarna's Sky-High Adventure with H501S X4 Review for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-precision-in-color-expert-guides-on-adjustment-and-grading/"><u>[Updated] Precision in Color Expert Guides on Adjustment & Grading</u></a></li>
+<li><a href="https://program-issues.techidaily.com/black-screen-fix-guide-for-cyberpunk-2077-players-success-stories-inside/"><u>Black Screen Fix Guide for Cyberpunk 2077 Players - Success Stories Inside!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-chatgpt-management-a-guide-to-using-folder-features-for-streamlined-interactions/"><u>Effective ChatGPT Management: A Guide to Using Folder Features for Streamlined Interactions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-issues-with-a-non-responsive-alienware-command-center/"><u>Fixing Issues with a Non-Responsive Alienware Command Center</u></a></li>
+<li><a href="https://program-issues.techidaily.com/league-of-legends-blackout-blues-proven-fixes-and-prevention-strategies-to-get-you-back-in-action-2e4-edition/"><u>League of Legends Blackout Blues: Proven Fixes and Prevention Strategies to Get You Back in Action - 2E4 Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fix-the-continuous-crashes-in-the-king-of-fighters-xv-on-pc/"><u>Troubleshooting Guide: Fix the Continuous Crashes in 'The King of Fighters XV' On PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-stop-diablo-immortal-from-crashing-on-your-pc/"><u>Troubleshooting Steps: Stop Diablo Immortal From Crashing on Your PC</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-mp4-file-editing-removing-sound-tracks-for-2024/"><u>Updated MP4 File Editing Removing Sound Tracks for 2024</u></a></li>
 </ul></div>
 

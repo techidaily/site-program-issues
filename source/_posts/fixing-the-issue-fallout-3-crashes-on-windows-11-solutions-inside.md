@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Fallout 3 Crashes on Windows 11 – Solutions Inside"
-date: 2024-12-20T16:45:41.544Z
-updated: 2024-12-27T04:10:10.829Z
+date: 2025-01-04T18:50:28.975Z
+updated: 2025-01-05T21:12:13.275Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/0c48024453358ef6a98b286edd181eb113a17b352
 5. **[Replace game files with a fan-made patch](https://tools.techidaily.com/drivereasy/download/)**
 6. [**Check for corrupted system files**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Scan and repair your game files
 
  When troubleshooting game not launching issues, first you need to make sure there aren’t any corrupted or missing files.
@@ -44,18 +40,18 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-1.jpg)
 2. In the left menu, select**LOCAL FILES** . Then click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-2.jpg)
 3. Wait until the checking completes. Then you can try to start the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this trick doesn’t give you luck, take a look at the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -78,7 +74,7 @@ Here’s how you can check the file integrity on Steam:
  If the latest video driver doesn’t help you, check out the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
@@ -96,7 +92,7 @@ Here’s how you can check the file integrity on Steam:
  If this method doesn’t work for you, simply continue to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Install the latest version of Games for Windows Live (GFWL)
@@ -116,12 +112,12 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-1.jpg)
 3. Open the Resident Evil 5 folder and paste the patch files.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Check for corrupted system files
 
@@ -135,6 +131,10 @@ Here’s how you can check the file integrity on Steam:
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -157,14 +157,22 @@ Here’s how you can check the file integrity on Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-tackling-background-noise-in-virtual-presentations/"><u>[New] Tackling Background Noise in Virtual Presentations</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-epic-sports-comparison-gopro-5-and-sjcam-sj7/"><u>In 2024, Epic Sports Comparison GoPro 5 & SJCAM SJ7</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo G2? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723012746206-lost-ark-pc-freezing-issues-discover-proven-fixes/"><u>Lost Ark PC Freezing Issues? Discover Proven Fixes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/navigate-the-art-of-film-with-xps-easy-tools-for-2024/"><u>Navigate the Art of Film with XP's Easy Tools for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-guide-optimize-your-dayz-looting-techniques/"><u>Quick Guide: Optimize Your DayZ Looting Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/real-time-broadcasting-tools-ultimate-guide-to-manycam-and-online-webcams/"><u>Real-Time Broadcasting Tools: Ultimate Guide to ManyCam and Online Webcams</u></a></li>
-<li><a href="https://program-issues.techidaily.com/successfully-downloading-cyberpunk-2077-expert-tips-to-solve-steam-issues-once-and-for-all/"><u>Successfully Downloading Cyberpunk 2077? Expert Tips to Solve Steam Issues Once and For All!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-resolving-palworld-search-errors-easily/"><u>Troubleshooting Steps for Resolving Palworld Search Errors Easily</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-easily-downgrade-system-sound-on-macwindows-devices/"><u>[New] 2024 Approved Easily Downgrade System Sound on Mac/Windows Devices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nlocking-youtube-melodies-safe-free-extraction-methods-for-2024/"><u>[New] Unlocking YouTube Melodies Safe, Free Extraction Methods for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-5-simple-yet-powerful-strategies-to-skyrocket-your-youtube-views/"><u>[Updated] 5 Simple Yet Powerful Strategies to Skyrocket Your YouTube Views</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-assessing-ustream-plus-comparable-video-channels/"><u>[Updated] In 2024, Assessing Ustream + Comparable Video Channels</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-empower-pics-with-perimeter-blur-using-cs/"><u>2024 Approved Empower Pics with Perimeter Blur Using CS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/combatir-el-error-forza-horizon-4-wont-launch-tacticas-eficaces-actualizadas-para-2024/"><u>Combatir El Error 'Forza Horizon 4 Won't Launch': Tácticas Eficaces Actualizadas Para 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquering-the-tfla0002-hurdle-a-comprehensive-troubleshooting-manual/"><u>Conquering the TFLA0002 Hurdle: A Comprehensive Troubleshooting Manual</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-easily-correct-steams-damaged-game-discs/"><u>Expert Tips to Easily Correct Steam's Damaged Game Discs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-mastering-the-art-of-spoofing-gps-coordinates-on-mobile-devices/"><u>Guide: Mastering the Art of Spoofing GPS Coordinates on Mobile Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-solve-the-black-screen-problem-in-fallout-4-a-comprehensive-guide/"><u>How to Solve the 'Black Screen' Problem in Fallout 4: A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mass-effect-legendary-edition-unlocking-all-the-exclusive-weapons/"><u>Mass Effect Legendary Edition: Unlocking All the Exclusive Weapons!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-s-top-free-mkv-splitters-no-watermarks-or-trials-for-2024/"><u>New S Top Free MKV Splitters No Watermarks or Trials for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-constant-freezing-in-total-war-warhammer-iii-for-pc-users/"><u>Resolving Constant Freezing in Total War: Warhammer III for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-deathloop-crash-issue-on-pc-simple-troubleshooting-guide/"><u>Solving the Deathloop Crash Issue on PC: Simple Troubleshooting Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-6-iphone-antivirus-software-the-ultimate-protection-guide/"><u>Top 6 iPhone Antivirus Software: The Ultimate Protection Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-8-solutions-to-stop-vrchat-from-crashing-on-your-desktop/"><u>Top 8 Solutions to Stop VRChat From Crashing on Your Desktop</u></a></li>
 </ul></div>
 

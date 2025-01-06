@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Visuals & Minimizing Lag: Tricks for Optimizing The Ascent's FPS"
-date: 2024-09-01T10:24:58.524Z
-updated: 2024-09-02T10:24:58.524Z
+date: 2025-01-02T20:51:08.327Z
+updated: 2025-01-05T17:25:00.447Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 
 Fall Guys: Ultimate Knockout is finally out, but more and more players start complaining about**low FPS** when they’re bouncing around. If you happened to be one of them, don’t worry. Here’re 7 working fixes that could help you reduce lag and grab a crown in Fall Guys.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not have to try them all, simply work your way down the list until you find the one that does the trick.
@@ -31,6 +28,10 @@ Fall Guys: Ultimate Knockout is finally out, but more and more players start com
 5. **[Change your power plan](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 7. [**Adjust in-game settings**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets the requirement
 
@@ -46,9 +47,6 @@ Fall Guys: Ultimate Knockout is finally out, but more and more players start com
 
  If you’re sure your computer is powerful enough for the game, simply move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Disable full screen optimization
 
  Recent Windows 10 builds include a new feature named**Full Screen Optimization** , which improves performance of games or apps when they’re running in full screen mode. But there’re also reports that this feature might bring about side effects. So it’s possible that you can fix the lag issues by disabling this feature.
@@ -60,13 +58,14 @@ To disable Full Screen Optimization, follow these steps:
 3. Navigate to the **Compatibility** tab, and check the box next to **Disable fullscreen optimizations** . Click**OK** to finish.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/fallguys-disable-full-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you can open Fall Guys and check if the problem has gone.
 
 If the issue is still there, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  The Fall Guys lag issue can be caused by**a faulty or outdated graphics driver** . If you’re not sure whether you’re using the latest graphics driver, you should definitely have a check. Driver updates are basically a zero-cost benefit, so it’s always a smart move to keep your drivers up to date.
@@ -87,9 +86,6 @@ If the issue is still there, take a look at the next fix.
 
  If updating the graphics driver doesn’t solve your problem, check out the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Install all Windows updates
 
  Windows updates offer bug fixes and sometimes a performance boost, so it might be one potential solution to the lag issue. Besides, it requires only little computer skills.
@@ -97,14 +93,8 @@ If the issue is still there, take a look at the next fix.
 Here’re the steps:
 
 1. On your keyboard, press **the Windows logo key** and **I**  at the same time to invoke **Windows Settings app** . Select **Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . It’ll try to download and install available updates. It might take a while depending on your network speed.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Wait until all the updates are installed. After that, restart your computer.
 
@@ -119,23 +109,29 @@ Here’re the steps:
  The Ultimate Performance power plan is only available to Windows 10 version**1803 or above** . You can check your version in**Settings > System > About** .
 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to invoke the **Run** dialog. Type **control** and click **OK**  to open Control Panel.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-box-dialog-control.jpg)
 2. **View** the Control Panel **by Category** . Select**Hardware and Sound** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-control-panel.jpg)
 3. Click**Power Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-power-options.jpg)
 4. Select**Ultimate Performance** . If you don’t see this option, continue to the following steps to unhide this power plan.  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 5. On your keyboard, press the**Windows logo key** and type **cmd** . Select **Run as administrator** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 6. In the pop-up window, type (or copy and paste) the following command and hit**Enter** .  
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
@@ -145,12 +141,13 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 If it doesn’t do the trick, check out the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Close unnecessary programs
 
  One possible cause of lag might be the background tasks that are eating your resources secretly. To ensure a smooth and undisturbed gameplay, Fall Guys should be the only large program running on your computer. So before you start the game, make sure you’ve closed Chrome, Skype, Discord and any other programs that might be resource-hungry.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Adjust in-game settings
 
@@ -174,6 +171,10 @@ If it doesn’t do the trick, check out the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/fall-guys-low-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
  Hopefully, these methods help you fix the Fall Guys lag issue. If you have any questions or suggestions, please feel free to drop a comment down below.
@@ -184,8 +185,6 @@ If it doesn’t do the trick, check out the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +192,20 @@ If it doesn’t do the trick, check out the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-journey-through-ingenious-text-animation-ideas/"><u>[Updated] 2024 Approved Journey Through Ingenious Text Animation Ideas</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-art-of-incorporating-s2t-features-into-ppt/"><u>[Updated] 2024 Approved The Art of Incorporating S2T Features Into PPT</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-social-media-whizs-playbook-analyzing-user-behavior-with-insta-insights/"><u>[Updated] In 2024, The Social Media Whiz's Playbook Analyzing User Behavior with Insta Insights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-iphone-podcast-audio-enjoyment/"><u>2024 Approved Step-by-Step IPhone Podcast Audio Enjoyment</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-time-is-money-the-best-facebook-schedulers-reviewed/"><u>2024 Approved Time Is Money The Best Facebook Schedulers Reviewed</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210391962-9781734610642-claiming-my-soul/"><u>Claiming My Soul | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-football-manager-202-game-crashes-on-windows-computer-expert-fixes/"><u>Fix Your Football Manager 202# Game Crashes on Windows Computer - Expert Fixes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-lenovo-bluetooth-software-for-windows-710-reliable-and-updated-drivers-available-now/"><u>Get the Latest Lenovo Bluetooth Software for Windows 7/10 - Reliable and Updated Drivers Available Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-launch-errors-in-armored-core-vi-fires-of-rubicon/"><u>How to Overcome Launch Errors in Armored Core VI: Fires of Rubicon</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-troubleshooting-eliminating-pc-crashes-in-praey-for-the-overlord/"><u>Mastering Troubleshooting: Eliminating PC Crashes in Praey for the Overlord</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-resolving-winwordexe-software-malfunctions/"><u>Quick Solutions: Resolving WINWORD.EXE Software Malfunctions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-epic-saga-of-global-words-longest-one/"><u>The Epic Saga of Global Words' Longest One</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-paramount-practices-in-gathering-your-precious-collection-of-high-fidelity-youtube-audio/"><u>Updated 2024 Approved Paramount Practices in Gathering Your Precious Collection of High-Fidelity YouTube Audio</u></a></li>
+</ul></div>
 

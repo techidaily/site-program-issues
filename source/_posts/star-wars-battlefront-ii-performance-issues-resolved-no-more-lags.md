@@ -1,7 +1,7 @@
 ---
 title: Star Wars Battlefront II Performance Issues Resolved - No More Lags
-date: 2024-12-22T21:34:38.328Z
-updated: 2024-12-27T01:27:33.301Z
+date: 2024-12-29T16:39:36.799Z
+updated: 2025-01-05T20:28:46.421Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 8. **[Adjust your Windows system for the best performance](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets the system requirements for DayZ
 
@@ -88,14 +92,10 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Driver Easy update graphics driver](https://images.drivereasy.com/wp-content/uploads/2019/07/Driver-Easy-update-graphics-driver-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.
 
@@ -106,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install the latest DayZ patch
@@ -118,7 +118,7 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Modify the graphics settings
@@ -139,10 +139,6 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvida-control-panel-3D-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Lower the in-game graphics settings
 
 1. Launch DayZ and modify the following in-game video settings:  
@@ -162,6 +158,10 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 See if you can play the game smoothly. If not, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Restrict applications and downloads in the background
 
@@ -187,6 +187,10 @@ See if you can play the game smoothly. If not, try the next fix, below.
 
 Try the next fix below if this fix didn’t work for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Change the power plan of your PC
 
  Most PC are configured to **Balanced** , which may limits the operating capacity of your graphics card and CPU. If the power plan of your PC is **Power saver**  or **Balanced** , you might run into the game FPS drops issue.
@@ -196,10 +200,6 @@ Try the next fix below if this fix didn’t work for you.
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
@@ -215,14 +215,14 @@ Try the next fix below if this fix didn’t work for you.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-system-properties.png)
 2. In the pop-up window, navigate to the Advanced tab, then click **Settings…**  in the **Performance**  section.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
 3. Select **Adjust for best performance**  and click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/adjust-for-best-performance.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Launch DayZ to see if the FPS drops not mot. If not, congratulations! You’ve fixed this issue.
 
@@ -248,22 +248,20 @@ Try the next fix below if this fix didn’t work for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-snapshot-revamp-with-samsung-image-studio-analysis/"><u>[New] 2024 Approved Snapshot Revamp with Samsung Image Studio Analysis</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/aximizing-youtube-engagement-with-strategic-hashes/"><u>[New] Maximizing YouTube Engagement with Strategic Hashes</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-social-media-synergy-connecting-twitch-streams-with-fb-for-2024/"><u>[New] Social Media Synergy Connecting Twitch Streams with FB for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-juggling-jargons-an-experts-guide-to-multiple-youtube-views/"><u>2024 Approved Juggling Jargons An Expert's Guide to Multiple YouTube Views</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-vivo-y78-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Vivo Y78 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/decoding-computer-systems-expert-tips-and-reviews-with-toms-hardware/"><u>Decoding Computer Systems: Expert Tips and Reviews with Tom's Hardware</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/elite-choices-in-long-reach-wifi-routers-discover-the-top-picks-of-2eplust24/"><u>Elite Choices in Long-Reach WiFi Routers: Discover the Top Picks of 2E+t24</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-ensure-a-smooth-version-verification-in-final-fantasy-xiv-tips-and-tricks/"><u>How to Ensure a Smooth Version Verification in Final Fantasy XIV: Tips & Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-repair-and-prevent-euro-truck-simulator-2-from-crashing-on-your-computer/"><u>How to Repair and Prevent Euro Truck Simulator 2 From Crashing on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-alan-wake-2-from-crashing-essential-fixes-and-advice-for-players/"><u>How to Stop Alan Wake 2 From Crashing: Essential Fixes and Advice for Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/in-depth-guide-to-resolving-cod-vanguards-error-5573-for-smooth-gaming/"><u>In-Depth Guide to Resolving COD Vanguard's Error 5573 for Smooth Gaming</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/local-lingo-made-simple-speak-like-an-aussie/"><u>Local Lingo Made Simple: Speak Like an Aussie</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-your-gameplay-stop-minecraft-lag-and-stutter-latest-strategies/"><u>Master Your Gameplay: Stop Minecraft Lag & Stutter - Latest Strategies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005915242-overcoming-obs-recording-troubles-successfully-captured/"><u>Overcoming OBS Recording Troubles – Successfully Captured!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/seamless-gaming-awaits-expert-solutions-for-stabilizing-your-titanfall-2-experience/"><u>Seamless Gaming Awaits! Expert Solutions for Stabilizing Your Titanfall 2 Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-humanity-fails-to-take-off-an-in-depth-look/"><u>Troubleshooting Steps When Humanity Fails to Take Off - An In-Depth Look</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/troubleshooting-tips-returning-your-kingston-solid-state-drive-to-its-default-configuration/"><u>Troubleshooting Tips: Returning Your Kingston Solid State Drive to Its Default Configuration</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-become-the-brand-you-want-with-our-exclusive-set-of-free-graphics/"><u>[New] In 2024, Become the Brand You Want With Our Exclusive Set of FREE Graphics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-the-perfect-resolution-for-immersive-vr/"><u>[New] The Perfect Resolution for Immersive VR</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-quickly-resolve-warzone-directx-error-in-four-steps-a-detailed-guide/"><u>How to Quickly Resolve Warzone DirectX Error in Four Steps - A Detailed Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-from-zero-to-million-in-minutes-rapidly-rise-as-an-instagram-influencer-with-these-top-tips/"><u>In 2024, From Zero to Million in Minutes Rapidly Rise as an Instagram Influencer with These Top Tips</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/intersectionality-and-health-an-analysis-of-socioeconomic-status-raceethnicity-and-gender/"><u>Intersectionality and Health: An Analysis of Socioeconomic Status, Race/Ethnicity, and Gender</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mohu-blade-tv-antenna-analysis-unmatched-design-and-superior-performance-in-your-home/"><u>Mohu Blade TV Antenna Analysis: Unmatched Design & Superior Performance in Your Home</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/utionize-your-video-output-top-10-apps-converting-flv-to-youtube/"><u>Revolutionize Your Video Output Top 10 Apps Converting FLV to YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-missing-ping-issue-on-halo-infinite-a-detailed-guide/"><u>Solving the Missing Ping Issue on Halo Infinite - A Detailed Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-reducing-high-cpu-demands-on-your-god-of-war-gaming-experience/"><u>Step-by-Step Guide: Reducing High CPU Demands on Your God of War Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-unable-to-connect-errors-in-minecraft-servers/"><u>Troubleshooting 'Unable to Connect' Errors in Minecraft Servers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fixes-for-dragon-quest-xis-stability-issues/"><u>Troubleshooting Fixes for Dragon Quest XI's Stability Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-mastering-your-drive-with-the-mobile-app/"><u>Ultimate Guide: Mastering Your Drive with the Mobile App</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-alternatives-to-gopro-quik-for-pc-video-editing-made-easy/"><u>Updated In 2024, Alternatives to GoPro Quik for PC Video Editing Made Easy</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wolcen-lords-of-mayhem-release-delayed-what-gamers-need-to-know/"><u>Wolcen: Lords of Mayhem Release Delayed – What Gamers Need to Know</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Age of Empires IV Installation Problems on the Microsoft Store
-date: 2024-09-05T23:25:08.652Z
-updated: 2024-09-06T23:25:08.652Z
+date: 2025-01-01T19:37:36.054Z
+updated: 2025-01-05T22:24:14.073Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes How to Fix Age of Empires IV Installation Proble
 thumbnail: https://thmb.techidaily.com/a5a7b7ec3022517415e821b6bfe83159465cabea96e97b208c8652bd209d1315.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Guide to Fixing 'Age of Empires IV' Not Downloading on MS Store - Quick Solutions
 
 Age of Empires IV is available on Microsoft Store and Steam. It’s a great multiplayer PVP game with very positive customer reviews. But some gamers have trouble downloading and installing from Microsoft Store. Don’t worry, you’re not alone. This post has working fixes to help you fix it.
@@ -55,17 +49,9 @@ If these simple solutions don’t help, move to the fixes below.
 5. [Reset or reinstall Windows](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Download Xbox App
 
  Some gamers found out downloading Age of Empires VI through Xbox app is a fix for the game not downloading issue.
@@ -80,6 +66,10 @@ If these simple solutions don’t help, move to the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-1-1200x471.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Press the**Windows logo key + R** together. Type**wsreset** and press the Enter key.
 
  6) Make sure[Xbox Identity Provider](https://www.microsoft.com/en-us/p/xbox-identity-provider/9wzdncrd1hkw?rtc=1&activetab=pivot%3Aoverviewtab) is installed.
@@ -93,12 +83,6 @@ If these simple solutions don’t help, move to the fixes below.
 
 10) Relaunch the app then download and install Age of Empires VI.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your network adapter driver
 
  If the game is stuck in 0 and never gets up while downloading, there might be some issue with your wireless adapter driver. A missing or corrupted driver may be the root of this issue.   **Try updating the driver for your wireless network adapter**  to see if you can resolve it.
@@ -115,22 +99,24 @@ If these simple solutions don’t help, move to the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Driver-Easy-Scan-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update** next to your wireless network adapter to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![update network driver](https://images.drivereasy.com/wp-content/uploads/2018/09/update-network-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your wireless adapter driver, restart your PC and try downloading again.
 
 If you can’t install the game, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable antivirus software
 
@@ -148,11 +134,9 @@ If you can’t install the game, move to the next fix.
  If it’s not working, you can move to the next fix. Remember to enable your antivirus to protect your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your Windows system
 
  If you haven’t updated your Windows system to the latest version, you can give it a try. Some gamers have proved that installing updates for the Windows system is a working fix.
@@ -167,12 +151,6 @@ If you can’t install the game, move to the next fix.
 
 If the problem remains, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Reset or reinstall Windows
 
  If you’re still facing problems while downloading or installing, you can perform a Windows reset or maybe even reinstall it together. We all know reinstalling will delete all the data on your hard drive, you should back up all your important files before doing it.
@@ -194,8 +172,6 @@ If the problem remains, take a look at the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +179,22 @@ If the problem remains, take a look at the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-your-device-uninterrupted-revealing-the-top-7-android-adblockers-for-2024/"><u>[Updated] Your Device, Uninterrupted Revealing the Top 7 Android AdBlockers for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/charting-a-course-for-earthlings-inaugural-flight-tactics-and-advice/"><u>Charting a Course for Earthlings’ Inaugural Flight: Tactics and Advice</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquering-dark-screens-effective-troubleshooting-techniques/"><u>Conquering Dark Screens: Effective Troubleshooting Techniques</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974916363-easy-setup-get-your-hp-officejet-5740-software-now/"><u>Easy Setup: Get Your HP OfficeJet #5740 Software Now</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/elevating-your-shopping-vlogs-advanced-editing-techniques-for-2024/"><u>Elevating Your Shopping Vlogs Advanced Editing Techniques for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-long-is-a-video-at-20-megabits/"><u>How Long Is a Video at 20 Megabits?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-11x-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Realme 11X 5G Bootloader Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-steps-to-tackle-windows-activation-problem-code-0x803f700f/"><u>Key Steps to Tackle Windows Activation Problem Code 0X803F700f</u></a></li>
+<li><a href="https://program-issues.techidaily.com/launch-problems-in-valorant-heres-how-you-can-resolve-them-on-your-pc-latest-tips/"><u>Launch Problems in Valorant? Here's How You Can Resolve Them on Your PC - Latest Tips!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/macbook-air-revolution-apple-slashes-price-down-to-799-before-october-prime-day-insider-news/"><u>MacBook Air Revolution: Apple Slashes Price Down To $799 Before October Prime Day! - Insider News</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-fixes-eliminating-call-of-duty-warzones-disc-read-problems-errors-50-and-31-on-desktops-and-laptops/"><u>Master the Fixes: Eliminating Call of Duty Warzone's Disc Read Problems [Errors 5.0 & 3.1] on Desktops and Laptops</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/al-filming-equipment-advice-on-choosing-the-best-lenses/"><u>Optimal Filming Equipment Advice on Choosing the Best Lenses</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-playback-problems-in-mass-effect-legendary-edition-games/"><u>Solving Playback Problems in Mass Effect Legendary Edition Games</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/turning-off-safety-notifications-on-your-iphone-easy-steps-inside/"><u>Turning Off Safety Notifications on Your iPhone – Easy Steps Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unstick-your-game-solving-persona-cuenta-3-not-launching-glitches/"><u>Unstick Your Game: Solving Persona Cuenta 3 Not Launching Glitches</u></a></li>
+</ul></div>
 

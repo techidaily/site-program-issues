@@ -1,7 +1,7 @@
 ---
 title: How to Get and Install the Newest Logitech G403 Software on Your Computer
-date: 2024-12-25T06:00:41.428Z
-updated: 2024-12-26T20:22:55.877Z
+date: 2024-12-31T22:14:48.883Z
+updated: 2025-01-05T23:18:47.368Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/f7eb32e30dabd1ecde240ae4f390a8ba724185aa1
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/HaloInfinite_Multiplayer-1200x675.jpg)
 
  Halo Infinite multiplayer beta is now available. However, many players are reporting that they cannot launch the game and get a black screen with a little circle in the bottom left corner. Then the game crashes after a few seconds. If you’re facing the same issue, don’t worry. Here are some quick fixes for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before you start
 
@@ -52,6 +56,10 @@ Recommended
 5. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Hallo Infinite](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  If there are any missing or corrupted game files, you may encounter the black screen issue in Halo Infinite. To rule out the issue, you can verify the integrity of game files via Steam. Here’s how:
@@ -62,11 +70,15 @@ Recommended
 3. Navigate to the**LOCAL FILE** S tab and select**Verify integrity of game files…** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the process is completed, try launching the game again to see if you can get past the black screen.
 
@@ -85,11 +97,11 @@ If the issue remains, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -105,15 +117,15 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 
  Once you’ve installed all the updates, restart your computer and launch Halo Infinite again to see if the black screen issue has gone away.
 
  If your system is up to date and you still get a black screen, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Allow the game through Windows Firewall
 
@@ -124,7 +136,7 @@ If the issue persists, take a look at the next fix.
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
@@ -138,10 +150,6 @@ If the issue persists, take a look at the next fix.
  If you’re also running any third-party antivirus program, you should temporarily disable it before launching the game.
 
  Check if you still get a black screen when launching Halo Infinite. If the issue persists, continue with the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Perform a clean boot
 
@@ -161,25 +169,17 @@ If the issue persists, take a look at the next fix.
 5. One at a time,**select** any programs you suspect might be interfering and click**Disable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer and try launching Halo Infinite again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you won’t see a black screen again, then try enabling services one by one until you find the conflicting software. Be sure to restart your PC after enabling each service.
 
  Once you find out the problematic program that causes the black screen issue, you may need to uninstall it to avoid running into the same issue in the future.
 
  If the black screen issue still occurs after you disable all unnecessary services, check out the last fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Halo Infinite
 
@@ -216,17 +216,24 @@ Now you should be able to run the game without any problems.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-how-to-find-youtube-collaboration-partners/"><u>[New] 2024 Approved How to Find YouTube Collaboration Partners?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-intensive-assessment-the-ultimate-guide-to-bublcam-360/"><u>[New] Intensive Assessment The Ultimate Guide to Bublcam 360</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-unveiling-the-best-tiktok-marketing-techniques/"><u>[Updated] 2024 Approved Unveiling the Best TikTok Marketing Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/assassins-creed-mirage-wont-start-top-strategies-to-overcome-the-stuck-pre-launch-bug-in-202n4/"><u>Assassin's Creed Mirage Won't Start? Top Strategies to Overcome the Stuck Pre-Launch Bug in 202N4!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/common-issues-with-steam-remote-play-discover-quick-fixes-to-resume-gaming-anywhere/"><u>Common Issues with Steam Remote Play? Discover Quick Fixes to Resume Gaming Anywhere!</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-zte-axon-40-lite-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/gerez-vos-medias-iphones-avec-winx-mediatrans-transfert-facile-de-photos-videos-musique-et-livres-electroniques-versdepuis-windows-10/"><u>Gérez Vos Médias iPhones Avec WinX MediaTrans: Transfert Facile De Photos, Vidéos, Musique Et Livres Électroniques Vers/Depuis Windows 10 !</u></a></li>
-<li><a href="https://howto.techidaily.com/itel-p40-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P40 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-2024-approved-what-is-ai-background-generator/"><u>New 2024 Approved What Is AI Background Generator?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-street-fighter/"><u>Overcome Street Fighter</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-resolving-street-fighter-6-network-problems-and-reducing-lag-on-pc/"><u>Ultimate Guide to Resolving Street Fighter 6 Network Problems and Reducing Lag on PC</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/witness-humor-with-hearts-on-instagram-top-10-memes-to-admire/"><u>Witness Humor with Hearts on Instagram Top 10 Memes to Admire</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-seamless-videos-with-funimate/"><u>[New] Guide to Seamless Videos with Funimate</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mastering-mac-snipers-top-5-recommended-tools/"><u>[Updated] In 2024, Mastering Mac Snipers Top 5 Recommended Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-endgame-blues-a-guide-to-fixing-frequent-pc-freezes-during-climactic-moments/"><u>Beat The Endgame Blues: A Guide to Fixing Frequent PC Freezes During Climactic Moments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/combat-high-response-times-in-co-op-gaming-strategies-for-faster-back-nblood-play/"><u>Combat High Response Times in Co-Op Gaming: Strategies for Faster Back nBlood Play</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-fixes-for-dealing-with-acrocefexe-error-on-windows/"><u>Comprehensive Fixes for Dealing with Acrocef.exe Error on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-heartheist-game-crashing-issues-on-windows-computers/"><u>Fixes for Heartheist Game Crashing Issues on Windows Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-restore-functionality-when-your-msi-bareknuckle-server-stops-responding/"><u>How to Restore Functionality When Your MSI Bareknuckle Server Stops Responding</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-take-a-break-from-facebook/"><u>How to Take a Break From Facebook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/immediate-solutions-for-resolving-critical-kernelbasedll-malfunctions-smoothly/"><u>Immediate Solutions for Resolving Critical KernelBase.dll Malfunctions Smoothly</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-spearheading-groundbre-folks-in-vr-space/"><u>In 2024, Spearheading Groundbre Folks In VR Space</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-xs-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking iPhone XS Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ipad-air-assessment-why-its-a-close-runner-up-to-my-ipad-pro-insights/"><u>IPad Air Assessment: Why It's a Close Runner-Up To My iPad Pro - Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/order-of-the-matrix-films-a-step-by-step-watchlist/"><u>Order of The Matrix Films - A Step-by-Step Watchlist</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-90-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008649700-simple-steps-for-a-smooth-gameplay-in-ghost-recon-breakpoint-crash-troubles-gone/"><u>Simple Steps for a Smooth Gameplay in Ghost Recon Breakpoint - Crash Troubles Gone!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-how-to-stop-diablo-ii-resurrected-from-frequently-crashing/"><u>Solved! How to Stop Diablo II Resurrected From Frequently Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-release-saga-of-immortals-fenyx-rising-heres-how-it-happened-and-why-you-can-play-today/"><u>The Release Saga of Immortals' Fenyx Rising – Here's How It Happened and Why You Can Play Today!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-route-to-sharpen-your-meme-skills-at-9gag/"><u>The Ultimate Route to Sharpen Your Meme Skills at 9GAG</u></a></li>
+<li><a href="https://discover-best.techidaily.com/transforming-high-efficiency-video-coding-hevch265-into-h264-using-ffmpeg-step-by-step-guide/"><u>Transforming High-Efficiency Video Coding (HEVC/H.265) Into H.264 Using FFmpeg: Step-by-Step Guide</u></a></li>
 </ul></div>
 

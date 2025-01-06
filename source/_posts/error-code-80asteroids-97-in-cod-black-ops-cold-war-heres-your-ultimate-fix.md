@@ -1,7 +1,7 @@
 ---
 title: "Error Code 80Asteroids 97 in COD: Black Ops Cold War? Here's Your Ultimate Fix"
-date: 2024-12-23T05:51:27.216Z
-updated: 2024-12-27T08:42:25.871Z
+date: 2024-12-31T19:39:36.634Z
+updated: 2025-01-05T20:05:03.911Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ If you’re presented with an error message ‘_**DirectX Encountered an Unrecov
 4. **[Play the game in DirectX 11 mode](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1\. Close unnecessary background apps
@@ -38,7 +38,7 @@ If you’re presented with an error message ‘_**DirectX Encountered an Unrecov
  Make sure you have closed all the applications that are related to graphics card monitoring, and turn off all overlay features. Try launching your COD: Warzone again to test the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2\. Update your device drivers
@@ -68,24 +68,20 @@ There are mainly two ways of updating your device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. If you just want to update your webcam driver for free, simply click the **Update** button next to it (it’s partly manual).  
   
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4\. Once complete, restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3\. Repair your game files
 
@@ -98,10 +94,6 @@ There are mainly two ways of updating your device drivers:
  3\. Click **Options** and select **Scan and Repair** from the drop-down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/warzone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4\. Click**Begin Scan** , and wait for the process to complete.
 
@@ -117,9 +109,17 @@ There are mainly two ways of updating your device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/mw-d3d11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Check **Additional Command Line Arguments** and type **\-d3d11** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Click **Done** .
 
@@ -147,24 +147,17 @@ There are mainly two ways of updating your device drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-best-in-class-subtitle-converters-revealed-transform-sub-into-srtr-in-minutes-not-hours/"><u>[New] Best-in-Class Subtitle Converters Revealed Transform SUB Into SRTR in Minutes, Not Hours</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-creating-soft-transitions-in-audio-with-logic-pro/"><u>[New] In 2024, Creating Soft Transitions in Audio with Logic Pro</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-the-final-step-delete-your-youtube-shorts-link/"><u>[New] In 2024, The Final Step Delete Your YouTube Shorts Link</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-unfading-flight-ambitions-top-10-longevity-drone-lists/"><u>[New] In 2024, Unfading Flight Ambitions Top 10 Longevity Drone Lists</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-unveiling-the-true-income-potential-in-podcasting-for-2024/"><u>[Updated] Unveiling the True Income Potential in Podcasting for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/comment-installer-et-reparer-windows-11-sans-cddvd-a-laide-dune-cle-usb-une-guerilla-de-cinq-techniques/"><u>Comment Installer Et Réparer Windows 11 Sans CD/DVD À L'aide D'une Clé USB : Une Guérilla De Cinq Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-house-flipper-2-crashes-on-your-computer-a-comprehensive-fix-guide/"><u>Eliminate House Flipper 2 Crashes on Your Computer: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-dreaded-diablo-ncrashing-problem-what-you-need-to-know/"><u>Fixing the Dreaded Diablo nCrashing Problem - What You Need to Know</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-playstation-5-boot-failure-with-quick-solutions/"><u>How to Resolve PlayStation 5 Boot Failure with Quick Solutions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-honor-play-8t-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Honor Play 8T Phone Hassle-Free</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-shadowplay-recordings-solving-common-issues-on-windows-systems/"><u>Mastering the Art of Shadowplay Recordings: Solving Common Issues on Windows Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-players-rejoice-wrc-10-game-crashing-problems-solved-enhanced-performance-guaranteed/"><u>PC Players Rejoice - WRC 10 Game Crashing Problems Solved! Enhanced Performance Guaranteed.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resident-evil-village-pc-stability-fixes-get-uninterrupted-gaming/"><u>Resident Evil Village PC Stability Fixes - Get Uninterrupted Gaming!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-issue-escape-from-tarkov-server-disconnect/"><u>Resolving the Issue: Escape From Tarkov Server Disconnect</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722990899286-solving-lost-ark-server-disconnect-error-effective-solutions-revealed/"><u>Solving Lost Ark Server Disconnect Error - Effective Solutions Revealed!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tech-savvy-solutions-unveiling-secrets-by-toms-equipment-expertise/"><u>Tech Savvy Solutions: Unveiling Secrets by Tom's Equipment Expertise</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211441835--the-prenatal-shadow/"><u>The Prenatal Shadow | Free Book</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-performance-issues-making-your-age-of-empires-4-gameplay-smoother/"><u>Troubleshooting Performance Issues: Making Your Age of Empires 4 Gameplay Smoother</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-gpeditmsc-doesnt-appear-on-home-windows-pcs/"><u>Troubleshooting Steps When gpedit.msc Doesn't Appear on Home Windows PCs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-evaluating-expenditure-on-turning-songs-into-visuals/"><u>[New] 2024 Approved Evaluating Expenditure on Turning Songs Into Visuals</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-cutting-edge-mac-cam-apps-a-look-past-bandicam/"><u>[New] In 2024, Cutting-Edge Mac Cam Apps A Look Past Bandicam</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-dell-g15-driver-download-and-installation-tutorial-for-windows-operating-systems/"><u>Easy Dell G15 Driver Download and Installation Tutorial for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-installing-intels-usb-30-driver-on-windows-11-systems/"><u>Easy Guide to Installing Intel's USB 3.0 Driver on Windows 11 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-when-thaumaturge-wont-start-or-function-properly-on-windows/"><u>Effective Fixes for When Thaumaturge Won't Start or Function Properly on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-gameplay-eight-essential-hacks-for-guardians-of-the-galaxy-running-smoothly-on-pc/"><u>Fix Your Gameplay! Eight Essential Hacks for Guardians of the Galaxy Running Smoothly on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-black-screen-issue-in-resident-evil-village-on-pc/"><u>How to Fix the 'Black Screen' Issue in Resident Evil Village on PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-asus-rog-phone-7-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/non-google-options-for-augmented-reality-embellishing/"><u>Non-Google Options for Augmented Reality Embellishing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolution-reached-issues-with-death-strandings-initial-release-rectified/"><u>Resolution Reached: Issues with Death Stranding's Initial Release Rectified</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-artisans-path-to-crafting-confidential-snaps-for-2024/"><u>The Artisan's Path to Crafting Confidential Snaps for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transformateur-de-fichiers-mxf-pour-mac-convertissez-facilement-vers-mp4-mov-et-autres-formats/"><u>Transformateur De Fichiers MXF Pour Mac : Convertissez Facilement Vers MP4, MOV Et Autres Formats</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Insights Into Fixing Aesthetic Distortions Encountered in Rust IDE
-date: 2024-12-22T22:54:04.490Z
-updated: 2024-12-27T12:37:20.407Z
+date: 2025-01-05T00:10:42.314Z
+updated: 2025-01-05T17:14:10.269Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
  Pathfinder: Wrath of the Righteous has been the most hyped RPG game lately. But as a new release, it’s far from error-free. Many players have been reporting their**keyboard would randomly stop working in-game** . If you’re on the same boat, we’ve got a few working fixes for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes…
@@ -57,7 +57,7 @@ If you didn’t find any hardware issues, try the next fix.
  You may also like:[How to fix wireless keyboard lag?](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Delete Rewired\_DirectInput.dll file
@@ -68,18 +68,22 @@ If you didn’t find any hardware issues, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Steam-right-click-Properties.jpg)
 2. Under the**LOCAL FILES** tab, click**Browse** . It will open the local game folder for you.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/browse-local-files-in-steam-client.jpg)
 3. Navigate to**Wrath\_Data\\Plugins\\x86\_64** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. **Make a copy of the Rewired\_DirectInput.dll file** , and save it at somewhere safe. There shouldn’t be any risk to delete this file, but backing up can always help if anything goes wrong.
 5. **Delete the Rewired\_DirectInput.dll file** .
 6. Relaunch the game and test the issue.
 
  If this fix doesn’t solve your problem, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your keyboard driver
 
@@ -97,17 +101,13 @@ If you didn’t find any hardware issues, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-19.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged keyboard driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-35.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -133,16 +133,22 @@ If you didn’t find any hardware issues, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/fixed-world-of-warcraft-latency-issues-quickly-and-easily/"><u>[FIXED] World of Warcraft Latency Issues | Quickly & Easily</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-effective-streaming-strategies-facebook-crossposting/"><u>[New] 2024 Approved Effective Streaming Strategies Facebook Crossposting</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-sunlit-scenes-android-brighten-tips/"><u>[New] In 2024, Sunlit Scenes Android Brighten Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-sea-of-thieves-wont-launch/"><u>[Solved] Sea of Thieves Won't Launch</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-6-plus-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 6 Plus to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/a-practical-guide-to-downloading-audio-content-from-pinterest/"><u>A Practical Guide to Downloading Audio Content From Pinterest</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypass-assassins-creed-mirage-launch-glitch-pro-tips-and-strategies-to-get-you-gaming/"><u>Bypass Assassin's Creed Mirage Launch Glitch: Pro Tips & Strategies to Get You Gaming !</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elevate-your-elden-ring-experience-by-resolving-fps-issues-quickly/"><u>Elevate Your Elden Ring Experience by Resolving FPS Issues Quickly</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-audiovisual-elevation-leading-high-definition-hdmi-21-displays/"><u>In 2024, Audiovisual Elevation Leading High-Definition (HDMI 2.1) Displays</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-the-quick-convert-guide-transforming-gifs-into-telegram-and-whatsapp-emojis/"><u>In 2024, The Quick-Convert Guide Transforming Gifs Into Telegram and WhatsApp Emojis</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resident-evil-village-performance-issues-addressing-pc-frame-rate-dips/"><u>Resident Evil Village Performance Issues: Addressing PC Frame Rate Dips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-superfast-fb-downloader-mp4-files-in-minutes/"><u>[New] SuperFast FB Downloader MP4 Files in Minutes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-most-innovative-15-android-virtualization-apps/"><u>[New] The Most Innovative 15 Android Virtualization Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquer-game-stutters-for-smooth-playback-at-2024s-ultra-high-fps-levels/"><u>Conquer Game Stutters for Smooth Playback at 2024'S Ultra-High FPS Levels!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-download-topaz-video-enhance-ai-version-522-no-hack-required/"><u>Free Download: Topaz Video Enhance AI Version 5.2.2 - No Hack Required</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/fusing-images-online-and-desktop-harmoniously/"><u>Fusing Images Online & Desktop Harmoniously</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-infinix-smart-7-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Infinix Smart 7 Safely | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-constant-crashing-in-age-of-empires-4-for-windows-users/"><u>How to Prevent Constant Crashing in Age of Empires 4 for Windows Users</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/league-of-legends-game-crashes-fast-fix-solutions/"><u>League of Legends Game Crashes: Fast Fix Solutions!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leveraging-zoom-in-email-chats-a-guide-to-gmail-users-for-2024/"><u>Leveraging Zoom in Email Chats – A Guide to Gmail Users for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maplestory-startup-troubles-heres-how-you-can-fix-it/"><u>MapleStory Startup Troubles? Here’s How You Can Fix It!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximize-your-play-fixing-lag-and-smoothness-problems-in-splitgate/"><u>Maximize Your Play: Fixing Lag and Smoothness Problems in Splitgate</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-puzzle-detailed-guide-to-open-davinci-resolve-when-windows-gives-you-trouble/"><u>Solving the Puzzle: Detailed Guide to Open DaVinci Resolve When Windows Gives You Trouble</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-quest-for-visual-excellence-can-pickup-be-the-top-photo-editor-on-android/"><u>The Quest for Visual Excellence – Can PickUp Be the Top Photo Editor on Android?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-10-tips-for-eliminating-lag-in-call-of-duty-black-ops-cold-war/"><u>Top 10 Tips for Eliminating Lag in Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-higher-frame-rates-ultimate-strategies-to-boost-fps-in-ring-of-elysium/"><u>Unlock Higher Frame Rates: Ultimate Strategies to Boost FPS in Ring of Elysium</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Halo Infinite PC Instability Solutions - No More Disruptions
-date: 2024-12-22T22:20:51.326Z
-updated: 2024-12-26T22:51:39.351Z
+date: 2025-01-02T20:46:43.930Z
+updated: 2025-01-05T20:24:49.430Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/6d644818f4603c573461e1572ce0a1a0270aa91bb
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-featured.jpg)
 
  The new Halo is finally here. And while the internet is celebrating the return of Master Chief, some players are already reporting**serious crashing issues on PC** . But don’t worry if you happen to be on the same boat. We’ve already compiled a list of all working fixes down below, just try them and get back to the field.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -43,15 +47,19 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. On the left, select **LOCAL FILES** . Then click **Verify integrity of game files** .. and wait for the process to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once done, restart Halo Infinite and check if the issue persists.
 
 If this doesn’t stop the crash, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Disable in-game overlays
 
@@ -63,6 +71,10 @@ Here’s how to disable Steam Overlay:
 2. Right click **Halo Infinite** and select **Properties..** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Uncheck the box before**Enable the Steam Overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-overlay-2.jpg)
 
@@ -86,7 +98,7 @@ Now check if you can play Halo Infinite normally.
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
@@ -97,10 +109,6 @@ Now check if you can play Halo Infinite normally.
  After updating your drivers, restart your PC and check if Halo Infinite crashes again.
 
  If the latest GPU driver doesn’t fix your issue, you can try to[uninstall the graphics driver using DDU](https://tools.techidaily.com/drivereasy/download/) and reinstall the previous versions of driver. Or you can move on to the next fixes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Check for conflicting programs
 
@@ -124,12 +132,12 @@ MSI Afterburner
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-2.jpg)
 4. In the pop-up window, check the box before**Disable fullscreen optimizations** . Next click**Change high DPI settings** .  
 
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-3.jpg)
+5. Under**High DPI scaling override** , check the box next to**Override high DPI scaling behavior** . Then click**OK** to save the changes.  
+
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-3.jpg)
-5. Under**High DPI scaling override** , check the box next to**Override high DPI scaling behavior** . Then click**OK** to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-4.jpg)
 
@@ -141,10 +149,6 @@ If this trick doesn’t give you luck, simply try the next one.
 
  Windows 10/11 offers system updates regularly, which usually improves system stability and sometimes in-game performance. Normally it’s an automated process, but you can also check to make sure you have all the patches:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### On Windows 10
 
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
@@ -152,6 +156,10 @@ If this trick doesn’t give you luck, simply try the next one.
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
@@ -162,15 +170,11 @@ If this trick doesn’t give you luck, simply try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
@@ -178,10 +182,6 @@ If this trick doesn’t give you luck, simply try the next one.
  Once you’ve installed all the system updates, restart your computer and test the gameplay.
 
 If the latest updates don’t work for you, try the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Check your DLC
 
@@ -192,6 +192,10 @@ Here’s how:
 1. Open your Steam client and go to **LIBRARY** . Right-click **Halo Infinite** and select **Properties..** .
 2. In the left pane, select**DLC** . Uncheck the box before**Multiplayer High-Res Textures** . Then restart your game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Multiplayer-High-Res-Textures.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 8: Scan and repair Windows
 
@@ -204,14 +208,10 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -237,24 +237,18 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/fixed-starfield-freezing-or-crashing-on-pc/"><u>[Fixed] Starfield Freezing or Crashing on PC</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-explore-the-best-iphone-vr-games-today/"><u>[Updated] 2024 Approved Explore the Best iPhone VR Games Today</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-the-pathway-to-perfect-pitches-insights-from-magix-maker/"><u>2024 Approved The Pathway to Perfect Pitches Insights From Magix Maker</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquer-the-game-fixing-dev-error-5573-in-warzone-for-console-and-pc-users/"><u>Conquer the Game: Fixing Dev Error 5573 in Warzone for Console & PC Users</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/cting-biggest-fifa-footage-trends-in-graphs-for-2024/"><u>Dissecting Biggest FIFA Footage Trends in Graphs for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/experiencing-netflix-issues-heres-how-to-confirm-if-its-a-global-problem/"><u>Experiencing Netflix Issues? Here's How to Confirm if It’s a Global Problem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-stop-steam-from-freezing-or-crashing/"><u>Fixes & Solutions: How to Stop Steam From Freezing or Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-call-of-dutys-warzone-level-6328-glitch-quick-solutions/"><u>How to Overcome Call of Duty's Warzone Level 6328 Glitch - Quick Solutions</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-7-comedy-youtube-video-ideas-that-funny-people-can-try/"><u>In 2024, 7 Comedy YouTube Video Ideas That Funny People Can Try</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722991084157-madden-20-for-pc-stability-issues-heres-how-you-can-get-things-running-smoothly-again/"><u>Madden 20 for PC Stability Issues? Here's How You Can Get Things Running Smoothly Again</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-league-of-legends-performance-issues-ultimate-troubleshooting/"><u>Overcome League of Legends Performance Issues – Ultimate Troubleshooting</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/phoenix-jpeg-repair-now-available-via-stellars-new-app/"><u>Phoenix JPEG Repair Now Available via Stellar's New App</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-restoring-audio-functionality-in-dell-systems/"><u>Step-by-Step Guide to Restoring Audio Functionality in Dell Systems</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-artisans-approach-to-script-dialogue/"><u>The Artisan’s Approach to Script Dialogue</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210437975-9781250810915-the-contemplative-tarot/"><u>The Contemplative Tarot | Free Book</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-social-scribes-guide-to-funny-tweets-and-memes-2024-edition/"><u>The Social Scribe's Guide to Funny Tweets & Memes, 2024 Edition</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-source-for-computer-equipment-insights-toms-technological-mastery/"><u>The Ultimate Source for Computer Equipment Insights: Tom's Technological Mastery</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-solved-modern-warfare-2-consistent-frame-rates-restored-for-a-smooth-gaming-experience-on-windows-systems/"><u>Troubleshooting Solved: Modern Warfare 2 – Consistent Frame Rates Restored for a Smooth Gaming Experience on Windows Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-fixing-the-black-screen-issue-in-persona-5-strikers/"><u>Troubleshooting Tips: Fixing the Black Screen Issue in Persona 5 Strikers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/anish-annoying-ads-instantly-with-these-7-best-android-tools/"><u>[New] Banish Annoying Ads Instantly with These 7 Best Android Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-collage-creation-step-by-step-tutorial/"><u>[Updated] Collage Creation Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-best-on-action-cameras-with-premium-mics/"><u>[Updated] In 2024, Best On-Action Cameras with Premium Mics</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-effortless-integration-uploading-and-showcasing-imovie-videos-to-vimeo/"><u>[Updated] In 2024, Effortless Integration Uploading and Showcasing iMovie Videos to Vimeo</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-scopesight-appraisal-review/"><u>2024 Approved ScopeSight Appraisal Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/decoding-victory-advanced-solutions-for-cod-warzones-bug-6328-gaming-hacks-of-2024/"><u>Decoding Victory: Advanced Solutions for COD Warzone's Bug 6328 - Gaming Hacks of 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-cities-skylines-2-not-launching/"><u>How to Fix Cities: Skylines 2 Not Launching</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-beginners-pathway-accelerating-snapchat-video-streams/"><u>In 2024, The Beginner's Pathway Accelerating Snapchat Video Streams</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-house-flipper-2-pc-instability-troubleshooting-steps-and-solutions/"><u>Resolving House Flipper 2 PC Instability: Troubleshooting Steps and Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-diablo-3-crashing-expert-fixes-for-a-smooth-adventure/"><u>Say Goodbye to Diablo 3 Crashing - Expert Fixes for a Smooth Adventure</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-with-hogwarts-legacy-top-strategies-to-get-the-game-running-in-2/"><u>Trouble with Hogwarts Legacy? Top Strategies to Get the Game Running in 2지</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-lava-storm-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Lava Storm 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-magic-6-lite-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor Magic 6 Lite Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

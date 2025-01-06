@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Fluidity in Age of Empires IV: Tips to Stop the Lagging and Freezing"
-date: 2024-09-01T10:22:15.591Z
-updated: 2024-09-02T10:22:15.591Z
+date: 2025-01-03T23:42:25.922Z
+updated: 2025-01-05T20:38:38.456Z
 tags:
   - win11
   - win10
@@ -60,9 +60,6 @@ If these simple solutions don’t help, move to the fixes below.
 
  4) In the Settings, choose**Time and language** . Then check**Set time automatically** and check**Sync now** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-1-1200x471.png)
 
  5) Press the**Windows logo key + R** together. Type**wsreset** and press the Enter key.
@@ -94,11 +91,12 @@ If these simple solutions don’t help, move to the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Driver-Easy-Scan-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update** next to your wireless network adapter to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update network driver](https://images.drivereasy.com/wp-content/uploads/2018/09/update-network-driver.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -109,9 +107,9 @@ If these simple solutions don’t help, move to the fixes below.
 If you can’t install the game, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Disable antivirus software
 
  Though the download appears to be complete, your antivirus or firewall program may block game files during the installation process for safety purposes. Disabling your antivirus program would address the issue.  
@@ -128,17 +126,9 @@ If you can’t install the game, move to the next fix.
  If it’s not working, you can move to the next fix. Remember to enable your antivirus to protect your PC.  
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your Windows system
 
  If you haven’t updated your Windows system to the latest version, you can give it a try. Some gamers have proved that installing updates for the Windows system is a working fix.
@@ -146,19 +136,21 @@ If you can’t install the game, move to the next fix.
  1) On your keyboard, press the **Windows logo key** and **I** at the same time to open the **Windows Settings** . Then select **Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 
- 2) Under Windows Update, click **Check for updates** . Then Windows will automatically download and install the available updates.  
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 2) Under Windows Update, click **Check for updates** . Then Windows will automatically download and install the available updates.  
 ![Windows update check for updates](https://images.drivereasy.com/wp-content/uploads/2021/10/Windows-update-check-for-updates.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Once you’ve installed all the updates, restart your computer and try to launch the game.
 
 If the problem remains, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Reset or reinstall Windows
 
  If you’re still facing problems while downloading or installing, you can perform a Windows reset or maybe even reinstall it together. We all know reinstalling will delete all the data on your hard drive, you should back up all your important files before doing it.
@@ -180,8 +172,6 @@ If the problem remains, take a look at the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +179,24 @@ If the problem remains, take a look at the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ragnors-rebirth-warriors-alliance/"><u>[New] 2024 Approved Ragnor's Rebirth Warriors Alliance</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-footage-makers-the-top-10-cameras-with-anti-shake-tech/"><u>[New] Best Footage Makers The Top 10 Cameras With Anti-Shake Tech</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-capturing-your-cameras-magic-review-and-best-free-options/"><u>[New] In 2024, Capturing Your Camera's Magic – Review & Best FREE Options</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-is-revenue-derived-from-evaluating-products/"><u>[Updated] Is Revenue Derived From Evaluating Products?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dreamy-dialogues-in-dusk-examining-childrens-video-stories/"><u>Dreamy Dialogues in Dusk Examining Children's Video Stories</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-analysis-genius-widecam-f100-a-look-at-image-quality-and-acoustic-issues/"><u>Expert Analysis: Genius WideCam F100 - A Look at Image Quality & Acoustic Issues</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-15-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 15 After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-master-rainbow-six-siege-and-keep-it-free-throughout-2n4/"><u>How to Master Rainbow Six Siege and Keep It Free Throughout 2N4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/instant-solutions-for-common-league-of-legends-game-crash-problems/"><u>Instant Solutions for Common League of Legends Game Crash Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nba-2k23-wont-launch-here-are-seven-expert-fixes-to-get-you-back-in-game-on-your-computer/"><u>NBA 2K23 Won't Launch? Here Are Seven Expert Fixes to Get You Back in Game on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/origin-game-platform-wont-start-on-windows-11-solution-found/"><u>Origin Game Platform Won't Start on Windows 11 – Solution Found!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-steam-issues-with-hitman-trilogys-final-installment-now-running-smoothly/"><u>Resolved: Steam Issues with Hitman Trilogy's Final Installment - Now Running Smoothly!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-skyrim-forge-edition-launching-error-issues-easily/"><u>Resolving Skyrim Forge Edition Launching Error Issues Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-hogwarts-legacys-launch-issues-8-essential-tips/"><u>Solving Hogwarts Legacy's Launch Issues: 8 Essential Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stardew-valley-error-resolved-now-running-smoothly/"><u>Stardew Valley Error Resolved: Now Running Smoothly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-fixes-for-a-cold-3d-printing-bed-how-to-reignite-the-heating-mechanism/"><u>Step-by-Step Fixes for a Cold 3D Printing Bed: How to Reignite the Heating Mechanism</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-upgrade-stuck-at-99-solved/"><u>Windows 11 Upgrade Stuck at 99% [Solved]</u></a></li>
+</ul></div>
 

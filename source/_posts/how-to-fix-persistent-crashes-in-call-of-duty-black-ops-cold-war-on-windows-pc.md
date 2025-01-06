@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Persistent Crashes in Call of Duty: Black Ops Cold War on Windows PC"
-date: 2024-12-21T03:00:52.876Z
-updated: 2024-12-27T01:39:36.020Z
+date: 2024-12-31T20:04:01.111Z
+updated: 2025-01-05T23:54:58.246Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/b958a593c95d29eeb474585a5be149c96a0df966a
 
 See a black screen when playing CoD: WWII? Although this is an annoying issue, you’re definitely not the only person to experience it. And more importantly, this is fixable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -28,6 +32,10 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Switch out of your game, then switch back in
 
  This is the first thing you should try when you have a black screen issue on Call of Duty: WWII. To do this:
@@ -36,10 +44,6 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 2. Press the**Alt** and**Tab** keys on your keyboard at the same time to switch back into your game.
 
  If this works for you, you won’t see the black screen. But if the issue persists, don’t worry. There are still other fixes for you to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Switch to the windowed mode, then switch back to the full screen mode
 
@@ -51,7 +55,7 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
  This should fix your black screen issue. But if not, then you should try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
@@ -85,18 +89,14 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-424.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-425.png)  
  You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall your game
 
@@ -108,7 +108,7 @@ OR
 3. Delete Call of Duty: World War II (right click this game in the list and select**Uninstall** ).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Download the game from where you purchased it.
@@ -134,24 +134,15 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-effortless-ways-to-grab-high-quality-images-at-no-cost/"><u>[New] In 2024, Effortless Ways To Grab High Quality Images at No Cost</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unlocking-your-youtube-music-collection-a-detailed-guide/"><u>[Updated] 2024 Approved Unlocking Your YouTube Music Collection A Detailed Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-headline-hypnotizer-simulator/"><u>[Updated] Headline Hypnotizer Simulator</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/battle-of-tablets-ipad-pro-vs-surface-pro-unveiled/"><u>Battle of Tablets: IPad Pro Vs. Surface Pro Unveiled</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-oppo-k11-5g-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Oppo K11 5G</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fixing-connectivity-and-functionality-solving-hp-officejet-pro-6978-drivers-problems/"><u>Fixing Connectivity & Functionality: Solving HP OfficeJet Pro 6978 Drivers Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-persistent-lag-in-deathloop-for-playstation-5-and-desktop-computers/"><u>Fixing Persistent Lag in Deathloop for PlayStation 5 and Desktop Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-launch-failed-problems-in-rocket-league-gameplay/"><u>How to Overcome 'Launch Failed' Problems in Rocket League Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-crashes-for-lego-star-wars-the-skywalker-saga-on-your-pc-updated-guide/"><u>How to Resolve Crashes for Lego Star Wars: The Skywalker Saga on Your PC (Updated Guide)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/kop-movavi-video-converter-av-handelsstiftelsen-basta-pris-god-kallavsattning-och-full-gorlig-dataskicklighet/"><u>Köp Movavi Video Converter Av Handelsstiftelsen - Bästa Pris, God Kallavsättning Och Full Görlig Dataskicklighet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722995182469-mastering-fortnite-login-hiccups-effective-and-easy-strategies-unveiled/"><u>Mastering Fortnite Login Hiccups: Effective & Easy Strategies Unveiled</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-performance-hiccups-smooth-playthrough-tips-for-deathloop-pc-edition/"><u>Overcoming Performance Hiccups: Smooth Playthrough Tips for Deathloop PC Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-pc-voice-communication-issue-in-among-us-gameplay/"><u>Resolving the PC Voice Communication Issue in Among Us Gameplay</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-nokia-c02-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Nokia C02 ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/successfully-getting-days-gone-running-on-windows-a-step-by-step-guide/"><u>Successfully Getting 'Days Gone' Running on Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-strategy-for-pc-gamers-seeking-endless-wealth-a-comprehensive-tutorial-on-installing-and-playing-how-to-fix-like-a-dragon/"><u>The Ultimate Strategy for Pc Gamers Seeking Endless Wealth - A Comprehensive Tutorial on Installing and Playing How to Fix Like a Dragon</u></a></li>
-<li><a href="https://media-tips.techidaily.com/understanding-screen-time-restrictions-a-comparison-of-policies-across-major-streaming-platforms/"><u>Understanding Screen Time Restrictions: A Comparison of Policies Across Major Streaming Platforms</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-ai-excellence-five-essential-tips-for-creating-powerful-chatgpt-prompts/"><u>Unlocking AI Excellence: Five Essential Tips for Creating Powerful ChatGPT Prompts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/what-happened-to-mafia-definitive-edition-release-date/"><u>What Happened to Mafia: Definitive Edition Release Date?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-engaging-stories-expanding-audiences-top-three-methods/"><u>[New] 2024 Approved Engaging Stories, Expanding Audiences Top Three Methods</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-mastery-essential-tech-to-enhance-your-streams/"><u>[New] YouTube Mastery Essential Tech to Enhance Your Streams</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-optimize-your-playstation-10-best-ssds-hdds/"><u>[Updated] Optimize Your PlayStation 10 Best SSDs, HDDs</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-mp4-file-editing-removing-sound-tracks/"><u>2024 Approved MP4 File Editing Removing Sound Tracks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-problems-when-internet-explorer-freezes-or-crashes/"><u>Fixing Problems When Internet Explorer Freezes or Crashes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-boosting-view-speed-for-instagram-media-content/"><u>In 2024, Boosting View Speed for Instagram Media Content</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-graphics-for-a-smoother-experience-fix-low-fps-problems-now/"><u>Optimizing Graphics for a Smoother Experience: Fix Low FPS Problems Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-fortnite-access-issues-uncovering-hidden-entry-points/"><u>Resolving Fortnite Access Issues: Uncovering Hidden Entry Points</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-madden-nfl-20-pc-game-crash-issues-a-comprehensive-guide/"><u>Solving Madden NFL 20 PC Game Crash Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/unlocking-the-secrets-of-accessing-windows-control-panel-a-step-by-step-guide-yl-software-experts/"><u>Unlocking the Secrets of Accessing Windows Control Panel: A Step-by-Step Guide - YL Software Experts</u></a></li>
 </ul></div>
 

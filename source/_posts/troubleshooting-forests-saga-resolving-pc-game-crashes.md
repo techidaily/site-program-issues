@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting 'Forest's Saga: Resolving PC Game Crashes"
-date: 2024-12-23T11:27:34.784Z
-updated: 2024-12-27T08:33:27.741Z
+date: 2025-01-02T19:13:56.707Z
+updated: 2025-01-05T22:58:24.512Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 8. **[Check for Windows Updates](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1:**Meet the minimum system requirements**
 
 **The minimum system requirements** are a listing of what hardware devices are required to operate your game properly.
@@ -57,20 +53,20 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-131.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your computer meets the minimum requirements, read on and check the fix, below.
@@ -81,10 +77,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
  Restart your computer and your game to test your issue. If the game still crashes, move on to Fix 3, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3:**Run the game as an administrator**
 
  Steam sometimes may require administrator privileges to perform certain functions or to access certain files. Try running Steam as an administrator, then launch Oxygen Not Included from Steam client to see if that fixes your issue. Here is how to do it:
@@ -92,6 +84,10 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 **1)**  If you’re running Steam now, right-click the **Steam icon** on the taskbar and select **Exit** .
 
 ![This image has an empty alt attribute; its file name is image-342.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-342.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
@@ -105,6 +101,10 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 Hope the game runs smoothly now. If it’s not, check the fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4:**Run the game in compatibility mode**
 
  Some Windows updates may not be compatible with Oxygen Not Included and cause it to stop working. If the crash occurs after you update your PC, try running your game in compatibility mode. Here is how to do it:
@@ -112,10 +112,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 **1)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Paste   **C:\\Program Files (x86)\\Steam\\steamapps\\common\\Oxygen Not Included** in the address bar.
 
@@ -128,10 +124,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 **4)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-280.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)**  Click the list box below to select**Windows 8** , then click**OK** .
 
@@ -153,13 +145,13 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-896.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click**Oxygen Not Included** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-284.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Click the**BETAS tab** .
 
@@ -193,6 +185,10 @@ If the game crashing issue persists, check the fix below.
 **3)** Restart your computer and your game to test your issue.
 
  This should fix your problem. If it didn’t, don’t fret. Check the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7:**Update your Graphics driver**
 
@@ -231,7 +227,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -251,7 +247,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-576.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Restart your computer.
@@ -270,17 +266,21 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Highlight the **Oxygen Not Included folder** , and then press the **Del** key on your keyboard to delete the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-277.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Relaunch Steam to download and reinstall Oxygen Not Included. Then, try launching the game again to see if this fixed your problem.
 
@@ -307,20 +307,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-androids-top-10-moba-gaming-spectacles/"><u>[New] Android's Top 10 MOBA Gaming Spectacles</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-finding-the-most-skilled-film-capturers-for-2024/"><u>[New] Finding the Most Skilled Film Capturers for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-free-secure-video-calls-top-10-safe-apps-for-android-and-ios-users/"><u>[New] In 2024, Free, Secure Video Calls Top 10 Safe Apps for Android and iOS Users</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-streamline-your-day-multitask-mastery-for-the-podcast-aficionado-for-2024/"><u>[New] Streamline Your Day Multitask Mastery for the Podcast Aficionado for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/end-zoom-freezing-proven-solutions-for-stability-in-windows-10-and-11/"><u>End Zoom Freezing: Proven Solutions for Stability in Windows 10 and 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-on-getting-the-paradoe-launcher-up-and-running-again/"><u>Expert Advice on Getting the Paradoe Launcher Up and Running Again!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixed-essential-tips-to-overcome-sons-of-the-forest-pc-crashing-issues/"><u>Fixed! Essential Tips to Overcome Sons of the Forest PC Crashing Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-overcoming-steam-connection-issues-with-server/"><u>Fixes & Solutions: Overcoming Steam Connection Issues with Server</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-error-xc0000142-with-windows-oses/"><u>Fixing Error XC0000142 with Windows OSes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-connection-refused-by-anticheat-issue-on-escape-from-tarkov/"><u>Fixing the 'Connection Refused by Anticheat' Issue on Escape From Tarkov</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-correcting-graphic-drawbacks-a-directdraw-error-solution-guide/"><u>Mastering the Art of Correcting Graphic Drawbacks – A DirectDraw Error Solution Guide</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restore-and-fix-corrupted-mpeg-videos-with-the-best-mpeg-video-repair-tool-on-the-market/"><u>Restore and Fix Corrupted MPEG Videos with the Best MPEG Video Repair Tool on The Market</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/top-20-budget-friendly-screen-recorder-tools-for-2024/"><u>Top 20 Budget-Friendly Screen Recorder Tools for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-players-facing-team-fortress-2-failure-to-load/"><u>Troubleshooting Tips for Players Facing 'Team Fortress 2 Failure to Load'</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unraveling-pokemon-go-secrets-tips-for-new-trainers/"><u>Unraveling Pokémon GO Secrets: Tips for New Trainers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-selecting-sacred-sounds-a-step-by-step-guide/"><u>[New] Selecting Sacred Sounds A Step-by-Step Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-cutting-edge-actions-screening-tech-report/"><u>[Updated] 2024 Approved Cutting-Edge Actions Screening Tech Report</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-smartphone-camera-accessories-vloggers-should-try-to-improve-recording/"><u>[Updated] In 2024, Smartphone Camera Accessories Vloggers Should Try to Improve Recording</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/1-resolving-continuous-beeps-a-guide-to-troubleshooting-your-external-hdd/"><u>1. Resolving Continuous Beeps: A Guide to Troubleshooting Your External HDD</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-essential-steps-for-chromakey-magic/"><u>2024 Approved Essential Steps for Chromakey Magic</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-realme-gt-5-pro-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Realme GT 5 Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-to-stop-sovled-warno-from-crashing-on-pc/"><u>Effective Solutions to Stop SOVLED Warno From Crashing on PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-crafting-optimal-user-experiences-with-apples-suggested-strategies-for-visionos-design/"><u>Expert Tips: Crafting Optimal User Experiences with Apple's Suggested Strategies for VisionOS Design</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-hdcp-problem-insights-into-common-issues-and-efficient-remedies/"><u>Fixing the HDCP Problem: Insights Into Common Issues & Efficient Remedies</u></a></li>
+<li><a href="https://blog-min.techidaily.com/icloud-photos-sync-malfunction-solutions-how-to-fix-common-errors/"><u>ICloud Photos Sync Malfunction Solutions: How-To Fix Common Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-in-assassins-creed-valhalla-for-pc-gamers-crash-no-more/"><u>Mastering Stability in Assassin's Creed Valhalla for PC Gamers - Crash No More</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-and-easy-fixes-to-boost-your-slow-chromium-browsers-speed/"><u>Quick and Easy Fixes to Boost Your Slow Chromium Browser's Speed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-game-stutters-and-lock-ups-in-fallout-3-on-windows-11/"><u>Resolving Game Stutters and Lock-Ups in Fallout 3 on Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-laffaire-anonyme-du-direct-x-en-lol/"><u>Solving L'Affaire Anonyme Du Direct X en LoL</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-overcoming-constant-crashing-in-minecraft-dungeons-for-windowsmac-osx/"><u>Step-by-Step Solution: Overcoming Constant Crashing in Minecraft Dungeons for Windows/Mac OSX</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-overcome-garrys-mod-crashes-updated-guide/"><u>Troubleshoot and Overcome Garry's Mod Crashes: Updated Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-solutions-for-persistent-crashes-in-r-type-final-2-on-pc-systems/"><u>Ultimate Solutions for Persistent Crashes in R-Type Final 2 on PC Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-tips-to-prevent-fortnite-freezes-on-windows-and-mac/"><u>Ultimate Troubleshooting Tips to Prevent Fortnite Freezes on Windows & Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-at-games-how-to-deal-with-fps-fluctuations-eradicate-hitches-and-increase-overall-gameplay-quality/"><u>Winning at Games: How to Deal with FPS Fluctuations, Eradicate Hitches & Increase Overall Gameplay Quality</u></a></li>
 </ul></div>
 

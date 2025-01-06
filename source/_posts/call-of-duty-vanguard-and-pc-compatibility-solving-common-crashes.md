@@ -1,7 +1,7 @@
 ---
 title: "Call of Duty Vanguard and PC Compatibility: Solving Common Crashes"
-date: 2024-12-24T18:23:43.250Z
-updated: 2024-12-27T07:56:11.891Z
+date: 2024-12-30T00:14:05.237Z
+updated: 2025-01-05T20:15:29.508Z
 tags:
   - win11
   - win10
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 5. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Verify integrity of game files
@@ -45,17 +45,9 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 2. Click on the **three dots** under the **Arcadegeddon** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch Arcadegeddon and see if this fix works. If the game still crashes, don’t worry. Read on and try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -72,12 +64,20 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -101,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 
  To prevent Arcadegeddon from crashing due to insufficient memory in the future, you may need to consider[upgrading the memory (RAM) on your computer](https://www.amazon.com/s?k=RAM&tag=drivereasycom-20) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 5: Perform a clean boot
 
  Arcadegeddon would also crash if there is a certain application conlicting with it. To find out the problematic application that crashes the game, you need to perform a clean boot. Here’s how to do it:
@@ -116,24 +112,28 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Restart** your PC and run Arcadegeddon to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
@@ -167,18 +167,24 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-complete-evaluation-of-camstudio-screen-recorder/"><u>[New] 2024 Approved Complete Evaluation of CamStudio Screen Recorder</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-snickerstreamer-share-your-wit-with-a-click/"><u>[New] SnickerStreamer Share Your Wit with a Click</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-uniting-networks-sharing-fb-vids-on-whatsapp-chat/"><u>2024 Approved Uniting Networks Sharing FB Vids on WhatsApp Chat</u></a></li>
-<li><a href="https://program-issues.techidaily.com/agroecology-involves-local-knowledge-community-engagement-food-sovereignty-and-fair-trade-to-empower-farmers-support-equitable-resource-distribution-and-fos555/"><u>Agroecology Involves Local Knowledge, Community Engagement, Food Sovereignty, and Fair Trade to Empower Farmers, Support Equitable Resource Distribution, and Foster Social Justice Within Agricultural Communities</u></a></li>
-<li><a href="https://fox-http.techidaily.com/best-budget-friendly-srt-translators-unveiled-online/"><u>Best Budget-Friendly SRT Translators Unveiled Online</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eradicate-your-pc-playthrough-problems-elite-strategies-to-resolve-troy-total-war-issues/"><u>Eradicate Your PC Playthrough Problems: Elite Strategies to Resolve 'Troy' Total War Issues.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-a-smooth-gameplay-experience-in-fortnite-no-more-lag/"><u>Expert Tips for a Smooth Gameplay Experience in Fortnite (No More Lag!)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-frontier-crash-issue-in-pc-gaming-a-step-by-step-guide/"><u>Fixing the Frontier Crash Issue in PC Gaming - A Step-by-Step Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-6s-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 6s when Phone is Broken?</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-13-pro-max-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 13 Pro Max to PC | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-video-editing-software-showdown-virtualdub-vs-the-best-free-alternatives/"><u>New 2024 Approved Video Editing Software Showdown Virtualdub Vs. The Best Free Alternatives</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-launch-fixes-and-updates-now-available-for-days-gone-action-game/"><u>PC Launch: Fixes and Updates Now Available for 'Days Gone' Action Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-restoring-voice-chat-functionality-in-among-us-on-desktop-systems/"><u>Step-by-Step Solutions: Restoring Voice Chat Functionality in Among Us on Desktop Systems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ideal-approaches-to-stream-and-record-major-sports-games-for-2024/"><u>[New] Ideal Approaches to Stream and Record Major Sports Games for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-essential-skills-for-efficient-teamsnap-photo-taking/"><u>[New] In 2024, Essential Skills for Efficient TeamSnap Photo Taking</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-step-by-step-save-movs-on-windows-10/"><u>[New] Step-by-Step Save MOVs on Windows 10</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-interlinking-platforms-twitch-to-facebook-transfer/"><u>2024 Approved Interlinking Platforms Twitch to Facebook Transfer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/baldurs-gate-iii-error-solved-now-ready-for-adventure/"><u>Baldur's Gate III Error Solved - Now Ready for Adventure</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypass-iphone-calling-problems-the-ultimate-10-step-guide-to-clarity/"><u>Bypass iPhone Calling Problems: The Ultimate 10-Step Guide to Clarity</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723006996929-cyberpunk-2077-and-gpu-usage-issues-on-windows-11-solved/"><u>Cyberpunk 2077 and GPU Usage Issues on Windows 11 - Solved!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enabling-hyper-v-feature-on-your-windows-11-pc-a-complete-walkthrough/"><u>Enabling Hyper-V Feature on Your Windows 11 PC - A Complete Walkthrough</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-for-setting-up-and-managing-slack-alerts-successfully/"><u>Expert Tips for Setting Up and Managing Slack Alerts Successfully</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fast-solutions-for-sluggish-performance-in-assassins-creed-valhalla/"><u>Fast Solutions for Sluggish Performance in Assassin's Creed: Valhalla</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-pc-issues-with-r-type-final-2-expert-tips-for-stable-gaming/"><u>Fix Your PC Issues with R-Type Final 2 - Expert Tips for Stable Gaming</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-detailed-pokemon-go-pvp-tier-list-to-make-you-a-pro-trainer-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Pokemon Go PvP Tier List to Make you a Pro Trainer For Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-capturing-online-meetings-with-clarity-and-precision/"><u>In 2024, Capturing Online Meetings with Clarity and Precision</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-solution-eradicating-dev-error-6634-in-cod-warzone/"><u>Master the Solution: Eradicating Dev Error 6634 in Cod: Warzone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-minecraft-error-codes-special-focus-on-deciphering-and-resolving-crossbow-glitches/"><u>Mastering Minecraft Error Codes: Special Focus on Deciphering and Resolving Crossbow Glitches</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-vs-microsoft-edge-what-is-the-best-gaming-browser/"><u>Opera GX Vs. Microsoft Edge: What Is the Best Gaming Browser?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-slowness-proven-techniques-to-speed-up-your-origin-internet-downloads-in/"><u>Overcome Slowness: Proven Techniques to Speed Up Your Origin Internet Downloads In</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-stutter-and-glitch-in-call-of-dutys-warzone-gameplay/"><u>Resolving Stutter and Glitch in Call of Duty's Warzone Gameplay</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-best-photo-slideshow-maker-how-to-make-a-photo-slideshow/"><u>Updated In 2024, Best Photo Slideshow Maker How to Make a Photo Slideshow</u></a></li>
 </ul></div>
 

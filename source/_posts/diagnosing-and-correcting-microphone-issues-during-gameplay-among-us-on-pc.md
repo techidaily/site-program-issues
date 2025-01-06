@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing and Correcting Microphone Issues During Gameplay: Among Us on PC"
-date: 2024-09-05T23:25:46.713Z
-updated: 2024-09-06T23:25:46.713Z
+date: 2025-01-03T21:23:51.581Z
+updated: 2025-01-05T21:11:33.717Z
 tags:
   - win11
   - win10
@@ -13,28 +13,24 @@ excerpt: "This Article Describes Diagnosing and Correcting Microphone Issues Dur
 thumbnail: https://thmb.techidaily.com/c7d5334a16d86bd0def81a6a6e6f6a57897cdf76fff62c24b07135a4d8d600fb.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixative Strategies: Addressing and Correcting Black Screens in SWBF2
 
 Star Wars Battlefront 2 is an old game, so is the issue. The old game issue discussions still got new replies. If you have the same problem, don’t worry, this post can help.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Check your system requirement](https://tools.techidaily.com/drivereasy/download/)
 2. [Turn off Discord overlay](https://tools.techidaily.com/drivereasy/download/)
 3. [Launch through the NVIDIA GeForce app](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1\. Check your system requirement
 
@@ -49,12 +45,6 @@ Star Wars Battlefront 2 is an old game, so is the issue. The old game issue disc
 | Storage:    | 4.3 GB                                                                       |
 | Sound Card: | DirectX 9.0c compatible Sound Card                                           |
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2\. Turn off Discord overlay
 
  The Discord is the culprit for the problem, reported by many gamers. Follow the steps to fix the issue.
@@ -68,16 +58,22 @@ Star Wars Battlefront 2 is an old game, so is the issue. The old game issue disc
 5. Relaunch your game and check.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3\. Launch through the NVIDIA GeForce app
 
  If you’re using NVIDIA graphic card on your PC, you can install[NVIDIA GeForce Experience app](https://tools.techidaily.com/drivereasy/download/) , then launch the game through the app.
 
  In the game settings, change the video options from Fullscreen to Borderless and the game should running properly every time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4\. Update your driver
 
@@ -107,27 +103,9 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
@@ -141,8 +119,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +126,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/vercome-artificial-watches-for-natural-views/"><u>[New] Overcome Artificial Watches for Natural Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-thumbnails-unleashed-elevate-your-video-presence/"><u>[New] Thumbnails Unleashed Elevate Your Video Presence</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-writer-cookbook-tips-for-authentic-screenplay-writing/"><u>[Updated] 2024 Approved The Writer’ Cookbook Tips for Authentic Screenplay Writing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-uncover-5-windows-11-tools-for-professional-audio-recording-for-2024/"><u>[Updated] Uncover 5 Windows 11 Tools for Professional Audio Recording for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/audio-alert-understanding-why-your-vehicles-speakers-fail/"><u>Audio Alert! Understanding Why Your Vehicle's Speakers Fail</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-gaming-experience-fixing-the-division-2-frame-rate-issues/"><u>Boost Your Gaming Experience: Fixing The Division 2 Frame Rate Issues</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/exploring-affordable-connectivity-a-comprehensive-tp-link-archer-c9-assessment/"><u>Exploring Affordable Connectivity: A Comprehensive TP-Link Archer C9 Assessment</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-nokia-c12-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-dauntless-pc-issues-how-to-stop-the-game-from-crashing/"><u>Fixing Dauntless PC Issues: How to Stop the Game From Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-your-game-from-crashing-tips-and-fixes-for-left-4-dead-2/"><u>How to Stop Your Game From Crashing: Tips and Fixes for Left 4 Dead 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-troubleshoot-and-use-your-graphics-card-with-cyberpunk-2077-on-windows-11/"><u>How to Troubleshoot and Use Your Graphics Card with Cyberpunk 2077 on Windows 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-top-8-hubs-for-3d-graffiti-typefaces/"><u>In 2024, Top 8 Hubs for 3D Graffiti Typefaces</u></a></li>
+<li><a href="https://program-issues.techidaily.com/lost-ark-troubleshooting-solutions-for-overcoming-connection-errors/"><u>Lost Ark Troubleshooting: Solutions for Overcoming Connection Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-optimizing-discord-for-minimal-cpu-impact-2024-edition/"><u>Master the Art of Optimizing Discord for Minimal CPU Impact - 2024 Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximizing-frame-rates-in-valheim-expert-advice-for-combating-lag-and-low-fps/"><u>Maximizing Frame Rates in Valheim: Expert Advice for Combating Lag and Low FPS</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-game-genres-metroidvania-vs-actionsearch-hybrids-unveiling-the-classics/"><u>Navigating Game Genres: Metroidvania Vs. Action/Search Hybrids - Unveiling the Classics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-launch-hurdles-in-hogwarts-legacy-pro-tips-for-a-smooth-game-start/"><u>Overcoming Launch Hurdles in Hogwarts Legacy: Pro Tips for a Smooth Game Start</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Cortana Active? Expert Tips to Restore Its Functionality
-date: 2024-12-24T07:15:28.623Z
-updated: 2024-12-26T22:13:39.382Z
+date: 2025-01-01T16:13:51.706Z
+updated: 2025-01-05T17:09:56.491Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/2e9cfa327b9759eb425968540a827a94cde4fe4ea
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab9c0b620709.jpg)
 
 **Cortana not working?**  I believe it’s one of your pet hates. Don’t panic. Usually it’s an easy problem to fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I fix Cortana not working?
 
@@ -42,20 +46,20 @@ Check your region and language settings on your computer:
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Time** **& language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Make sure the region and language settings is matched with yours.
 
@@ -64,7 +68,7 @@ Check your region and language settings on your computer:
 5) Try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
@@ -84,7 +88,7 @@ Check your region and language settings on your computer:
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
@@ -107,19 +111,11 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
@@ -138,6 +134,10 @@ Or click  **Update All** to automatically download and install the correct versi
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Try Cortana again to see if it works.
 
@@ -159,22 +159,20 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-2023-facebook-video-downloader-application-for-mobilewinmac/"><u>[New] In 2024, 2023 | Facebook Video Downloader Application for Mobile/Win/Mac</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-effortless-guide-to-share-your-videos-as-shorts-on-computers-and-phones/"><u>[New] In 2024, Effortless Guide to Share Your Videos as Shorts on Computers & Phones</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-the-freelancers-companion-easy-and-affordable-audio-effect-additions-for-2024/"><u>[New] The Freelancer's Companion Easy and Affordable Audio Effect Additions for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-optimizing-your-fb-video-ads-20-best-tips-for-success-for-2024/"><u>[Updated] Optimizing Your FB Video Ads 20 Best Tips for Success for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-instagram-connection-posting-video-content/"><u>[Updated] YouTube-Instagram Connection Posting Video Content</u></a></li>
-<li><a href="https://program-issues.techidaily.com/crashing-no-more-effortless-fixes-for-stable-play-in-titanfall-2/"><u>Crashing No More: Effortless Fixes for Stable Play in Titanfall 2</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-your-game-from-hitting-the-floor-solving-slime-rancher-2-stops-running-issues/"><u>How To Prevent Your Game From Hitting The Floor - Solving Slime Rancher 2 Stops Running Issues</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-step-by-step-elevating-your-photos-with-online-cropping/"><u>In 2024, Step-by-Step Elevating Your Photos with Online Cropping</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-trickshots-in-hearthstone-fix-game-crashes-and-enjoy-seamless-gaming-on-pc/"><u>Mastering Trickshots in Hearthstone: Fix Game Crashes & Enjoy Seamless Gaming on PC</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/no-watermark-video-merger-tools-our-top-7-picks-for-2024/"><u>No-Watermark Video Merger Tools Our Top 7 Picks for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-utorrent-not-working-problems-using-these-7-fixes/"><u>Overcome Utorrent Not Working Problems Using These ☑️7 Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/preventing-and-repairing-nwstore-application-errors-effectively/"><u>Preventing and Repairing NW_Store Application Errors Effectively</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-freezing-issues-in-assassins-creed-odyssey-on-pc-ultimate-guide-and-updates/"><u>Solve 'Freezing Issues in Assassin's Creed Odyssey' On PC: Ultimate Guide and Updates</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-realme-c67-4g-by-drfone-android/"><u>Three Ways to Sim Unlock Realme C67 4G</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-lego-star-wars-the-skywalker-sagas-pc-malfunction/"><u>Troubleshooting Guide: Fixing Lego Star Wars: The Skywalker Saga's PC Malfunction</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-shader-errors-overcome-black-ops-cold-war-game-freezes/"><u>Troubleshooting Shader Errors - Overcome Black Ops Cold War Game Freezes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-are-device-drivers-solutions-to-fix-common-driver-issues-in-windows-os/"><u>What Are Device Drivers? Solutions to Fix Common Driver Issues in Windows OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-synchronizing-sequential-images-for-impactful-storytelling/"><u>[New] Synchronizing Sequential Images for Impactful Storytelling</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-perfect-sound-placement-adding-music-seamlessly-to-youtube-videos/"><u>[Updated] 2024 Approved Perfect Sound Placement Adding Music Seamlessly to YouTube Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-vr-the-future-of-clinical-treatment/"><u>[Updated] In 2024, VR The Future of Clinical Treatment</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertise-in-audio-file-transformation-from-srt-to-xmlssattml/"><u>2024 Approved Expertise in Audio File Transformation From SRT to XML/SSA/TTML</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-forgotten-footage-watching-deleted-content-made-easy/"><u>2024 Approved Youtube's Forgotten Footage Watching Deleted Content Made Easy</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-honor-x7b-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Honor X7b</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-and-repair-risk-of-rain-2-game-crash-issues-for-a-smooth-play-experience/"><u>How to Prevent and Repair Risk of Rain 2 Game Crash Issues for a Smooth Play Experience</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a38-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A38 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-14-plus-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 14 Plus Properly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-initialization-hurdles-in-baldurs-gate-iii-launched/"><u>Overcoming Initialization Hurdles in Baldur's Gate III Launched!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-how-to-successfully-overcome-common-discord-setup-issues/"><u>Quick Fixes: How to Successfully Overcome Common Discord Setup Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-stuck-during-update-process-issue-in-msfs-2020-a-step-by-step-guide/"><u>Resolving the 'Stuck During Update Process' Issue in MSFS 2020: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-rainbow-six-error-code-3-0x0001000b-a-comprehensive-guide/"><u>Solving Rainbow Six Error Code 3-0X0001000B - A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-tips-for-seamless-gaming-on-the-ascent-overcoming-stutter-and-skyrocketing-fps/"><u>The Ultimate Tips for Seamless Gaming on 'The Ascent': Overcoming Stutter & Skyrocketing FPS</u></a></li>
 </ul></div>
 

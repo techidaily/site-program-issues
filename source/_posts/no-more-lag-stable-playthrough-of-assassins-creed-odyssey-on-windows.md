@@ -1,7 +1,7 @@
 ---
 title: No More Lag - Stable Playthrough of Assassin's Creed Odyssey on Windows!
-date: 2024-12-23T02:12:06.866Z
-updated: 2024-12-27T02:23:31.720Z
+date: 2024-12-31T18:34:50.868Z
+updated: 2025-01-05T19:55:35.569Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-69.png)
 
  Many people have reported that**Assassin’s Creed Odyssey keeps crashing** on their PCs. Sometimes the**game crashes on startup** , or sometimes it**crashes randomly** without an error. If you’re one of them, don’t worry. You can fix Assassin’s Creed Odyssey crashing issues.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix Assassin’s Creed Odyssey crashing
 
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
  Assassin’s Creed Odyssey still crashes? Don’t worry. Try the next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update available drivers
@@ -70,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-70.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged devices to automatically download the driver (you can do that with the**FREE** version), then install it on your computer.
 
  Or click**Update All** to automatically download and install all the correct drivers for problem devices (you can do this with the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , and you’ll be prompted to upgrade when you click**Update All** ).
@@ -93,6 +85,10 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
  1) Open Assassin’s Creed Odyssey Settings (the**Options** tab).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-72.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click the**Display** tab.
 
@@ -119,15 +115,19 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-76.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Restart your computer.
 
 Open Assassin’s Creed Odyssey and see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Verify Integrity of Game Files
 
@@ -139,25 +139,25 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-78.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click on**Assassin’s Creed Odyssey** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-79.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
  6) Restart Steam and open Assassin’s Creed Odyssey and see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why is Assassin’s Creed Odyssey crashing?
 
@@ -186,16 +186,14 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-master-fades-with-ease-4-methods-unveiled/"><u>[New] 2024 Approved Master Fades with Ease 4 Methods Unveiled</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ow-to-clear-black-boards-in-your-youtube-videos-in-2024/"><u>[New] How to Clear Black Boards in Your YouTube Videos, In 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-creating-stunning-canon-time-lapse-videos/"><u>[New] In 2024, Creating Stunning Canon Time-Lapse Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-rated-best-webcam-mounting-solutions/"><u>[Updated] Top-Rated Best Webcam Mounting Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improve-your-valorant-experience-easy-ways-to-optimize-fps-and-reduce-frame-drops/"><u>Improve Your Valorant Experience: Easy Ways to Optimize FPS & Reduce Frame Drops</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-tools-full-sphere-filming-and-photography/"><u>In 2024, Best Tools Full Sphere Filming and Photography</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-and-easy-ways-to-tackle-a-lagging-google-chrome-browser/"><u>Quick & Easy Ways to Tackle a Lagging Google Chrome Browser</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/snap-away-the-best-cams-for-novice-photographers/"><u>Snap Away The Best Cams for Novice Photographers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-7-solutions-overwatch-2-wont-start-troubleshoot-guide/"><u>Top 7 Solutions: Overwatch 2 Won't Start - Troubleshoot Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-tunes-where-to-secure-soundscapes/"><u>Top Tunes Where to Secure Soundscapes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unstick-your-game-fixing-madden-22-endless-load-screens/"><u>Unstick Your Game: Fixing Madden 22 Endless Load Screens</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-expert-advice-to-recover-missing-thumbnails-from-videos/"><u>[New] In 2024, Expert Advice to Recover Missing Thumbnails From Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-revamping-imagery-leading-insta-edits-explored-for-2024/"><u>[Updated] Revamping Imagery Leading Insta Edits Explored for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-capabilities-of-toolwiz-a-comprehensive-mobile-review/"><u>2024 Approved Exploring the Capabilities of Toolwiz – A Comprehensive Mobile Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-proven-methods-to-master-time-lapse-creation/"><u>2024 Approved Proven Methods to Master Time Lapse Creation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/doggy-delights-exploring-the-premier-choice-for-your-four-legged-friends-vision-needs-with-furbo/"><u>Doggy Delights: Exploring the Premier Choice for Your Four-Legged Friend's Vision Needs with Furbo</u></a></li>
+<li><a href="https://program-issues.techidaily.com/helldivers-2-and-the-msvcr110dll-dilemma-a-step-by-step-fix-guide/"><u>Helldivers 2 and the MSVCR110.dll Dilemma: A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improved-visuals-fix-unclear-screenshots-in-outriders-edition/"><u>Improved Visuals Fix Unclear Screenshots in Outriders Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-gamers-handbook-to-supercharged-ark-gameplay-unleashing-maximum-fps-potential-on-pc-setups/"><u>The Gamer's Handbook to Supercharged ARK Gameplay: Unleashing Maximum FPS Potential on PC Setups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-techniques-resolving-bloodhunt-performance-issues-on-windows/"><u>Troubleshooting Techniques: Resolving BloodHunt Performance Issues on Windows</u></a></li>
 </ul></div>
 

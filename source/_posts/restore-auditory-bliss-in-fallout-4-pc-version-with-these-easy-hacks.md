@@ -1,7 +1,7 @@
 ---
 title: Restore Auditory Bliss in Fallout 4 PC Version with These Easy Hacks
-date: 2024-12-24T10:35:24.162Z
-updated: 2024-12-27T09:23:25.688Z
+date: 2024-12-31T20:16:26.847Z
+updated: 2025-01-05T18:13:55.904Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. **[Run Minecraft in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
@@ -38,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 6. **[Uninstall and reinstall Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Run Minecraft in compatibility mode
@@ -59,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 If the issue persists, read on and try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Check your antivirus settings
@@ -69,6 +65,10 @@ If the issue persists, read on and try the next fix.
  See if the black screen issue appears again after adding Minecraft as an exception to your antivirus software.
 
 If the issue remains, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -86,10 +86,6 @@ If the issue remains, move on to the next fix.
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your computer and launch Minecraft to see if the issue is resolved.
@@ -97,7 +93,7 @@ If the issue remains, move on to the next fix.
  If updating the graphics driver doesn’t solve your problem, go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Set the anti-aliasing to default
@@ -114,6 +110,10 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
 5. **Save** the options.txt file.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Relaunch Minecraft to see if the problem is solved.
 
  Alternatively, you can delete the options.txt file, and then relaunch Minecraft, and a new one will be generated with default settings for all options.
@@ -127,10 +127,6 @@ If this method doesn’t do the trick, continue to the next fix.
 1. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open Task Manager.
 2. One at a time, select the resource-hogging program and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/end-task-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
@@ -146,16 +142,20 @@ If not, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/appdata-minecraft.jpg)
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
 5. In Programs and Features, select**Minecraft Launcher** and click**Uninstall** . Then follow the on-screen instruction to uninstall the game.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
@@ -184,20 +184,24 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/1722995446331-fixed-assassins-creed-odyssey-crashing-on-pc-easily/"><u>[Fixed] Assassin’s Creed Odyssey Crashing on PC. Easily</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-amplify-videographic-excellence-choose-from-these-7-audios-for-2024/"><u>[Updated] Amplify Videographic Excellence - Choose From These 7 Audios for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-stand-out-in-a-crowd-with-these-10-youtube-theme-innovators-for-2024/"><u>[Updated] Stand Out in a Crowd with These 10 YouTube Theme Innovators for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/comment-construire-un-utilitaire-de-sauvegarde-en-direct-sous-windows-11-deux-techniques-simplifiees/"><u>Comment Construire Un Utilitaire De Sauvegarde en Direct Sous Windows 11 : Deux Techniques Simplifiées</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cracking-the-code-on-unreal-engine-4-issues-fix-your-outriders-game-and-wave-goodbye-to-ue4-madness-errors/"><u>Cracking The Code on Unreal Engine 4 Issues: Fix Your Outriders Game and Wave Goodbye to UE4-Madness Errors</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/crafting-compelling-podcast-titles-for-max-impact-for-2024/"><u>Crafting Compelling Podcast Titles for Max Impact for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/enhancing-engagement-with-best-practices-for-fb-cover-vids/"><u>Enhancing Engagement with Best Practices for FB Cover Vids</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-starcraft-ii-game-crashing-issues-on-desktop-computers/"><u>Fixes for Starcraft II Game Crashing Issues on Desktop Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-effortlessly-fix-corrupt-disks-when-playing-steam-games/"><u>How to Effortlessly Fix Corrupt Disks When Playing Steam Games</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-server-latency-and-link-up-challenges-in-new-worlds-current-build/"><u>Overcoming Server Latency & Link-Up Challenges in New World's Current Build</u></a></li>
-<li><a href="https://program-issues.techidaily.com/palworld-launch-failures-heres-how-to-get-it-up-and-running-easily/"><u>Palworld Launch Failures? Here's How to Get It Up and Running Easily</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-enabling-gpu-detection-by-msi-afterburner-in-windows-10-and-windows-11-operating-systems/"><u>Step-by-Step Solution: Enabling GPU Detection by MSI Afterburner in Windows 10 and Windows 11 Operating Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/the-slim-way-to-win11-no-bloatware/"><u>The Slim Way to Win11: No Bloatware</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-crafting-engaging-vids-with-template-magic/"><u>[New] 2024 Approved Crafting Engaging Vids with Template Magic</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-exploring-video-threads-on-youtube/"><u>[Updated] Exploring Video Threads on YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-securing-gaming-triumphs-record-save-and-archive-ps4-games/"><u>[Updated] Securing Gaming Triumphs Record, Save & Archive PS4 Games</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-radio-dramas-peak-of-creative-scripting/"><u>2024 Approved Radio Dramas Peak of Creative Scripting</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/achieve-excellence-in-fb-video-marketing-essential-free-kit-included-for-2024/"><u>Achieve Excellence in FB Video Marketing - Essential FREE Kit Included for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/amdwindows/"><u>AMDチップをWindowsアップデートで自動的に更新する手順</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-the-steam-fatal-error-missing-steamuidll-troubleshooting-guide/"><u>Bypassing The Steam Fatal Error: Missing steamui.dll Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-ai-powered-by-chatgpt-take-charge-of-your-home-automation-systems/"><u>Can AI Powered by ChatGPT Take Charge of Your Home Automation Systems?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diy-easy-steps-to-tackle-and-repair-directx-problems-in-fifa-19-gaming/"><u>DIY: Easy Steps to Tackle and Repair DirectX Problems in FIFA 19 Gaming</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/elevate-your-education-game-with-these-top-8-learning-apps/"><u>Elevate Your Education Game with These Top 8 Learning Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-for-the-long-awaited-immortals-fenyx-rising-game-now-released/"><u>Fix for the Long-Awaited Immortals Fenyx Rising Game Now Released</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fortnite-launch-glitches-unraveling-and-fixing-entry-point-errors-successfully/"><u>Fortnite Launch Glitches: Unraveling & Fixing Entry Point Errors Successfully</u></a></li>
+<li><a href="https://program-issues.techidaily.com/granblue-fantasy-for-windows-troubleshooting-steps-for-continuous-crashes-during-link-rebuilds/"><u>Granblue Fantasy for Windows: Troubleshooting Steps for Continuous Crashes During Link Rebuilds</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/risolvi-rapidamente-il-tuo-desktop-improvvisamente-vuoto-su-windows-11-7-soluzioni-efficaci/"><u>Risolvi Rapidamente Il Tuo Desktop Improvvisamente Vuoto Su Windows 11: 7 Soluzioni Efficaci!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/seamless-gaming-in-new-world-expert-strategies-for-fixing-lags-and-stable-online-play/"><u>Seamless Gaming in 'New World': Expert Strategies for Fixing Lags and Stable Online Play</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-overcoming-failed-to-create-opengl-context-error-with-qsurfaceformat/"><u>Solving the Issue: Overcoming 'Failed to Create OpenGL Context' Error with QSurfaceFormat</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000497427-trouble-with-oculus-link-here-are-6-swift-ways-to-resolve-black-screen-errors/"><u>Trouble with Oculus Link? Here Are 6 Swift Ways to Resolve Black Screen Errors!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-black-ops-cold-war-resolve-shader-compile-problems-easily/"><u>Troubleshooting Black Ops Cold War: Resolve Shader Compile Problems Easily</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Vivo S18e? | Dr.fone</u></a></li>
 </ul></div>
 

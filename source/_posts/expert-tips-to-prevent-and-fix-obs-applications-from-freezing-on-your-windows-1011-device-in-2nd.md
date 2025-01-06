@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Prevent and Fix OBS Applications From Freezing on Your Windows 10/11 Device in 2nD
-date: 2024-12-21T10:42:46.497Z
-updated: 2024-12-27T08:34:21.700Z
+date: 2024-12-31T20:09:08.893Z
+updated: 2025-01-05T19:48:12.410Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 
  An unstable overclocking will lead to excessive energy consumption and cause your programs to malfunction. So if you’ve overclocked your CPU or GPU and then Hitman 3 crashes, try**disabling overclocking utilities like MSI Afterburner** and **setting the clock speed back to the default** . If this doesn’t help, have a look at the second fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2 – Use the dedicated GPU
 
  If you have two graphics cards installed to your computer, make sure to run Hitman 3 on your dedicated GPU, because the inbuilt card is usually underpowered for graphics-intensive games and can trigger the crashing issue. Here’s how to switch to the dedicated card in NVIDIA settings:
@@ -57,27 +53,27 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-5.jpg)
 6. Exit the NVIDIA Control Panel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Launch Hitman 3 and select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-6.jpg)
 8. Select your**dedicated graphics card** instead of the integrated one next to Graphics Processing Unit, and click**Save** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have an AMD graphics card, you could refer to this[official guide](https://www.amd.com/en/support/kb/faq/dh-017) to configure the Radeon settings.
 
  Now see if Hitman 3 works properly. If not, there are two more fixes to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Verify the integrity of game files
 
@@ -89,6 +85,10 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 3. After the process completes, launch Hitman 3 to test.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Does the game works the right way or does it still crash? If the latter, don’t frustrate and check out the next fix.
 
@@ -105,17 +105,21 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the_flagged graphics driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all the drivers_ that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the driver update, you should see Hitman 3 runs more smoothly. But if this method doesn’t work, continue to the last fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Increase virtual memory
 
@@ -125,18 +129,18 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-1-3.jpg)
 2. Click**Settings** under Performance.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-2-2.jpg)
 3. Navigate to the**Advanced** tab. Then, click**Change** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-2.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-3.jpg)
@@ -147,10 +151,6 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 
 **Note** : According to Microsoft, you should set virtual memory no less than**1.5 times** and no more than **3 times** the amount of RAM on your computer. For example, if you have 8 GB RAM, the**Initial size** should be 8 x 1024 x 1.5 = 12288 MB while the **Maximum size** should be 8 x 1024 x 3 = 24576 MB. If you don’t know how much RAM you have, read our post to[check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Restart the computer for changes to take effect. Once you’ve done that, run Hitman 3 and the crashes should be resolved now.
 
@@ -176,22 +176,19 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/solved-red-dead-redemption-2-stuttering-and-fps-issues/"><u>[SOLVED] Red Dead Redemption 2 Stuttering and FPS Issues</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-tips-and-tricks-for-effortless-finding-exceptional-pexel-images/"><u>[Updated] 2024 Approved Tips and Tricks for Effortless Finding Exceptional Pexel Images</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-gaming-glitches-top-8-fixes-to-keep-marvels-guardians-of-the-galaxy-running-smoothly-on-your-pc/"><u>Beat Gaming Glitches: Top 8 Fixes to Keep Marvel's 'Guardians of the Galaxy' Running Smoothly on Your PC</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/diagnosing-and-fixing-issues-with-non-readable-optical-drives-expertise-from-yl-software/"><u>Diagnosing and Fixing Issues with Non-Readable Optical Drives – Expertise From YL Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/end-the-lag-nightmare-ultimate-fixes-to-upgrade-your-fortnite-experience/"><u>End the Lag Nightmare: Ultimate Fixes to Upgrade Your Fortnite Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gptbot-overview-and-the-rationale-for-its-restriction-on-websites/"><u>GPTBot Overview & The Rationale for Its Restriction on Websites</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723004263400-how-to-fix-the-problem-when-genshin-impact-wont-open-effective-tips/"><u>How to Fix the Problem When Genshin Impact Won't Open: Effective Tips!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-mir4-game-freezing-issues-on-pc/"><u>How to Resolve Mir4 Game Freezing Issues on PC</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-faster-insights-slower-pace-balancing-youtube-playback-rate/"><u>In 2024, Faster Insights, Slower Pace Balancing YouTube Playback Rate</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-s18e-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo S18e Screen | Dr.fone</u></a></li>
-<li><a href="https://tools.techidaily.com/marvelextensions/products/"><u>Marvelextensions's Products</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-integration-in-ubuntus-command-line-with-shellgpt/"><u>Mastering ChatGPT Integration in Ubuntu's Command Line with ShellGPT</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-smooth-gameplay-techniques-to-resolve-frame-drops-and-boost-fps-for-the-ascent-enthusiasts/"><u>Mastering Smooth Gameplay: Techniques to Resolve Frame Drops & Boost FPS for The Ascent Enthusiasts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-optimization-of-frame-rates-in-outriders-for-an-uninterrupted-adventure/"><u>Mastering the Optimization of Frame Rates in Outriders for an Uninterrupted Adventure</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-geforce-experience-errors-tips-and-solutions-to-keep-it-running-smoothly/"><u>Overcome GeForce Experience Errors: Tips and Solutions to Keep It Running Smoothly</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-tips-to-overcome-battlefield-5-stutter-and-improve-gameplay-smoothness/"><u>Ultimate Tips to Overcome Battlefield #5 Stutter and Improve Gameplay Smoothness</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-to-the-newest-oculus-drivers-download-for-windows-users/"><u>Update to the Newest Oculus Drivers: Download for Windows Users</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-master-the-art-of-directing-powerdirectors-complete-guide/"><u>[New] 2024 Approved Master the Art of Directing PowerDirector's Complete Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-achieving-audiovisual-consistency-in-premiers-for-2024/"><u>[Updated] Achieving Audiovisual Consistency in Premiers for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeat-the-black-screen-error-essential-fixes-and-tips-for-warzone-players/"><u>Defeat the Black Screen Error: Essential Fixes and Tips for Warzone Players</u></a></li>
+<li><a href="https://win-news.techidaily.com/discover-the-latest-hits-in-karaoke-cloud-pro-subscription-get-access-to-this-weeks-top-tracks-and-tunes/"><u>Discover the Latest Hits in Karaoke Cloud Pro Subscription – Get Access to This Week's Top Tracks and Tunes!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-review-alert-discover-why-the-ecoflow-river-3-stands-out-amongst-entry-level-portable-batteries-insights-from-zdnets-latest-testing/"><u>Expert Review Alert: Discover Why The EcoFlow River 3 Stands Out Amongst Entry-Level Portable Batteries – Insights From ZDNET's Latest Testing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-wolcen-lords-of-mayhem-game-crashing-on-windows-pcs/"><u>How to Fix 'Wolcen: Lords of Mayhem' Game Crashing on Windows PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-multi-device-sync-how-to-connect-one-phone-number-across-your-phones/"><u>Mastering Multi-Device Sync: How to Connect One Phone Number Across Your Phones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdle-of-a-non-existent-start-button-in-fortnite/"><u>Overcoming the Hurdle of a Non-Existent Start Button in Fortnite</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-oppo-reno-8t-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Oppo Reno 8T Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/smooth-play-through-overcome-crashing-errors-in-remnant-from-the-ashes/"><u>Smooth Play Through - Overcome Crashing Errors in Remnant: From the Ashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-guide-to-running-driver-easy-in-its-lightweight-mode/"><u>The Ultimate Guide to Running Driver Easy in Its Lightweight Mode</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-resolving-cold-snap-issues-in-call-of-duty-black-ops-cold-war/"><u>Ultimate Guide to Resolving Cold Snap Issues in Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-yourphoneexe-on-latest-windows-os/"><u>Understanding YourPhoneExe on Latest Windows OS</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-motorola-moto-g-stylus-2023-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Motorola Moto G Stylus (2023) Phone Network-Ready</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Complete: No More FIFA 20 Crashes for Windows Users"
-date: 2024-12-19T20:39:00.491Z
-updated: 2024-12-26T18:05:37.415Z
+date: 2024-12-29T19:49:38.917Z
+updated: 2025-01-05T20:19:28.989Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ If you’re getting this error message ‘**An Unreal process has crashed: UE4-M
 6. **[Allow your game to run through Firewall](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Quit MSI Afterburner
@@ -35,6 +35,10 @@ If you’re getting this error message ‘**An Unreal process has crashed: UE4-M
  Many players find it helps when they stop using MSI Afterburner. On your keyboard, press the**Ctrl + Shift + Esc** , and then end the related process in**Task Manager** .
 
  Now you can try launching your Outriders again to see if the problem has gone. But if the Unreal Engine crashing persists, you may want to try the following fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Update your graphics driver
 
@@ -56,13 +60,13 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)
 
@@ -70,10 +74,6 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Verify the game integrity
 
@@ -85,17 +85,21 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Go to the LOCAL FILES tab, and click**Verify Integrity of game files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Wait for the process to complete. It may take a few seconds to verify the integrity of your game files.
 
  Once complete, you can restart the game to check if the Unreal Engine error has been solved by now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Force Outriders to run in DX11
 
@@ -117,17 +121,9 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/browse.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Right-click**OUTRIDERS-Win64-Shipping** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties-game-exe.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Go to the**Compatibility** tab, and check**Run this program as an administrator** .
 
@@ -144,6 +140,10 @@ There are mainly two methods for you to update the graphics driver:
 2) Type**firewall.cpl** in the box, and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) On the left pane, click**Allow an app or feature through Windows Defender Firewall** .
 
@@ -179,22 +179,20 @@ There are mainly two methods for you to update the graphics driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-rotational-view-analysis/"><u>[Updated] Comprehensive Rotational View Analysis</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-ios-screen-recording-the-updated-process/"><u>[Updated] In 2024, IOS Screen Recording The Updated Process</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-insightful-examination-of-wirecast-and-its-peers/"><u>[Updated] Insightful Examination of WireCast & Its Peers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/10-financially-friendly-live-streaming-apps-ios-and-android-reviewed/"><u>10 Financially Friendly Live Streaming Apps IOS & Android Reviewed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/clearing-up-the-haze-tips-for-sharpening-visuals-in-call-of-duty-warzone-on-your-computer/"><u>Clearing Up the Haze: Tips for Sharpening Visuals in Call of Duty: Warzone on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/crash-course-correction-how-to-keep-manor-lords-running-smoothly-on-windows/"><u>Crash Course Correction: How to Keep Manor Lords Running Smoothly on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722998072967-fix-the-crashing-issue-in-elite-dangerous-on-your-computer-today/"><u>Fix the Crashing Issue in Elite Dangerous on Your Computer Today!</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-13-ultra-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi 13 Ultra Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-your-computer-when-new-world-keeps-crashing-tips-and-tricks/"><u>How to Fix Your Computer When 'New World' Keeps Crashing: Tips & Tricks</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-upgrade-logitech-mk700mk710-mouse-software-steps-and-links/"><u>How to Upgrade Logitech MK700/MK710 Mouse Software: Steps & Links</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-vivo-y78t-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo Y78t Unlock Without Password</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-top-12-screen-recorder-no-time-limits/"><u>In 2024, Top 12 Screen Recorder No Time Limits</u></a></li>
-<li><a href="https://program-issues.techidaily.com/rust-visual-error-now-corrected-troubleshooting-guide/"><u>Rust Visual Error Now Corrected - Troubleshooting Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723011818124-the-principle-of-operation-involving-charging-particles-and-collecting-them-on-plates-with-an-opposite-charge/"><u>The Principle of Operation Involving Charging Particles and Collecting Them on Plates with an Opposite Charge.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-10-solutions-for-resolving-issue-with-game-stray-not-starting/"><u>Top 10 Solutions for Resolving Issue with Game Stray Not Starting</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-strategies-solving-cmos-battery-related-checksum-problems/"><u>Troubleshooting Strategies: Solving CMOS Battery-Related Checksum Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-techniques-for-directx-drawing-failures/"><u>Ultimate Troubleshooting Techniques for DirectX Drawing Failures</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-revolutionizing-image-capture-with-ios-11-updates-for-2024/"><u>[New] Revolutionizing Image Capture with iOS 11 Updates for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-evolutionary-saga-of-vr-worlds-for-2024/"><u>[New] The Evolutionary Saga of VR Worlds for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-crafting-stunning-youtubers-imagery-a-comprehensive-walkthrough-for-2024/"><u>[Updated] Crafting Stunning YouTubers' Imagery A Comprehensive Walkthrough for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-bg-adventure-conquer-common-issues-with-these-effective-6-strategies/"><u>Enhance Your BG Adventure: Conquer Common Issues with These Effective 6 Strategies!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-rid-of-warframes-frustrating-pauses-expert-fixes-for-a-seamless-gaming-experience/"><u>Get Rid of Warframe's Frustrating Pauses - Expert Fixes for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-and-resolve-stop-error-0x0000001d-no-spinlock/"><u>How to Correctly Address and Resolve Stop Error 0X0000001D: No SPIN_LOCK</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-10-best-webcam-recorders-windows-11/"><u>In 2024, 10 Best Webcam Recorders Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-playback-issues-on-galaxy-s23-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV playback issues on Galaxy S23</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-pdf-naar-png-converteer-gratis-simpelweg-en-krachtig-met-movavi/"><u>Online-PDF Naar PNG Converteer Gratis - Simpelweg en Krachtig Met Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-performance-boost-resolving-the-double-drop-in-fps/"><u>PC Performance Boost: Resolving the Double Drop in FPS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/polymorphisms-in-the-vkorc1-gene-affect-warfarin-sensitivity-and-metabolism-necessitating-personalized-dose-adjustments/"><u>Polymorphisms in the VKORC1 Gene Affect Warfarin Sensitivity and Metabolism, Necessitating Personalized Dose Adjustments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-cyberpunk-2077-installation-problems-on-steam-platform/"><u>Resolved: Fixing Cyberpunk 2077 Installation Problems on Steam Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-secure-browsing-add-trusted-sites-to-windows-11/"><u>Streamline Secure Browsing: Add Trusted Sites to Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tech-wizardry-unveiled-eradicate-chromes-window-freezes-in-windows-11-instantly/"><u>Tech Wizardry Unveiled: Eradicate Chrome's Window Freezes in Windows 11 Instantly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-techniques-for-constant-screen-flutter-issues/"><u>Ultimate Troubleshooting Techniques for Constant Screen Flutter Issues</u></a></li>
 </ul></div>
 

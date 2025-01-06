@@ -1,7 +1,7 @@
 ---
 title: Final Glazing
-date: 2024-12-23T00:29:42.304Z
-updated: 2024-12-27T11:32:01.789Z
+date: 2025-01-02T19:41:10.486Z
+updated: 2025-01-05T22:31:09.126Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ FIFA 20 DirectX Error
 5. **[Check if your PC meets the system requirements for FIFA 20](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
@@ -54,6 +54,10 @@ FIFA 20 DirectX Error
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -66,10 +70,6 @@ FIFA 20 DirectX Error
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Unplug ccontrollers
 
  According to users’ report, unplugging controllers is also helpful in resolving the DirectX error in FIFA 20.
@@ -77,6 +77,10 @@ FIFA 20 DirectX Error
  So if you have any controllers plugged into your computer, you can remove them. Then launch FIFA 20 again to see if the error is solved. If yes, then congrats! If the issue persists, please try**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3:**Modify fifasetup.ini**
 
@@ -87,10 +91,6 @@ Here is how to do it:
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and**R** at the same time, then type_**C: \\ Users \\% Username% \\ Documents \\ FIFA 20 Demo**_ and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-129.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Double-click on the**fifasetup.ini** file.
 
@@ -104,6 +104,10 @@ Here is how to do it:
 5) Run FIFA 20 again and check to see if it plays smoothly. If yes, then you’ve solved the issue! If it still crashes with the DirectX error, please move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update DirectX
 
@@ -148,16 +152,12 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
@@ -186,18 +186,24 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-master-your-big-day-with-these-leading-countdown-clock-apps-androidios/"><u>[New] Master Your Big Day with These Leading Countdown Clock Apps (Android/iOS)</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-top-tactics-eliminate-fbs-intrusive-video-ads/"><u>[New] Top Tactics Eliminate FB's Intrusive Video Ads</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-high-quality-8-cam-transformations-for-streaming/"><u>2024 Approved High-Quality 8 Cam Transformations for Streaming</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-ultimate-guide-top-free-youtube-video-openers/"><u>2024 Approved Ultimate Guide Top Free YouTube Video Openers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquering-the-cursor-end-your-wait-with-these-fixes-for-anthems-infinite-loading-challenge/"><u>Conquering the Cursor: End Your Wait with These Fixes for Anthem's Infinite Loading Challenge</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-repair-unresponsive-logitech-settings-on-your-pc-running-windows/"><u>How to Repair Unresponsive Logitech Settings on Your PC Running Windows</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-se-2022ipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone SE (2022)/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/improve-gaming-and-graphics-with-the-newest-amd-driver-update-for-windows-oses/"><u>Improve Gaming and Graphics with the Newest AMD Driver Update for Windows OSes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ntdlldll-failures-corrected-a-guide-for-stabilizing-your-windows-11-or-windows-10/"><u>ntdll.dll Failures Corrected: A Guide for Stabilizing Your Windows 11 or Windows 10</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimized-battery-life-select-ps5-dualsense-controllers-chargers/"><u>Optimized Battery Life: Select PS5 DualSense Controllers Chargers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/persistent-problems-resolved-stabilizing-your-world-of-tanks-blitz-experience/"><u>Persistent Problems Resolved: Stabilizing Your World of Tanks Blitz Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008472535-rainbow-six-siege-trouble-heres-how-to-get-rid-of-that-annoying-black-screen/"><u>Rainbow Six Siege Trouble? Here's How to Get Rid of That Annoying Black Screen!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steam-content-securely-unlocked-overcoming-file-access-problems/"><u>Steam Content Securely Unlocked - Overcoming File Access Problems</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-expert-advice-on-crafting-effective-youtube-video-tags/"><u>[Updated] 2024 Approved Expert Advice on Crafting Effective YouTube Video Tags</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-ultimate-harvest-hangout-top-10-agri-games-to-enjoy-together/"><u>[Updated] In 2024, The Ultimate Harvest Hangout Top 10 Agri-Games to Enjoy Together</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-ai-driven-nvidias-dlss-35-features/"><u>Deciphering AI-Driven Nvidia's DLSS 3.5 Features</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-conversion-techniques-for-changing-flv-videos-to-playable-xbox-types-mp4avimpegwmv/"><u>Easy Conversion Techniques for Changing FLV Videos to Playable Xbox Types (MP4/AVI/MPEG/WMV)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/echoes-of-elation-international-independence-day/"><u>Echoes of Elation: International Independence Day</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/essential-8-open-source-tools-for-effective-enterprise-video-meetings-for-2024/"><u>Essential 8 Open Source Tools for Effective Enterprise Video Meetings for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fallout-3-troubleshooting-overcoming-crashes-on-your-windows-10-pc/"><u>Fallout 3 Troubleshooting: Overcoming Crashes on Your Windows 10 PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/far-cry-navigating-through-black-screen-troubleshooting-techniques/"><u>Far Cry Navigating Through Black Screen Troubleshooting Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722999890958-find-the-right-solution-for-your-xcom-2-game-crash-issues-on-a-windows-computer/"><u>Find the Right Solution for Your XCOM 2 Game Crash Issues on a Windows Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-eliminate-packet-loss-when-using-discord-tips-and-tricks/"><u>How To Eliminate Packet Loss When Using Discord – Tips & Tricks</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigate-detroit-become-human-a-thrilling-interactive-experience-for-pc-gamers/"><u>Navigate 'Detroit: Become Human' - A Thrilling Interactive Experience for PC Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-players-rejoice-resolving-the-far-cry-6-does-not-start-problem/"><u>PC Players Rejoice: Resolving the 'Far Cry 6 Does Not Start' Problem</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/rescatar-datos-del-disco-duro-externo-sin-perder-la-configuracion-original-metodos-efectivos/"><u>Rescatar Datos Del Disco Duro Externo Sin Perder La Configuración Original: Métodos Efectivos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-pc-playthroughs-stop-halo-3-from-unexpectedly-crashing/"><u>Resolve PC Playthroughs: Stop Halo 3 From Unexpectedly Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-startup-errors-in-star-wars-the-old-republic-swtor/"><u>Resolving Startup Errors in Star Wars: The Old Republic (SWTOR)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-solving-missing-sound-device-problems-in-windows-xpvista710/"><u>Step-by-Step Guide to Solving Missing Sound Device Problems in Windows (XP/Vista/7/10)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-getting-past-helldivers-2s-launching-dark-screen-dilemma/"><u>Step-by-Step Guide: Getting Past Helldivers 2'S Launching Dark Screen Dilemma</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/tagalog-learning-effortless-for-busy-individuals-every-day/"><u>Tagalog Learning: Effortless for Busy Individuals Every Day</u></a></li>
 </ul></div>
 

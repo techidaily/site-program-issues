@@ -1,7 +1,7 @@
 ---
 title: "Mastering Diablo IV Performance: Top 7 Tactics to Fix Game-Crashing Problems"
-date: 2024-12-21T20:12:41.552Z
-updated: 2024-12-27T03:24:08.259Z
+date: 2024-12-29T22:27:04.091Z
+updated: 2025-01-05T21:36:13.056Z
 tags:
   - win11
   - win10
@@ -37,10 +37,6 @@ GTFO
 5. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Install the latest game patch
 
  10 Chambers, the developers of GTFO, releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -48,6 +44,10 @@ GTFO
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run GTFO and see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -70,8 +70,16 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -90,11 +98,11 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run GTFO and check if you get a better PFS. If the GTFO FPS drops again, try the next fix, below.
 
@@ -125,10 +133,6 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch GTFO and see if the in-game FPS improves. If not, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Disable overlays
 
  Overlays are handy, but according to many PC gamers, they sometimes may interfere with GTFO and even introduces performance issues and compatibility issues. If the fixes above didn’t give you a obvious FPS boost, then try disabling overlays before playing the game.
@@ -140,13 +144,13 @@ There are mainly two methods for you to update the graphics driver:
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure you’ve disabled the in-game overlay in those apps feature before you restart the game.
@@ -165,10 +169,6 @@ There are mainly two methods for you to update the graphics driver:
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
@@ -197,19 +197,17 @@ Launch GTFO to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-bites-to-blocks-top-10-video-editing-principles-for-2024/"><u>[New] From Bites to Blocks Top 10 Video Editing Principles for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-hero-session-vs-hero-session-duel/"><u>[New] Hero Session Vs Hero Session Duel</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-art-of-colors-selecting-the-creme-de-la-creme-monitors-for-2024/"><u>[New] The Art of Colors Selecting the Crème De La Créme Monitors for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-podcasts-versus-video-based-platforms-who-wins/"><u>[Updated] 2024 Approved Podcasts versus Video-Based Platforms – Who Wins?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-breakthrough-social-media-moves-sharing-youtube-videos-to-fb-for-2024/"><u>[Updated] Breakthrough Social Media Moves Sharing YouTube Videos to FB for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/atomic-heart-malfunction-during-system-boot-up-a-comprehensive-guide/"><u>Atomic Heart Malfunction During System Boot-Up: A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-eliminating-crashing-issues-within-resident-evil-4-rebuilt-version/"><u>Expert Tips for Eliminating Crashing Issues Within Resident Evil 4 Rebuilt Version</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-issues-with-the-windows-11-spotlight-feature/"><u>Fixing Issues with the Windows 11 Spotlight Feature</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-fixing-repeated-malfunctions-of-the-content-warning-feature-in-windows-systems/"><u>Guide: Fixing Repeated Malfunctions of the Content Warning Feature in Windows Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-anker-is-revolutionizing-home-power-consumption-with-their-latest-innovation-solix-detailed-analysis-by-zdnet/"><u>How Anker Is Revolutionizing Home Power Consumption with Their Latest Innovation, Solix – Detailed Analysis by ZDNET</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-step-by-step-guide-to-mastering-morphvox-modifications/"><u>In 2024, A Step-by-Step Guide to Mastering MorphVOX Modifications</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-xiaomi-redmi-a2-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Xiaomi Redmi A2 Phone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-steam-game-startup-issues-on-windows-10-computers/"><u>Solving Steam Game Startup Issues on Windows 10 Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tips-and-tricks-to-stop-high-performance-programs-overloading-your-computer/"><u>Tips and Tricks to Stop High-Performance Programs Overloading Your Computer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-most-reliable-skype-recorders-ranked-for-2024/"><u>[Updated] The Most Reliable Skype Recorders Ranked for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-your-path-to-perfect-iphone-hdr-photos-for-2024/"><u>[Updated] Your Path to Perfect iPhone HDR Photos for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-portability-with-the-new-microsoft-surface-laptop-go-review-a-stylish-lightweight-ultracomputer/"><u>Affordable Portability with the New Microsoft Surface Laptop Go Review: A Stylish, Lightweight Ultracomputer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-budget-friendly-srt-translators-unveiled-online/"><u>Best Budget-Friendly SRT Translators Unveiled Online</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-solving-warzone-not-using-gpu-issues-in-windows-10-systems/"><u>Diagnosing and Solving 'Warzone Not Using GPU' Issues in Windows 10 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-game-time-continuity-the-complete-breakdown-and-assessment-of-a-premium-gamers-power-backup-solution/"><u>Enhancing Game-Time Continuity: The Complete Breakdown and Assessment of a Premium Gamer's Power Backup Solution</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-6s-plus-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone 6s Plus Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-your-gaming-experience-overcoming-lags-and-jitters-in-splitgates-fps/"><u>Optimize Your Gaming Experience: Overcoming Lags & Jitters in Splitgate's FPS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/prevent-losing-years-of-messages-and-media-on-whatsapp-take-action-now/"><u>Prevent Losing Years of Messages & Media on WhatsApp - Take Action Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-for-maplestory-startup-error-get-back-to-adventure/"><u>Solution Found for MapleStory Startup Error – Get Back to Adventure</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-quick-guide-to-innovative-voice-personalization-techniques/"><u>The Quick Guide to Innovative Voice Personalization Techniques</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Dark Mode Display Glitches in COD: WWII Game on Windows Systems – Fix Now!"
-date: 2024-12-23T20:10:06.256Z
-updated: 2024-12-26T17:59:05.294Z
+date: 2025-01-04T19:23:56.863Z
+updated: 2025-01-05T20:06:23.218Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ Recently many Fallout 76 players have been plagued by the**Fallout 76 disconnect
 6. **[Switch the DNS server](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Is Fallout 76 down?](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1:**Reset Winsock**
 
  Winsock is an application in Windows that handles the data on the computer that programs use for Internet access. So when you can’t connect Fallout 76 to its server, you can give Winsock a try. It reverts the Winsock Catalog back to its default settings, which often proves useful in network problems.
@@ -47,6 +43,10 @@ Here is how to reset Winsock data:
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
@@ -73,7 +73,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1deba6c03f2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Repeat step **2)** on every other bandwidth hogging programs.
@@ -97,16 +97,12 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -126,6 +122,10 @@ Here is how to restart your network:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _modem_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-5.jpg)
@@ -140,6 +140,10 @@ _wireless router_
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 5: Flush your DNS and Renew your IP**
 
  DNS and IP issues may also cause Fallout 76 to disconnect from the server. So you can flush your DNS and renew your IP to see if it solves the issue.
@@ -149,10 +153,6 @@ _wireless router_
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
@@ -197,7 +197,7 @@ Here is how to switch the DNS server to Google Public DNS:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In **View by** , choose **Category** . Then click **View network status and tasks** .
@@ -205,7 +205,7 @@ Here is how to switch the DNS server to Google Public DNS:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-611.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In the pop-up window, click **Change adapter settings** .
@@ -216,21 +216,17 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-613.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap21-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Select **Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-614.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7) Restart your computer for the changes to take effect.
 
@@ -239,6 +235,10 @@ Here is how to switch the DNS server to Google Public DNS:
  Problem still not yet solved? Please try**Fix 7** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Is Fallout 76 down?
 
@@ -267,24 +267,24 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-secrets-to-saving-and-sharing-your-roblox-experience-on-a-mac/"><u>[New] In 2024, Secrets to Saving & Sharing Your Roblox Experience on a Mac</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-examining-youtubes-mobile-app-for-iosandroid-devices/"><u>2024 Approved Examining YouTube's Mobile App for iOS/Android Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cod-warzone-pacific-down-heres-how-to-prevent-sudden-game-shutdowns/"><u>COD: Warzone Pacific Down? Here's How to Prevent Sudden Game Shutdowns</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortlessly-solve-the-warzone-directx-error-a-stepwise-guide/"><u>Effortlessly Solve the 'Warzone DirectX Error': A Stepwise Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elite-dangerous-on-pc-how-to-stop-unexpected-game-shutdowns-and-crashes/"><u>Elite Dangerous on PC - How to Stop Unexpected Game Shutdowns and Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-performance-and-preventing-crashes-in-the-witcher-3-a-comprehensive-guide/"><u>Enhancing Performance & Preventing Crashes in 'The Witcher 3': A Comprehensive Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ensuring-safe-shares-mastering-the-art-of-pre-emptive-link-inspection/"><u>Ensuring Safe Shares: Mastering the Art of Pre-Emptive Link Inspection</u></a></li>
-<li><a href="https://facebook.techidaily.com/hacker-breach-users-pay-300-for-oculus-rift-solutions/"><u>Hacker Breach: Users Pay $300 for Oculus Rift Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-pathfinder-wrath-of-the-righteous-not-launching/"><u>How to Fix Pathfinder: Wrath of the Righteous Not Launching</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-audio-narratives-best-backdrop-tunes/"><u>In 2024, Crafting Audio Narratives Best Backdrop Tunes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-the-full-potential-of-your-xbox-series-x-with-ideal-displays/"><u>In 2024, Unleash The Full Potential of Your Xbox Series X with Ideal Displays</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-zoom-innovation-3-game-changing-approaches-to-video-reformatting/"><u>In 2024, Zoom Innovation 3 Game-Changing Approaches to Video Reformatting</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/recordingratings-analyzer/"><u>RecordingRatings Analyzer</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-troubleshooting-critical-system-failures-in-windows-11/"><u>Resolved: Troubleshooting Critical System Failures in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steam-login-correcting-invalid-captcha/"><u>Steam Login: Correcting Invalid CAPTCHA</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tackling-the-n-error-code-0x00001338-in-call-of-duty-vanguard-for-pc-gamers/"><u>Tackling the N Error Code 0X00001338 in Call of Duty: Vanguard for PC Gamers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723003273690-to-eliminate-the-denominators-cross-multiply/"><u>To Eliminate the Denominators, Cross-Multiply</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unpacking-the-process-of-utilizing-driver-easy-for-on-the-go-pc-repair/"><u>Unpacking the Process of Utilizing Driver Easy for On-the-Go PC Repair</u></a></li>
-<li><a href="https://program-issues.techidaily.com/warcraft-3-reforged-pc-crashes-top-5-solutions/"><u>Warcraft 3 Reforged PC Crashes? Top 5 Solutions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-efficiently-downloading-youtube-sections-in-minutes/"><u>[New] In 2024, Efficiently Downloading YouTube Sections in Minutes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-essential-steps-for-maximizing-chatgpts-potential-using-individualized-commands/"><u>5 Essential Steps for Maximizing ChatGPT's Potential Using Individualized Commands</u></a></li>
+<li><a href="https://program-issues.techidaily.com/advanced-techniques-for-roller-champions-co-op-mode-in-pc-gaming/"><u>Advanced Techniques for Roller Champions Co-Op Mode in PC Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/advanced-troubleshooting-techniques-to-improve-your-minecraft-gaming-experience-on-pc-tips-and-tutorials-2023-edition/"><u>Advanced Troubleshooting Techniques to Improve Your Minecraft Gaming Experience on PC (Tips & Tutorials, 2023 Edition)</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/telstory-converter/"><u>Epubor Telstory Converter</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009078551-essential-tips-for-fixing-ue4-gobi-map-fatal-bugs-in-arma-iii-mod-back-cuarteros-back/"><u>Essential Tips for Fixing 'UE4 - Gobi' Map Fatal Bugs in Arma III Mod: Back Cuarteros Back</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-v29e-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo V29e to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-realme-gt-5-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Realme GT 5? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/instant-access-to-12-high-quality-livestreams-for-2024/"><u>Instant Access to 12 High-Quality Livestreams for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-motorola-moto-g14-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Motorola Moto G14 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-technical-glitches-ultimate-fixes-for-jurassic-world-evolution-crashing-issues/"><u>Overcome Technical Glitches: Ultimate Fixes for 'Jurassic World Evolution' Crashing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-framerate-dilemmas-a-guide-to-fix-stutter-and-improve-avatars-frontiers-of-pandora-gameplay/"><u>Overcoming Framerate Dilemmas: A Guide To Fix Stutter & Improve Avatar's Frontiers of Pandora Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-when-internet-explorer-fails-to-load-pages/"><u>Resolved: Troubleshooting When Internet Explorer Fails to Load Pages</u></a></li>
+<li><a href="https://program-issues.techidaily.com/seamless-gaming-experience-solving-lag-problems-in-resident-evil-village-for-pc-users/"><u>Seamless Gaming Experience: Solving Lag Problems in Resident Evil Village for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-stability-solved-quick-tricks-to-prevent-unwanted-crashes/"><u>Steam Stability Solved: Quick Tricks to Prevent Unwanted Crashes!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-fix-amds-detection-driver-for-win10/"><u>Successful Fix: AMD's Detection Driver for Win10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/update-diablo-immortals-release-delayed-on-windows-platform/"><u>Update: Diablo Immortal's Release Delayed on Windows Platform</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95781173-9781515415107-when-prophecy-fails/"><u>When Prophecy Fails | Free Book</u></a></li>
 </ul></div>
 

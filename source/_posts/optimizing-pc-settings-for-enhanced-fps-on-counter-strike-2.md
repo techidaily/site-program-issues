@@ -1,7 +1,7 @@
 ---
 title: Optimizing PC Settings for Enhanced FPS on Counter-Strike 2
-date: 2024-09-01T10:24:54.787Z
-updated: 2024-09-02T10:24:54.787Z
+date: 2024-12-31T18:35:41.628Z
+updated: 2025-01-05T17:48:59.816Z
 tags:
   - win11
   - win10
@@ -33,8 +33,9 @@ You just jumped into the stylish world of Persona but annoyed to find that Perso
 6. **[Tweak some settings in NVIDIA Control Panel](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Close all unnecessary applications
 
  Your Persona 5 Strikers may be crashed by interference from some programs running in the background.
@@ -57,9 +58,6 @@ There are mainly two ways for you to update your graphics driver:
 
  Note that when installing a driver manually, you’ll need to perform a clean installation so that the new driver can be recognized correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/clean.png)
 
 ### Option 2: Automatically
@@ -72,14 +70,8 @@ There are mainly two ways for you to update your graphics driver:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with the Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 4. Reboot your computer and launch the game to see if Persona 5 Strikers is launching properly.
 
@@ -92,12 +84,18 @@ There are mainly two ways for you to update your graphics driver:
 
 1. Launch Steam, and go to the**Library** .
 2. Right-click on Persona 5 Strikers, and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/persona-5-properties.png)
 3. Go to the**Local files** , and select**Verify the integrity of the game files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/verify.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for the verification to complete. Once done, you can relaunch your Persona 5 Strikers to test the issue.
 
@@ -106,14 +104,8 @@ There are mainly two ways for you to update your graphics driver:
  Another way to stop your Persona 5 Strikers from crashing is to play the game in windowed mode. Here’s how to do it:
 
 1. Go to your Steam Library, and right-click Persona 5 Strikers > select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/persona-5-properties.png)
 2. Under the**LAUNCH OPTIONS** , add**\-windowed** .  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/windowed-mode.png)
 3. Close the game’s **Properties** window and launch the game.
 
@@ -128,17 +120,24 @@ There are mainly two ways for you to update your graphics driver:
 2. Right-click the game.exe file, and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-10.30.23-AM.png)
 3. Go to the**Compatibility** tab, and check the box next to the**Disable fullscreen optimizations** , and**Run this program as administrator** .  
+
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/compatibility.png)
 4. Click**Apply** \>**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now launch your game from there and see if this solved your crashing issue. If not, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Tweak some settings in NVIDIA Control Panel
 
  Some find turning off Triple Buffering and setting Low Latency Mode to Ultra help them reduce Persona 5 Strikers crashing. Here’s how to do it:
@@ -168,8 +167,6 @@ There are mainly two ways for you to update your graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +174,22 @@ There are mainly two ways for you to update your graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-economical-pc-graphics-saving-apps/"><u>[New] In 2024, Economical PC Graphics Saving Apps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nlocking-the-power-of-revenue-streams-youtubers-adsense-manual/"><u>[New] Unlocking the Power of Revenue Streams YouTubers' AdSense Manual</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-15-pioneering-youtube-tutorials-for-flawless-product-reviews/"><u>[Updated] 2024 Approved 15 Pioneering YouTube Tutorials for Flawless Product Reviews</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-encompassing-gyroscopic-vr-tests/"><u>[Updated] Encompassing Gyroscopic VR Tests</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-your-iphones-selfie-experience-the-10-finest-free-apps/"><u>2024 Approved Perfect Your iPhone’s Selfie Experience The 10 Finest Free Apps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-uniting-zooms-power-with-facebook-live-streaming/"><u>2024 Approved Uniting Zoom's Power with Facebook LIVE Streaming</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-newly-revamped-echo-dot-4th-gens-innovative-appearance-reviewed/"><u>Exploring the Newly Revamped Echo Dot - 4Th Gen's Innovative Appearance Reviewed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-hogwarts-legacy-fixing-stutter-issues-a-comprehensive-2024-update/"><u>Mastering Hogwarts Legacy: Fixing Stutter Issues - A Comprehensive 2024 Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-lag-ultimate-guide-to-eliminating-stuttering-in-halo-infinite/"><u>No More Lag: Ultimate Guide to Eliminating Stuttering in Halo Infinite</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revolutionizing-ring-of-elysium-playtime-proven-strategies-to-amplify-frame-rate-and-refresh-speed/"><u>Revolutionizing Ring of Elysium Playtime: Proven Strategies to Amplify Frame Rate and Refresh Speed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-inbox-access-gmail-on-the-windows-taskbar/"><u>Simplifying Inbox Access: Gmail on the Windows Taskbar</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-v-stuttering-problem-with-these-expert-tips-for-pc-gamers/"><u>Solve Your V Stuttering Problem with These Expert Tips for PC Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-preventing-guilty-gear-strive-from-crashing-on-your-computer/"><u>Troubleshooting Guide: Preventing Guilty Gear Strive From Crashing on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-palworlds-session-error-during-searches-expert-tips/"><u>Troubleshooting PalWorld's Session Error During Searches – Expert Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-solution-for-the-2024-civilization-vi-access-violation-fixed-with-civ-6-update/"><u>Ultimate Solution for the 2024 Civilization VI Access Violation Fixed with Civ 6 Update</u></a></li>
+</ul></div>
 

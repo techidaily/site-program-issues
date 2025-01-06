@@ -1,7 +1,7 @@
 ---
 title: How to Fix OBS Studio Crashes in Windows 11 & 10
-date: 2024-09-01T10:23:24.073Z
-updated: 2024-09-02T10:23:24.073Z
+date: 2024-12-30T22:14:52.144Z
+updated: 2025-01-05T17:14:20.637Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ This fast-paced game is super fun for those who love the joy of movement. Howeve
 * [Fix 5: Verify game files](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 6: Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Close all background apps
 
  One thing that might cause your Ghostrunner Fatal Error is other conflicting applications, especially your antivirus software and any programs with overlays.
@@ -36,9 +40,6 @@ This fast-paced game is super fun for those who love the joy of movement. Howeve
 
  Some third-party apps may be interrupting your Ghostrunner, and**Discord in-game is a known issue** . To avoid possible game crashes, you can disable Discord in-game overlay.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your device drivers
 
  The main reason why Ghostrunner’s fatal error happens is tied to the GPU driver. If your game crashes, won’t launch, or gives you any kinds of errors, be sure to update your graphics card driver and other drivers.
@@ -53,9 +54,6 @@ This fast-paced game is super fun for those who love the joy of movement. Howeve
 
  2) Run Driver Easy and click the**Scan No** w button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now.jpg)
 
  3) Click the**Update** button next to your graphics card to download the latest and correct driver for it, then you can manually install it.
@@ -64,9 +62,6 @@ OR
 
  Click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , which comes with**Full Support** and a**30-day Money Back Guarantee** . You will be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/update-driver-now.jpg)
 
 4) Restart your PC for the changes to take full effect.
@@ -83,20 +78,25 @@ OR
 
 3) Download the x64.exe in the language you prefer.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/download-1.jpg)
 
 4) Scroll down the page and download the x86.exe.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/download-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Run these two downloaded files and follow the on-screen instructions to install.
 
  6) Once complete, restart your computer for it to take full effect.
 
 Play Ghostrunner again to see if this fatal error reoccurs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Stop overclocking
 
@@ -106,16 +106,10 @@ Play Ghostrunner again to see if this fatal error reoccurs.
 
  1) Right-click your desktop and select**Nvidia Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/NVIDIA.jpg)
 
  2) Navigate to the**Manage 3D Settings** \>**Program Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/program.jpg)
 
  3) Select**Ghostrunner** and turn on the**Max FPS Limit** option.
@@ -125,8 +119,9 @@ Play Ghostrunner again to see if this fatal error reoccurs.
  Start your game again to see if this helps you get your game back to work.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Verify game files
 
  Many of the errors happen because of improper installation or corrupted game files. So please make sure you have all the correct game files.
@@ -137,14 +132,19 @@ Play Ghostrunner again to see if this fatal error reoccurs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Ghostrunner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select the**Local Files** tab, then click on**Verify Integrity of game files** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/VERIFY.jpg)
 
  Wait for the process and then restart the game to check whether the Ghostrunner fatal error has been fixed or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Lower your graphics settings
 
@@ -164,8 +164,6 @@ Play Ghostrunner again to see if this fatal error reoccurs.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +171,26 @@ Play Ghostrunner again to see if this fatal error reoccurs.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-full-screen-pro-excellence-4-precise-pc-and-mac-tools/"><u>[New] 2024 Approved Full Screen Pro Excellence 4 Precise PC & Mac Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-mastering-seamless-music-segmentation-the-art-of-crossfade/"><u>[New] Mastering Seamless Music Segmentation The Art of Crossfade</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-rapid-revamp-of-images-navigating-the-photos-editor-in-win10/"><u>2024 Approved Rapid Revamp of Images Navigating the Photos Editor in WIN10</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-magic-6-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor Magic 6</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-walkthrough-how-to-disable-cortanacopilot-on-windows-11-systems/"><u>Complete Walkthrough: How To Disable Cortana/Copilot on Windows 11 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-insights-a-comprehastery-guide-to-overcoming-teardown-app-instability/"><u>Expert Insights: A Comprehastery Guide to Overcoming Teardown App Instability</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/extract-hd-pics-from-facebook-profile/"><u>Extract HD Pics From Facebook Profile</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-launch-problems-with-armored-core-vi-fires-of-rubicon-game/"><u>Fixing the Launch Problems with 'Armored Core VI: Fires of Rubicon' Game</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-get-more-followers-on-igtv-5-ways/"><u>In 2024, How to Get More Followers on IGTV [5 Ways]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/in-depth-troubleshooting-for-star-wars-jedi-fallen-order-launch-issues-get-back-in-action/"><u>In-Depth Troubleshooting for 'Star Wars Jedi: Fallen Order' Launch Issues - Get Back in Action</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-logitech-brio-webcam-software-downloads-supporting-windows-1187/"><u>Latest Logitech BRIO Webcam Software Downloads Supporting Windows 11/8/7</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-fix-for-stable-play-in-yakuza-6-the-song-of-life-on-pc/"><u>Mastering the Fix for Stable Play in Yakuza 6 'The Song of Life' On PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-gameplay-glitches-in-resident-evil-village-overcoming-rodent-problems/"><u>Resolved: Fixing Gameplay Glitches in Resident Evil Village - Overcoming Rodent Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-resident-evil-village-crashing-issues-on-your-windows-pc/"><u>Resolving Resident Evil Village Crashing Issues on Your Windows PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-stability-problems-in-euro-truck-simulator-2-on-your-computer-system/"><u>Resolving Stability Problems in Euro Truck Simulator 2 on Your Computer System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-tutorial-to-resolve-fifa-2pc-instability-issues-everything-you-need-to-know/"><u>Step-by-Step Tutorial to Resolve FIFA 2#PC Instability Issues - Everything You Need to Know</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-dragon-age-inquisition-fails-to-open/"><u>Troubleshooting Steps When Dragon Age Inquisition Fails to Open</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ling-the-secret-behind-successful-youtube-thumbnails/"><u>Unveiling The Secret Behind Successful YouTube Thumbnails</u></a></li>
+</ul></div>
 

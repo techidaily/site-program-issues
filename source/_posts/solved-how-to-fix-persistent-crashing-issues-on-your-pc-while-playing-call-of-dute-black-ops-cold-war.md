@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] How to Fix Persistent Crashing Issues on Your PC While Playing Call of Dute: Black Ops Cold War"
-date: 2024-12-24T05:08:16.513Z
-updated: 2024-12-27T11:40:07.950Z
+date: 2025-01-03T18:38:18.296Z
+updated: 2025-01-05T20:41:38.327Z
 tags:
   - win11
   - win10
@@ -54,6 +54,10 @@ System requirements of WRC 10 from Steam
 4. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 5. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Verify integrity of game files
 
  Corrupted game files would lead to the game crashing issues. If it’s the case, follow the steps below to verify and repair the game files.
@@ -95,10 +99,6 @@ System requirements of WRC 10 from Steam
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -112,7 +112,7 @@ System requirements of WRC 10 from Steam
  Launch WRC 10 again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
@@ -126,7 +126,7 @@ System requirements of WRC 10 from Steam
  If the game crashing issue persists, try the next fix to perform a clean boot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Perform a clean boot
@@ -137,29 +137,29 @@ System requirements of WRC 10 from Steam
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
@@ -197,19 +197,20 @@ System requirements of WRC 10 from Steam
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-chaos-to-order-youtube-playlists-unveiled-for-2024/"><u>[New] From Chaos to Order YouTube Playlists Unveiled for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-premier-apple-products-mimicking-old-ps2-games/"><u>[New] Premier Apple Products Mimicking Old PS2 Games</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-natural-landscapes-essential-templates-to-improve-your-film-craft-for-2024/"><u>[Updated] Natural Landscapes Essential Templates to Improve Your Film Craft for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-lava-blaze-2-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-photoshop-alternatives-on-android/"><u>2024 Approved Photoshop Alternatives on Android</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battlefield-v-pc-crash-issues-solutions-found/"><u>Battlefield V PC Crash Issues - Solutions Found!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/five-easy-troubleshooting-steps-to-get-genshin-impact-running-smoothly/"><u>Five Easy Troubleshooting Steps to Get Genshin Impact Running Smoothly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-incompatible-device-warning-on-rainbow-six-extraction-games/"><u>Fixing the Incompatible Device Warning on Rainbow Six Extraction Games</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-samsung-galaxy-s23plus-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Samsung Galaxy S23+ Data? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-playtime-preventing-manor-lords-from-crashing-on-your-computer/"><u>Optimizing Playtime: Preventing Manor Lords From Crashing on Your Computer</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/secrets-for-effective-youtube-screen-recording-for-2024/"><u>Secrets for Effective YouTube Screen Recording for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-gaming-experience-how-to-fix-common-world-of-warcraft-crashes-quickly/"><u>Smooth Gaming Experience: How to Fix Common World of Warcraft Crashes Quickly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-resolving-microsoft-edge-crashes-on-windows-11-systems/"><u>Troubleshooting and Resolving Microsoft Edge Crashes on Windows 11 Systems</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unleash-blisteringly-fast-media-playback-with-the-amazon-fire-tv-cube-in-depth-review/"><u>Unleash Blisteringly Fast Media Playback with the Amazon Fire TV Cube – In-Depth Review</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-straightforwardsnapper-w10s-easy-tool/"><u>[New] 2024 Approved StraightforwardSnapper W10's Easy Tool</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-tunes-on-your-phone-top-speed-up-apps/"><u>[New] Quick Tunes on Your Phone Top Speed-Up Apps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-comprehensive-review-transform-your-images-with-facetune/"><u>[Updated] Comprehensive Review Transform Your Images with Facetune</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-decoding-digital-dazzle-an-initial-journey-into-video-standards/"><u>[Updated] Decoding Digital Dazzle An Initial Journey Into Video Standards</u></a></li>
+<li><a href="https://program-issues.techidaily.com/b4b-gobi-crash-troubleshooting-on-udk-fixing-ue4-game-issues-easily/"><u>B4B Gobi Crash Troubleshooting on UDK - Fixing UE4 Game Issues Easily!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diablo-cual-es-la-respuesta-de-dos-resurrected-update-solves-crashing-problems/"><u>Diablo Cuál Es La Respuesta De Dos: Resurrected Update Solves Crashing Problems!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-game-solutions-for-battling-battlefield-2042s-pc-crashes/"><u>Fix Your Game: Solutions for Battling Battlefield 2042'S PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-hitman-3-solutions-for-resolving-connection-failed-issues/"><u>Fixing Hitman 3: Solutions for Resolving 'Connection Failed' Issues</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/hero5-black-meets-hero5-session-a-visual-verdict/"><u>Hero5 Black Meets Hero5 Session – A Visual Verdict</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-prestigious-music-archives-for-vfx-artists/"><u>In 2024, Prestigious Music Archives for VFX Artists</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-restore-lost-sounds-to-twitter-vids/"><u>In 2024, Restore Lost Sounds to Twitter Vids</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-logitech-configuration-challenges-effective-fixes-for-windows-users/"><u>Overcoming Logitech Configuration Challenges: Effective Fixes for Windows Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smart-shopping-for-dash-cams-unpacking-the-top-9-features-and-specifications-you-need-to-know-about/"><u>Smart Shopping for Dash Cams - Unpacking the Top 9 Features and Specifications You Need to Know About</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-showdown-how-facebook-twitter-instagram-stack-up-against-youtube/"><u>Social Media Showdown: How Facebook, Twitter, Instagram Stack Up Against YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-why-are-webpages-unloading-in-google-chrome/"><u>Troubleshooting: Why Are Webpages Unloading in Google Chrome?</u></a></li>
 </ul></div>
 

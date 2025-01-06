@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Oxygen Not Included Crashing Issues"
-date: 2024-12-22T01:17:01.663Z
-updated: 2024-12-26T23:39:59.614Z
+date: 2024-12-31T21:59:50.119Z
+updated: 2025-01-05T19:05:31.148Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 8. **[Check for Windows Updates](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1:**Meet the minimum system requirements**
 
 **The minimum system requirements** are a listing of what hardware devices are required to operate your game properly.
@@ -54,7 +50,7 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Type **dxdiag**  and click **OK** .
@@ -70,10 +66,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
  If your computer meets the minimum requirements, read on and check the fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2:**Restart your computer**
 
@@ -93,13 +85,13 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Restart Oxygen Not Included from Steam.
 
@@ -113,6 +105,10 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Paste   **C:\\Program Files (x86)\\Steam\\steamapps\\common\\Oxygen Not Included** in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-278.png)
@@ -121,21 +117,17 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-282.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-280.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)**  Click the list box below to select**Windows 8** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-279.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Relaunch your game to check if your issue had been resolved.
 
@@ -154,7 +146,7 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-896.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Right-click**Oxygen Not Included** and select**Properties** .
@@ -165,6 +157,10 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-287.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Click the**list box** to open the drop-down menu, select the name of the branch you want to play.
 
  If you’re given a password to unlock the appropriate branch, type the password in the box next to**CHECK CODE** , click**CHECK CODE** and your branch will now be in the dropdown menu.
@@ -174,6 +170,10 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 **6)** Click the**Local Files tab,** then click**VERIFY INTEGRITY OF GAME FILES** . ( Your game will be updated to the new branch, then.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-289.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** Relaunch and play Oxygen Not Included.
 
@@ -193,6 +193,10 @@ If the game crashing issue persists, check the fix below.
 **3)** Restart your computer and your game to test your issue.
 
  This should fix your problem. If it didn’t, don’t fret. Check the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7:**Update your Graphics driver**
 
@@ -230,13 +234,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8:**Check for Windows updates**
 
@@ -249,10 +253,6 @@ OR
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-576.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Restart your computer.
 
@@ -270,10 +270,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
@@ -281,6 +277,10 @@ OR
 **4)**  Highlight the **Oxygen Not Included folder** , and then press the **Del** key on your keyboard to delete the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-277.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Relaunch Steam to download and reinstall Oxygen Not Included. Then, try launching the game again to see if this fixed your problem.
 
@@ -307,24 +307,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-blueprint-strategies-to-profit-from-youtube-adsense/"><u>[Updated] In 2024, The Blueprint Strategies To Profit From YouTube AdSense</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-zte-nubia-z60-ultra-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-lag-and-improve-response-time-in-chivalry-ii-pro-tips-to-optimize-your-gaming-experience/"><u>Eliminate Lag & Improve Response Time in Chivalry II - Pro Tips to Optimize Your Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/end-of-the-line-troubleshooting-for-pc-gamers-solve-crashing-final-stages/"><u>End of the Line Troubleshooting for PC Gamers: Solve Crashing Final Stages</u></a></li>
-<li><a href="https://program-issues.techidaily.com/getting-your-hands-on-doom-eternal-despite-potential-postponement-fixes/"><u>Getting Your Hands on DOOM Eternal Despite Potential Postponement Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-restore-discord-overlay-functionality-without-hiccups/"><u>How to Restore Discord Overlay Functionality Without Hiccups!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-nubia-z50s-pro-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Nubia Z50S Pro to Mac? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Realme 11X 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-the-insider-guide-to-regular-broadcast-etiquette/"><u>In 2024, The Insider Guide to Regular Broadcast Etiquette</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-top-webcam-and-cam-tech-on-the-windows-11-market/"><u>In 2024, Top Webcam & Cam Tech on the Windows 11 Market</u></a></li>
-<li><a href="https://facebook.techidaily.com/instagram-introduces-novel-monetizing-opportunities-for-creators/"><u>Instagram Introduces Novel Monetizing Opportunities for Creators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ios-18-update-enables-inbuilt-call-recording-feature-eliminating-third-party-dependence-reported/"><u>IOS 18 Update Enables Inbuilt Call Recording Feature, Eliminating Third-Party Dependence | Reported</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-roller-champions-multiplayer-mayhem-a-step-by-step-strategy-guide-for-pc-gamers/"><u>Mastering Roller Champions Multiplayer Mayhem: A Step-by-Step Strategy Guide for PC Gamers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-world-of-warcraft-performance-solving-the-ultimate-lag-dilemma-low-fps/"><u>Mastering World of Warcraft Performance: Solving the Ultimate Lag Dilemma (Low FPS)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/the-best-days-to-post-on-youtube-for-2024/"><u>Pick the Best Days to Post on YouTube for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fixes-for-common-wwe-2k20-pc-stability-problems-get-back-to-gaming/"><u>Quick Fixes for Common WWE 2K20 PC Stability Problems - Get Back to Gaming!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-fixing-checking-for-updates-error-in-microsoft-flight-simulator-2020/"><u>Troubleshooting Tips for Fixing 'Checking for Updates' Error in Microsoft Flight Simulator 2020</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722997978900-troubleshooting-your-apex-legends-connections-expert-fixes/"><u>Troubleshooting Your Apex Legends Connections - Expert Fixes!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-phasmophobia-game-crashes-in-224-update/"><u>Ultimate Guide: Solving Phasmophobia Game Crashes in 2^24 Update</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-indoor-games-galore-top-9-screen-less-titles-for-android-gamers/"><u>[New] 2024 Approved Indoor Games Galore Top 9 Screen-Less Titles for Android Gamers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleash-your-potential-full-guide-to-powerdirectors-2024-edition/"><u>[New] Unleash Your Potential Full Guide to PowerDirector's 2024 Edition</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-adding-youtube-captionssubtitles-made-simple-and-fast/"><u>[Updated] Adding YouTube Captions/Subtitles Made Simple and Fast</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-glitch-expert-strategies-to-successfully-start-division-2-on-your-pc/"><u>Beat the Glitch: Expert Strategies to Successfully Start Division 2 on Your PC !</u></a></li>
+<li><a href="https://program-issues.techidaily.com/black-screen-issues-addressed-proven-strategies-to-get-back-online/"><u>Black Screen Issues Addressed: Proven Strategies to Get Back Online</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-economy-and-efficiency-in-camera-technology-with-vixias-r800/"><u>Exploring the Economy and Efficiency in Camera Technology with VIXIA's R800</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-boost-your-steam-game-downloads-and-prevent-lag/"><u>How to Boost Your Steam Game Downloads and Prevent Lag</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-motorola-edge-40-neo-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Motorola Edge 40 Neo to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/outriders-visuals-now-crisp-tackling-the-challenge-of-hazy-graphics/"><u>Outriders Visuals Now Crisp: Tackling the Challenge of Hazy Graphics</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-easy-installation-guide-microsoft-ergonomic-keyboard-4000-drivers/"><u>Quick and Easy Installation Guide: Microsoft Ergonomic Keyboard 4000 Drivers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quick-catch-resurrecting-archived-reddit-content-for-2024/"><u>Quick Catch Resurrecting Archived Reddit Content for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-madden-nfl-2ncrashes-on-your-pc-effective-solutions-and-tips/"><u>Resolving Madden NFL 2Ncrashes on Your PC: Effective Solutions and Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-how-to-fix-the-critical-steam-ui-component-failure-steamuidll/"><u>Solution Found! How to Fix the Critical Steam UI Component Failure (steamui.dll)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooters-no-more-chivalry-2-freezing-up/"><u>Ultimate TroubleShooters: No More Chivalry 2 Freezing Up</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-11-sticky-note-access/"><u>Unlocking Windows 11 Sticky Note Access</u></a></li>
 </ul></div>
 

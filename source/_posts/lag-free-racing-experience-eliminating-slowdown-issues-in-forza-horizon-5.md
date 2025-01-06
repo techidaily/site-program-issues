@@ -1,7 +1,7 @@
 ---
 title: "Lag-Free Racing Experience: Eliminating Slowdown Issues in Forza Horizon 5"
-date: 2024-12-25T20:16:41.109Z
-updated: 2024-12-26T22:18:20.435Z
+date: 2024-12-30T18:48:34.485Z
+updated: 2025-01-05T16:18:05.669Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 5. **[Disable the Steam Overlay](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Close resource-hogging apps](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify the integrity of game files
 
  One common cause of the game crashing issue is corrupted game files. Before trying anything more complicated, you may want to make sure there’s no integrity issue with the game file.
@@ -47,15 +51,7 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 ![Steam game Yakuza 3 Remastered properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Yakuza 3 Remastered verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Launch Yakuza 3 Remastered after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
@@ -94,17 +90,9 @@ If the game still crashes, just move on to next fix, below.
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)  
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -118,6 +106,10 @@ If the game still crashes, just move on to next fix, below.
 
  Run Yakuza 3 Remastered again to see if the game crahes. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Disable the Steam Overlay
 
  Some players reported that the Steam Overlay may interfere with the game, hinder the gaming performance, and even cause the game to crash.
@@ -128,7 +120,15 @@ If the game still crashes, just move on to next fix, below.
 ![Steam game Yakuza 3 Remastered properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run Yakuza 3 Remastered to see if the game crashes. If the issue persists, try the next fix, below.
 
@@ -141,7 +141,7 @@ If the game still crashes, just move on to next fix, below.
 ![Restrict applications and downloads in the background](https://images.drivereasy.com/wp-content/uploads/2019/08/Task-Manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Launch Yakuza 3 Remastered again to see if this fix works.
@@ -168,24 +168,19 @@ Launch Yakuza 3 Remastered again to see if this fix works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-how-to-setup-continuous-auto-video-in-fb/"><u>[New] 2024 Approved How to Setup Continuous Auto-Video in Fb</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-minecraft-wont-launch-in-windows/"><u>[SOLVED] Minecraft Won’t Launch in Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-selective-mounting-gopros-best-6-helmet-accessories/"><u>[Updated] The Ultimate Guide to Selective Mounting GoPro's Best 6 Helmet Accessories</u></a></li>
-<li><a href="https://program-issues.techidaily.com/apex-legends-online-connection-guide-expert-advice-on-getting-you-back-in-the-game/"><u>Apex Legends Online Connection Guide - Expert Advice on Getting You Back in the Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/crash-proof-your-play-pathfinders-wrath-of-the-righteeus-stability-guide/"><u>Crash-Proof Your Play: Pathfinder's 'Wrath of the Righteeus' Stability Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diablo-ii-reincarnation-encounters-obstacles-before-official-debut/"><u>Diablo II: Reincarnation Encounters Obstacles Before Official Debut</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-for-sharing-your-valuable-steam-tokens/"><u>Expert Advice for Sharing Your Valuable Steam Tokens</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-narzo-n55-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme Narzo N55 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-issue-of-outlook-not-launching-properly/"><u>How to Resolve the Issue of Outlook Not Launching Properly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-the-right-click-button-functionality-in-windows-11-systems/"><u>How to Restore the Right Click Button Functionality in Windows 11 Systems</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-dissecting-biggest-fifa-footage-trends-in-graphs/"><u>In 2024, Dissecting Biggest FIFA Footage Trends in Graphs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/los-mejores-10-potenciadores-ai-gratis-para-optimizar-videos-en-windows-y-mac-tu-guia-definitiva-online/"><u>Los Mejores 10 Potenciadores AI Gratis Para Optimizar Videos en Windows Y Mac: Tu Guía Definitiva Online</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-stability-avoid-server-disconnection-woes-in-escape-from-tarkov-with-these-proven-strategies/"><u>Mastering Stability: Avoid Server Disconnection Woes in Escape From Tarkov with These Proven Strategies</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/protecting-sms-on-ios-devices-via-icloud-two-essential-strategies/"><u>Protecting SMS on iOS Devices via iCloud: Two Essential Strategies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-far-cry-6-sudden-shutdowns-on-windows/"><u>Resolved: Fixes for Far Cry 6 Sudden Shutdowns on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solutions-for-corsair-icue-connectivity-problems-in-windows-10-and-11/"><u>Solutions for Corsair iCUE Connectivity Problems in Windows 10 and 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-guide-to-overcoming-incompatibility-messages-in-rainbow-six-extraction/"><u>The Ultimate Guide to Overcoming Incompatibility Messages in Rainbow Six Extraction</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-6-solutions-to-resolve-baldurs-gate-game-lag-and-crashes/"><u>Top 6 Solutions to Resolve Baldur's Gate Game Lag and Crashes</u></a></li>
-<li><a href="https://win-guides.techidaily.com/web-pages-missing-the-frustrating-search-for-whats-lost-in-cyberspace/"><u>Web Pages Missing! The Frustrating Search for What's Lost in Cyberspace</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-boost-viewership-cost-effectively-with-subscriber-purchase/"><u>[New] 2024 Approved Boost Viewership Cost-Effectively with Subscriber Purchase</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-browsing-boredom-away-15-chuckle-inducing-youtubers/"><u>[New] 2024 Approved Browsing Boredom Away 15 Chuckle-Inducing YouTubers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-ultimate-roadmap-to-crafting-high-quality-srt-files/"><u>[New] In 2024, The Ultimate Roadmap to Crafting High-Quality SRT Files</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-fuel-the-spark-essential-themes-for-youtube-success/"><u>[Updated] In 2024, Fuel the Spark Essential Themes for YouTube Success</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/broadcasting-podcasts-on-instagram-features/"><u>Broadcasting Podcasts on Instagram Features</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oneplus-nord-ce-3-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your OnePlus Nord CE 3 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-direct-match-twitchs-battle-against-youtubes-dominance/"><u>In 2024, Direct Match Twitch's Battle Against YouTube's Dominance</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-nostalgia-spin-off-the-goofy-movie-on-tape/"><u>In 2024, Nostalgia Spin-Off The Goofy Movie on Tape</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-launch-errors-in-farming-simulator-22-with-these-fixes/"><u>Overcome Launch Errors in Farming Simulator 22 with These Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-compatibility-hurdles-in-madden-20-on-windows-troubleshooting-tips/"><u>Overcoming Compatibility Hurdles in Madden 20 on Windows - Troubleshooting Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/psychonauts-2-pc-stability-issues-solved-no-more-freezes/"><u>Psychonauts 2 PC Stability Issues Solved - No More Freezes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-for-when-your-google-meet-camera-wont-work-properly/"><u>Quick Fixes for When Your Google Meet Camera Won't Work Properly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-no-available-camera-input-error-in-snap-app/"><u>Resolving 'No Available Camera Input' Error in Snap App</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone 8 | Dr.fone</u></a></li>
 </ul></div>
 

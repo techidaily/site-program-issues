@@ -1,7 +1,7 @@
 ---
 title: "Resolving the ERR_GFX_STATE Issue in Red Dead Redemption 2: A Comprehensive Guide"
-date: 2024-12-19T22:14:12.022Z
-updated: 2024-12-27T00:29:18.722Z
+date: 2025-01-02T00:29:03.919Z
+updated: 2025-01-05T18:10:22.750Z
 tags:
   - win11
   - win10
@@ -47,7 +47,7 @@ Sifu
  Launch Sifu and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Update your graphics driver
@@ -66,6 +66,10 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
@@ -103,6 +107,10 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch Sifu after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Modify graphics card settings
 
  According to many PC gamers, tweaking the graphics card settings in Nvidia or AMD control panel may also gain some in-game FPS boosts.
@@ -126,11 +134,11 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
- Launch Sifu and see if the in-game FPS increases. If not, move on to the next fix, below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Launch Sifu and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Change Windows power plan
 
@@ -141,7 +149,7 @@ There are mainly two methods for you to update the graphics driver:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
@@ -156,15 +164,7 @@ There are mainly two methods for you to update the graphics driver:
 3. If you see a prompt similar to this, go back to the Power Options winow in Control Panel to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lauch the game to see if Sifu’s in-game FPS improves after changing the power plan. If you didn’t see much in-game FPS boosts, read on and try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -180,12 +180,12 @@ There are mainly two methods for you to update the graphics driver:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
@@ -214,19 +214,21 @@ Launch Sifu to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-master-mp4-uploader-and-downloader-fb-edition/"><u>2024 Approved Master MP4 Uploader & Downloader FB Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/accelerate-your-ark-adventure-expert-strategies-for-increasing-fps-in-pc-battles/"><u>Accelerate Your ARK Adventure: Expert Strategies for Increasing FPS in PC Battles</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/te-your-game-with-immediate-skilled-valorant-thumbnails/"><u>Elevate Your Game with Immediate, Skilled Valorant Thumbnails</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/elite-commanders-showdown-the-pinnacle-total-war-clashes-for-2024/"><u>Elite Commanders' Showdown The Pinnacle Total War Clashes for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722991748166-expert-advice-eliminating-nioh-2-full-versions-crashing-glitches-permanently/"><u>Expert Advice: Eliminating Nioh 2 Full Version's Crashing Glitches Permanently</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-constant-conflict-how-to-prevent-warzone-20-from-crashing-on-your-computer/"><u>Fixing the Constant Conflict: How to Prevent Warzone 2.0 From Crashing on Your Computer</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-find-n3-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find N3 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-for-printer-not-available-errors/"><u>Quick Fix for Printer Not Available Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/rectifying-wi-fi-problems-fixing-the-red-x-warnings-on-your-router-icon/"><u>Rectifying Wi-Fi Problems: Fixing the Red 'X' Warnings on Your Router Icon</u></a></li>
-<li><a href="https://video-capture.techidaily.com/soundquality-synopsis-for-2024/"><u>SoundQuality Synopsis for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-when-battlenet-refuses-to-start-guide/"><u>Step-by-Step Solution for When Battle.net Refuses to Start (Guide)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-the-disruptions-correcting-frequent-crashes-in-forza-horizon-navigating-pc-issues/"><u>Stop the Disruptions: Correcting Frequent Crashes in Forza Horizon Navigating PC Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-step-by-step-overcoming-dev-error-mjuzr-zns-6068-in-call-of-duty/"><u>Troubleshooting Step-by-Step: Overcoming Dev Error ˈmjuːzɛr Zɔːn's 6068 in Call of Duty</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-xiaomi-redmi-note-12-pro-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Xiaomi Redmi Note 12 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-charting-success-top-online-video-channels-for-2024/"><u>[Updated] Charting Success Top Online Video Channels for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-getting-acquainted-with-zoom-segregated-sessions/"><u>[Updated] Getting Acquainted with Zoom Segregated Sessions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-elevating-whatsapp-tune-up-your-statuses/"><u>[Updated] In 2024, Elevating WhatsApp Tune Up Your Statuses</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-zte-nubia-z60-ultra-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your ZTE Nubia Z60 Ultra Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/breeze-through-fixing-error-code-0x800f0831-by-updating-windows-effortlessly/"><u>Breeze Through Fixing Error Code 0X800f0831 by Updating Windows Effortlessly</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/detailed-walkthrough-monitoring-and-managing-your-off-facebook-activities/"><u>Detailed Walkthrough Monitoring and Managing Your Off-Facebook Activities</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-it-right-now-why-isnt-my-voice-chat-working-the-warning-explained/"><u>Fix It Right Now: Why Isn't My Voice Chat Working? The Warning Explained</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997877946-fixing-dirt-5-pc-game-freezing-issues-solutions-inside/"><u>Fixing Dirt 5 PC Game Freezing Issues - Solutions Inside!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-techniques-for-gh-video-logging/"><u>In 2024, Techniques for GH Video Logging</u></a></li>
+<li><a href="https://program-issues.techidaily.com/psychonauts-2-for-pc-users-diagnosing-and-fixing-sudden-game-crashes/"><u>Psychonauts 2 for PC Users: Diagnosing and Fixing Sudden Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-your-cs2-performance-woes-a-guide-to-overcoming-fps-dips-and-stutter-for-a-smoother-gaming-experience/"><u>Resolve Your CS2 Performance Woes: A Guide to Overcoming FPS Dips & Stutter for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009084096-solving-slow-chrome-dilemmas-quick-wins-for-browsers/"><u>Solving Slow Chrome Dilemmas – Quick Wins for Browsers</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-experts-guide-to-correcting-severe-ark-failure-insights-and-solutions/"><u>The Expert's Guide to Correcting Severe Ark Failure - Insights & Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722995441501-twitch-sound-not-working-heres-how-you-can-get-it-to-work-perfectly-now/"><u>Twitch Sound Not Working? Here's How You Can Get It to Work Perfectly Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unveiling-why-guilty-gear-strive-was-held-back-from-launch-inside-scoop/"><u>Unveiling Why Guilty Gear Strive Was Held Back From Launch - Inside Scoop</u></a></li>
 </ul></div>
 

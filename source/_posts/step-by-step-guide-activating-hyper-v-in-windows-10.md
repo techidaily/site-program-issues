@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Activating Hyper-V in Windows 10"
-date: 2024-12-25T19:05:22.256Z
-updated: 2024-12-27T03:11:05.596Z
+date: 2024-12-31T16:00:28.705Z
+updated: 2025-01-05T22:18:53.434Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/66cff798b5354c76ea84e33aefd7f5e9482620e0d
 Trying to update your PC to 20H2 but Windows failed to install the updates? It’s really annoying to have updates stuck at 61% forever. Don’t worry, you’re not alone and this post is going to help.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -31,10 +31,6 @@ Trying to update your PC to 20H2 but Windows failed to install the updates? It�
 6. [Free up disk space](https://tools.techidaily.com/drivereasy/download/)
 7. [Reset or reinstall Windows](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Remove periphery devices
 
  This should be the first thing to do when problems occur. This is the easiest way to check whether external devices conflict with Windows Updating Process. By removing all periphery hardware components except for the mouse and keyboard, we’ll know whether it’s a hardware issue.
@@ -42,6 +38,10 @@ Trying to update your PC to 20H2 but Windows failed to install the updates? It�
  If this does sort out the issue, try plugging back each device one by one. In this way, you can recognize which device causes the problem.
 
  If it’s not sorting out the issue, let’s head to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your drivers
 
@@ -70,10 +70,6 @@ Trying to update your PC to 20H2 but Windows failed to install the updates? It�
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-57-09.jpg)
 5. Follow the on-screen instructions to finish the process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Reboot your PC and run Windows Update again. You should be able to finish the feature upgrade to 20H2.
 
 ### Fix 3: Disable antivirus
@@ -96,21 +92,17 @@ If the error persists, move to the next fix.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Troubleshoot** tab on the left panel and click**Additional troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/troubleshoot1.jpg)
 3. Click**Windows Update** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/troubleshoot2.jpg)
 4. Once the process is finished, reboot your PC and update Windows again.
 
 If the error persists, move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -139,6 +131,10 @@ Here’s how to fix it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -151,12 +147,16 @@ Here’s how to fix it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap825.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Type**sfc /scannow** (or copy-paste) and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Restart your computer to check the blue screen issue is fixed or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the result indicates there are broken files but SFC can’t fix them, you can turn to[Deployment Image Servicing and Management (DISM) Tool](https://tools.techidaily.com/drivereasy/download/) for deeper examination and repair.
@@ -171,6 +171,10 @@ Here’s how to fix it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3efb39ec79c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you want to reduce the amount of space being used:
 
 1. Click**Free up space now** .![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3ea56da75b4.jpg)
@@ -182,13 +186,17 @@ If you want to reduce the amount of space being used:
 4. Wait for the cleaning process to be complete.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This should free up an amount of space for you. But if that isn’t enough for you, then you should check if there are other files or programs you may want to remove:
 
 1. Click the**left arrow** in the upper left corner of the window to go back to the storage settings.![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3f0094a368f.jpg)
 2. Click_the disk you’re going to clean up_ .![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3f021078a01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Check the space usage of_each data type_ . If you want to manage the usage of a type,**click it** to view more details.  
 
@@ -200,15 +208,7 @@ If you want to reduce the amount of space being used:
    * …  
    ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3f07dd26e5a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This should free up a lot of space for your Windows 10 computer. Reboot your PC and update your system.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Reset or reinstall Windows
 
@@ -237,15 +237,22 @@ If you want to reduce the amount of space being used:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-push-boundaries-with-unique-split-screen-videos-for-youtube/"><u>[New] 2024 Approved Push Boundaries with Unique Split-Screen Videos for YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-transform-images-on-the-fly-the-best-overlay-apps-for-android-and-iphone-for-2024/"><u>[Updated] Transform Images on the Fly – The Best Overlay Apps for Android & iPhone for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-delay-expert-tips-for-optimizing-game-performance-on-your-pc/"><u>Beat the Delay: Expert Tips for Optimizing Game Performance on Your PC</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/capture-clarity-strip-away-background-noise/"><u>Capture Clarity Strip Away Background Noise</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-samsung-galaxy-m14-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Samsung Galaxy M14 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-slow-and-steady-wins-the-game-top-10-video-players/"><u>New 2024 Approved Slow and Steady Wins the Game Top 10 Video Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-directx-hitches-in-your-modern-warfare-2-gaming-experience/"><u>Overcoming DirectX Hitches in Your Modern Warfare 2 Gaming Experience</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-backward-playbook-youtubes-video-flip-for-2024/"><u>The Backward Playbook YouTube's Video Flip for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-prevent-battlefront-ii-from-crashing-on-windowslinuxmacos/"><u>Troubleshooting Guide - How to Prevent Battlefront II From Crashing on Windows/Linux/MacOS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/valorant-gameplay-how-to-eliminate-pc-latency-problems-for-a-smooth-experience/"><u>Valorant Gameplay: How to Eliminate PC Latency Problems for a Smooth Experience</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-elevate-editing-mastering-inshot-for-laptopspcs/"><u>[New] In 2024, Elevate Editing Mastering Inshot for Laptops/PCs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-stellar-background-choices-for-effective-video-conferencing/"><u>[New] In 2024, Stellar Background Choices for Effective Video Conferencing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-captivate-audiences-with-fb-live-todays-way/"><u>[Updated] How to Captivate Audiences with FB Live, Today's Way</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-strategic-guide-to-unlocking-worlds-secrets-via-vr-for-2024/"><u>A Strategic Guide to Unlocking World's Secrets via VR for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-customization-what-are-the-risks/"><u>ChatGPT Customization: What Are the Risks?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-nokia-130-music-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Nokia 130 Music to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-investment-insights-15-must-see-youtube-channels/"><u>In 2024, Investment Insights 15 Must-See YouTube Channels</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-youtube-srt-extracts-a-triad-approach/"><u>In 2024, Mastering YouTube SRT Extracts A Triad Approach</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp4-to-dvd-video-conversion-step-by-step-tutorial-for-high-quality-disc-burn/"><u>MP4 to DVD-Video Conversion: Step-by-Step Tutorial for High-Quality Disc Burn</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-technical-glitches-in-the-enchanted-blade-series-book-seven-playing-smoothly-on-your-computer/"><u>Overcome Technical Glitches in the Enchanted Blade Series: Book Seven Playing Smoothly on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-ways-to-fix-crash-when-trying-to-load-palworld/"><u>Quick Ways to Fix Crash When Trying to Load Palworld</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-internet-explorers-page-display-problems-for-a-smooth-browsing-experience/"><u>Resolving Internet Explorer's Page Display Problems for a Smooth Browsing Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-issue-adobe-app-error-code-0xc0000022-how-to-fix-it/"><u>Resolving the Issue: Adobe App Error Code 0xC0000022 - How To Fix It?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-connectivity-problems-in-lol-a-comprehensive-guide/"><u>Solved: How to Fix Connectivity Problems in LoL - A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/supercharge-your-game-a-comprehensive-guide-to-boosting-fps-in-horizon-zero-dawn/"><u>Supercharge Your Game: A Comprehensive Guide to Boosting FPS in Horizon Zero Dawn</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-with-starting-dragons-dogma-2-heres-how-to-fix-it/"><u>Trouble with Starting Dragon's Dogma 2? Here's How to Fix It!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-corsair-icue-issues-in-windows-11/"><u>Troubleshooting Steps: Resolving Corsair iCUE Issues in Windows 11</u></a></li>
 </ul></div>
 

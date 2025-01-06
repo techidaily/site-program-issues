@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Gaming with These Simple Fixes for 'Disco Elysium' On PC
-date: 2024-09-05T23:23:02.183Z
-updated: 2024-09-06T23:23:02.183Z
+date: 2024-12-31T18:47:02.998Z
+updated: 2025-01-05T17:12:19.145Z
 tags:
   - win11
   - win10
@@ -13,22 +13,14 @@ excerpt: This Article Describes Enhance Your Gaming with These Simple Fixes for 
 thumbnail: https://thmb.techidaily.com/f1c57303ea622caa2e3702d3e2a77e00493f995e737fa90087cc4940fcb0139c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Overcoming the Hurdles: Restart Your Adventure in Maplestory with These Fixes
 
 MapleStory is a popular 2D side-scrolling MMORPG game developed by a South Korean company called Wizet. It’s an old game but it still has crashes like can’t launch. If you encountered the issue, don’t worry, you’re not alone. The post has gathered some working fixes that may help you fix this issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -39,6 +31,10 @@ MapleStory is a popular 2D side-scrolling MMORPG game developed by a South Korea
 4. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Use Registry editor](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  This fix worked for some players. It’s easy to try, so I recommend this fix as your first solution.
@@ -47,19 +43,11 @@ MapleStory is a popular 2D side-scrolling MMORPG game developed by a South Korea
 2. Right-click on the shortcut and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. In the Compatibility tab, click**Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Chang Compatibility Mode
@@ -71,11 +59,9 @@ MapleStory is a popular 2D side-scrolling MMORPG game developed by a South Korea
 3. In the**Compatibility** tab, check**Run this program in compatibility mode for** and select**Windows 7** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/compatibility.jpg)
 4. Launch the game to check.
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Change System Configuration
@@ -84,12 +70,6 @@ MapleStory is a popular 2D side-scrolling MMORPG game developed by a South Korea
 2. Type**msconfig** and press**Enter.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig.jpg)
 3. Click the**Services** tab and check**Hide all Microsoft services** on the bottom left corner.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 4. Disable all that on the left, beside NVIDIA Display Container.
 
@@ -119,18 +99,6 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -144,21 +112,14 @@ OR
 2. End up all the Nexon files and Maplestory files by clicking**End Task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/end-task-in-task-manager.png)
 3. Press the Windows logo key + R to open the Run box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Type**regedit** and press Enter.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 5. Press**Windows key + F** together open the search menu.
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Type**soScreenMode** and press Enter.
 7. Change the**0** to**3** . Save the change.
 8. Launch the game in compatibility mode and check.
@@ -173,8 +134,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +141,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-enjoy-games-not-glitches-use-nvidia/"><u>[New] In 2024, Enjoy Games, Not Glitches - Use NVIDIA</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-tomtoms-actioncamera-reveal-2023-edition/"><u>[New] In 2024, TomTom's ActionCamera Reveal - 2023 Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-sharex-review-and-best-alternatives-for-2024/"><u>[New] ShareX Review and Best Alternatives for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-modern-warfare-freezing-on-pc/"><u>[SOLVED] Modern Warfare Freezing on PC</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-painless-audio-progression-the-unobtrusive-way-for-2024/"><u>[Updated] Painless Audio Progression The Unobtrusive Way for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-peer-reviewed-evaluation-of-action-screening-tech/"><u>[Updated] Peer-Reviewed Evaluation of Action Screening Tech</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquering-common-fortnite-hurdles-your-complete-guide-to-fixing-error-code-84/"><u>Conquering Common Fortnite Hurdles – Your Complete Guide to Fixing Error Code 84</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-slow-load-durations-in-fallout-4-expert-hacks-and-strategies/"><u>Eliminate Slow Load Durations in Fallout 4: Expert Hacks and Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-idt-hd-audio-driver-problems-for-windows-11-users/"><u>How to Fix IDT HD Audio Driver Problems for Windows 11 Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-flight-dynamics-unveiling-bebops-parrot-capabilities/"><u>In 2024, Flight Dynamics Unveiling Bebop’s Parrot Capabilities</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-walking-through-time-a-guide-to-inverted-videos-on-instagram/"><u>In 2024, Walking Through Time A Guide to Inverted Videos on Instagram</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-tackling-silent-playthroughs-of-fallout-ebuilding-a-solar-panel-system/"><u>Quick Fixes: Tackling Silent Playthroughs of Fallout Ebuilding a Solar Panel System</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-guide-getting-multiversus-running-smoothly-on-your-pc/"><u>Quick Guide: Getting MultiVersus Running Smoothly on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolvendo-problemas-com-a-tela-de-carregamento-do-futebol-clube-em-football-manager-2021/"><u>Resolvendo Problemas Com a Tela De Carregamento Do Futebol Clube Em Football Manager 2021</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-puzzle-of-cyberpunk-2077-interruptions-essential-strategies-for-a-seamless-play/"><u>Solving the Puzzle of Cyberpunk 2077 Interruptions: Essential Strategies for a Seamless Play!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-thunder-tier-ones-continuous-pc-malfunction-issues/"><u>Solving Thunder Tier One's Continuous PC Malfunction Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-solving-mass-effect-legendary-edition-freezes-on-pc-and-xbox/"><u>Troubleshooting Steps: Solving Mass Effect Legendary Edition Freezes on PC and Xbox</u></a></li>
+</ul></div>
 

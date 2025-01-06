@@ -1,7 +1,7 @@
 ---
 title: Battlefield 5 PC Stability Guide - Solve Your Game Crash Problems!
-date: 2024-12-24T12:35:05.673Z
-updated: 2024-12-27T09:56:54.934Z
+date: 2025-01-05T00:07:22.302Z
+updated: 2025-01-05T23:08:38.195Z
 tags:
   - win11
   - win10
@@ -55,31 +55,27 @@ _**War Thunder**_ keeps crashing on startup, or it constantly closes to desktop 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Check your **Operating System, Processor, Memory** and**DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-91.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
- If your computer meets the minimum requirements, read on and check the fix, below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If your computer meets the minimum requirements, read on and check the fix, below.
 
 ### Fix 2: **Restart your computer**
 
@@ -88,7 +84,7 @@ _**War Thunder**_ keeps crashing on startup, or it constantly closes to desktop 
  If**_War Thunder_** still crashes your computer, then go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: **Run your game as an Administrator**
@@ -105,23 +101,19 @@ _**War Thunder**_ or Steam sometimes can’t access certain game files on your c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Relaunch Steam and**War Thunder** to test your issue.
 
  You can hopefully run the game without crashing now. If the problem still exists, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: **Install the latest game patch**
 
  The developers of **_War Thunder_** release regular game patches to fix bugs. It’s possible that a recent patch has stopped your game from running correctly, and that a new patch is required to fix it.
 
  To check if there is any update, go to the **[War Thunder website](https://warthunder.com/en/game/changelog/) [](https://remnant.ghost.io/)**  and search for the latest patch**.**  If a patch is available, install it, then run your game again to check whether the crashing problem has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Verify the integrity of game files
 
@@ -133,6 +125,10 @@ _**War Thunder**_ or Steam sometimes can’t access certain game files on your c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click **War Thunder** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-79.png)
@@ -140,6 +136,10 @@ _**War Thunder**_ or Steam sometimes can’t access certain game files on your c
 **4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for the scans to be complete, then relaunch your game to see if your problem has been resolved. If not, try the next fix.
 
@@ -190,10 +190,6 @@ OR
 
 If your issue persists, then try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Change your PC’s Power Settings
 
  The power plan on all computers is set to Balanced by default to save more energy, so your computer sometimes will slow down to save energy, which could cause War Thunder to crash. Follow the instructions below to see how to fix it:
@@ -202,13 +198,13 @@ If your issue persists, then try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select **Power Options.**
 
@@ -218,14 +214,10 @@ If your issue persists, then try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart your computer and your game to see if this worked for you. If your problem persists, try the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8: Reinstall your game
@@ -242,6 +234,10 @@ If your issue persists, then try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-77.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click **DELETE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-78.png)
@@ -253,6 +249,10 @@ If your issue persists, then try the next fix below.
 **6)** On your keyboard, press the **Windows logo**  key and **E**  at the same time to open File Explorer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/WAR-THUNDER-CRASH-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** Paste**C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
@@ -287,14 +287,22 @@ If your issue persists, then try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-premier-knowledge-trivia-video-channels/"><u>[New] In 2024, Premier Knowledge Trivia Video Channels</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-seamless-integration-of-movies-and-animations-using-movie-maker/"><u>[New] Seamless Integration of Movies and Animations Using Movie Maker</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-beat-saber-keeps-crashing/"><u>[Solved] Beat Saber Keeps Crashing</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-enhancing-youtube-viewing-experience-with-right-video-formats/"><u>[Updated] 2024 Approved Enhancing YouTube Viewing Experience with Right Video Formats</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ensuring-uninterrupted-gameplay-fixing-crashes-in-forza-horizon-5-for-pc-users/"><u>Ensuring Uninterrupted Gameplay: Fixing Crashes in Forza Horizon 5 for PC Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/immediate-remedies-for-a-smooth-borderlands-3-gaming-experience/"><u>Immediate Remedies for a Smooth Borderlands 3 Gaming Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-capture-and-complement-expert-choices-for-frame-integrating-sites/"><u>In 2024, Capture & Complement Expert Choices for Frame-Integrating Sites</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-gaming-ahead-quick-fixes-to-stop-titanfall-2-from-crashing/"><u>Smooth Gaming Ahead: Quick Fixes to Stop Titanfall 2 From Crashing</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-things-to-review-before-investing-in-an-off-contract-cellular-gadget/"><u>Top Things to Review Before Investing in an Off-Contract Cellular Gadget</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-insiders-guide-to-youtube-success/"><u>[New] The Insider's Guide to YouTube Success</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-navigating-through-digital-profit-landscapes/"><u>2024 Approved Navigating Through Digital Profit Landscapes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoiding-suspension-understanding-and-resolving-dota-2s-anti-cheat-mechanism/"><u>Avoiding Suspension: Understanding and Resolving Dota 2'S Anti-Cheat Mechanism</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-black-screen-issues-in-fallout-4-effective-solutions-inside/"><u>Banish Black Screen Issues in Fallout 4: Effective Solutions Inside</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-redmi-13c-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-installation-tips-for-msfs-2020-overcoming-the-checking-for-updates-hurdle/"><u>Effortless Installation Tips for MSFS 2020: Overcoming the 'Checking For Updates' Hurdle</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminate-rdr2-memory-crashes-a-step-by-step-guide-to-upping-your-pagefile-size/"><u>Eliminate RDR2 Memory Crashes: A Step-by-Step Guide to Upping Your Pagefile Size</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/googles-goldmine-a-simplified-three-step-blueprint-for-calculating-subscriber-earning-potential/"><u>Google's Goldmine A Simplified Three-Step Blueprint for Calculating Subscriber Earning Potential</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-skyline-city-building-freezes-in-simcity-buildit-on-windows/"><u>How to Resolve Skyline City Building Freezes in SimCity BuildIt on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722995970048-how-to-stop-ghost-recon-breakpoint-from-freezing-simple-solutions/"><u>How to Stop Ghost Recon Breakpoint From Freezing - Simple Solutions!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s without Passcode or Face ID</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovation-hub-selecting-the-best-nintendo-switch-docks-of-2024/"><u>Innovation Hub: Selecting the Best Nintendo Switch Docks of 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/simplify-your-streaming-6-techniques-to-quickly-shrink-mp4-files/"><u>Simplify Your Streaming: 6 Techniques to Quickly Shrink MP4 Files</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005365996-solving-performance-dips-in-nioh-2-optimize-your-frame-rate-now/"><u>Solving Performance Dips in Nioh 2: Optimize Your Frame Rate Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/struggling-with-utorrent-crashing-or-freezing-try-these-proven-methods/"><u>Struggling with UTorrent Crashing or Freezing? Try These Proven Methods</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-24-unbeatable-christmas-promotions-on-tech-products-from-dell-scouted-across-best-buy-amazon-and-newegg-zdnet/"><u>Top 24 Unbeatable Christmas Promotions on Tech Products From Dell - Scouted Across Best Buy, Amazon & Newegg | ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-for-life-is-strange-true-colors-eliminate-crashes/"><u>Troubleshooting Guide for Life Is Strange: True Colors - Eliminate Crashes</u></a></li>
 </ul></div>
 

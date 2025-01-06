@@ -1,7 +1,7 @@
 ---
 title: Mastering Stability Tweaks to Fix and Optimize Elite Dangerous on Your Personal Computer
-date: 2024-12-20T21:48:00.302Z
-updated: 2024-12-26T17:21:32.660Z
+date: 2025-01-04T22:12:34.792Z
+updated: 2025-01-05T18:26:12.908Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes…
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
  Before we dive into anything advanced, please make sure you’ve tried to reboot your PC in case it was just a one-time glitch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## System requirements for Super People
@@ -73,12 +73,12 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/Steam-right-click-Properties.jpg)
 2. Under the**Local files** tab, click**Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-game-files-1.jpg)
 3. It may take a while for Steam to finish the process. When it’s done, restart the Steam client and launch the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If the problem persists, try the next fix.
 
@@ -94,15 +94,11 @@ If the problem persists, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -130,6 +126,10 @@ If the problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues while using Fortect, feel free to contact their free support service.
 
 ## Fix 5: Disable overlays
@@ -145,10 +145,6 @@ If the problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-07_14-56-20.jpg)
 3. Click **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also disable Steam overlay only for Super People, if your other games run just fine. Here’s how:
 
 1. In your Steam library, right-click Super People CBT and click **Properties** .  
@@ -156,7 +152,7 @@ If the problem persists, try the next fix.
 2. Under the **General tab** , make sure **Enable the Steam Overlay while in-game is unchecked** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-07_14-59-03.jpg)
@@ -167,9 +163,17 @@ If the problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-05_15-52-40.jpg)
 2. On the left panel, scroll down and find **Game Overlay** . Toggle off **Enable in-game overlay** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-05_15-53-25.jpg)
 
 If disabling in-game overlays doesn’t help, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Keep your system up-to-date
 
@@ -199,10 +203,6 @@ If disabling in-game overlays doesn’t help, try the next fix.
 
  X64 is for 64-bit and X84 is for 32-bit. If your PC is a 32-bit version, you won’t be able to run Super People since it’s not supported.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 8: Reinstall Super People
 
  If the fixes above didn’t solve your problem, you can try to reinstall the entire game. This may help if the previous installation was somehow interrupted and caused the random crashes.
@@ -230,20 +230,24 @@ If disabling in-game overlays doesn’t help, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-masterful-phone-apps-altering-speech-patterns/"><u>[New] In 2024, Masterful Phone Apps Altering Speech Patterns</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-rapid-capture-visuals-and-voices-together-for-2024/"><u>[New] Rapid Capture Visuals & Voices Together for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-5-tricks-for-instantly-boosting-youtube-subscribers/"><u>2024 Approved 5 Tricks for Instantly Boosting YouTube Subscribers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-navigating-the-netizens-realm-youtube-videos-fb/"><u>2024 Approved Navigating the Netizen's Realm YouTube Videos FB</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/alan-wake-2-stability-fixes-and-optimization-tips-players/"><u>Alan Wake 2 Stability Fixes and Optimization Tips Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/essential-guide-6-reliable-methods-to-restore-your-terraria-game-connection/"><u>Essential Guide: 6 Reliable Methods to Restore Your Terraria Game Connection</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-on-getting-your-lost-ark-running-smoothly-again-2024-edition/"><u>Expert Tips on Getting Your Lost Ark Running Smoothly Again, 2024 Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-errors-in-rainbow-six-extraction-overcoming-driverhardware-conflicts/"><u>Fixing Errors in Rainbow Six Extraction - Overcoming Driver/Hardware Conflicts</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-compact-and-convenient-installation-of-aomei-backupper-on-the-go/"><u>How To: Compact and Convenient Installation of AOMEI Backupper on the Go</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-crashes-in-wwe-2k22-for-pc-a-step-by-step-guide-to-a-smooth-gaming-experience/"><u>No More Crashes in WWE 2K22 for PC: A Step-by-Step Guide to a Smooth Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimize-your-computer-for-seamless-gaming-strategies-to-address-and-prevent-low-fps-scenarios/"><u>Optimize Your Computer for Seamless Gaming: Strategies to Address and Prevent Low FPS Scenarios</u></a></li>
-<li><a href="https://program-issues.techidaily.com/reasons-and-fixes-for-sudden-shutdowns-in-ghostwire-tokyo-on-windows-pcs/"><u>Reasons and Fixes for Sudden Shutdowns in Ghostwire: Tokyo on Windows PCs</u></a></li>
-<li><a href="https://win-great.techidaily.com/step-by-step-tutorial-on-utilizing-windows-defender-for-enhanced-security-yl-software-insights/"><u>Step-by-Step Tutorial on Utilizing Windows Defender for Enhanced Security - YL Software Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-non-hdcp-compatible-monitors/"><u>Troubleshooting: Fixing Non-HDCP Compatible Monitors</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-cutting-edge-8-streaming-selectors/"><u>[New] In 2024, Cutting-Edge 8 Streaming Selectors</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-pathway-to-perfect-audio-placement-on-youtube/"><u>[Updated] In 2024, The Pathway to Perfect Audio Placement on YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unravel-the-mysteries-of-morphvox-the-ultimate-guide-to-voice-modification/"><u>[Updated] In 2024, Unravel the Mysteries of MorphVOX The Ultimate Guide to Voice Modification</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-game-over-5-immediate-fixes-for-world-of-warships-pc-performance-and-stability/"><u>Beat the Game Over: 5 Immediate Fixes for World of Warships PC Performance & Stability</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-initialization-errors-for-an-optimal-experience-on-refunded-diablo-legacy-redefined/"><u>Bypassing Initialization Errors for an Optimal Experience on [REFUNDED] Diablo: Legacy Redefined</u></a></li>
+<li><a href="https://program-issues.techidaily.com/doom-eternal-crash-woes-heres-how-you-can-rectify-them/"><u>DOOM Eternal Crash Woes? Here's How You Can Rectify Them</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003411247-effortless-fixes-how-to-overcome-apex-legends-load-issues-in-minutes/"><u>Effortless Fixes: How to Overcome Apex Legends Load Issues in Minutes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-gaming-experience-combat-frame-rate-drop-issues-in-resident-evil-village-for-pc-gamers-resolved/"><u>Enhancing Gaming Experience: Combat Frame Rate Drop Issues in Resident Evil Village for PC Gamers - Resolved!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6 to Android? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-poco-x5-pro-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Poco X5 Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-update-glitches-discord-patched-its-most-recent-software-issue/"><u>No More Update Glitches: Discord Patched Its Most Recent Software Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-directive-not-empty-hurdle-insights-to-eradicate-error-0x80070091/"><u>Overcoming the Directive Not Empty Hurdle: Insights to Eradicate Error 0X80070091</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-problems-with-persona-3-reload-game-crashes-and-not-loading/"><u>Resolving Problems with Persona 3 Reload Game Crashes and Not Loading</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-ineterr-missing-resource-issue-a-step-by-step-guide/"><u>Resolving the [InetErr] Missing Resource Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009374231-troubleshoot-and-enhance-your-steam-remote-play-experience-today/"><u>Troubleshoot and Enhance Your Steam Remote Play Experience Today!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-iphones-fix-the-persistent-no-more-lines-error-effectively/"><u>Troubleshoot iPhones: Fix the Persistent No More Lines Error Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-csgo-steps-to-resolve-non-launch-issues/"><u>Troubleshooting CS:GO - Steps to Resolve Non-Launch Issues</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/unveiling-the-buzz-around-microsofts-discreet-feature-launch-a-closer-look-by-zdnet/"><u>Unveiling the Buzz Around Microsoft's Discreet Feature Launch - A Closer Look by ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/visual-wit-iphone-memetic-formats/"><u>Visual Wit IPhone Memetic Formats</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Defeating Lag and Glitches: A Player's Manual for Fixing FIFA 19 PC Stability Problems"
-date: 2024-12-24T10:56:17.322Z
-updated: 2024-12-27T08:20:28.963Z
+date: 2025-01-03T16:31:58.584Z
+updated: 2025-01-05T16:39:02.881Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -37,6 +37,10 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 7: Stop overlocking your GPU/CPU](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 8: Disable fullscreen optimizations](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
 
@@ -58,10 +62,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart the game after the process is complete.
 
 If Phasmophobia still crashes, move on to the next fix below.
@@ -79,7 +79,7 @@ Game crashing issues might happen when your game files are corrupted.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Delete everything except these:
@@ -89,6 +89,10 @@ Game crashing issues might happen when your game files are corrupted.
 5) Relaunch the game to test the issue.
 
 If the game still crashes, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -108,10 +112,6 @@ If the game still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
@@ -126,6 +126,10 @@ If the game still crashes, try the next fix below.
 
 If the crash still occurs, go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Lower your graphics settings
 
  If your computer is not powerful enough to handle Phasmophobia, you may run into performance issues from time to time. One workaround for this is lowering your in-game graphics settings.
@@ -137,6 +141,10 @@ If the crash still occurs, go ahead with the next fix.
 3) Turn down everything as low as possible.
 
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Launch the game with DirectX 10
 
@@ -150,16 +158,12 @@ If the crash still occurs, go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Launch the game to see if your problem has been resolved.
 
 If Phasmophobia crashing issues persist, try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Stop overlocking your GPU/CPU
@@ -181,10 +185,6 @@ If Phasmophobia crashing issues persist, try the next fix below.
  4) Relaunch the game to test your issue.
 
 If the problem still exists, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 9: Try Phasmophobia beta version
 
@@ -217,24 +217,16 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-expert-selection-prime-auto-tracking-tech-review-for-2024/"><u>[New] Expert Selection Prime Auto Tracking Tech Review for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-secrets-to-a-never-ending-snapstreak-inside-knowledge/"><u>[New] Secrets to a Never-Ending Snapstreak Inside Knowledge</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-gentle-audio-dimming-methods-in-os-xwindows-for-2024/"><u>[Updated] Gentle Audio Dimming Methods in OS X/Windows for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-making-your-mark-on-facebooks-algorithmic-landscape-for-2024/"><u>[Updated] Making Your Mark on Facebook's Algorithmic Landscape for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-staying-grounded-in-vr-worlds/"><u>[Updated] Staying Grounded in VR Worlds</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/a-comprehensive-fix-it-workshop-addressing-total-war-saga-troy-pc-game-crashes/"><u>A Comprehensive Fix-It Workshop: Addressing Total War Saga: Troy PC Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723000478166-black-screen-fix-guide-for-cyberpunk-2077-players-success-stories-inside/"><u>Black Screen Fix Guide for Cyberpunk 2077 Players - Success Stories Inside</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-to-follow-tips-to-fix-crashing-glitches-while-playing-modern-warfare-3-on-windows-computers/"><u>Easy-to-Follow Tips to Fix Crashing Glitches While Playing Modern Warfare 3 on Windows Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-available-resolving-horizon-zero-dawn-pc-game-crash-issues/"><u>Fixes Available: Resolving Horizon Zero Dawn PC Game Crash Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-starting-problems-with-rainbow-six-siege-game/"><u>How to Overcome Starting Problems with Rainbow Six Siege Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-restore-sync-on-your-steam-account-after-a-cloud-error/"><u>How to Restore Sync on Your Steam Account After a Cloud Error</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-step-by-step-save-instagram-videos-on-desktop-devices/"><u>In 2024, Step-by-Step Save Instagram Videos on Desktop Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-art-of-preventing-counter-strike-2-pc-problems-comprehensive-troubleshooting-techniques/"><u>Master the Art of Preventing Counter-Strike 2 PC Problems - Comprehensive Troubleshooting Techniques</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reestablishing-communication-hdmi-between-gadgets-worked-again/"><u>Reestablishing Communication: HDMI Between Gadgets Worked Again</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-fixes-for-black-screens-while-playing-resident-evil-village-on-pc/"><u>Troubleshooting and Fixes for Black Screens While Playing Resident Evil Village on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-stop-modern-warfare-3-from-crashing-on-your-pc/"><u>Troubleshooting Guide: How to Stop Modern Warfare 3 From Crashing on Your PC</u></a></li>
-<li><a href="https://fox-making.techidaily.com/understanding-additional-control-button-options-in-flip-book-production-with-flipbuildercom/"><u>Understanding Additional Control Button Options in Flip Book Production with FlipBuilder.com</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-video-editing-software-for-beginners-2024-freeandpaid/"><u>Updated Best Video Editing Software for Beginners 2024 Free&Paid</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-ignite-interest-essential-themes-for-engaging-channels/"><u>[New] 2024 Approved Ignite Interest Essential Themes for Engaging Channels</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-zany-zooms-iphone-meme-world/"><u>[New] 2024 Approved Zany Zooms IPhone Meme World</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-extreme-sports-gopro-vs-star-sj7-comparison/"><u>[New] Extreme Sports GoPro Vs Star SJ7 Comparison</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-comprehensive-blueprint-to-youtube-banner-effectiveness/"><u>[New] The Comprehensive Blueprint to YouTube Banner Effectiveness</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-evolution-of-4k-a-look-at-the-d500-model/"><u>[Updated] 2024 Approved The Evolution of 4K A Look at the D500 Model</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-gaming-experience-with-these-painless-fixes-for-dying-light-fps-problems/"><u>Boost Your Gaming Experience with These Painless Fixes for Dying Light FPS Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ensuring-smooth-gameplay-star-citizens-crash-fix-for-windows-users/"><u>Ensuring Smooth Gameplay: Star Citizen's Crash Fix for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-helldiver-2-resolving-the-issue-of-a-black-screen-at-boot/"><u>Fixing Helldiver 2: Resolving the Issue of a Black Screen at Boot</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-high-latency-problems-in-warzone-20-with-these-proven-strategies-updated-tips-players/"><u>Solve High Latency Problems in Warzone 2.0 with These Proven Strategies - Updated Tips Players</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-is-now-how-generative-ai-like-chatgpt-could-revolutionize-job-roles/"><u>The Future Is Now: How Generative AI Like ChatGPT Could Revolutionize Job Roles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ubisoft-services-down-heres-how-to-get-your-connection-up/"><u>Ubisoft Services Down? Here's How to Get Your Connection Up</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving Destiny 2 Graphical Glitches - Initialization Error Fix
-date: 2024-12-21T10:14:08.124Z
-updated: 2024-12-26T18:48:44.903Z
+date: 2025-01-03T18:09:15.090Z
+updated: 2025-01-05T23:29:37.694Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ STAR WARS The Old Republic (SWTOR) window does not show after you press Play? Yo
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -48,10 +44,6 @@ STAR WARS The Old Republic (SWTOR) window does not show after you press Play? Yo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_11-51.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Running third-party programs in the background can also interfere with your game and lead to issues like this (_especially overlay programs_ ). So, if you’re running multiple programs while gaming, please close them to rule out software conflicts and free up resources for your game.
 
  If your**antivirus** is running, temporarily disable it and check if the problem persists. This is because antivirus sometimes mistakenly identifies the game login module as a security threat.
@@ -61,6 +53,10 @@ STAR WARS The Old Republic (SWTOR) window does not show after you press Play? Yo
  If SWTOR works properly after you disable the antivirus software, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution.
 
 If SWTOR still won’t start, read on and try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run SWTOR in Admin mode
 
@@ -73,10 +69,6 @@ If SWTOR still won’t start, read on and try the next fix below.
 **3)** Click the **Compatibility** tab and check **Run this program as an administrator** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_17-00-12-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Relaunch your game to see if this helped.
 
@@ -98,6 +90,10 @@ If this doesn’t work for you, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-17-00.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -105,7 +101,7 @@ If this doesn’t work for you, then go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-17-08.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -118,7 +114,7 @@ If this doesn’t work for you, then go ahead with the next fix.
 If your game still won’t launch, then go ahead with the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of game files
@@ -144,7 +140,7 @@ If your game still won’t launch, then go ahead with the fix below.
 If SWTOR is still unplayable, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Delete the BitRaider folder
@@ -173,13 +169,13 @@ If SWTOR is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-20-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Select**Notepad** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-20-56.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Find the matching section in the file and delete the 4 lines and replace them with this:
 
@@ -189,6 +185,10 @@ If SWTOR is still unplayable, move on to the next fix.
  **, “bitraider\_disable”: “true”**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-43-29.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** On your keyboard, press the**Ctrl key and S** to save the changes. Then close Notepad.
 
@@ -227,24 +227,22 @@ If SWTOR is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-full-features-explored-logitechs-professional-4k-cam/"><u>[New] 2024 Approved Full Features Explored Logitech’s Professional 4K Cam</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-comic-crafting-mastering-7-cheeky-content-strategies/"><u>[New] In 2024, Comic Crafting Mastering 7 Cheeky Content Strategies</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-iphone-photography-simplified-adopt-these-10-easy-rules/"><u>[New] IPhone Photography Simplified Adopt These 10 Easy Rules</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722992324291-solved-valheim-wont-launch-at-startup-2024/"><u>[Solved] Valheim Won't Launch at Startup 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-flawless-free-download-of-youtube-video-covers-no-hurdles-in-2024/"><u>[Updated] Flawless Free Download of YouTube Video Covers - No Hurdles, In 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-instagram-posting-tips-to-boost-your-podcast-exposure/"><u>2024 Approved Instagram Posting Tips to Boost Your Podcast Exposure</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210642634-9781958921029-ancestors/"><u>Ancestors | Free Book</u></a></li>
-<li><a href="https://program-issues.techidaily.com/causes-and-solutions-for-preventing-hyper-scape-from-crashing-on-windows/"><u>Causes and Solutions for Preventing Hyper Scape From Crashing on Windows</u></a></li>
-<li><a href="https://facebook.techidaily.com/constructing-a-secure-social-media-network/"><u>Constructing a Secure Social Media Network</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-fixes-for-players-facing-humankind-initialization-errors/"><u>Easy Fixes for Players Facing 'Humankind' Initialization Errors</u></a></li>
-<li><a href="https://article-helps.techidaily.com/fb-videos-made-quick-proximity-tricks-for-instant-uploaddownload/"><u>FB Videos Made Quick Proximity Tricks for Instant Upload/Download</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/free-online-tools-for-youtube-channel-starters/"><u>Free Online Tools for YouTube Channel Starters</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-get-your-steam-up-again-after-client-connection-failed-problem/"><u>How To Get Your Steam Up Again After 'Client Connection Failed' Problem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-persistent-load-error-in-cold-war-for-both-pc-and-gaming-consoles/"><u>How to Overcome the Persistent Load Error in Cold War for Both PC and Gaming Consoles</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/leveraging-social-integration-auto-play-youtube-videos-on-fb-pages/"><u>Leveraging Social Integration Auto-Play Youtube Videos on FB Pages</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-common-issues-with-warframe-boot-problems/"><u>Overcoming Common Issues with Warframe Boot Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-solutions-for-pc-users-facing-warzone-cannot-find-matches-error-get-back-to-gaming-now/"><u>Quick Solutions for PC Users Facing 'Warzone Cannot Find Matches' Error - Get Back to Gaming Now!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-eradicate-lags-in-guilty-gear-strive-for-optimal-playing-experience/"><u>Troubleshooting Guide: Eradicate Lags in Guilty Gear -Strive- for Optimal Playing Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/understanding-the-postponement-of-guilty-gear-strives-official-launch-date/"><u>Understanding the Postponement of Guilty Gear Strive's Official Launch Date</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-6-youtuber-quizzes-to-know-which-youtuber-you-are/"><u>[New] In 2024, 6 YouTuber Quizzes to Know Which YouTuber You Are</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-elevate-presentations-10-must-have-slide-show-designs-at-no-cost/"><u>[New] In 2024, Elevate Presentations 10 Must-Have Slide Show Designs at No Cost</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-cutting-edge-vr-tools-for-drones/"><u>[Updated] Cutting-Edge VR Tools for Drones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-the-top-best-cloud-storage-service-for-business/"><u>[Updated] The Top Best Cloud Storage Service for Business</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010737663-banish-your-woes-in-star-wars-jedi-fallen-order-squadron-with-fixes-for-critical-errors/"><u>Banish Your Woes in Star Wars Jedi: Fallen Order Squadron with Fixes for Critical Errors</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-honor-x50i-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Honor X50i</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-common-age-of-empires-4-stuttering-problems-proven-techniques/"><u>Fixing Common Age of Empires 4 Stuttering Problems: Proven Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-gameplay-interruptions-troubleshooting-continuous-crashes-in-frontier-for-your-computer/"><u>Fixing Gameplay Interruptions: Troubleshooting Continuous Crashes in Frontier for Your Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-magic-6-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor Magic 6</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/leveraging-fb-livestream-for-post-produced-content-dissemination/"><u>Leveraging FB Livestream for Post-Produced Content Dissemination</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-sims-4-visual-bliss-eliminating-video-card-glitches/"><u>Master The Sims 4 Visual Bliss: Eliminating Video Card Glitches</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-high-fps-in-csgo-the-comprehensive-improvement-guide-you-need/"><u>Mastering the Art of High FPS in CS:GO - The Comprehensive Improvement Guide You Need</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubleshooting-guide-fixing-zombie-army-4-gameplay-glitches/"><u>PC Troubleshooting Guide - Fixing 'Zombie Army 4' Gameplay Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/smooth-sailing-how-left-4-dead-2-got-rid-of-its-crash-problems/"><u>Smooth Sailing: How Left 4 Dead 2 Got Rid of Its Crash Problems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/top-10-no-money-photo-enhancers-for-web-users-for-2024/"><u>Top 10 No-Money Photo Enhancers for Web Users for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-naraka-bladepoint-stutter-and-lag/"><u>Troubleshooting Naraka: Bladepoint Stutter and Lag</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-palworld-solutions-for-eos-login-failures/"><u>Troubleshooting PalWorld: Solutions for EOS Login Failures</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Address and Repair the BOCW User Interface Gaffe (Error 27711)
-date: 2024-12-23T09:24:15.731Z
-updated: 2024-12-27T01:54:50.194Z
+date: 2024-12-29T21:50:38.723Z
+updated: 2025-01-05T22:34:38.238Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all. Just work from the top down until you find the one that does the trick.
@@ -35,6 +39,10 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
  Before carrying out the fixes below, please make sure your PC specs meet the **[minimum system requirements](https://support.rockstargames.com/articles/200149466/L-A-Noire-PC-System-Requirements)**  to play L.A. Noire.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Run Steam as an administrator
 
  To ensure L.A. Noire can access necessary permissions to launch properly, it’s suggested you run the Steam client as an administrator. Here’s how to do this:
@@ -43,17 +51,9 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Select the**Compatibility** tab. Then, tick the box next to**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Launch the Steam client and start L.A. Noire to check if it works well now. If not, move on to the next fix below.
 
@@ -67,32 +67,24 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-0.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click**L.A. Noire** from the game list. Then, click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait until the repair process completes, then you can launch L.A. Noire to see if the problem disappears. If not, head towards the next fix below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Launch the DXSETUP.exe file
@@ -110,6 +102,10 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 **3)** Select the**Local Files** tab, and click**Browse Local Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Open the**3rd folder** .
 
@@ -135,13 +131,13 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you can relaunch L.A. Noire to test this method. If it doesn’t help, please proceed to Fix 5 below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Disable SteamVR Desktop Game Theatre
 
@@ -155,6 +151,10 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Untick**Use Desktop Game Theatre while SteamVR is active** . Then, click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/50.jpg)
@@ -162,6 +162,10 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
  Restart L.A. Noire and check if it starts without error. If the not launching problem persists, don’t despair. There is the last fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Update your graphics driver
 
@@ -184,10 +188,6 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -218,17 +218,19 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-balancing-speed-and-quality-choosing-between-lower-and-higher-fps/"><u>[Updated] 2024 Approved Balancing Speed & Quality Choosing Between Lower and Higher FPS</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-comprerans-guide-to-capturing-spectacular-slow-motion-on-hero-10/"><u>[Updated] A Compreran's Guide to Capturing Spectacular Slow Motion on Hero 10</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-sounding-off-instagrams-copyright-rules/"><u>2024 Approved Sounding Off Instagram's Copyright Rules</u></a></li>
-<li><a href="https://program-issues.techidaily.com/apex-legends-resolve-your-gameplay-disruptions-with-easy-fixes/"><u>Apex Legends: Resolve Your Gameplay Disruptions with Easy Fixes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortless-connection-pair-your-bluetooth-speaker-with-your-laptop-today/"><u>Effortless Connection: Pair Your Bluetooth Speaker with Your Laptop Today</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improve-your-gameplay-fix-high-latency-in-call-of-dutys-latest-update-warzone-20/"><u>Improve Your Gameplay: Fix High Latency in Call of Duty's Latest Update, Warzone 2.0</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-se-2020-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone SE (2020) Safe and Legal</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-troubleshooting-get-warzone-20-running-on-your-pc/"><u>Mastering the Troubleshooting: Get Warzone 2.0 Running on Your PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-resolution-why-is-my-grand-theft-auto-v-not-starting-and-how-to-fix-it/"><u>Step-by-Step Resolution: Why Is My Grand Theft Auto V Not Starting, and How to Fix It?</u></a></li>
-<li><a href="https://win11.techidaily.com/the-synergy-of-ai-and-commerce-at-ms-store/"><u>The Synergy of AI and Commerce at MS Store</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-recurring-fortnite-crashes-on-your-computer/"><u>Troubleshooting Guide: Resolving Recurring Fortnite Crashes on Your Computer</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/complimentary-access-to-50-premium-youtube-banners/"><u>Your Complimentary Access to 50 Premium YouTube Banners!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-a-filmmakers-guide-to-quick-and-clear-marine-video/"><u>[New] 2024 Approved A Filmmaker’s Guide to Quick and Clear Marine Video</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-essential-info-on-crafting-engaging-yt-shorts/"><u>2024 Approved Essential Info on Crafting Engaging YT Shorts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009820023-effortless-gaming-resolve-resident-evil-villages-pc-lag-issues-here/"><u>Effortless Gaming: Resolve Resident Evil Village's PC Lag Issues Here!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-recurring-collapses-of-f1-2021-game-on-your-computer/"><u>How to Prevent Recurring Collapses of F1 2021 Game on Your Computer</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210221720-9781841815053-judy-halls-complete-crystal-workshop/"><u>Judy Hall's Complete Crystal Workshop | Free Book</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-optimal-performance-expert-strategies-to-combat-fps-drops-in-valorant-updated-tips-and-tricks/"><u>Mastering Optimal Performance: Expert Strategies to Combat FPS Drops in Valorant - Updated Tips & Tricks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/softening-the-edges-a-guide-to-dimmed-audio-in-logic-pro-for-2024/"><u>Softening the Edges A Guide to Dimmed Audio in Logic Pro for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-sony-shopping-expertise-guidebook/"><u>The Sony Shopping Expertise Guidebook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-guides-and-insights/"><u>Tom's Tech Reviews: Expert Guides and Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-your-fortnite-logins-with-these-simple-techniques-no-hassle-guaranteed/"><u>Troubleshoot Your Fortnite Logins with These Simple Techniques - No Hassle Guaranteed!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-immortals-fenyx-rising-continuous-crash-issues/"><u>Troubleshooting Steps for Immortals: Fenyx Rising Continuous Crash Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unraveling-the-troubleshooting-steps-for-a-lost-d3dx928dll-file/"><u>Unraveling the Troubleshooting Steps for a Lost d3dx9_28.dll File</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unveiling-the-mystery-the-postponed-launch-of-diablo-immortal-for-personal-computers/"><u>Unveiling the Mystery: The Postponed Launch of Diablo Immortal for Personal Computers</u></a></li>
 </ul></div>
 

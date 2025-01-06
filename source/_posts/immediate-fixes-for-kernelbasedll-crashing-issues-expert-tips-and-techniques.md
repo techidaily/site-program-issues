@@ -1,7 +1,7 @@
 ---
 title: Immediate Fixes for KernelBase.dll Crashing Issues - Expert Tips & Techniques
-date: 2024-12-20T00:41:19.345Z
-updated: 2024-12-27T08:26:22.411Z
+date: 2025-01-01T16:08:26.565Z
+updated: 2025-01-05T16:46:07.463Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 5. **[Verify the integrity of your game files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run your game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: **Restart your computer**
 
@@ -62,7 +66,7 @@ If this didn’t help in resolving your problem, try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Relaunch Steam and_Terraria_ to test your issue.
@@ -85,12 +89,16 @@ If this didn’t help in resolving your problem, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -101,10 +109,6 @@ If this didn’t help in resolving your problem, try the fix below.
 **4)** Relaunch your game to test your issue.
 
  If_Terraria_ still crashes, then go ahead with the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Verify the integrity of your game files
 
@@ -124,6 +128,10 @@ _Terraria_ may crash when one or more certain game file is damaged or missing. T
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-252.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Relaunch your game to see if your problem has been resolved.
 
 If not, try the next fix.
@@ -137,16 +145,12 @@ If not, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-253.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-254.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Click the list box below to select **Windows 8** , then click **OK** .
 
@@ -175,16 +179,12 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-250.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Click**DELETE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-257.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Download and install _Terraria_  again.
@@ -201,29 +201,21 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
@@ -232,6 +224,10 @@ If this didn’t work for you, check the fix, below.
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
 
@@ -244,6 +240,10 @@ If this didn’t work for you, check the fix, below.
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **12)**  Relaunch Steam and your game.
 
@@ -270,22 +270,20 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-top-picks-of-screen-recording-applications-for-modern-windows-users/"><u>[Updated] 2024 Approved Top Picks of Screen Recording Applications for Modern Windows Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-revolutionizing-gaming-with-funimate/"><u>[Updated] Revolutionizing Gaming with Funimate</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-vivo-x90s-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Vivo X90S</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-apples-highest-quality-most-costly-iphone-xs-max/"><u>Comprehensive Review: Apple's Highest Quality, Most Costly iPhone XS Max</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dealing-with-the-breached-game-integrity-warning-solutions-and-tips/"><u>Dealing with the 'Breached Game Integrity Warning': Solutions and Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diy-repairs-for-call-of-duty-modern-warfare-3-mw3-launch-issues-expert-advice/"><u>DIY Repairs for Call of Duty Modern Warfare 3 MW3 Launch Issues: Expert Advice</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-guide-overcoming-sword-and-fairy-7-game-freezes-on-windows-machines/"><u>Expert Guide: Overcoming Sword and Fairy 7 Game Freezes on Windows Machines</u></a></li>
-<li><a href="https://program-issues.techidaily.com/football-manager-2023-troubleshooting-steps-when-it-fails-to-start/"><u>Football Manager 2023 - Troubleshooting Steps When It Fails To Start</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-troubleshoot-and-launch-hitman-3-without-errors-on-pc-systems/"><u>Guide to Troubleshoot and Launch Hitman 3 Without Errors on PC Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-i-fixed-persistent-microsoft-edge-issues-on-my-windows-10-system/"><u>How I Fixed Persistent Microsoft Edge Issues on My Windows 10 System</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-infinix-hot-40i-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Infinix Hot 40i Without PUK Codes</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Max When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-steam-downloads-glitches-for-cyberpunk-2077-a-step-by-step-guide/"><u>Overcome Steam Downloads Glitches for Cyberpunk 2077: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-sailing-resolving-cyberpunk-2077-pc-crashes-once-and-for-all/"><u>Smooth Sailing: Resolving Cyberpunk 2077 PC Crashes Once and For All</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-pros-guide-to-conquering-photovideo-importers-in-win11/"><u>The Pro's Guide to Conquering Photo/Video Importers in Win11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unstuck-gears-of-war-resolving-continuous-freezing-issues-on-playstation-and-pc/"><u>Unstuck Gears of War: Resolving Continuous Freezing Issues on PlayStation and PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-gear-with-toms-computer-analysis-a-deep-dive-into-hardware-innovations/"><u>Unveiling the Latest Gear with Tom's Computer Analysis: A Deep Dive Into Hardware Innovations</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-revolutionize-your-mobile-viewing-experience/"><u>[New] In 2024, Revolutionize Your Mobile Viewing Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-newbie-to-pro-your-complete-guide-to-creator-studio-for-2024/"><u>[Updated] From Newbie to Pro Your Complete Guide to Creator Studio for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-simple-routines-for-documenting-digital-dialogues-on-os-xpc-for-2024/"><u>[Updated] Simple Routines for Documenting Digital Dialogues on OS X/PC for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeating-the-darkness-effective-remedies-for-black-screen-problem-on-epic-games-launcher/"><u>Defeating the Darkness: Effective Remedies for Black Screen Problem on Epic Games Launcher</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-arma-3-crashes-top-strategies-and-updates-from-the-latest-patch/"><u>Fix Your Arma 3 Crashes: Top Strategies and Updates From the Latest Patch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-overcome-apex-legends-glitch-the-ultimate-solution-for-error-code/"><u>Guide to Overcome Apex Legends Glitch: The Ultimate Solution for Error Code ⅩⅢ</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-black-screen-issue-in-hitman-3-on-your-pc/"><u>How to Fix the Black Screen Issue in Hitman 3 on Your PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-itel-s23plus-by-drfone-android/"><u>How to Show Wi-Fi Password on Itel S23+</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-precise-participation-the-key-to-zooming-in-on-google-meet-talks/"><u>In 2024, Precise Participation The Key to Zooming in on Google Meet Talks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-skyrocket-your-streaming-status-three-winning-techniques-for-newbies/"><u>In 2024, Skyrocket Your Streaming Status Three Winning Techniques for Newbies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/league-of-legends-woes-beat-the-black-screen-problem-with-these-fresh-fixes/"><u>League of Legends Woes? Beat the Black Screen Problem with These Fresh Fixes!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-sudden-pc-shutdowns-with-our-6-trusted-solutions-for-recurring-crashes/"><u>Say Goodbye to Sudden PC Shutdowns with Our 6 Trusted Solutions for Recurring Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-definitive-fix-for-a-frozen-playstation-4-simple-troubleshooting-techniques/"><u>The Definitive Fix for a Frozen PlayStation 4: Simple Troubleshooting Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/trendsetting-images-their-histories/"><u>Trendsetting Images Their Histories</u></a></li>
 </ul></div>
 

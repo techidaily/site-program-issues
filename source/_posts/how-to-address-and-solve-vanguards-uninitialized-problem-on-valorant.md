@@ -1,7 +1,7 @@
 ---
 title: How to Address and Solve Vanguard's Uninitialized Problem on Valorant
-date: 2024-12-21T00:07:50.629Z
-updated: 2024-12-27T05:25:07.230Z
+date: 2024-12-29T19:13:17.487Z
+updated: 2025-01-05T21:31:29.788Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 * Software confliction
 * etc.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix ‘ **_Connection to the Battle.net game server has been lost_**  ‘?
 
  Before you try any of these fixes below, please make sure to[check the game server status](https://support.activision.com/onlineservices) and restart your modem and router to rule out any possible connection issues.
@@ -56,10 +52,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1\. Allow your game to run through Windows Firewall
 
  Check for any firewall and antivirus restrictions that may hinder your connection. As reported by some gamers, turning off firewall restrictions and uninstalling antivirus software worked for them immediately.
@@ -73,8 +65,16 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 3. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As you know Public network is an unsafe territory, do not allow any third-party application of unknown origin on any public network in your computer settings.
 
@@ -85,15 +85,11 @@ If your game isn’t on the list, follow these steps:
 2. Click**Browse** to locate your game (**BlackOpsColdWar.exe** ) and click**Add** once selected.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Once added, tick both the**Private** and**Public** boxes for the application.
 4. Restart your Battle.net and play the game again the test the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2\. Perform a network reset
 
@@ -115,11 +111,7 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3\. Change your DNS server
@@ -129,14 +121,22 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select **Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
@@ -204,14 +204,24 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-whats-trending-on-tiktok-and-twittersphere/"><u>[New] In 2024, What's Trending on TikTok and Twittersphere</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-youtube-video-archiving-made-simple-for-2024/"><u>[New] YouTube Video Archiving Made Simple for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-maximize-youtube-visibility-with-11-proven-seo-techniques-for-2024/"><u>[Updated] Maximize YouTube Visibility with 11 Proven SEO Techniques for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-spectacle-of-speed-simulators-top-5/"><u>2024 Approved Spectacle of Speed Simulators (Top 5)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banish-wow-lag-and-crash-glitches-with-these-painless-remedies/"><u>Banish WOW Lag and Crash Glitches with These Painless Remedies!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/hear-thy-villain-addressing-audio-problems-within-evil-genius-2-playthrough/"><u>Hear Thy Villain: Addressing Audio Problems Within 'Evil Genius 2' Playthrough</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/611826-9781770703841-secrets-of-the-worlds-undiscovered-treasures/"><u>Secrets of the World's Undiscovered Treasures | Free Book</u></a></li>
-<li><a href="https://program-issues.techidaily.com/strategies-to-address-and-correct-inconsistent-drops-in-frames-per-second/"><u>Strategies to Address and Correct Inconsistent Drops in Frames Per Second</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-stuttering-gameplay-enhancing-dying-light-2s-visual-fluidity-on-personal-computers/"><u>Troubleshooting Stuttering Gameplay: Enhancing Dying Light 2'S Visual Fluidity on Personal Computers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-safeguarding-your-music-three-recording-approaches-for-2024/"><u>[New] Safeguarding Your Music Three Recording Approaches for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-hdr-potential-with-photo-hdr-techniques/"><u>[New] Unlocking HDR Potential with Photo-HDR Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-heads-up-on-high-tech-the-best-motorcycle-cam-gear-guide-in-23/"><u>[Updated] 2024 Approved Heads Up on High-Tech - The Best Motorcycle Cam Gear Guide in '23</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-easy-guide-screen-snapshots-in-windows-free-tutorials/"><u>[Updated] Easy Guide Screen Snapshots in Windows (Free Tutorials)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-ultimate-angle-arsenal-samsung-vs-lg-comparison/"><u>[Updated] The Ultimate Angle Arsenal Samsung Vs LG Comparison</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-quick-guide-to-alter-username-in-google-meet-sessions/"><u>2024 Approved Quick Guide to Alter Username in Google Meet Sessions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/black-screen-woes-no-more-successful-fix-for-common-display-issues-explained/"><u>Black Screen Woes No More: Successful Fix for Common Display Issues Explained</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-fix-for-cod-warzones-dev-error-6634-updated-tips-and-tricks/"><u>Comprehensive Fix for COD Warzone's Dev Error 6634 - Updated Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-stabilizing-samurai-warriors-5-gameplay-on-your-computer-system/"><u>Effective Solutions for Stabilizing Samurai Warriors 5 Gameplay on Your Computer System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-lag-issues-and-improve-frame-rate-in-call-of-duty-warzone-expert-tips-inside/"><u>Fix Lag Issues & Improve Frame Rate in Call of Duty Warzone - Expert Tips Inside!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-motorola-edge-2023-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Motorola Edge 2023 by Name | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-realme-10t-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Realme 10T 5G Phones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-technical-hurdles-in-bloodhunt-how-to-stop-it-from-freezing-or-crashing-on-windows/"><u>Overcoming Technical Hurdles in BloodHunt: How to Stop It From Freezing or Crashing on Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-ultimate-guide-to-eliminating-fortnites-latency-problems/"><u>Resolved: Ultimate Guide to Eliminating Fortnite's Latency Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-startup-hurdles-for-mass-effect-legendary-edition-gamers/"><u>Resolving Startup Hurdles for Mass Effect Legendary Edition Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000981836-step-by-step-fixes-for-warzones-notorious-dev-error-5573-pc-edition-and-console-tips-included/"><u>Step-by-Step Fixes for Warzone's Notorious Dev Error #5573: PC Edition & Console Tips Included!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-fast-track-to-faster-download-speeds-on-steams-origin-platform-2024-insights/"><u>The Fast Track to Faster Download Speeds on Steam's Origin Platform - 2024 Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722991454756-troubleshooting-euro-truck-simulator-2-for-optimal-performance-and-no-more-pc-crashes/"><u>Troubleshooting Euro Truck Simulator 2 for Optimal Performance & No More PC Crashes!</u></a></li>
 </ul></div>
 

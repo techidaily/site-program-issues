@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Prevent Madden NFL 21 From Frequently Crashing on Your PC"
-date: 2024-12-23T17:28:37.498Z
-updated: 2024-12-26T23:51:23.766Z
+date: 2025-01-03T18:59:13.070Z
+updated: 2025-01-05T16:01:42.366Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 * Restart your PC
 * Install the latest updates
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these methods
 
  If common methods can’t help, you can move to the below methods. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -33,10 +37,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 5. [**Run a System File Checker**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Run the troubleshooter
 
@@ -52,7 +52,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 5. Follow the on-screen instructions to finish the process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Run Microsoft Edge to check the problem is resolved or not.
@@ -70,11 +70,15 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
@@ -100,6 +104,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
@@ -109,6 +117,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
  It’s reported that the Rapport could cause Microsoft Edge crashing and many users had reported after uninstalling Trusteer Rapport/Endpoint the problem has been solved.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Run a System File Checker
 
@@ -130,17 +142,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -153,17 +161,9 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the result indicates that there are broken files exist but SFC can’t fix them, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examination and repair.  
  Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
@@ -189,19 +189,20 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-choosing-youtube-downloader-apps-on-your-android-device/"><u>[New] In 2024, Choosing YouTube Downloader Apps on Your Android Device</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-virtual-vistas-enhancing-online-streaming-with-color-key-methods/"><u>[Updated] 2024 Approved Virtual Vistas Enhancing Online Streaming with Color Key Methods</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-gaming-evolution-top-7-stardew-valley-enhancements-7/"><u>[Updated] Gaming Evolution Top 7 Stardew Valley Enhancements (#7)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-breakthrough-vloggers-reviewed-the-best-15-youtube-channels-for-product-reviews/"><u>[Updated] In 2024, Breakthrough Vloggers Reviewed The Best 15 YouTube Channels for Product Reviews</u></a></li>
-<li><a href="https://article-helps.techidaily.com/discover-the-ultimate-8-free-spots-for-3d-psds/"><u>Discover the Ultimate 8 Free Spots for 3D PSDs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-tips-for-smooth-csgo-performance-optimization/"><u>Effective Tips for Smooth CS:GO Performance Optimization</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/marvels-heroic-guide-7-essential-fixes-for-a-smooth-guardians-of-the-galaxy-experience-on-pc/"><u>Marvel's Heroic Guide: 7 Essential Fixes for a Smooth 'Guardians of the Galaxy' Experience on PC</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-unleash-your-creativity-top-free-vob-video-editors/"><u>New In 2024, Unleash Your Creativity Top Free VOB Video Editors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-game-crashes-in-apex-legends-engine-trouble-solved/"><u>Overcoming Game Crashes in Apex Legends: Engine Trouble Solved!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-found-enhancing-gameplay-speed-in-the-elder-scrolls-online-blackwood-expansion/"><u>Solution Found! Enhancing Gameplay Speed in The Elder Scrolls Online - Blackwood Expansion</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210877191-9781609254599-the-vision-of-the-nazarene/"><u>The Vision of the Nazarene | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723201414472-troubleshoot-your-stuck-keyboard-arrows-effective-solutions/"><u>Troubleshoot Your Stuck Keyboard Arrows – Effective Solutions!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-the-mass-effect-legendary-edition-for-smooth-gameplay-across-pcs-and-xboxes/"><u>Troubleshooting the Mass Effect Legendary Edition for Smooth Gameplay Across PCs and Xboxes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-quick-guide-capturing-vimeo-videos/"><u>[New] Quick Guide Capturing Vimeo Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-selecting-the-ideal-360-cameras-for-videography/"><u>2024 Approved Selecting the Ideal 360° Cameras for Videography</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-vanguard-pc-game-crash-fixes-top-solutions/"><u>CoD Vanguard PC Game Crash Fixes : Top Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-motorola-lock-screen-password-by-drfone-android/"><u>How to Reset your Motorola Lock Screen Password</u></a></li>
+<li><a href="https://program-issues.techidaily.com/illuminating-solutions-how-to-get-unstuck-from-nba-2k21s-persistent-black-screen-issue/"><u>Illuminating Solutions: How to Get Unstuck From NBA 2K21’s Persistent Black Screen Issue</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-15-pro-max-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 15 Pro Max Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/secure-and-save-every-exchange-the-ultimate-tutorial-on-storing-chatgpt-dialogues/"><u>Secure and Save Every Exchange: The Ultimate Tutorial on Storing ChatGPT Dialogues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-ultimate-troubleshooting-guide-resolving-the-frontier-game-crashes-on-pc/"><u>Solved: Ultimate Troubleshooting Guide - Resolving the 'Frontier' Game Crashes on PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/tough-as-nails-the-urban-armor-gear-laptop-sleeve-for-macpro-reviewed/"><u>Tough as Nails, the Urban Armor Gear Laptop Sleeve for MacPro Reviewed!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-directx-problems-on-your-xbox-to-enjoy-cod-mw2-again/"><u>Troubleshoot DirectX Problems on Your Xbox to Enjoy COD MW2 Again!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-resolved-lost-connection-with-battlenet-gaming-servers/"><u>Troubleshooting: Resolved - Lost Connection with Battle.net Gaming Servers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008025051-windows-11-users-rejoice-civ-6-launch-issues-resolved/"><u>Windows 11 Users Rejoice: Civ 6 Launch Issues Resolved!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/yakuza-3-pc-version-how-to-stop-unexpected-exits-and-keep-gaming-smoothly/"><u>Yakuza 3 PC Version: How to Stop Unexpected Exits and Keep Gaming Smoothly</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Getting Past the Starting Gate: Strategies to Fix Fall Guys From Crashing on Launch"
-date: 2024-12-22T16:05:09.044Z
-updated: 2024-12-27T04:35:32.732Z
+date: 2024-12-29T18:36:57.894Z
+updated: 2025-01-05T21:13:18.380Z
 tags:
   - win11
   - win10
@@ -40,12 +40,16 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Underlock your GPU
@@ -56,6 +60,10 @@ Here is how to verify the integrity of Dauntless:
  you can try lowering it back to the default setting. If not, or it doesn’t help with the situation, you should move on to**Fix 3** , below to see if it fixes the issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -70,6 +78,10 @@ Here is how to verify the integrity of Dauntless:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -111,10 +123,6 @@ Here is how to verify the integrity of Dauntless:
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
@@ -122,26 +130,18 @@ Here is how to verify the integrity of Dauntless:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
 
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
@@ -166,16 +166,22 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-list-of-high-quality-streaming-services-for-cricket-fans/"><u>[New] The Ultimate List of High-Quality Streaming Services for Cricket Fans</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-on-overcoming-nier-replicant-crashing-problems/"><u>Expert Tips on Overcoming NieR: Replicant Crashing Problems</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-foray-into-wearables-potential-for-dual-camera-smartwatches/"><u>Facebook's Foray Into Wearables: Potential for Dual Camera Smartwatches</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-xiaomi-redmi-k70e-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Xiaomi Redmi K70E Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/real-time-music-videos-on-douyin/"><u>Real-Time Music Videos on Douyin</u></a></li>
-<li><a href="https://program-issues.techidaily.com/rogue-game-crash-dilemma-discover-solutions-for-uninterrupted-gaming-experience-on-your-computer/"><u>Rogue Game Crash Dilemma? Discover Solutions for Uninterrupted Gaming Experience on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-mozillas-firefox-freezing-dilemma-your-ultimate-guide-to-a-smoother-browser-experience/"><u>Solving Mozilla's Firefox Freezing Dilemma: Your Ultimate Guide to a Smoother Browser Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-tutorial-resolve-fifa-21-stalling-problems-on-desktop-pcs-expert-guide/"><u>Step-by-Step Tutorial: Resolve FIFA 21 Stalling Problems on Desktop PCs - Expert Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/streamline-your-strategy-with-aspect-ratio-mastery-on-youtube-for-2024/"><u>Streamline Your Strategy with Aspect Ratio Mastery on YouTube for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-effective-one-channel-streaming-techniques/"><u>Unlocking Effective One-Channel Streaming Techniques</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/vhs-classic-check-goofy-and-his-gangs-joke-time/"><u>VHS Classic Check Goofy and His Gang's Joke Time</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-keeping-crystal-clear-avoiding-lens-haze/"><u>[New] Keeping Crystal Clear Avoiding Lens Haze</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-should-you-monitor-off-facebook-a-guide-for-users/"><u>[New] Should You Monitor Off-Facebook? A Guide for Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-ultimate-tutorial-on-winning-spotify-advertising/"><u>[Updated] 2024 Approved The Ultimate Tutorial on Winning Spotify Advertising</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-boost-camera-output-retain-excellent-clarity/"><u>[Updated] In 2024, Boost Camera Output, Retain Excellent Clarity</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mp4-reimagined-effortlessly-adding-srt/"><u>[Updated] MP4 Reimagined Effortlessly Adding SRT</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722990944267-banish-kurtzpel-downfall-errors-once-and-for-all-effective-troubleshooting-steps-unveiled/"><u>Banish KurtzPel Downfall Errors Once and For All - Effective Troubleshooting Steps Unveiled!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-the-top-ai-assistant-claude-vs-chatgpt-for-daily-use/"><u>Choosing the Top AI Assistant: Claude Vs. ChatGPT for Daily Use</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/closing-the-gap-how-iphones-can-match-androids-ai-prowess-with-four-key-features-analysis-by-zdnet/"><u>Closing the Gap: How iPhones Can Match Android's AI Prowess with Four Key Features | Analysis by ZDNET</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/come-iniziare-a-progettare-una-soluzione-di-backup-programmato-con-aomei-backupper/"><u>Come Iniziare a Progettare Una Soluzione Di Backup Programmato Con AOMEI Backupper</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-get-outriders-running-again/"><u>Fixing the Issue: How to Get Outriders Running Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/grand-theft-auto-v-troubleshooting-fixing-errgfxd3dinit-graphics-issue/"><u>Grand Theft Auto V Troubleshooting: Fixing ERR_GFX_D3D_INIT Graphics Issue</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-launch-your-live-stream-a-comprehensive-beginners-manual/"><u>In 2024, Launch Your Live Stream A Comprehensive Beginner's Manual</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-superpeople-dx9-issue-a-step-by-step-guide/"><u>Solving the 'Superpeople DX9 Issue' - A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-remedy-for-fixing-the-life-threatening-gaming-glitch-in-ghost-runner-for-windows-10-users/"><u>Step-by-Step Remedy for Fixing the Life-Threatening Gaming Glitch in Ghost Runner for WINDOWS 10 Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-mafia-trilogys-capstone-game-now-confirmed-for-launch/"><u>The Mafia Trilogy's Capstone Game Now Confirmed for Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-resolving-cannot-start-csgo-problems/"><u>Troubleshooting Steps for Resolving 'Cannot Start CS:GO' Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-how-to-solve-fall-guys-game-crashes-on-launch/"><u>Troubleshooting: How to Solve 'Fall Guys' Game Crashes on Launch</u></a></li>
 </ul></div>
 

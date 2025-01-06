@@ -1,7 +1,7 @@
 ---
 title: "Marvel Enthusiasts Rejoice: Solve Guardians of the Galaxy PC Crash Issues Using Our Top 8 Fixes!"
-date: 2024-12-20T21:37:14.656Z
-updated: 2024-12-27T12:25:34.863Z
+date: 2024-12-30T17:43:29.059Z
+updated: 2025-01-05T23:18:31.515Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -35,15 +39,15 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/how-to-fix-Pathfinder-Wrath-of-the-Righteous-freezing-on-PC.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Add your game as an exception to your antivirus
 
  Some gamers reported on Reddit that it turned out the antivirus application was quarantining the game every time they ran it. They solved the freezing issue by whitelisting the game. To make sure your antivirus is not blocking your game from launching properly, you should disable your antivirus or add your game as an exception. Otherwise, your antivirus might identify the game as a Trojan.
 
  If you’re quite sure there is nothing to do with your antivirus application, try the fixes listed below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Update your graphics driver
 
@@ -71,21 +75,17 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC and test the gameplay. If this doesn’t do the trick, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Verify integrity of game files
 
@@ -101,7 +101,7 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Verify on GOG Galaxy
@@ -110,18 +110,18 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 2. Click the game in your Library.
 3. Click on the**Customize button** ![](https://images.drivereasy.com/wp-content/uploads/2021/09/customization-button-GOG-Galaxy.png) (on the right side of the Play button), select**Manage installation > Verify / Repair** .  
 
-![how to verify integrity of game files on GOG Galaxy](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![how to verify integrity of game files on GOG Galaxy](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
 
  GOG Galaxy will now verify all of your game files, and compare them with files hosted on the game servers. If there are any discrepancies GOG Galaxy will redownload, and repair corrupted files.
 
  When it’s all done, relaunch your game. If the freezing issue persists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Disable overlays
@@ -134,12 +134,16 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-1.jpg)
 3. Click **In-Game** . Uncheck the box **Enable the Steam Overlay while in-game** . Then click **OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)
 
  After applying the changes, play Pathfinder: Wrath of the Righteous and your problem should be alleviated. However, if the freezing issue still occurs, don’t worry. Below are other fixes for you to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Launch your game from .exe file
@@ -159,10 +163,6 @@ However, if it doesn’t give you any luck, try the next fix below.
 3. Go to**ComputerHKEY\_CURRENT\_USERSOFTWAREowlcat** and delete the entire key.  
 
 ![delete registry key](https://images.drivereasy.com/wp-content/uploads/2021/09/registry.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Once done, restart your game and test the gameplay.
 
@@ -195,22 +195,18 @@ Once done, restart your game and test the gameplay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/reating-a-viral-traction-with-6-strategic-steps-in-youtube-marketing/"><u>[New] Creating a Viral Traction with 6 Strategic Steps in YouTube Marketing</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-maximizing-conversions-with-targeted-snapad-strategies-for-2024/"><u>[New] Maximizing Conversions with Targeted SnapAd Strategies for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-no-cost-top-quality-premiere-pro-designs/"><u>[New] No-Cost, Top-Quality Premiere Pro Designs</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-streamline-your-watching-with-edge-free-youtube-content/"><u>[New] Streamline Your Watching with Edge-Free YouTube Content</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-video-space-understanding-64128gb-limits/"><u>[Updated] In 2024, Video Space Understanding 64/128GB Limits</u></a></li>
-<li><a href="https://fox-access.techidaily.com/canvas-and-chroma-mastering-color-interaction/"><u>Canvas and Chroma Mastering Color Interaction</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-techniques-for-thawing-out-your-chrome-browser-in-windows-11/"><u>Effective Techniques for Thawing Out Your Chrome Browser in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-frustrating-delays-the-modern-gamers-handbook-to-fixing-high-ping-and-latency-issues-in-chivalry-ii/"><u>Eliminate Frustrating Delays: The Modern Gamer's Handbook to Fixing High Ping & Latency Issues in Chivalry II</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-opening-problems-with-amd-radeon-graphics-driver-suite-easily/"><u>Fixing Opening Problems with AMD Radeon Graphics Driver Suite Easily</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-xiaomi-13t-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Xiaomi 13T to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-examination-of-components-by-toms-hardware-experts/"><u>In-Depth Examination of Components by Tom's Hardware Experts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-fixes-prevent-diablo-4-from-freezing-on-pc-ps5-and-xbox-consoles/"><u>Master the Fixes: Prevent Diablo 4 From Freezing on PC, PS5 & Xbox Consoles</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722999874951-pc-gaming-made-easy-fix-stuttering-and-lag-in-bloodhunt-today/"><u>PC Gaming Made Easy: Fix Stuttering and Lag in Bloodhunt Today</u></a></li>
-<li><a href="https://program-issues.techidaily.com/rapid-responses-improve-your-fps-and-eliminate-glitches-in-elden-ring/"><u>Rapid Responses: Improve Your FPS and Eliminate Glitches in Elden Ring</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-fires-of-rubicon-pc-issues-a-comprehensive-guide-to-enjoying-armored-core-natively-on-your-computer/"><u>Solving 'Fires of Rubicon' PC Issues: A Comprehensive Guide to Enjoying Armored Core Natively on Your Computer</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-iphone-xr-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from iPhone XR iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://program-issues.techidaily.com/update-on-mafia-definitive-editions-launch-cancellation-issues-addressed/"><u>Update on Mafia: Definitive Edition's Launch Cancellation – Issues Addressed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-tiny-titans-top-games-anthology/"><u>[New] 2024 Approved Tiny Titans' Top Games Anthology</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-complete-guide-to-crafting-killer-youtube-outros-for-2024/"><u>[New] Complete Guide to Crafting Killer YouTube Outros for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-how-to-block-youtube-channels-on-computer-and-mobile-phones/"><u>[Updated] 2024 Approved How to Block YouTube Channels on Computer and Mobile Phones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-infusing-video-narratives-with-apple-harmony/"><u>2024 Approved Infusing Video Narratives with Apple Harmony</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-winning-at-freefire-top-strategies-and-hashtags-shared/"><u>2024 Approved Winning at FreeFire Top Strategies and Hashtags Shared</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hearing-is-believing-eliminate-sound-glitches-in-roblox-on-your-latest-windows-platforms/"><u>Hearing Is Believing: Eliminate Sound Glitches in Roblox on Your Latest Windows Platforms</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/icy-innovations-on-ice-olympic-edition-for-2024/"><u>Icy Innovations on Ice - Olympic Edition for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-asus-rog-phone-7-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Asus ROG Phone 7 Phone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-fixes-to-overcome-tekken-8-not-opening-woes-on-your-computer-system/"><u>Master the Fixes to Overcome Tekken 8 Not Opening Woes on Your Computer System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-visual-hurdles-a-guide-to-correcting-black-screens-in-destiny-2/"><u>Overcoming Visual Hurdles: A Guide to Correcting Black Screens in Destiny 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-of-non-responsive-amd-radeon-graphics-driver/"><u>Solving the Issue of Non-Responsive AMD Radeon Graphics Driver</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steady-issues-how-to-fix-arcadegeddon-crashes-on-your-computer/"><u>Troubleshooting Steady Issues: How to Fix Arcadegeddon Crashes on Your Computer</u></a></li>
 </ul></div>
 

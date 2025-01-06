@@ -1,7 +1,7 @@
 ---
 title: Solve ‘Configuration Server Connection Failure’ Effortlessly Today
-date: 2024-12-21T20:38:55.800Z
-updated: 2024-12-26T22:25:28.308Z
+date: 2025-01-01T19:24:29.334Z
+updated: 2025-01-05T19:37:24.397Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 * [1. Sign in again](https://tools.techidaily.com/drivereasy/download/)
@@ -46,6 +42,10 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 
 ![sign out steam](https://images.drivereasy.com/wp-content/uploads/2021/05/sign-out.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  But if this method doesn’t do the trick, you can try the next fix below.
 
 ## 2\. Check the status of Teredo (Windows 10)
@@ -58,15 +58,19 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Xbox.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select**Fix it** . Windows will try to detect and fix known issues with Teredo.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/fix-it.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Once complete, you will need to click the**Check again** button. If there’s no issue detected, you can launch your game to check if the ‘Unable to connect to the live configuration servers’ issue disappears.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Reinstall the Teredo Adapter
 
@@ -76,10 +80,6 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 
 ![command prompt admin](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type **the following command** and press **Enter** .
 
 netsh interface Teredo set state disable
@@ -87,7 +87,7 @@ netsh interface Teredo set state disable
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Teredo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) On your keyboard, press the**Windows + R** key at the same time, and type**devmgmt.msc** . Then press**Ente** r.
@@ -108,6 +108,10 @@ netsh interface Teredo set state type=default
 
  8) Now launch your game and check if the error message ‘Unable to connect to the live configuration servers’ is gone for now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Turn on Windows Firewall
 
  You may have turned Windows Firewall to prevent some games from crashing, but this game requires that Windows Firewall is turned on because it will need the Teredo IPsec connection.
@@ -125,7 +129,7 @@ netsh advfirewall set allprofiles state on
  Launch your game again to test the issue, and if this method doesn’t do the trick, check the one below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enable Xbox Live Networking Service & Xbox Live Auth Manager
@@ -135,10 +139,6 @@ netsh advfirewall set allprofiles state on
  1) On your keyboard, press the Windows key + R key at the same time, and enter**services.msc** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/services-run-box.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Scroll down the bottom, and make sure**Xbox Live Auth Manager** and**Xbox Live Networking Service** are running. If not, right-click the service and click**Start** .
 
@@ -169,16 +169,15 @@ netsh advfirewall set allprofiles state on
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/nshakeable-video-quality-best-stabilizers/"><u>[New] Unshakeable Video Quality - Best Stabilizers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-experience-professional-video-calling-explore-the-top-5-devices-for-2024/"><u>[Updated] Experience Professional Video Calling - Explore The Top 5 Devices for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-foundations-selecting-the-right-equipment/"><u>2024 Approved YouTube Foundations Selecting the Right Equipment</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-5-app-tools-to-expand-your-circle-of-friends/"><u>Discover the Ultimate 5 App Tools to Expand Your Circle of Friends</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-preventing-tribes-of-midgard-from-crashing-down/"><u>Effective Solutions for Preventing Tribes of Midgard From Crashing Down</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-black-screen-problems-in-magic-the-gathering-online-platform/"><u>Fixes for 'Black Screen' Problems in Magic: The Gathering Online Platform</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/from-chaos-to-clarity-mastering-xiaomis-screen-recording-for-2024/"><u>From Chaos to Clarity Mastering Xiaomi's Screen Recording for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-successfully-launch-dota-navigate-around-a-stuck-loading-screen-and-get-back-into-gameplay/"><u>How to Successfully Launch Dota Navigate Around a Stuck Loading Screen and Get Back Into Gameplay</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-nokia-130-music-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Nokia 130 Music Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-how-to-eliminate-lag-and-stutter-in-your-cyberpunk-2077-gameplay/"><u>Troubleshooting Complete: How to Eliminate Lag & Stutter in Your Cyberpunk 2077 Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-does-my-beat-saber-experience-frequent-interruptions-fix-now/"><u>Why Does My Beat Saber Experience Frequent Interruptions? Fix Now!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-win-11-guide-to-storing-mov-files-effectively/"><u>[New] 2024 Approved Win 11 Guide to Storing .mov Files Effectively</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-expert-tips-for-zoom-engagement-building-stronger-remote-relationships/"><u>[Updated] In 2024, Expert Tips for Zoom Engagement Building Stronger Remote Relationships</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-tailored-ai-personalized-chatgpt-creation-guide/"><u>Crafting Tailored AI: Personalized ChatGPT Creation Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011996231-fixing-cod-wwii-error-4128-issue-here-are-the-steps-you-need-to-know/"><u>Fixing CoD WWII 'Error 4128' Issue? Here Are the Steps You Need to Know</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-sea-of-thieves-game-crash-problems-easily/"><u>Fixing the Sea of Thieves Game Crash Problems Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-stuttering-and-boost-fps-in-warzone/"><u>How to Fix Stuttering and Boost FPS in Warzone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-tos-selecting-the-very-best-free-iphoneipad-editors/"><u>How-To's Selecting the Very Best Free iPhone/iPad Editors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-to-stop-outpost-infinity-siege-from-closing-unexpectedly-on-your-computer/"><u>Step-by-Step Solutions to Stop Outpost: Infinity Siege From Closing Unexpectedly on Your Computer</u></a></li>
+<li><a href="https://solve-news.techidaily.com/step-by-step-tutorial-on-using-manycam-for-quick-screenshot-sessions/"><u>Step-by-Step Tutorial on Using ManyCam for Quick Screenshot Sessions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-future-is-now-anticipating-artificial-intelligence-upgrades-for-apple-devices-this-fall/"><u>The Future Is Now: Anticipating Artificial Intelligence Upgrades for Apple Devices This Fall</u></a></li>
 </ul></div>
 

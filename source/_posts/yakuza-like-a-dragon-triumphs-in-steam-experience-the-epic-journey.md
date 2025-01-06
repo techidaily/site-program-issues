@@ -1,7 +1,7 @@
 ---
 title: "Yakuza: Like A Dragon Triumphs in Steam - Experience the Epic Journey!"
-date: 2024-12-20T23:58:06.500Z
-updated: 2024-12-27T09:29:50.249Z
+date: 2025-01-03T18:39:24.240Z
+updated: 2025-01-05T20:35:41.009Z
 tags:
   - win11
   - win10
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 modem
@@ -49,6 +49,10 @@ modem
 wireless router
 
  Now check if the error goes away. If not, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -63,12 +67,12 @@ wireless router
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -76,7 +80,7 @@ wireless router
  Check how Warzone works. If the driver update doesn’t give you luck, move on to the third solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Run Warzone on DirectX 11
@@ -92,10 +96,6 @@ wireless router
 4. Click**Done** to confirm.
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Increase virtual memory
 
@@ -114,15 +114,19 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
 
@@ -134,7 +138,7 @@ wireless router
  Restart the Battle.net client and see whether you could play Warzone as normal. If the game is still unplayable, try the last method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6 – Adjust the in-game graphics settings
@@ -145,10 +149,6 @@ wireless router
 2. Navigate to the**Graphics** tab. Then set the_Display Mode_ to**Fullscreen Borderless** , and turn_Sync Every Frame (V-Sync)_ to**On (Enabled)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings1.jpg)
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
 
@@ -176,18 +176,18 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-retro-reviver-software-for-2024/"><u>[New] Retro Reviver Software for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-boosting-performance-allocating-additional-ram-to-minecraft/"><u>[Updated] In 2024, Boosting Performance Allocating Additional RAM to Minecraft</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harness-the-power-of-iphoneipad-for-top-tier-travel-and-interview-podcasts/"><u>2024 Approved Harness the Power of iPhone/iPad for Top-Tier Travel & Interview Podcasts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/debunking-rumors-diablo-immortals-upcoming-arrival-on-pc-platforms/"><u>Debunking Rumors: Diablo Immortal's Upcoming Arrival on PC Platforms</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exclusive-ge-cync-offer-save-up-to-61-on-innovative-lighting-and-controls-smart-devices-galore/"><u>Exclusive GE Cync Offer: Save Up to 61% on Innovative Lighting & Controls - Smart Devices Galore!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-pc-lag-top-2024-solutions-for-unfreezing-your-minecraft-game/"><u>Fixing PC Lag: Top 2024 Solutions for Unfreezing Your Minecraft Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-ensure-a-smooth-startup-of-hitman-3-on-your-windows-machine/"><u>How to Ensure a Smooth Startup of Hitman 3 on Your Windows Machine</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-a-comedians-guide-to-the-best-free-royalty-free-background-music-sources/"><u>New In 2024, A Comedians Guide to the Best Free, Royalty-Free Background Music Sources</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-compatibility-woes-with-robocop-rogue-city-a-guide-to-making-it-work-on-your-computer/"><u>Overcoming Compatibility Woes with 'RoboCop: Rogue City': A Guide to Making It Work on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/regular-monitoring/"><u>Regular Monitoring</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-not-launching-issue-last-epoch-update-fixes-for-pc-how-to-guide/"><u>Resolving the 'Not Launching' Issue: Last Epoch Update Fixes for PC | How-To Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-apple-iphone-14-pro-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-hdr-mastery-for-home-and-professional-pcs/"><u>[Updated] HDR Mastery for Home and Professional PCs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-plain-screeners-toolkit-for-win10-users/"><u>2024 Approved Plain Screener's Toolkit for Win10 Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/bewapening-mov-naar-mpeg-vrij-nalezen-gratuit-online/"><u>Bewapening MOV Naar MPEG Vrij Nalezen - Gratuit Online</u></a></li>
+<li><a href="https://program-issues.techidaily.com/chest-pain-or-discomfort-that-may-feel-like-pressure-squeezing-fullness-or-pain-in-the-center-or-left-side-of-your-chest-this-can-sometimes-be-mistaken-for-609/"><u>Chest Pain or Discomfort that May Feel Like Pressure, Squeezing, Fullness, or Pain in the Center or Left Side of Your Chest. This Can Sometimes Be Mistaken for Indigestion or Heartburn and Might Even Come and Go with Activity.</u></a></li>
+<li><a href="https://ai-video.techidaily.com/chrome-video-translators-top-5-video-translation-chrome-extensions/"><u>Chrome Video Translators Top 5 Video Translation Chrome Extensions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diablo-immortal-pc-release-delayed-update-insights/"><u>Diablo Immortal PC Release Delayed - Update Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-honor-90-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Honor 90? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-baldurs-gate-the-third-pc-game-crashes-now-resolved/"><u>Fixing Baldur's Gate The Third: PC Game Crashes Now Resolved</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-xs-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone XS? Complete Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-translate-instagram-videos-easily-a-step-by-step-guide/"><u>New In 2024, Translate Instagram Videos Easily A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-free-conversion-convert-rmvb-file-to-high-quality-mp3-using-movavi/"><u>Online Free Conversion: Convert RMVB File to High-Quality MP3 Using Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-strategies-for-troubleshooting-the-end-of-an-epoch-avoiding-pc-shutdowns/"><u>Top Strategies for Troubleshooting the End of an Epoch: Avoiding PC Shutdowns</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-free-guide-to-solving-msi-mystic-light-problems-on-a-pc-running-windows/"><u>Trouble-Free Guide to Solving MSI Mystic Light Problems on a PC Running Windows</u></a></li>
 </ul></div>
 

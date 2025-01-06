@@ -1,7 +1,7 @@
 ---
 title: "Solved: Life Is Strange: True Colors - Troubleshooting the Infamous Game Crash"
-date: 2024-12-23T20:04:02.407Z
-updated: 2024-12-27T11:59:17.285Z
+date: 2025-01-04T18:11:27.052Z
+updated: 2025-01-05T16:51:34.913Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 5. **[Update DirectX](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 7. [**Disable your X-Fi sound card (If you have an X-Fi sound card)**](https://www.drivereasy.com/knowledge/how-to-fix-gears-of-war-5-crash/#F7)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -74,29 +70,21 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-132.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In **Game bar** , toggle **off** the switch for **Record game clips, screenshots,broadcast using Game bar** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-136.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click Captures, then toggle **off** the switch for **Record in the background while I’m playing a game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-138.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click Broadcasting, then toggle **off** the switch for **Record audio when I broadcast** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-139.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Exit the window.
 
@@ -105,6 +93,10 @@ Here is how to do it:
 **If you have other game overlaying programs on** , such as Nvidia Shadowplay, Xbox game bar, please make sure you have turned them off as well.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3:   **Reset the Microsoft Store cache**
 
@@ -115,6 +107,10 @@ Here is how to reset the Microsoft Store cache:
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and type **R** at the same time, then type **wsreset.exe** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Wait until the whole Windows store cache reset process finishes.
 
@@ -130,6 +126,10 @@ Here is how to reset the Microsoft Store cache:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: **Check for Windows Updates**
 
  The game crash problem may also lie with Windows itself. If this is the case, then you should check Windows to see if there is any updates for the game.
@@ -144,10 +144,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-140.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Wait for the system to check online for available updates for the game.
 
 * **If yes** , it will automatically download the update and install it. Once completed, restart your computer for the changes to take effect. After that, don’t forget to check if the Gears of War 5 PC crash issue is fixed. If yes, then great! If it’s still no joy, please move on to **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -156,7 +152,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Update DirectX
@@ -172,7 +168,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall the game
@@ -182,6 +178,10 @@ Here is how to do it:
  Once you’ve reinstalled Gears of War 5 on your PC, run it to see if it still crashes.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Disable your X-Fi sound card (If you have an X-Fi sound card)
 
@@ -208,17 +208,16 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-bigger-photos-equal-quality-output-for-2024/"><u>[New] Bigger Photos, Equal Quality Output for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/spiring-youtube-guides-for-aspiring-singers-and-instrumentalists/"><u>15 Inspiring YouTube Guides for Aspiring Singers and Instrumentalists</u></a></li>
-<li><a href="https://program-issues.techidaily.com/accelerate-installations-resolving-issues-with-slow-ubisoft-connect-download-speeds/"><u>Accelerate Installations: Resolving Issues with Slow Ubisoft Connect Download Speeds</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-no-cost-samsung-video-streaming-applications-in-depth-evaluation-and-ratings/"><u>Best No-Cost Samsung Video Streaming Applications: In-Depth Evaluation and Ratings</u></a></li>
-<li><a href="https://program-issues.techidaily.com/common-solutions-for-players-facing-issues-with-the-elder-scrolls-online-startup/"><u>Common Solutions for Players Facing Issues with The Elder Scrolls Online Startup</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-installation-guide-for-the-latest-startech-vga-drivers-usb-version/"><u>Easy Installation Guide for the Latest StarTech VGA Drivers (USB Version)</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-motorola-edge-40-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-cross-platform-messaging-imessage-for-windows-explained-by-zdnet/"><u>Mastering Cross-Platform Messaging: IMessage for Windows Explained by ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-non-loading-errors-in-urban-planning-simulator-skyline-builders-2/"><u>Resolving Non-Loading Errors in Urban Planning Simulator Skyline Builders 2</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/shark-ion-robot-vacuum-av751-comprehensive-examination-reveals-superior-dust-suction-but-questionable-pathfinding-abilities-home-automation-central/"><u>Shark ION Robot Vacuum (AV751): Comprehensive Examination Reveals Superior Dust Suction but Questionable Pathfinding Abilities | Home Automation Central</u></a></li>
-<li><a href="https://techidaily.com/sign-wbk-file-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .wbk file Online for Free</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-stability-problems-in-madden-19-for-windows-users/"><u>Troubleshooting & Solving Stability Problems in Madden 19 for Windows Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ecure-and-simple-grab-your-desired-youtube-cover-at-no-charge/"><u>[New] Secure & Simple Grab Your Desired YouTube Cover at No Charge</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-sharing-guide-for-tiktok-content/"><u>[Updated] Twitter Sharing Guide for TikTok Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-visioncutting-software/"><u>[Updated] VisionCutting Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-installation-access-the-ultimate-downloaded-instructions-for-behringers-usb-sound-device/"><u>Effortless Installation: Access the Ultimate Downloaded Instructions for Behringer's USB Sound Device!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enshrouded-game-error-resolved-play-uninterrupted-on-your-desktop/"><u>Enshrouded Game Error Resolved: Play Uninterrupted on Your Desktop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-apex-legends-playtime-mastering-connection-troubleshooting-techniques/"><u>Fix Your Apex Legends Playtime: Mastering Connection Troubleshooting Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fortnite-wont-start-fix-the-you-dont-have-permission-problem-easily/"><u>Fortnite Won’t Start? Fix the ‘You Don't Have Permission’ Problem Easily</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-sonic-sleuths-den-acquire-and-scrutinize-audio-files/"><u>In 2024, Sonic Sleuths' Den Acquire & Scrutinize Audio Files</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-game-playback-problems-steam-games-wont-start-on-windows-10-computers/"><u>Resolve Game Playback Problems: Steam Games Won't Start on Windows 10 Computers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-review-of-minecraft-a-timeless-fun-for-everyone/"><u>The Definitive Review of Minecraft: A Timeless Fun for Everyone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-and-install-hyper-v-feature-on-windows-10-a-simple-walkthrough/"><u>Unlock and Install Hyper-V Feature on Windows 10 - A Simple Walkthrough</u></a></li>
 </ul></div>
 

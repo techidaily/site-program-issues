@@ -1,7 +1,7 @@
 ---
 title: Tormented Souls Stability Fixes - Say Goodbye to Incessant Program Failures on PC!
-date: 2024-12-23T22:12:07.736Z
-updated: 2024-12-27T10:42:02.809Z
+date: 2025-01-02T23:20:20.429Z
+updated: 2025-01-05T18:18:26.641Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 6. [**Disable peripherals**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Check the launcher log](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall Assassin’s Creed Valhalla](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
 
@@ -74,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
  If verifying game files didn’t help your case, simply check out the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
@@ -88,24 +92,16 @@ You can use these steps to check for Windows updates manually:
 2. Click **Check for updates** . Windows will automatically download and install all the available updates. This might take up to an hour depending on your Internet speed.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In some cases, you might need to check several times to get all the updates. Simply repeat these steps until it prompts**You’re up to date** when you click**Check for updates** .
 
  Once you’ve fully updated your system, restart your PC and check if Assassin’s Creed Valhalla becomes stable.
 
 If the crash happens again, you can take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -134,7 +130,7 @@ If the crash happens again, you can take a look at the next fix.
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -159,19 +155,23 @@ If the crash happens again, you can take a look at the next fix.
 
  If this trick failed to solve your problem, you can move on to the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Disable peripherals
 
  To some pro-gamers, a controller can be a whole lot more comfortable than a mouse and keyboard. While peripherals surely add more fun to games, there have been reports that they can also have compatibility issues with new titles. So if you’re using peripherals (e.g. controllers) in Assassin’s Creed Valhalla, try**returning to the classic mouse and keyboard bundle** and see if it helps.
 
  If disabling peripherals doesn’t work for you, or you’re not using any at the first place, you can take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Check the launcher log
 
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
 
@@ -196,18 +196,15 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-10-best-camera-apps-for-iphone-x88-plus7-7-plus-free-and-paid-for-2024/"><u>[New] 10 Best Camera Apps for iPhone X/8/8 Plus/7/ 7 Plus - Free & Paid for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-understanding-youtube-short-videos/"><u>[New] In 2024, Understanding YouTube Short Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-mastering-music-integration-into-vimeo-videos/"><u>[New] Mastering Music Integration Into Vimeo Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-diving-into-instagrams-restriction-for-video-content/"><u>[Updated] In 2024, Diving Into Instagram's Restriction for Video Content</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/expert-tips-for-professional-gopro-film-cuts-and-editing-techniques/"><u>Expert Tips for Professional GoPro Film Cuts and Editing Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-startup-stalls-expert-tips-for-a-successful-launch-of-baldurs-gate-iii/"><u>Fixing Startup Stalls: Expert Tips for a Successful Launch of Baldur's Gate III</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-frustrating-crashes-in-manor-lords-a-comprehensive-guide-for-gamers/"><u>Fixing the Frustrating Crashes in Manor Lords: A Comprehensive Guide for Gamers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/gaming-glitches-unraveled-successfully-tackling-two-sequential-crashes-on-windows-systems/"><u>Gaming Glitches Unraveled: Successfully Tackling Two Sequential Crashes on Windows Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-dragon-age-origins-from-closing-unexpectedly-in-windows-10/"><u>How to Stop Dragon Age: Origins From Closing Unexpectedly in Windows 10</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolve-your-rockstar-games-launcher-issues-top-fixes-and-strategies/"><u>Resolve Your Rockstar Games Launcher Issues : Top Fixes & Strategies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stardew-valley-crash-woes-here-are-5-proven-strategies-to-stabilize-your-game-on-pc/"><u>Stardew Valley Crash Woes? Here Are 5 Proven Strategies to Stabilize Your Game on PC</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-cinematography-on-youtube-for-2024/"><u>The Ultimate Guide to Cinematography on YouTube for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-ten-financial-fortunes-in-gaming-24-edition-for-2024/"><u>[Updated] Top Ten Financial Fortunes in Gaming - '24 Edition for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-premier-alternatives-exceeding-the-limits-of-twitter/"><u>2024 Approved Premier Alternatives Exceeding the Limits of Twitter</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-transforming-youtubers-into-titans-with-key-insights-from-the-hub/"><u>2024 Approved Transforming YouTubers Into Titans with Key Insights From the Hub</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/a-game-changer-for-gamers-easy-5-ways-to-capture-your-minecraft-adventures-mac/"><u>A Game Changer for Gamers Easy 5 Ways to Capture Your Minecraft Adventures (Mac)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-hacks-to-restore-your-clownfish-voip-adjusters-functionality/"><u>Fixes and Hacks to Restore Your Clownfish VOIP Adjuster's Functionality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/halloween-haunt-with-high-tech-save-big-on-evo-nanoplus-drone-slash-rs-19k-off-in-this-spooktacular-deal-zdnet-special/"><u>Halloween Haunt with High Tech: Save Big on EVO NANO+ Drone, Slash Rs. 19K Off in This Spooktacular Deal | ZDNET Special!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nuts-portugals-warm-climate-is-ideal-for-growing-nuts-like-walnuts-almonds-hazelnuts-and-chestnuts-which-are-often-used-in-desserts-such-as-pastel-de-nata-o405/"><u>Nuts: Portugal's Warm Climate Is Ideal for Growing Nuts Like Walnuts, Almonds, Hazelnuts and Chestnuts, Which Are Often Used in Desserts (Such as Pastel De Nata) or Added to Salads and Rice Dishes for a Satisfying Crunch.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-starfield-startup-dilemma-fixes-for-steam-and-xbox-users/"><u>Overcoming the Starfield Startup Dilemma: Fixes for Steam & Xbox Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unique-identification-making-your-youtube-url-stand-out-for-2024/"><u>Unique Identification Making Your YouTube URL Stand Out for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlocking-smoother-pc-playthroughs-addressing-twofold-fps-drops-effectively/"><u>Unlocking Smoother PC Playthroughs: Addressing Twofold FPS Drops Effectively</u></a></li>
 </ul></div>
 

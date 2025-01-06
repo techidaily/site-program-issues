@@ -1,7 +1,7 @@
 ---
 title: Battling Endless Restarts? Here's a Fix for Constant Crashes in God of War on Windows/Mac
-date: 2024-12-21T00:48:10.373Z
-updated: 2024-12-27T11:40:29.467Z
+date: 2024-12-31T23:37:40.327Z
+updated: 2025-01-05T18:05:02.875Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Metro-Exodus-PC-Enhanced-Edition-keeps-crashing.jpg)
 
 **Metro Exodus PC Enhanced Edition** is finally out. As a radical update to the original game, the PC Enhanced Edition features Ray Tracing, 60 FPS, Field of View options, DLSS 2.0 and more. However, there’re still many gamers reporting that**Metro Exodus PC Enhanced Edition keeps crashing** on their computers. If you’re experiencing the same issue, you’ve come to the right place. After reading this article, you should be able to fix this issue easily!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -56,13 +52,13 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -84,7 +80,15 @@ If the issue persists, try the next fix below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** \> **Verify integrity of game files…** . Wait a few minutes for Steam to validate the files of the game.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
 
@@ -108,19 +112,15 @@ If the issue persists, try the next fix below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  See if Metro Exodus PC Enhanced Edition crashes after you disabled all the in-game overlays. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Perform a clean boot
 
@@ -137,7 +137,7 @@ To perform a clean boot, just follow the steps below:
 2. Navigate to the **Services** tab, check **Hide all Microsoft services,** and then click **Disable all** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
@@ -155,7 +155,7 @@ To perform a clean boot, just follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Restart** your PC and run Metro Exodus PC Enhanced Edition to check if the game crashes. If not, you need to open the **System Configuration** window again and enable services and applications **one by one** until you find the problematic software. After enabling each startup service, you need to restart Windows OS to apply the changes.
@@ -184,16 +184,24 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-crafting-charismatic-videos-with-diy-camera-setups/"><u>[New] 2024 Approved Crafting Charismatic Videos with DIY Camera Setups</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ideal-ps2-emulation-software-for-ios-users/"><u>[Updated] In 2024, Ideal PS2 Emulation Software for IOS Users</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-redefining-schooling-with-virtual-reality/"><u>[Updated] In 2024, Redefining Schooling with Virtual Reality</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-maximizing-performance-optimal-settings-for-logitech-webcam-for-2024/"><u>[Updated] Maximizing Performance Optimal Settings for Logitech Webcam for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-metaverse-comedy-the-art-and-science-of-creating-viral-online-laughs-for-2024/"><u>[Updated] Metaverse Comedy The Art & Science of Creating Viral Online Laughs for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723007829552-geforce-glitches-heres-how-to-fix-and-prevent-the-unwanted-closure-error/"><u>GeForce Glitches? Here's How to Fix and Prevent the Unwanted Closure Error</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-your-steam-streaming-glitches-quick-fix-tips-for-remote-play/"><u>Solve Your Steam Streaming Glitches - Quick Fix Tips for Remote Play</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/step-by-step-livestream-guide-for-pre-recorded-videos-on-fb-for-2024/"><u>Step-by-Step Livestream Guide for Pre-Recorded Videos on FB for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-definitive-2024-handbook-on-managing-and-fixing-discords-cpu-drain-issues/"><u>The Definitive 2024 Handbook on Managing and Fixing Discord's CPU Drain Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-strategies-for-a-smooth-dota-2-experience-overcome-lag/"><u>Top Strategies for a Smooth Dota 2 Experience – Overcome Lag</u></a></li>
-<li><a href="https://program-issues.techidaily.com/uncovering-lost-melodies-fixing-sound-problems-in-your-fallout-4-game-on-pc/"><u>Uncovering Lost Melodies: Fixing Sound Problems in Your Fallout 4 Game on PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unpacking-the-advanced-capabilities-of-movavi-video-editor-2024plus/"><u>[New] Unpacking the Advanced Capabilities of Movavi Video Editor 2024+</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-ensure-uninterrupted-playtime-fixing-common-reasons-for-pc-gaming-crashes/"><u>How To Ensure Uninterrupted Playtime - Fixing Common Reasons for PC Gaming Crashes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-fixes-for-stuck-instagram-videos/"><u>In 2024, Mastering Fixes for Stuck Instagram Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-xiaomi-redmi-13c-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Xiaomi Redmi 13C and Browser | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/kinetic-control-over-android-a-compre-authorize-deep-dive-into-kinemaster/"><u>Kinetic Control Over Android - A Compre Authorize Deep Dive Into KineMaster</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-phasmophobia-stability-essential-bug-fixes-and-optimization-for-players/"><u>Mastering Phasmophobia Stability: Essential Bug Fixes and Optimization for Players</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-technology-with-toms-hardware-experts-top-picks-and-reviews/"><u>Navigating Technology with Tom's Hardware Experts: Top Picks & Reviews</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigating-the-eternal-return-tactics-to-sustain-black-survival-successfully/"><u>Navigating the Eternal Return: Tactics to Sustain Black Survival Successfully</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-starcraft-ii-hangar-latency-issue-on-steam-deck-and-macbook-pro/"><u>Overcoming StarCraft II Hangar Latency Issue on Steam Deck and MacBook Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overwatch-graphic-glitch-resolved-drivers-updated/"><u>Overwatch Graphic Glitch Resolved: Drivers Updated</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/pursuing-well-being-top-10-yoga-channel-recommendations/"><u>Pursuing Well-Being Top 10 Yoga Channel Recommendations</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/rediscovering-demons-souls-with-next-gen-graphics-a-fusion-of-old-charm-and-modern-visual-excellence/"><u>Rediscovering Demon's Souls with Next-Gen Graphics: A Fusion of Old Charm & Modern Visual Excellence</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/into-success-mastering-tagging-for-engaging-content-for-2024/"><u>Step Into Success Mastering Tagging for Engaging Content for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-to-prevent-blender-from-collapsing-during-use-on-desktops/"><u>Step-by-Step Solutions to Prevent Blender From Collapsing During Use on Desktops</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-filmography-viewing-taylor-swifts-movies-in-sequence/"><u>The Complete Filmography - Viewing Taylor Swift's Movies in Sequence</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-stop-call-of-duty-black-ops-cold-war-from-crashing-your-pc-in-202n/"><u>Troubleshooting Guide - Stop Call of Duty: Black Ops Cold War From Crashing Your PC in 202N</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-postponement-of-alan-wake-2-release/"><u>Troubleshooting the Postponement of Alan Wake 2 Release</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-hack-list-resolving-finals-wont-launch-issues-before-going-live-in-202n4/"><u>Ultimate Hack List: Resolving 'Finals Won't Launch' Issues Before Going Live in 202N4</u></a></li>
 </ul></div>
 

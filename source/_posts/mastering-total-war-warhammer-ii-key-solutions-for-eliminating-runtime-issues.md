@@ -1,7 +1,7 @@
 ---
 title: "Mastering TOTAL WAR: WARHAMMER II - Key Solutions for Eliminating Runtime Issues"
-date: 2024-12-25T19:08:43.588Z
-updated: 2024-12-27T06:55:28.959Z
+date: 2025-01-04T21:36:38.087Z
+updated: 2025-01-05T18:19:11.271Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/image-4-1200x702.png)
 
  Elden Ring has finally arrived. However, many players are complaining that they encounter many performance issues when playing the game. And one of the issues that trouble many players is the**black screen problem on startup** . When this happens, players can see and move the game cursor and hear the music playing, but nothing else is displayed. If you’re facing the same issue, don’t worry. Here we’ve put together all the working fixes for you to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -47,19 +43,15 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-windowed-mode.jpg)
 4. Close the**Properties** window and launch the game.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the black screen occurs again, don’t worry. There are still other fixes you can try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Restart your graphics driver
 
  When you get a black screen on your Windows PC, you can try using the keyboard shortcut**Windows logo key + Ctrl + Shift + B** to restart your graphics driver. If Windows is responsive, your screen will flash and then the game should work fine. But if not, go ahead with the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -76,17 +68,21 @@ There are mainly two ways to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is download them one at a time and manually install them.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Once you’ve updated your graphics driver, restart your PC and launch Elden Ring again to see if your problem is resolved.
 
  If updating your graphics driver doesn’t solve your problem, check the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows updates
 
@@ -101,6 +97,10 @@ There are mainly two ways to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates, restart your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Elden Ring again and check if you still get stuck on a black screen.
 
 If the issue persists, move on to the next fix.
@@ -112,7 +112,7 @@ If the issue persists, move on to the next fix.
 2. Click on the**Check for updates** button.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
@@ -128,10 +128,6 @@ If the issue persists, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. Select the**Install Files** tab and click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
 4. Wait a few minutes for Steam to verify the game files.
 
@@ -140,7 +136,7 @@ If the issue persists, move on to the next fix.
 If the issue remains, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Disable Steam overlay
@@ -151,6 +147,10 @@ If the issue remains, take a look at the next fix.
 2. Right-click**Elden Ring** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. On the**General** tab, toggle off**Enable the Steam Overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Disable-in-game-overlay.jpg)
 4. Close the**Properties** window and launch the game.
@@ -180,22 +180,22 @@ Now check if the black screen issue has gone away.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/rime-video-to-text-technology-now/"><u>[New] Prime Video-to-Text Technology, Now!</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-top-picks-of-firefox-tools-to-streamline-your-facebook-video-experience-2023/"><u>[New] Top Picks of Firefox Tools to Streamline Your Facebook Video Experience, 2023</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-skyline-your-videos-reach-writing-captivating-youtube-descs-using-templates/"><u>[Updated] In 2024, Skyline Your Video's Reach Writing Captivating Youtube Descs Using Templates</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-vital-guide-to-cost-effective-video-and-photography-archives-for-2024/"><u>[Updated] Vital Guide to Cost-Effective Video and Photography Archives for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-archive-of-awe-high-quality-gif-preservation-for-tweeters/"><u>2024 Approved Archive of Awe High-Quality GIF Preservation for Tweeters</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquering-call-of-duty-modern-warfares-error-6034-strategies-for-successful-gameplay-across-all-platforms/"><u>Conquering Call of Duty Modern Warfare's Error 6034 - Strategies for Successful Gameplay Across All Platforms</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expertly-defeating-call-of-dutys-fps-hurdles-modern-warfare-edition/"><u>Expertly Defeating Call of Duty's FPS Hurdles: Modern Warfare Edition</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/firefoxs-finest-leading-video-downloads-and-addons-for-facebook/"><u>Firefox's Finest Leading Video Downloads & Addons for Facebook</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-get-your-steelseries-gg-engine-running-smoothly-on-windows/"><u>Fixing the Issue: How to Get Your SteelSeries GG Engine Running Smoothly on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-activating-and-setting-up-hyper-v-in-windows-11/"><u>Guide: Activating and Setting Up Hyper-V in Windows 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo T2 5G? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-when-your-game-of-team-fortress-2-wont-open/"><u>How to Fix When Your Game of Team Fortress 2 Won't Open</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improve-performance-six-crucial-steps-to-avoid-crashing-during-playthrough-of-modern-warfare-aturality/"><u>Improve Performance: Six Crucial Steps to Avoid Crashing During Playthrough of Modern Warfare Aturality</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improving-gameplay-smoothness-overcoming-stutters-and-increasing-fps-on-valorant/"><u>Improving Gameplay Smoothness - Overcoming Stutters and Increasing FPS on Valorant</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-efficient-video-calls-made-easy-linking-zoom-with-gmail/"><u>In 2024, Efficient Video Calls Made Easy Linking Zoom with Gmail</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-speedy-guide-to-mute-vocals-in-recording-software-audacity-edition/"><u>Updated 2024 Approved Speedy Guide to Mute Vocals in Recording Software – Audacity Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723000765820-world-of-warcraft-players-rejoice-put-an-end-to-that-dreaded-screen-shimmer/"><u>World of Warcraft Players Rejoice: Put an End to That Dreaded Screen Shimmer!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-srt-essentials-decoded-for-easy-understanding-for-2024/"><u>[New] SRT Essentials Decoded for Easy Understanding for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quantum-leap-the-most-astonishing-sci-fi-films-of-metaverses/"><u>2024 Approved Quantum Leap The Most Astonishing Sci-Fi Films of Metaverses</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/effortless-learning-of-swedish-letters-and-tones/"><u>Effortless Learning of Swedish Letters & Tones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-unavailable-frontiers-of-pandora-feature-in-avatar-video-game-series/"><u>Fixing the Unavailable Frontiers of Pandora Feature in Avatar Video Game Series</u></a></li>
+<li><a href="https://driver-install.techidaily.com/guide-to-personal-management-of-devices-in-vista-os/"><u>Guide to Personal Management of Devices in Vista OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-kodi-cant-connect-issue-solving-the-directory-retrieval-error/"><u>How to Fix Kodi Can't Connect Issue: Solving the Directory Retrieval Error</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/identifying-and-avoiding-bingchatgpt-related-cryptocurrency-fraud-what-you-need-to-know/"><u>Identifying & Avoiding BingChatGPT-Related Cryptocurrency Fraud: What You Need to Know</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-evaluating-bandicam-and-camtasia-for-mac-users/"><u>In 2024, Evaluating Bandicam and Camtasia for Mac Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722999576816-league-of-legends-errors-fast-fixes-for-rapid-restart/"><u>League of Legends Errors: Fast Fixes for Rapid Restart!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-end-of-cycle-error-prevention-proven-techniques-to-fix-last-epoch-crashes-in-modern-computers/"><u>Mastering End of Cycle Error Prevention - Proven Techniques to Fix Last Epoch Crashes in Modern Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-launch-problems-a-guide-to-getting-origin-running-in-windows-10-and-11/"><u>Resolving Launch Problems: A Guide to Getting Origin Running in Windows 10 and 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revamping-chromecast-display-methods-for-altering-screensaver-pics/"><u>Revamping Chromecast Display: Methods for Altering Screensaver Pics</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-erroneous-module-data-for-uninterrupted-gaming-experience/"><u>Troubleshoot 'Erroneous Module Data' For Uninterrupted Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-stop-wwe-2k22-from-shutting-down-unexpectedly-on-pc/"><u>Troubleshoot and Stop WWE 2K22 From Shutting Down Unexpectedly on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-kernelbasedll-malfunctions-easily-and-quickly/"><u>Troubleshoot KernelBase.dll Malfunctions Easily and Quickly!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-addressing-counter-strike-gameplay-interruptions-effortlessly/"><u>Troubleshooting Guide: Addressing Counter-Strike Gameplay Interruptions Effortlessly</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-4-ways-to-loop-a-video-on-vimeo-for-2024/"><u>Updated 4 Ways to Loop a Video on Vimeo for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Endless Load: Resolving Anthem's Infinity Loop Issue"
-date: 2024-12-25T20:29:08.274Z
-updated: 2024-12-27T03:00:02.707Z
+date: 2024-12-31T20:19:51.171Z
+updated: 2025-01-05T18:27:53.106Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 4. **[Turn on off VSync](https://tools.techidaily.com/drivereasy/download/)**
 5. **[perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Verify integrity of game files
 
  One common cause of FUSER crashing issue is the corrupted game files. If you’re not sure if the game crashes are triggered by the faulty game files, just verify integrity of game files. By doing that, you can repair the game.
@@ -43,17 +39,21 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **If you play FUSER in Epic Games Launcher** , you can follow the instructions below to verify the game files:
 
 1. Launch**Epic Games Launcher** and go to your**Library** .
 2. click on the**three dots** under the**FUSER** game tile and select**Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
@@ -72,22 +72,18 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Launch FUSER and see if the latest graphics driver stops the crash. If this fix doesn’t work for you, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -119,25 +115,29 @@ You can try turning off VSync and see if this issue persists.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab,**check Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
@@ -173,20 +173,24 @@ You can try turning off VSync and see if this issue persists.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-capture-every-moment-exploring-free-high-quality-cameras/"><u>[New] Capture Every Moment – Exploring Free, High-Quality Cameras</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/1715860204333-new-your-comprehensive-manual-for-creating-an-accessible-and-effective-chat-room-within-skype-compatible-with-both-windows-and-macos-platforms/"><u>[New] Your Comprehensive Manual for Creating an Accessible and Effective Chat Room Within Skype, Compatible with Both Windows & MacOS Platforms.</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-rev-up-your-mobile-vids-with-top-speed-apps/"><u>[Updated] Rev Up Your Mobile Vids with Top Speed Apps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-steps-to-resolve-lagging-and-connections-in-new-world-update/"><u>Easy Steps to Resolve Lagging & Connections in 'New World' Update</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-gameplay-quality-in-avatar-the-games-frontiers-of-pandora-combatting-low-frame-rates-and-glitches/"><u>Enhancing Gameplay Quality in 'Avatar: The Game's Frontiers of Pandora': Combatting Low Frame Rates & Glitches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-to-resolve-problems-with-launching-your-new-monster-hunter-game/"><u>Expert Tips to Resolve Problems with Launching Your New Monster Hunter Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-successfully-fix-a-failed-connectivity-on-new-world/"><u>How to Successfully Fix a Failed Connectivity on 'New World'</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-oppo-find-x7-ultra-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Oppo Find X7 Ultra Without PUK Codes</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-leveraging-likes-and-shares-top-30-facebook-marketing-steps/"><u>In 2024, Leveraging Likes and Shares Top 30 Facebook Marketing Steps</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-social-media-mastery-how-to-make-a-post-take-off-on-fb/"><u>In 2024, Social Media Mastery How to Make a Post Take Off on FB</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oppo-reno-10-proplus-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Oppo Reno 10 Pro+ 5G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-launch-obstacles-in-your-playthrough-of-witcher-n3-wild-hunt/"><u>Overcoming Launch Obstacles in Your Playthrough of Witcher N3: Wild Hunt</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-your-fortnite-login-failed-issue-in-minutes-step-by-step-guide/"><u>Resolve Your 'Fortnite Login Failed' Issue in Minutes - Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/start-making-money-today-top-13-easy-methods-for-newbies-for-2024/"><u>Start Making Money Today! Top 13 Easy Methods for Newbies for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-continuous-restarts-of-pacific-drive-in-windows-environments/"><u>Troubleshooting Continuous Restarts of Pacific Drive in Windows Environments</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-vlc-media-recorder-assessment-report/"><u>[New] VLC Media Recorder Assessment Report</u></a></li>
+<li><a href="https://program-issues.techidaily.com/decode-and-defend-against-phasmophobia-game-crashes-latest-solutions-and-hacks-updated-for-202n/"><u>Decode & Defend Against Phasmophobia Game Crashes: Latest Solutions and Hacks (Updated for 202N)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/eminent-exchanges-a-curated-list-of-top-reddit-posts/"><u>Eminent Exchanges A Curated List of Top Reddit Posts</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-secure-simplified-recording-of-video-conferencing/"><u>In 2024, Secure, Simplified Recording of Video Conferencing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/in-depth-fixes-for-modern-warfare-3s-memory-overflow-error-memoryexceeded-code-12707/"><u>In-Depth Fixes for Modern Warfare 3'S Memory Overflow Error - MEMORY_EXCEEDED (Code 12707)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726027563463-m4aogg/"><u>M4A音声データをOgg形式に容易に変換するテクニック</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-battery-performance-a-6-step-calibration-guide/"><u>Mastering iPhone Battery Performance: A 6-Step Calibration Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-discover-the-best-5-reaction-video-makers-to-follow/"><u>New 2024 Approved Discover the Best 5 Reaction Video Makers to Follow</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-counter-strike-2-expert-advice-to-improve-fps-fluctuations-and-reduce-stutter-for-enhanced-gameplay/"><u>Optimize Counter-Strike 2: Expert Advice to Improve FPS Fluctuations and Reduce Stutter for Enhanced Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-steps-to-troubleshoot-multiversus-launch-issues-on-pc/"><u>Resolved: Steps to Troubleshoot MultiVersus Launch Issues on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-error-code-327-in-star-wars-battlefront-ii-a-step-by-step-fix/"><u>Resolving 'Error Code 327' In Star Wars Battlefront II: A Step-by-Step Fix</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/streamlined-techniques-for-consolidating-several-mov-files-into-one-unified-video/"><u>Streamlined Techniques for Consolidating Several MOV Files Into One Unified Video</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tackling-latency-and-freezing-issues-in-call-of-duty-vanguard/"><u>Tackling Latency and Freezing Issues in Call of Duty: Vanguard</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-quest-for-the-ultimate-virtual-world-starts-here-htc-vive/"><u>The Quest for the Ultimate Virtual World Starts Here HTC Vive</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-pubg-pc-performance-issues/"><u>Troubleshooting Tips: Resolving PUBG PC Performance Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-ps4-freezing-issues-a-detailed-walkthrough/"><u>Ultimate Guide: Resolving PS4 Freezing Issues - A Detailed Walkthrough</u></a></li>
+<li><a href="https://program-issues.techidaily.com/war-thunder-crashing-solved-discover-the-ultimate-guide-and-tips-to-keep-your-game-running/"><u>War Thunder Crashing Solved - Discover the Ultimate Guide and Tips to Keep Your Game Running</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Realme 12 5G | Dr.fone</u></a></li>
 </ul></div>
 

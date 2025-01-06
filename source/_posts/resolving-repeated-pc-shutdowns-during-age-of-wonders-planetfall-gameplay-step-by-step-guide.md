@@ -1,7 +1,7 @@
 ---
 title: "Resolving Repeated PC Shutdowns During 'Age of Wonders: Planetfall' Gameplay - Step-by-Step Guide"
-date: 2024-12-24T04:13:00.086Z
-updated: 2024-12-27T12:10:00.501Z
+date: 2025-01-02T20:28:05.064Z
+updated: 2025-01-05T16:53:09.717Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -40,7 +40,7 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/how-to-fix-Pathfinder-Wrath-of-the-Righteous-freezing-on-PC.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Add your game as an exception to your antivirus
@@ -76,7 +76,7 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
@@ -87,13 +87,13 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
  After updating drivers, restart your PC and test the gameplay. If this doesn’t do the trick, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Verify integrity of game files
 
  A variety of issues may be caused by corrupted game files, whether it’s glitched graphics or inability to launch the game. When the Pathfinder: Wrath of the Righteous freezing issue arise, you should check the integrity of the game files on Steam or GOG Galaxy:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Verify on Steam
 
@@ -102,11 +102,11 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-properties.jpg)
 2. Select the**LOCAL FILES** tab and click on the**VERIFY INTEGRITY OF GAME FILES…** button. Then Steam will verify the game files. Simply wait for the process to complete.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Verify on GOG Galaxy
 
@@ -117,7 +117,7 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![how to verify integrity of game files on GOG Galaxy](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  GOG Galaxy will now verify all of your game files, and compare them with files hosted on the game servers. If there are any discrepancies GOG Galaxy will redownload, and repair corrupted files.
@@ -133,10 +133,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-1.jpg)
 3. Click **In-Game** . Uncheck the box **Enable the Steam Overlay while in-game** . Then click **OK** to save the changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)
 
@@ -158,10 +154,14 @@ However, if it doesn’t give you any luck, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 3. Go to**ComputerHKEY\_CURRENT\_USERSOFTWAREowlcat** and delete the entire key.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![delete registry key](https://images.drivereasy.com/wp-content/uploads/2021/09/registry.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once done, restart your game and test the gameplay.
@@ -195,18 +195,20 @@ Once done, restart your game and test the gameplay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-harmonize-music-with-ppt-design-for-2024/"><u>[New] Harmonize Music with PPT Design for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-a-comprehensive-tutorial-changing-gender-in-social-media-images/"><u>[New] In 2024, A Comprehensive Tutorial Changing Gender in Social Media Images</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-outro-crafting-for-beginners-top-6-free-resources/"><u>[New] In 2024, Outro Crafting for Beginners Top 6 Free Resources</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-proven-strategies-for-flawless-xbox-video-capture-for-2024/"><u>[New] Proven Strategies for Flawless Xbox Video Capture for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/boost-your-pcs-performance-utilize-windows-11-feature-to-quickly-terminate-sluggish-programs-revealed-by-tech-guru/"><u>Boost Your PC's Performance: Utilize Windows 11 Feature to Quickly Terminate Sluggish Programs, Revealed by Tech Guru</u></a></li>
-<li><a href="https://fox-links.techidaily.com/famed-stop-motion-movies-15-of-all-time-for-2024/"><u>Famed Stop-Motion Movies #15 of All Time for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-tecno-spark-10-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maximize-your-adventure-tackling-frames-per-second-fps-problems-for-a-seamless-red-dead-2-experience/"><u>Maximize Your Adventure - Tackling Frames Per Second (FPS) Problems for a Seamless Red Dead 2 Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723010590635-optimizing-performance-for-r-type-final-2-on-pc-no-more-crashes/"><u>Optimizing Performance for R-Type Final 2 on PC: No More Crashes!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/rust-programming-how-to-fix-the-kernel-panic-error/"><u>Rust Programming: How to Fix the 'Kernel Panic' Error</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solutions-for-continuous-freezing-in-call-of-duty-modern-warfare-when-playing-on-desktop-computers/"><u>Solutions for Continuous Freezing in Call of Duty: Modern Warfare When Playing on Desktop Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-fix-halo-3-stability-issues-and-stop-pc-game-crashes/"><u>Ultimate Guide: Fix Halo 3 Stability Issues and Stop PC Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-for-warzones-0-1766-memory-error-on-gaming-consoles-and-computers/"><u>Ultimate Troubleshooting Guide for Warzone's 0-1766 Memory Error on Gaming Consoles and Computers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-emancipate-your-engagement-facebook-restored-for-2024/"><u>[Updated] Emancipate Your Engagement Facebook Restored for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-reset-and-regain-navigating-the-2023-fb-hack-scenario/"><u>[Updated] Reset & Regain Navigating the 2023 FB Hack Scenario</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-playlist-15-ways-to-revamp-a-live-stream/"><u>2024 Approved The Ultimate Playlist 15 Ways to Revamp a Live Stream</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-the-ultimate-professional-smartphone-a-comprehensive-battle-between-samsung-galaxy-note20-ultra-and-oneplus-8t-expert-insights/"><u>Choosing the Ultimate Professional Smartphone: A Comprehensive Battle Between Samsung Galaxy Note20 Ultra and OnePlus 8T – Expert Insights!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722962307882-direct-download-link-for-qualcomm-atheros-top-rated-bluetooth-3e-ar3011-drivers-available/"><u>Direct Download Link for Qualcomm Atheros - Top-Rated Bluetooth 3.e AR3011 Drivers Available!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-to-stop-escape-from-tarkov-from-crashing-on-your-computer/"><u>Effective Solutions to Stop Escape From Tarkov From Crashing on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-solutions-to-prevent-deathloop-game-from-freezing-on-pc/"><u>Effortless Solutions to Prevent Deathloop Game From Freezing on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-fixes-for-a-non-responsive-rust-program-expert-advice/"><u>Essential Fixes for a Non-Responsive Rust Program: Expert Advice</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-resolved-rust-game-bug-a-step-by-step-guide/"><u>Fixing the [Resolved] Rust Game Bug: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-common-dying-light-audio-problem/"><u>Fixing the Common 'Dying Light' Audio Problem</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-ready-for-strange-times-how-zooms-arrival-on-the-vision-pro-headset-is-changing-meetings-forever-insights-from-zdnet/"><u>Get Ready for Strange Times: How Zoom's Arrival on the Vision Pro Headset Is Changing Meetings Forever | Insights From ZDNET.</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-realme-gt-neo-5-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Realme GT Neo 5 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-warframe-performance-hitches-and-freezes-effectively/"><u>Resolving Warframe Performance Hitches and Freezes Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-resolving-not-opening-errors-in-razer-synapse/"><u>Step-by-Step Guide to Resolving 'Not Opening' Errors in Razer Synapse</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726027472480-wonderfox/"><u>WonderFox問い合わせに迅速な回答を提供してくださる時間はいつですか?</u></a></li>
 </ul></div>
 

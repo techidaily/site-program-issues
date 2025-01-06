@@ -1,7 +1,7 @@
 ---
 title: Trouble with Assassin’s Creed Freedom Cry? Master the Launch Fixes for Optimal Playtime
-date: 2024-12-23T19:57:39.371Z
-updated: 2024-12-26T16:11:06.853Z
+date: 2025-01-01T18:47:43.535Z
+updated: 2025-01-05T21:39:30.242Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ When you’re entering this complicated fantasy world, nothing upsets you more t
 9. **[Delete the Gog.dll file](https://tools.techidaily.com/drivereasy/download/)**
 10. **[Clean reinstall](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Run Witcher 3 as Administrator
 
  Witcher 3 sometimes can’t access certain game files on your PC under normal user mode, which could be the cause of the not launching issue. To fix it, you can try running both of your**Steam/GOG** and**Witcher 3** as administrators.
@@ -47,7 +43,7 @@ When you’re entering this complicated fantasy world, nothing upsets you more t
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select the**Compatibility** tab, and tick the**Run this program as an administrator** box. Then click**Apply** \>**OK** .
@@ -73,18 +69,18 @@ The executable for the game is located in:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select the Compatibility tab and tick the box next to**Run this program in compatibility mode for:** and select your previous operating system. Then tick**Run this program as an administrator** . Click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/compatibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you have full access to the game files. Relaunch it to see if your Witcher 3 not launching issue still persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Remove Mods
@@ -92,6 +88,10 @@ The executable for the game is located in:
  If you have added any mods to Witcher 3, you can uninstall them to see if it works. Witcher 3 may have been worked fine with the mods before, but mods can be unpredictable at times.
 
  Just delete the mods subfolder within the Witcher 3 folder and it should work. After that, you can launch the game to test the issue. If you can launch the game normally, then great! If not, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update device drivers
 
@@ -113,11 +113,11 @@ There are two ways for you to update your drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/NVIDIA-driver-1.jpg)
 * For AMD: Go to **[AMD Drivers & Support](https://www.amd.com/en/support)**  .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/AMD-driver-downloads-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve downloaded the correct drivers for your system, double click the downloaded file and follow the on-screen instructions to install the driver. After that, restart your computer for the changes to take effect.
 
@@ -141,15 +141,15 @@ There are two ways for you to update your drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/update-all-your-drivers-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** You can do it for free if you like, but it’s partly manual.
 
 4) Restart your PC and launch Witcher 3 again to test the issue.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of game files
 
@@ -180,10 +180,6 @@ There are two ways for you to update your drivers:
  1) Type cmd in the Search box. Then right-click**Command Prompt** and select**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Type the command:**sfc /scannow** in the window and hit**Enter** .
 
@@ -251,6 +247,10 @@ Try launching your game again to see if Witcher 3 works normally again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-1019-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Restart your PC and launch Witcher 3 again.
 
  If Witcher 3 launches successfully again, then congrats! However, you’ll need to find out the problematic software. Here is how to do it:
@@ -261,13 +261,13 @@ Try launching your game again to see if Witcher 3 works normally again.
 
  Once you find out the problematic software, you may need to uninstall or disable it to avoid running into the same issue in the future .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 9: Delete the GoG.dll
 
  If you ever transferred your Witcher 3 from GOG to Steam, there might be two .dll files in your**Steam > steamapps > common > The Witcher 3 > bin** folder. One of them is Steam.dll and the other is GoG.dll. You may delete the**GoG.dl** l file and try running Witcher 3 again to test your issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 10: Perform a reinstall
 
@@ -330,17 +330,21 @@ RECOMMENDED REQUIREMENTS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-vloggers-retreat-excellence-unleashed/"><u>[New] The Vloggers' Retreat Excellence Unleashed</u></a></li>
-<li><a href="https://win-premium.techidaily.com/diagnosing-failed-network-interface-issues-expert-analysis-by-yl-software-professionals/"><u>Diagnosing Failed Network Interface Issues: Expert Analysis by YL Software Professionals</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-acer-wi-fi-drivers-for-free-simple-setup-tutorial/"><u>Download Acer Wi-Fi Drivers for Free – Simple Setup Tutorial</u></a></li>
-<li><a href="https://program-issues.techidaily.com/epic-gamers-guide-to-optimizing-hogwarts-legacy-conquering-lag-issues/"><u>Epic Gamer's Guide to Optimizing Hogwarts Legacy - Conquering Lag Issues !</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-call-of-duty-world-war-ii-solving-the-puzzling-black-screen-problems-in-windows/"><u>Fixing Call of Duty: World War II - Solving the Puzzling Black Screen Problems in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/google-play-pass-saves-money-but-not-without-exceptions/"><u>Google Play Pass Saves Money, But Not Without Exceptions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-xiaomi-13t-by-fonelab-android-recover-data/"><u>How to recover lost data from Xiaomi 13T?</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-5-leading-tools-for-crafting-superior-video-titles-and-tags/"><u>In 2024, 5 Leading Tools for Crafting Superior Video Titles and Tags</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-kernelbasedll-stability-fast-fixes-and-prevention-methods/"><u>Mastering the Art of KernelBase.dll Stability: Fast Fixes and Prevention Methods</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unlocking-gaming-restrictions-how-to-play-regional-lockouts-on-nintendo-switch-ps4-and-xbox-one/"><u>Unlocking Gaming Restrictions: How to Play Regional Lockouts on Nintendo Switch, PS4 & Xbox One</u></a></li>
-<li><a href="https://program-issues.techidaily.com/vanguard-software-demands-higher-cpu-specs-upgrade-necessary/"><u>Vanguard Software Demands Higher CPU Specs - Upgrade Necessary</u></a></li>
-<li><a href="https://video-capture.techidaily.com/your-phone-your-camera-tips-for-mobile-video-shooting/"><u>Your Phone, Your Camera Tips for Mobile Video Shooting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-filming-made-easy-selecting-the-right-audio-devices/"><u>[New] In 2024, Filming Made Easy Selecting the Right Audio Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-forza-horizon-4-crash-on-pc/"><u>[SOLVED] Forza Horizon 4 Crash on PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-manage-and-disable-recommended-podcast-episodes-in-spotify/"><u>2024 Approved How to Manage and Disable Recommended Podcast Episodes in Spotify</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipated-launch-of-new-apple-devices-airpods-lite-and-airpods-max-coming-soon-latest-update-from-tech-analysts/"><u>Anticipated Launch of New Apple Devices: AirPods Lite & AirPods Max Coming Soon - Latest Update From Tech Analysts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-infinix-zero-30-5g-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Infinix Zero 30 5G</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-on-how-to-fix-dead-by-daylights-error-8014-issue/"><u>Expert Tips on How To Fix Dead By Daylight's Error 8014 Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-gain-access-overcome-fortnites-no-permission-to-play-hurdle/"><u>How to Gain Access: Overcome Fortnite's 'No Permission to Play' Hurdle</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-comprehensive-guide-to-websites-for-text-alteration/"><u>In 2024, Comprehensive Guide to Websites for Text Alteration</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-make-every-minute-count-with-these-15-engaging-activities-while-listening-to-podcasts/"><u>In 2024, Make Every Minute Count with These 15 Engaging Activities While Listening to Podcasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-error-code-0x0003-on-your-nvidia-geforce-experience/"><u>Resolving Error Code 0X0003 on Your NVIDIA Geforce Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issues-of-robocop-rogue-city-pc-version-troubleshooting/"><u>Solving the Issues of RoboCop: Rogue City - PC Version Troubleshooting</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-unresponsive-pacific-drive-performance-issues/"><u>Step-by-Step Fixes for Unresponsive Pacific Drive Performance Issues</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-savvy-techies-strategy-for-saving-snapshots/"><u>The Savvy Techie's Strategy for Saving Snapshots</u></a></li>
+<li><a href="https://techidaily.com/top-8-iphone-xs-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone XS SMS/Message/Text Recovery Software | Stellar</u></a></li>
+<li><a href="https://techidaily.com/understanding-ts-files-a-comprehensive-guide-on-their-purpose-and-usage/"><u>Understanding TS Files: A Comprehensive Guide on Their Purpose and Usage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/upgrade-required-ensuring-your-processor-matches-vanguards-minimum-specs/"><u>Upgrade Required: Ensuring Your Processor Matches Vanguard's Minimum Specs</u></a></li>
 </ul></div>
 
