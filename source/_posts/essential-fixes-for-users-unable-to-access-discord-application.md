@@ -1,7 +1,7 @@
 ---
 title: Essential Fixes for Users Unable to Access Discord Application
-date: 2024-12-30T23:37:39.164Z
-updated: 2025-01-05T16:33:13.653Z
+date: 2025-01-05T16:11:40.657Z
+updated: 2025-01-12T16:15:55.230Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
 6. **[Run Dauntless on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Verify game integrity
@@ -52,6 +52,10 @@ Here is how to verify the integrity of Dauntless:
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Underlock your GPU
 
@@ -80,10 +84,6 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -91,10 +91,6 @@ Here is how to verify the integrity of Dauntless:
 5) Launch the game again to see if runs smoothly without the error. If yes, then great and enjoy the game! If Dauntless still crashes, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Close the background programs
 
@@ -105,7 +101,7 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus program
@@ -128,11 +124,11 @@ Here is how to verify the integrity of Dauntless:
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
@@ -147,6 +143,10 @@ Here is how to verify the integrity of Dauntless:
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
@@ -171,22 +171,21 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/sifu-how-to-fix-fps-dip-and-smoother-gameplay-experience-for-pc-gamers/"><u>'Sifu': How to Fix FPS Dip and Smoother Gameplay Experience for PC Gamers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-apex-assemblies-best-laptop-trio-for-4k-visionaries-for-2024/"><u>[New] Apex Assemblies Best Laptop Trio for 4K Visionaries for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/oredom-be-gone-find-joy-with-these-top-15-humorists-for-2024/"><u>[New] Boredom Be Gone Find Joy with These Top 15 Humorists for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-find-hotspots-for-online-video-dialogue-for-2024/"><u>[New] Find Hotspots for Online Video Dialogue for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-lyrics-notes-and-beats-fb-style/"><u>[New] Lyrics, Notes, and Beats - FB Style</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-guide-to-initiating-and-archiving-webinars-economically/"><u>[Updated] Guide to Initiating and Archiving Webinars Economically</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-email-services-with-advanced-security-features-to-protect-you-online/"><u>Best Email Services with Advanced Security Features to Protect You Online</u></a></li>
-<li><a href="https://program-issues.techidaily.com/brighten-your-world-essential-strategies-to-counter-minecrafts-black-screen-issue/"><u>Brighten Your World: Essential Strategies to Counter Minecraft's Black Screen Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-to-overcome-launching-difficulties-in-witcher-3-game/"><u>Effective Fixes to Overcome Launching Difficulties in Witcher 3 Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-fps-performance-for-modern-video-games-tips-and-fixes/"><u>Enhancing FPS Performance for Modern Video Games: Tips & Fixes</u></a></li>
-<li><a href="https://games-able.techidaily.com/guide-to-restore-functionality-in-xbox-controllers-windows/"><u>Guide to Restore Functionality in Xbox Controllers (Windows)</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo Y200? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://program-issues.techidaily.com/is-there-any-disruption-with-xbox-live-servers-latest-status-report/"><u>Is There Any Disruption with Xbox Live Servers? Latest Status Report.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723001447376-maplestory-wont-start-heres-how-you-can-fix-it/"><u>MapleStory Won't Start? Here's How You Can Fix It</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-battlefield-top-5-techniques-to-improve-fps-in-war-thunder-2024-edition/"><u>Master the Battlefield: Top 5 Techniques to Improve FPS in War Thunder - 2024 Edition!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-complete-walkthrough-to-address-the-latest-dota-2-cheating-alert/"><u>The Complete Walkthrough to Address the Latest Dota 2 Cheating Alert</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-art-of-crafting-youtube-playlists-for-optimal-listening/"><u>[New] 2024 Approved The Art of Crafting YouTube Playlists for Optimal Listening</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-is-screening-youtube-footage-illegal/"><u>[Updated] 2024 Approved Is Screening YouTube Footage Illegal?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-fix-guide-dealing-with-persistent-content-warning-crashes-on-personal-computers/"><u>Easy Fix Guide: Dealing with Persistent Content Warning Crashes on Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-for-call-of-duty-vanguards-notorious-error-5573-explained/"><u>Fix for Call of Duty Vanguard's Notorious Error 5573 Explained</u></a></li>
+<li><a href="https://program-issues.techidaily.com/game-not-starting-step-by-step-steps-to-confirm-integrity-of-your-gaming-files/"><u>Game Not Starting? Step-by-Step Steps to Confirm Integrity of Your Gaming Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/google-pixel-watch-2-up-against-apple-watch-series-nine-a-comprehensive-review-for-your-smart-choice-zdnet-insights/"><u>Google Pixel Watch 2 Up Against Apple Watch Series Nine: A Comprehensive Review for Your Smart Choice | ZDNET Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-window-woes-with-our-guide-troubleshooting-call-of-duty-wwiis-dark-screens/"><u>Overcome Window Woes with Our Guide: Troubleshooting Call of Duty: WWII's Dark Screens</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-sound-device-not-working-problems-in-audacity-top-5-fixes/"><u>Resolve 'Sound Device Not Working' Problems in Audacity: Top 5 Fixes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/secure-sign-in-settings-in-windows-10-how-to-activate-or-deactivate-easily/"><u>Secure Sign-In Settings in Windows 10: How to Activate or Deactivate Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-correcting-black-screen-error-in-star-wars-battlefront-ii-gameplay/"><u>Step-by-Step Guide to Correcting Black Screen Error in Star Wars Battlefront II Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007709964-step-by-step-solutions-stop-nioh-2-from-crashing-on-any-device/"><u>Step-by-Step Solutions: Stop Nioh 2 From Crashing on Any Device!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/swift-tweeting-solutions-with-video-conversion/"><u>Swift Tweeting Solutions with Video Conversion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-filmmakers-guide-to-distorting-space-and-time/"><u>The Filmmaker's Guide to Distorting Space & Time</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-v30-lite-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo V30 Lite 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009161830-why-was-there-a-delay-in-releasing-immortals-fenyx-rising-resolved/"><u>Why Was There a Delay in Releasing Immortals: Fenyx Rising? Resolved!</u></a></li>
 </ul></div>
 

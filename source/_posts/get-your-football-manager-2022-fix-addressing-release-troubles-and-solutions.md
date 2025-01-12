@@ -1,7 +1,7 @@
 ---
 title: Get Your Football Manager 2022 Fix - Addressing Release Troubles & Solutions
-date: 2024-12-29T16:14:21.570Z
-updated: 2025-01-05T19:33:01.332Z
+date: 2025-01-10T16:27:35.526Z
+updated: 2025-01-12T16:07:28.096Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/242354.png)
 
  Football Manager 2022 (FM22) keeps crashing on your PC? No worries. We’ve found some fixes that have helped other players who also encounter random crashes for this game. Read on and find out what they are…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -64,15 +68,7 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-rightclick-properties.jpeg)
 2. Under the **LOCAL FILES** tab, click **Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-verify-game-files%E5%89%AF%E6%9C%AC.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Epic Games
 
@@ -93,11 +89,15 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -118,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 
 If this doesn’t help, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Delete cache/preferences folders
 
  The developers suggest that you can delete your preferences and/or cache folder(s) as they may trigger random crashes. Deleting these folders won’t affect your game saves, but you’ll have to set up and apply your preference settings again.
@@ -126,6 +130,10 @@ If this doesn’t help, try the next fix.
 2. Click **View** in the header, and tick the box of **Hidden items** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/hidden-items.jpg)
 3. Navigate to   **C:\\Users\\\[Your Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2022** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Delete the **Preferences** and/or **Cache** folder(s).
 
@@ -144,15 +152,7 @@ If this fix doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -165,14 +165,10 @@ If this fix doesn’t solve your problem, try the next fix.
 2. Under the **Processes** tab, right-click at the process(es) that you want to shut down, and click **End task** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’ve closed the unnecessary background programs but still encounter crashes, try the next fix.
 
@@ -189,6 +185,10 @@ If this fix doesn’t solve your problem, try the next fix.
 
  In addition to antivirus software, you can also check out [the list of programs that may affect Steam game performance](https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 8: Make sure your system is up-to-date
 
  Windows regularly rolls out updates to fix known bugs and compatibility issues with programs on your PC. Here’s how to check for Windows updates and install the available ones:
@@ -200,16 +200,12 @@ If this fix doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. You will be prompted to restart your PC. Make sure you save important files in advance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 9: Change the game folder location
 
@@ -218,6 +214,10 @@ If this fix doesn’t solve your problem, try the next fix.
 1. Right-click an empty area on your desktop, select **New** and click **Folder** . You can name this new folder as “FM22 backup” to distinguish it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/new-folder.jpg)
 2. Navigate to   **C:\\Users\\\[Your Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2022** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Cut all the folders here and paste them into the new folder you created on the desktop.
 4. Launch Football Manager 2022 to test the issue. If the problem is solved, you can copy the game files back to the original installation path.
@@ -251,22 +251,19 @@ If this doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-ultimate-guide-20-incredible-no-cost-storage-platforms-1tbplus/"><u>[New] In 2024, Ultimate Guide 20 Incredible No-Cost Storage Platforms (1TB+)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-balancing-content-creation-and-employment/"><u>[Updated] In 2024, Balancing Content Creation and Employment</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-prime-time-top-10-methods-for-flawless-cricket-broadcasts/"><u>[Updated] Prime Time Top 10 Methods for Flawless Cricket Broadcasts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/custom-write-with-ai-shaping-chatgpts-output-to-mirror-your-own-literary-style/"><u>Custom Write with AI: Shaping ChatGPT's Output to Mirror Your Own Literary Style</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/download-and-save-your-favorite-tracks-as-mp3s-directly-from-saavan-online-service/"><u>Download & Save Your Favorite Tracks as MP3s Directly From Saavan Online Service</u></a></li>
-<li><a href="https://win-info.techidaily.com/easy-conversion-transform-your-mkv-videos-into-itunes-format-with-simple-steps/"><u>Easy Conversion: Transform Your MKV Videos Into iTunes Format with Simple Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enabling-hyper-v-virtualization-on-windows-11-a-comprehensive-tutorial/"><u>Enabling Hyper-V Virtualization on Windows 11 - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/fading-beats-an-fl-studio-approach/"><u>Fading Beats An FL Studio Approach</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/hd-romantic-wallpaper-collection-high-quality-imagery-and-cute-pics-powered-by-yl-computings-software/"><u>HD Romantic Wallpaper Collection: High-Quality Imagery & Cute Pics - Powered by YL Computing's Software</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-lava-yuva-2-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Lava Yuva 2 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-freezing-issues-with-fortnite-on-your-computer/"><u>How to Fix Freezing Issues with Fortnite on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-pc-input-lag-issues-in-valorant-fixes-and-solutions/"><u>Overcoming PC Input Lag Issues in Valorant - Fixes & Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gamers-guide-to-resolving-multiversus-not-launching-top-tips-and-tricks/"><u>PC Gamers Guide to Resolving MultiVersus Not Launching – Top Tips and Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixing-the-black-screen-problem-in-far-cry-6/"><u>Resolved: Fixing the Black Screen Problem in Far Cry 6</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005087154-say-goodbye-to-minecrafts-darkness-ultimate-guide-to-overcoming-the-black-screen-challenge/"><u>Say Goodbye to Minecraft's Darkness: Ultimate Guide to Overcoming the Black Screen Challenge</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-stop-wolcen-from-freezing-and-crashing/"><u>Troubleshooting Steps: Stop Wolcen From Freezing and Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/zombie-army-4-dead-war-navigating-pc-game-crashes-and-bugs-with-ease/"><u>Zombie Army 4: Dead War - Navigating PC Game Crashes & Bugs with Ease</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-essential-insights-on-making-your-podcast-name-unforgettable/"><u>[New] 2024 Approved Essential Insights on Making Your Podcast Name Unforgettable</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-invisible-vids-on-social-reveal-the-top-12-techniques-to-restore-appearance-in-23/"><u>[Updated] In 2024, Invisible Vids on Social? Reveal the Top 12 Techniques to Restore Appearance in '23</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-alarm-tones-optimal-websites-list/"><u>[Updated] Ultimate Alarm Tones Optimal Websites List</u></a></li>
+<li><a href="https://program-issues.techidaily.com/5-best-ways-to-fix-zoom-cannot-start-video/"><u>5 Best Ways to Fix Zoom Cannot Start Video</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719579824338-be-a-winner-save-up-to-96-on-mondly-pro-lifetime/"><u>Be a Winner : Save Up To 96% on Mondly Pro Lifetime!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-preventing-qbittorrent-torrents-from-freezing-up/"><u>Effective Solutions for Preventing qBittorrent Torrents From Freezing Up</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-rehiring-former-employees-may-solve-current-workforce-challenges-according-to-zdnet/"><u>How Rehiring Former Employees May Solve Current Workforce Challenges, According to ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-effectively-address-msvcp140dll-gap/"><u>How to Effectively Address MSVCP140.dll Gap</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/instant-solutions-resolve-hulu-rununk13-error-with-simple-steps/"><u>Instant Solutions: Resolve Hulu RUNUNK13 Error with Simple Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-forest-saga-pc-game-crashes-a-comprehensive-guide/"><u>Solving 'Forest Saga' PC Game Crashes - A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/star-wars-jedi-fallen-order-how-to-fix-non-launching-problems-on-your-device/"><u>Star Wars Jedi: Fallen Order - How to Fix Non-Launching Problems on Your Device</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-for-a-smooth-experience-with-tiny-tinas-wonderlands-pc-patch-details/"><u>Steps for a Smooth Experience with Tiny Tina’s Wonderlands [PC Patch Details]</u></a></li>
+<li><a href="https://article-tips.techidaily.com/visionary-recording-devices-top-18-camcorders-best/"><u>Visionary Recording Devices - Top 18 Camcorders' Best</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Apex Legends Game Crash: Troubleshooting Common Engine Issues"
-date: 2025-01-04T20:58:51.209Z
-updated: 2025-01-05T22:17:24.070Z
+date: 2025-01-10T16:04:56.458Z
+updated: 2025-01-12T16:25:02.128Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 4. **[Edit registry](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update the graphics driver
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0204fe6005.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also click Update to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -59,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run Apex Legends as an administrator
@@ -73,16 +77,12 @@ Here is how to grant administrative privileges to Apex Legends:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-564.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In File Explorer, right click on **Apex Legends .exe**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-565.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the **Compatibility**  tab. Then check the box next to **Run this program as an administrator** , and click **Apply** .
 
@@ -103,6 +103,10 @@ Here is how to verify game files:
  2) Right-click on**Apex Legends** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-561.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Wait until the repair process finishes.
 
@@ -136,16 +140,12 @@ Windows Registry Editor Version 5.00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-476.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Save the file name as**fix.reg** and select the type as**All files** . then click Save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-477.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Click**Yes** once you’re prompted about the message.
@@ -174,17 +174,24 @@ Windows Registry Editor Version 5.00
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mastering-the-art-of-screen-recording-an-in-depth-look-at-zd-software-tools/"><u>[Updated] 2024 Approved Mastering the Art of Screen Recording An In-Depth Look at ZD Software Tools</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-2023-sound-savvy-with-facebook-downloader/"><u>[Updated] In 2024, 2023 Sound Savvy with Facebook Downloader</u></a></li>
-<li><a href="https://win-great.techidaily.com/backup-your-system-using-the-cli-with-aomei-backupper-step-by-step-guide/"><u>Backup Your System Using the CLI with AOMEI Backupper: Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-on-repairing-hitman-3s-persistent-connection-failed-glitch/"><u>Expert Advice on Repairing Hitman 3'S Persistent 'Connection Failed' Glitch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-common-problems-when-internet-explorer-stops-working-properly/"><u>Fixes for Common Problems: When Internet Explorer Stops Working Properly</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-honor-magic-5-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Honor Magic 5 Pro Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-update-or-download-logitech-g403-mouse-drivers-for-optimal-performance-on-your-computer/"><u>How to Update or Download Logitech G403 Mouse Drivers for Optimal Performance on Your Computer</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-motorola-edge-40-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Motorola Edge 40 Pro to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-corsair-icue-malfunctions-a-guide-for-windows-1011-users/"><u>Overcoming Corsair iCUE Malfunctions: A Guide for Windows 10/11 Users</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-ranked-tablets-a-buyers-guide-to-the-finest-apple-ipads/"><u>Top-Ranked Tablets : A Buyer's Guide to the Finest Apple iPads</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-and-prevent-star-citizen-crashing-on-your-pc-whats-fixed/"><u>Troubleshoot and Prevent Star Citizen Crashing on Your PC – What's Fixed?</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/uncorrupt-your-pictures-for-free-top-downloaded-photo-repair-solutions/"><u>Uncorrupt Your Pictures for Free: Top Downloaded Photo Repair Solutions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-aural-adventures-next-gen-devices-for-2024/"><u>[New] Aural Adventures Next-Gen Devices for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-ultimate-10-final-cut-pro-enhancers/"><u>[Updated] 2024 Approved The Ultimate 10 Final Cut Pro Enhancers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-exploring-8-truly-effective-video-marketing-strategies/"><u>[Updated] In 2024, Exploring 8 Truly Effective Video Marketing Strategies</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-simplified-approach-to-nvidia-screen-recording/"><u>2024 Approved Simplified Approach to NVIDIA Screen Recording</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-fixes-for-unstable-playback-in-bloodhunt-on-your-computer/"><u>Easy Fixes for Unstable Playback in 'Bloodhunt' On Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guilty-gear-strives-release-unveiling-the-delay-mysteries/"><u>Guilty Gear Strive's Release: Unveiling the Delay Mysteries</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-ensure-smooth-gameplay-avoiding-thaumaturge-interruptions-on-desktop-systems/"><u>How to Ensure Smooth Gameplay: Avoiding Thaumaturge Interruptions on Desktop Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-razer-synapse-wont-launch-issue/"><u>How to Fix: Razer Synapse Won't Launch Issue</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-asus-rog-phone-8-pro-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/immortals-fenyx-rising-how-to-fix-persistent-game-crashes/"><u>Immortals: Fenyx Rising - How to Fix Persistent Game Crashes</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-7-plus-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 7 Plus Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-social-sensation-best-insta-stories-effects/"><u>In 2024, Social Sensation Best Insta Stories Effects</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-unveiling-profitable-practices-for-creating-youtube-trailers/"><u>In 2024, Unveiling Profitable Practices for Creating YouTube Trailers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-palworlds-session-functionality-tips-and-solutions/"><u>Mastering Palworld's Session Functionality: Tips and Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-technical-glitches-in-cod-warzone-pacific-downfalls/"><u>Overcoming Technical Glitches in COD: Warzone Pacific Downfalls</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-making-the-rockstar-games-launcher-work-again/"><u>Step-by-Step Troubleshooting: Making the Rockstar Games Launcher Work Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-addressing-and-repairing-acrocefexe-error-messages/"><u>The Ultimate Guide: Addressing and Repairing acroCEF.exe Error Messages</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/uncomplicated-methods-for-archiving-vimeo-content/"><u>Uncomplicated Methods for Archiving Vimeo Content</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-isnt-assassins-creed-valhalla-out-yet-answered/"><u>Why Isn't Assassin's Creed: Valhalla Out Yet? [Answered]</u></a></li>
 </ul></div>
 

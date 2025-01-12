@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Cortana Active? Expert Tips to Restore Its Functionality
-date: 2025-01-01T16:13:51.706Z
-updated: 2025-01-05T17:09:56.491Z
+date: 2025-01-06T16:05:28.391Z
+updated: 2025-01-12T16:07:14.791Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/2e9cfa327b9759eb425968540a827a94cde4fe4ea
 **Cortana not working?**  I believe it’s one of your pet hates. Don’t panic. Usually it’s an easy problem to fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I fix Cortana not working?
@@ -46,20 +46,20 @@ Check your region and language settings on your computer:
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Time** **& language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Make sure the region and language settings is matched with yours.
 
@@ -68,7 +68,7 @@ Check your region and language settings on your computer:
 5) Try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
@@ -79,6 +79,10 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
@@ -86,10 +90,6 @@ Check your region and language settings on your computer:
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
 
@@ -110,6 +110,10 @@ Check your region and language settings on your computer:
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
@@ -135,10 +139,6 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Try Cortana again to see if it works.
 
 * [Cortana](https://tools.techidaily.com/drivereasy/download/)
@@ -159,20 +159,18 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-synchronizing-sequential-images-for-impactful-storytelling/"><u>[New] Synchronizing Sequential Images for Impactful Storytelling</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-perfect-sound-placement-adding-music-seamlessly-to-youtube-videos/"><u>[Updated] 2024 Approved Perfect Sound Placement Adding Music Seamlessly to YouTube Videos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-vr-the-future-of-clinical-treatment/"><u>[Updated] In 2024, VR The Future of Clinical Treatment</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertise-in-audio-file-transformation-from-srt-to-xmlssattml/"><u>2024 Approved Expertise in Audio File Transformation From SRT to XML/SSA/TTML</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-forgotten-footage-watching-deleted-content-made-easy/"><u>2024 Approved Youtube's Forgotten Footage Watching Deleted Content Made Easy</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-honor-x7b-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Honor X7b</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-and-repair-risk-of-rain-2-game-crash-issues-for-a-smooth-play-experience/"><u>How to Prevent and Repair Risk of Rain 2 Game Crash Issues for a Smooth Play Experience</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a38-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A38 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-14-plus-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 14 Plus Properly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-initialization-hurdles-in-baldurs-gate-iii-launched/"><u>Overcoming Initialization Hurdles in Baldur's Gate III Launched!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fixes-how-to-successfully-overcome-common-discord-setup-issues/"><u>Quick Fixes: How to Successfully Overcome Common Discord Setup Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-stuck-during-update-process-issue-in-msfs-2020-a-step-by-step-guide/"><u>Resolving the 'Stuck During Update Process' Issue in MSFS 2020: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-rainbow-six-error-code-3-0x0001000b-a-comprehensive-guide/"><u>Solving Rainbow Six Error Code 3-0X0001000B - A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-tips-for-seamless-gaming-on-the-ascent-overcoming-stutter-and-skyrocketing-fps/"><u>The Ultimate Tips for Seamless Gaming on 'The Ascent': Overcoming Stutter & Skyrocketing FPS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-leveraging-interactivity-elevate-your-online-stream-presence/"><u>[New] In 2024, Leveraging Interactivity Elevate Your Online Stream Presence</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-record-every-frame-of-your-android-experience-for-free/"><u>[New] In 2024, Record Every Frame of Your Android Experience for FREE</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725286633773-digiarty/"><u>事業拡大へ、Digiartyソフトウェアライセンシングの革命的チャンス</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-error-how-to-overcome-cod-vanguards-obstacle-error-code-0x00001338-on-windowsmac/"><u>Beat the Error: How to Overcome COD Vanguard's Obstacle - Error Code 0X00001338 on Windows/Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-solutions-stop-wwe-2k20-from-crashing-on-your-windows-pc/"><u>Easy Solutions: Stop WWE 2K20 From Crashing on Your Windows PC!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elevate-your-street-fighter-6-experience-a-step-by-step-guide-to-solving-lag-and-improving-connection-quality-on-pc/"><u>Elevate Your Street Fighter 6 Experience: A Step-by-Step Guide to Solving Lag and Improving Connection Quality on PC</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/elite-three-in-learning-languages-speak-worldwide-anytime/"><u>Elite Three in Learning Languages: Speak Worldwide, Anytime</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722962661906-fixing-xbox-accessory-controller-acc-drivers-in-windows-10-8-and-7-solved/"><u>Fixing Xbox Accessory Controller (ACC) Drivers in Windows 10, 8 & 7: Solved</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fists-fighting-for-fame-versus-follower-frenzy/"><u>In 2024, Fists Fighting For Fame Versus Follower Frenzy</u></a></li>
+<li><a href="https://article-files.techidaily.com/nextgen-hexacopters-the-definitive-ten-for-2024/"><u>NextGen Hexacopters The Definitive Ten for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722986917341-say-goodbye-to-game-interruptions-fixing-subnauticas-below-zero-crashes-on-desktops/"><u>Say Goodbye to Game Interruptions: Fixing Subnautica's Below Zero Crashes on Desktops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-overcome-pc-black-screen-errors-while-playing-resident-evil-village/"><u>Step-by-Step Guide to Overcome PC Black Screen Errors While Playing Resident Evil: Village</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-steps-for-fixing-the-non-launch-of-warzone-20-on-pcs-updated-guide-2024/"><u>Troubleshoot Steps for Fixing the Non-Launch of Warzone 2.0 on PCs (Updated Guide, 2024)</u></a></li>
 </ul></div>
 

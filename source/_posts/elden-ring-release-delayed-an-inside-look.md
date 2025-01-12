@@ -1,7 +1,7 @@
 ---
 title: "Elden Ring Release Delayed: An Inside Look"
-date: 2025-01-02T20:00:01.867Z
-updated: 2025-01-05T18:39:50.951Z
+date: 2025-01-05T16:21:17.873Z
+updated: 2025-01-12T16:12:15.700Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/50ec9f96a3862eafb44f6037d6d07d4292a04cc1b
 
 Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally available. It’s exciting to explore the city of Lost Heaven back in the Prohibition era, but to many players’ disappointment, the game just won’t launch at all. If you’re facing the same situation, don’t worry, we’ve got some fixes for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
  Here are 6 fixes proved helpful to many players. You may not try them all; just work from the top down until you find the one that solves your problem.
@@ -31,10 +27,6 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 4. **[Run Mafia Definitive Edition and game launcher as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Verify the integrity of your game files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Temporarily disable your antivirus](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1 – Check the minimum requirements for Mafia: Definitive Edition
 
@@ -68,16 +60,12 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-1-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Check the info about your**Operating System** ,**Processor** ,**Memory** and**DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-2-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the**Display** tab and view your graphics’ info.
@@ -87,10 +75,6 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
  After ruling out the underpowered PC as a cause, you can continue with more in-depth fixes below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -124,6 +108,10 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-2-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -151,21 +139,21 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-3-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Click**Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-4-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Click**Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-5-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Turn on**Disable Launcher** .
 
@@ -175,6 +163,10 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Run Mafia Definitive Edition and game launcher as an administrator
 
  Some games require additional access to Windows files before they can launch and operate properly. To allow the necessary permissions for Mafia Definitive Edition, you’re suggested to run the game and game launcher as an administrator.
@@ -183,27 +175,27 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click the**Compatibility** tab, and then check the box next to**Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-2-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-3-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You also need to grant the game launcher administrator rights as follows:
 
 **4)** Right-click your game launcher (Steam or Epic Games Launcher) and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-4-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Select the**Compatability** tab. Then, tick**Run this program as an administrator** and click**OK** .
 
@@ -231,13 +223,13 @@ You also need to grant the game launcher administrator rights as follows:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-1-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Local Files** tab, and click**Verify the integrity of game files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait for the process to complete and then re-open the game. Does everything return to normal? If not, check out **[Fix 6](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -249,6 +241,10 @@ You also need to grant the game launcher administrator rights as follows:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select**Mafia Definitive Edition** from the list, and click the icon with three dots next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-6.jpg)
@@ -256,6 +252,10 @@ You also need to grant the game launcher administrator rights as follows:
 **4)** Click**Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-5-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The process may take a few minutes, and after it completes, you can relaunch Mafia Definitive Edition to test. If the problem persists, check out the last fix.
 
@@ -292,19 +292,24 @@ You also need to grant the game launcher administrator rights as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-premium-top-8-smoothest-capture-tools/"><u>[Updated] Premium Top 8 Smoothest Capture Tools</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/cross-device-synchronization-aligning-zoom-with-calendar-events/"><u>Cross-Device Synchronization Aligning Zoom with Calendar Events</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-navigation-in-files-windows-11s-tab-system/"><u>Effortless Navigation in Files: Windows 11'S Tab System</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effortless-solutions-to-resolve-stop-error-0x00000116-blue-screen/"><u>Effortless Solutions to Resolve Stop Error 0X00000116 Blue Screen</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-repairing-non-functional-voice-chat-due-to-content-warnings/"><u>Expert Tips for Repairing Non-Functional Voice Chat Due to Content Warnings</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-11-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme 11 Pro</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/navigate-the-galaxy-and-secure-elite-fps-drops-a-comprehensive-walkthrough-of-mass-effect-legendary-edition/"><u>Navigate the Galaxy and Secure Elite FPS Drops: A Comprehensive Walkthrough of Mass Effect Legendary Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gamers-relief-destiny-2-beyond-light-now-running-smoothly/"><u>PC Gamers Relief: Destiny 2 Beyond Light Now Running Smoothly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-and-easy-solutions-for-successful-discord-installation-failures/"><u>Quick and Easy Solutions for Successful Discord Installation Failures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fixes-for-operation-requirements-and-error-740-on-windows-11/"><u>Quick Fixes for Operation Requirements and Error 740 on Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/seamless-gameplay-awaits-resolve-fortnites-launching-glitches-now/"><u>Seamless Gameplay Awaits - Resolve Fortnite's Launching Glitches Now</u></a></li>
-<li><a href="https://program-issues.techidaily.com/successfully-installing-tiny-tinas-wonderlands-without-issues-on-your-desktop-computer/"><u>Successfully Installing Tiny Tina's Wonderlands without Issues on Your Desktop Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steam-resolving-the-failed-to-load-steamuidll-critical-failure/"><u>Troubleshooting Steam: Resolving the 'Failed to Load steamui.dll' Critical Failure</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-crafting-memes-perfecting-social-media-videos-on-fb-and-insta/"><u>[New] Crafting Memes Perfecting Social Media Videos on FB & Insta</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-explore-unrestricted-stock-content-in-key-4-video-channels/"><u>[New] In 2024, Explore Unrestricted Stock Content in Key 4 Video Channels</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-steps-to-develop-a-charismatic-vlog-script/"><u>[New] Steps to Develop a Charismatic Vlog Script</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-propel-your-artistic-journey-the-ultimate-10-android-drawing-tools/"><u>2024 Approved Propel Your Artistic Journey The Ultimate 10 Android Drawing Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bridging-creativity-and-technology-ai-image-making-with-gpt/"><u>Bridging Creativity and Technology: AI Image Making with GPT</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crusader-kings-iii-ultimate-guide-to-fix-game-crashes-on-your-desktop-computer/"><u>Crusader Kings III: Ultimate Guide to Fix Game Crashes on Your Desktop Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-eliminating-football-manager-20-crash-problems-on-your-pc-or-console/"><u>Effective Solutions for Eliminating Football Manager '20 Crash Problems on Your PC or Console</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-dealing-with-call-of-duty-warzones-memory-error-code-0x1766-across-xbox-and-pc-devices/"><u>Expert Tips for Dealing with Call of Duty: Warzone's Memory Error Code 0X1766 Across Xbox & PC Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-resolving-rainbow-six-extraction-driverhardware-incompatibility-issues-easily/"><u>Guide to Resolving Rainbow Six Extraction Driver/Hardware Incompatibility Issues Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-a-constant-crash-issue-in-genshin-impact-for-windows-users/"><u>How to Fix a Constant Crash Issue in Genshin Impact for Windows Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-infinix-smart-8-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Infinix Smart 8 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubles-decoded-the-tale-of-consecutive-system-failures/"><u>PC Troubles Decoded: The Tale of Consecutive System Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubleshooting-tips-solving-city-skylines-2-crash-issues/"><u>PC Troubleshooting Tips - Solving City Skylines 2 Crash Issues</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-honor-x50iplus-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Honor X50i+ Phone Hassle-Free</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-se-2022-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone SE (2022)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-6-youtube-outro-makers-lots-of-free-options/"><u>Top 6 YouTube Outro Makers - Lots of FREE Options</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-fixing-call-of-duty-warzone-pc-stability-for-a-flawless-gaming-experience-202n/"><u>Troubleshooting and Fixing Call of Duty Warzone PC Stability for a Flawless Gaming Experience (202N)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-internet-explorer-not-responding-errors/"><u>Troubleshooting Guide: Resolving 'Internet Explorer Not Responding' Errors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-apples-audio-world-a-download-guide-for-ios-users-for-2024/"><u>Unlocking Apple's Audio World A Download Guide for iOS Users for 2024</u></a></li>
 </ul></div>
 

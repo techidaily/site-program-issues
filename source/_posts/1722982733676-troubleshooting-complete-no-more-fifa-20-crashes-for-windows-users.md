@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Complete: No More FIFA 20 Crashes for Windows Users"
-date: 2024-12-29T19:49:38.917Z
-updated: 2025-01-05T20:19:28.989Z
+date: 2025-01-07T16:18:41.717Z
+updated: 2025-01-12T16:12:07.241Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/fed19fb5539928ceb1f098e4df501aac24d80c5bb
 
 If you’re getting this error message ‘**An Unreal process has crashed: UE4-Madness** .’, don’t worry. Usually, it means the game engine has crashed and it’s hard to troubleshoot the exact cause. Below, you will find every possible fix you can find online or in forums.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Quit MSI Afterburner](https://tools.techidaily.com/drivereasy/download/)**
@@ -26,19 +30,11 @@ If you’re getting this error message ‘**An Unreal process has crashed: UE4-M
 5. **[Launch the game in your game folder](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Allow your game to run through Firewall](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Quit MSI Afterburner
 
  Many players find it helps when they stop using MSI Afterburner. On your keyboard, press the**Ctrl + Shift + Esc** , and then end the related process in**Task Manager** .
 
  Now you can try launching your Outriders again to see if the problem has gone. But if the Unreal Engine crashing persists, you may want to try the following fixes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Update your graphics driver
 
@@ -60,10 +56,6 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
@@ -75,6 +67,10 @@ There are mainly two methods for you to update the graphics driver:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Verify the game integrity
 
  Another possible cause of ‘**Unreal process has crashed: UE4-Madness error** ‘ in Outriders is corrupted or missing game files. To check if this is causing the Unreal Engine to crash, you can try this simple troubleshooting:
@@ -85,21 +81,21 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Go to the LOCAL FILES tab, and click**Verify Integrity of game files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Wait for the process to complete. It may take a few seconds to verify the integrity of your game files.
 
  Once complete, you can restart the game to check if the Unreal Engine error has been solved by now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Force Outriders to run in DX11
 
@@ -142,12 +138,16 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) On the left pane, click**Allow an app or feature through Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allow-firewall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Now you can click**Change settings** and scroll down to Outriders to make sure the**Private** and**Public** boxes are both checked.
 
@@ -179,20 +179,16 @@ There are mainly two methods for you to update the graphics driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-revolutionizing-image-capture-with-ios-11-updates-for-2024/"><u>[New] Revolutionizing Image Capture with iOS 11 Updates for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-evolutionary-saga-of-vr-worlds-for-2024/"><u>[New] The Evolutionary Saga of VR Worlds for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-crafting-stunning-youtubers-imagery-a-comprehensive-walkthrough-for-2024/"><u>[Updated] Crafting Stunning YouTubers' Imagery A Comprehensive Walkthrough for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-your-bg-adventure-conquer-common-issues-with-these-effective-6-strategies/"><u>Enhance Your BG Adventure: Conquer Common Issues with These Effective 6 Strategies!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-rid-of-warframes-frustrating-pauses-expert-fixes-for-a-seamless-gaming-experience/"><u>Get Rid of Warframe's Frustrating Pauses - Expert Fixes for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-and-resolve-stop-error-0x0000001d-no-spinlock/"><u>How to Correctly Address and Resolve Stop Error 0X0000001D: No SPIN_LOCK</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-10-best-webcam-recorders-windows-11/"><u>In 2024, 10 Best Webcam Recorders Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mov-playback-issues-on-galaxy-s23-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV playback issues on Galaxy S23</u></a></li>
-<li><a href="https://some-tips.techidaily.com/online-pdf-naar-png-converteer-gratis-simpelweg-en-krachtig-met-movavi/"><u>Online-PDF Naar PNG Converteer Gratis - Simpelweg en Krachtig Met Movavi</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-performance-boost-resolving-the-double-drop-in-fps/"><u>PC Performance Boost: Resolving the Double Drop in FPS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/polymorphisms-in-the-vkorc1-gene-affect-warfarin-sensitivity-and-metabolism-necessitating-personalized-dose-adjustments/"><u>Polymorphisms in the VKORC1 Gene Affect Warfarin Sensitivity and Metabolism, Necessitating Personalized Dose Adjustments</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixing-cyberpunk-2077-installation-problems-on-steam-platform/"><u>Resolved: Fixing Cyberpunk 2077 Installation Problems on Steam Platform</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-secure-browsing-add-trusted-sites-to-windows-11/"><u>Streamline Secure Browsing: Add Trusted Sites to Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tech-wizardry-unveiled-eradicate-chromes-window-freezes-in-windows-11-instantly/"><u>Tech Wizardry Unveiled: Eradicate Chrome's Window Freezes in Windows 11 Instantly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-techniques-for-constant-screen-flutter-issues/"><u>Ultimate Troubleshooting Techniques for Constant Screen Flutter Issues</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-enriched-video-presentation-implementing-lc-and-bb-on-social-platforms/"><u>[Updated] Enriched Video Presentation Implementing LC and BB on Social Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-or-upgrade-brother-hl-l2350dw-printer-driver-step-by-step-guide/"><u>How to Install or Upgrade Brother HL-L2350DW Printer Driver - Step by Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-solve-crash-problems-in-chivalry-2-for-a-smooth-gaming-experience/"><u>How to Solve Crash Problems in Chivalry 2 for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-zte-nubia-flip-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On ZTE Nubia Flip 5G?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/masterclass-in-crafting-empowerment-videos-for-viewers-for-2024/"><u>Masterclass in Crafting Empowerment Videos for Viewers for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862735635-msi-katana-a-stealthy-beast-at-1199-equipped-with-156-display-and-nvidias-latest-rtx-4070-gpu-for-gamers/"><u>MSI Katana – A Stealthy Beast at $1,199! Equipped with 15.6 Display & NVIDIA's Latest RTX 4070 GPU for Gamers.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-stuttering-gameplay-resolving-fps-drops-in-gtfo/"><u>Say Goodbye to Stuttering Gameplay: Resolving FPS Drops in GTFO</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-armored-core-vi-wont-start/"><u>Troubleshooting Steps When Armored Core VI Won't Start</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/up-to-date-drivers-for-enhancing-performance-of-nvidias-rtx-2080-across-various-windows-os/"><u>Up-to-Date Drivers for Enhancing Performance of NVIDIA's RTX 2080 Across Various Windows OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/update-on-wolcen-why-the-lords-of-mayhem-expansion-hasnt-launched-yet/"><u>Update on Wolcen - Why the Lords of Mayhem Expansion Hasn't Launched Yet?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/win-the-battle-against-wow-latency-quick-tricks-for-lag-free-playtime/"><u>Win the Battle Against WoW Latency: Quick Tricks for Lag-Free Playtime</u></a></li>
 </ul></div>
 

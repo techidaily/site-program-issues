@@ -1,7 +1,7 @@
 ---
 title: Optimize Your Experience - Overcome Common Crashing Challenges in Football Manager 2021 on Windows Computers
-date: 2024-12-30T21:37:29.569Z
-updated: 2025-01-05T21:50:32.726Z
+date: 2025-01-09T16:27:21.069Z
+updated: 2025-01-12T16:15:38.426Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 4. **[Launch the game in DX11 mode](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check your firewall and antivirus settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Psychonauts 2](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets the minimum requirements
 
@@ -77,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 
 If the issue persists, go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Verify the integrity of game files
 
  If the game’s files are missing or corrupted, you may experience crashing while playing Psychonauts 2\. To fix the issue, you can have Steam verify that the game’s files are installed correctly on your computer. Here’s how:
@@ -87,14 +87,14 @@ If the issue persists, go ahead with the next fix.
 3. Select the LOCAL FILES tab and click**Verify integrity of game files…** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once done, relaunch Psychonauts 2 to see if the problem is resolved.
@@ -110,11 +110,11 @@ If the crashing issue remains, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/psychonauts2-properties-1.jpg)
 3. In the GENERAL section, enter**\-dx11** under LAUNCH OPTIONS.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-launch-options-dx11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This will force the game to run in DX11\. Then you can launch Psychonauts 2 again to see if the error still occurs.
 
@@ -130,6 +130,10 @@ Allow Psychonauts 2 through Windows Firewall:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/firewall-network-protection.jpg)
 2. Click**Allow an app through firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-an-app-through-firewall.jpg)
 3. In the new window, click**Change settings** .  
 
@@ -137,7 +141,7 @@ Allow Psychonauts 2 through Windows Firewall:
 4. Click**Allow another app…** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-another-app-1.jpg)
@@ -145,10 +149,6 @@ Allow Psychonauts 2 through Windows Firewall:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-an-app.jpg)
 6. Click**OK** to save changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/ok.jpg)
 
@@ -181,15 +181,24 @@ Allow Psychonauts 2 through Windows Firewall:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-demystifying-virtual-meetings-essential-tips-for-using-zoom-win10-for-2024/"><u>[Updated] Demystifying Virtual Meetings Essential Tips for Using Zoom (Win10) for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-secrets-quickly-change-your-characters-vocal-tone-pubg/"><u>[Updated] Unlocking the Secrets Quickly Change Your Character's Vocal Tone (PUBG)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/4k-uxga-reality-check-detailed-review-of-asus-mg28uq/"><u>4K UXGA Reality Check - Detailed Review of ASUS MG28UQ</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-latest-cellphone-savings-verizon-upgrade-specials-for-month/"><u>Discover the Latest Cellphone Savings: Verizon Upgrade Specials for [Month]</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/essential-insights-on-the-kobo-clara-hd-a-must-have-device-for-reading-enthusiasts-anywhere/"><u>Essential Insights on the Kobo Clara HD - A Must-Have Device for Reading Enthusiasts Anywhere</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-fixing-unreal-process-has-crashed-error-in-outriders-ue4-solution-guide/"><u>Expert Tips for Fixing 'Unreal Process Has Crashed' Error in Outriders - UE4 Solution Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-on-diagnosing-and-repairing-a-nonfunctional-clownfish-speech-modifier/"><u>Expert Tips on Diagnosing and Repairing a Nonfunctional Clownfish Speech Modifier</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-gaming-performance-eradicate-stutters-and-boost-high-fps/"><u>Master Gaming Performance: Eradicate Stutters and Boost High FPS</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210648003-9781684931033-the-man-who-tapped-the-secrets-of-the-universe/"><u>The Man Who Tapped the Secrets of the Universe | Free Book</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-ping-problems-how-to-enhance-back-4-blood-network-performance/"><u>Troubleshooting Ping Problems: How to Enhance Back 4 Blood Network Performance</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-art-of-muting-background-sounds-in-skype/"><u>[New] In 2024, The Art of Muting Background Sounds in Skype</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-photography-tutorial-how-to-shoot-and-create-impressive-hdr-portraits-for-2024/"><u>[New] Photography Tutorial How to Shoot and Create Impressive HDR Portraits for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-screensphere-comprehensively-global-plus-locally-connected/"><u>[Updated] 2024 Approved ScreenSphere Comprehensively Global + Locally Connected</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-rank-the-best-7-android-friendly-adblockers-reviewed-for-2024/"><u>[Updated] Rank the Best 7 Android-Friendly AdBlockers Reviewed for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cant-play-helldivers-2-on-steam-learn-how-to-resolve-it-now/"><u>Can't Play Helldivers 2 on Steam? Learn How to Resolve It Now</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/comment-recuperer-vos-donnees-dun-disque-dur-endommage-en-suivant-ces-5-etapes-simples/"><u>Comment Récupérer Vos Données D'un Disque Dur Endommagé en Suivant Ces 5 Étapes Simples !</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cutting-edge-solutions-for-eliminating-dota-2-delays-and-improving-playtime-tips/"><u>Cutting Edge Solutions for Eliminating Dota 2 Delays and Improving Playtime - Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-for-stabilizing-call-of-dutys-dead-zombie-war-on-pc-crash-issues-solved/"><u>Expert Advice for Stabilizing Call of Duty's Dead Zombie War on PC – Crash Issues Solved</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/explore-cost-free-professional-cam-screen-recorders-for-2024/"><u>Explore Cost-Free, Professional Cam Screen Recorders for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-understanding-and-preventing-unsatisfactory-frame-rates/"><u>Fixing the Issue: Understanding and Preventing Unsatisfactory Frame Rates</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/high-quality-android-photoshoppers/"><u>High-Quality Android Photoshoppers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-palette-proficiency-expertise-through-experience/"><u>In 2024, Palette Proficiency Expertise Through Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-smooth-playbacks-ultimate-guide-to-overcoming-game-lag-for-high-frame-rates/"><u>Master Smooth Playbacks: Ultimate Guide to Overcoming Game Lag for High Frame Rates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-solution-to-eliminate-steamvr-error-message-308/"><u>Mastering the Solution to Eliminate SteamVR Error Message 308</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-fix-age-of-empires-iv-freezing-and-lagging-problems/"><u>Optimizing Performance: Fix Age of Empires IV Freezing and Lagging Problems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-guide-to-convert-avis-into-gifs-via-filmora-software/"><u>Step-by-Step Guide to Convert AVIs Into GIFs via Filmora Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-overcoming-the-nvidia-geforce-0x0003-issue/"><u>Step-by-Step Solution: Overcoming the NVIDIA Geforce 0X0003 Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fix-guide-for-pc-players-preventing-street-fighter-6-from-crashing-expert-advice/"><u>Ultimate Fix Guide for PC Players: Preventing Street Fighter 6 From Crashing (Expert Advice)</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/understanding-one-pager-documents-in-seo-key-concepts-and-effective-strategies/"><u>Understanding One-Pager Documents in SEO: Key Concepts & Effective Strategies</u></a></li>
 </ul></div>
 

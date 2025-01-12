@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Stop Diablo 4 From Crashing on Your Gaming Console or PC"
-date: 2024-12-30T21:09:54.218Z
-updated: 2025-01-05T17:23:50.767Z
+date: 2025-01-06T16:07:36.777Z
+updated: 2025-01-12T16:23:07.392Z
 tags:
   - win11
   - win10
@@ -48,27 +48,27 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Check your **Operating System, Processor, Memory** and **DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-91.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
  If your computer meets the minimum requirements to run _HOI4_ , read on and check the fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: **Restart your computer**
 
@@ -153,6 +153,10 @@ There are two ways you can get the right graphics driver:
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Verify the integrity of your game files
 
  If the crashing issues persist, it’s probable that_Hearts of Irons IV_  is not properly installed on your PC – say, certain game files are missing or damaged.
@@ -166,7 +170,7 @@ To fix it, try verifying the integrity of your game files on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Right-click **Hearts of Iron IV**  and select **Properties.**
@@ -177,11 +181,11 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-134.png)
 
- Wait for the scans to be complete, then relaunch_HOI4_ to see if your problem has been resolved. If not, try the next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Wait for the scans to be complete, then relaunch_HOI4_ to see if your problem has been resolved. If not, try the next fix.
 
 ### Fix 7: Change your PC power settings
 
@@ -190,10 +194,6 @@ To fix it, try verifying the integrity of your game files on Steam:
 **1)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Under **View by,** click **Large icons** .
 
@@ -221,16 +221,12 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Restart your computer and your game after the update is complete.
 
  You can hopefully play the game without crashes now. If not, check the fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 9: Reinstall your game and/or Steam
@@ -247,10 +243,6 @@ To fix it, try verifying the integrity of your game files on Steam:
 **2)**  Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Right-click **Hearts of Iron IV**  and select **Uninstall.**
 
@@ -272,6 +264,10 @@ Relaunch your game to test your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-359.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Right-click the **steamapps**  folder and select **Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-360.png)
@@ -280,21 +276,17 @@ Relaunch your game to test your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-361.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Under **View by** , select **Category.**  Then, select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-374.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Right-click **Steam** , and then click **Uninstall** . Then, wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-364.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **6)[Download](https://store.steampowered.com/about/)**  and install Steam.
 
@@ -302,9 +294,17 @@ Relaunch your game to test your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-365.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **8)**  Move the backup **steamapps**  folder you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-366.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **9)**  Restart_Hearts of Iron IV_ to test your problem.
 
@@ -331,20 +331,24 @@ Relaunch your game to test your issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-mastering-video-quality-with-yi-4k-action-camera/"><u>[New] In 2024, Mastering Video Quality with Yi 4K Action Camera</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-comprehensive-walkthrough-for-imovie-and-youtube-collaboration/"><u>[Updated] 2024 Approved A Comprehensive Walkthrough for iMovie and YouTube Collaboration</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-swift-transfer-tweets-as-vids-on-whatsapp-platform/"><u>2024 Approved Swift Transfer Tweets as Vids on WhatsApp Platform</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722999375878-fix-discord-overlay-issues-simple-solutions-you-can-apply-today/"><u>Fix Discord Overlay Issues: Simple Solutions You Can Apply Today</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-startup-errors-for-a-total-war-saga-troy-game-on-your-computer/"><u>How to Resolve Startup Errors for A Total War Saga: Troy Game on Your Computer</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-realme-c67-4g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Realme C67 4G IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-up-to-date-strategies-for-youtube-earnings/"><u>In 2024, Up-to-Date Strategies for YouTube Earnings</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005489583-master-uninterrupted-play-expert-solutions-to-garrys-mod-crash-problems-updated/"><u>Master Uninterrupted Play: Expert Solutions to Garry's Mod Crash Problems - Updated !</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/maximizing-campaigns-in-2008-innovative-uses-of-massmail-for-business-growth/"><u>Maximizing Campaigns in 2008: Innovative Uses of MassMail for Business Growth</u></a></li>
-<li><a href="https://win-answers.techidaily.com/new-world-troubleshooting-how-to-fix-persistent-connection-errors-effectively/"><u>New World Troubleshooting: How to Fix Persistent Connection Errors Effectively</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/selecting-the-ultimate-business-vault/"><u>Selecting the Ultimate Business Vault</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-issue-why-division-2-wont-start-top-tips/"><u>Solving the Issue: Why Division 2 Won't Start - Top Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ubisoft-connect-malfunction-expert-tips-and-fixes-for-the-year-2024/"><u>Ubisoft Connect Malfunction: Expert Tips and Fixes for the Year 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/victory-achieved-no-more-local-steam-client-process-unreachable-errors-on-your-system/"><u>Victory Achieved – No More 'Local Steam Client Process Unreachable' Errors on Your System</u></a></li>
-<li><a href="https://program-issues.techidaily.com/warzone-graphics-glitch-fixed-solutions-for-missing-in-game-textures/"><u>Warzone Graphics Glitch Fixed – Solutions for Missing In-Game Textures</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-innovative-drone-flight-q500-typhoon-review/"><u>[Updated] 2024 Approved Innovative Drone Flight - Q500 Typhoon Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/5-proven-methods-to-address-no-user-logon-glitch-in-counter-strike-global-offensive/"><u>5 Proven Methods to Address No User Logon Glitch in Counter Strike: Global Offensive</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-warzone-display-issues-explained-and-resolved-with-ease/"><u>Call of Duty: Warzone Display Issues Explained & Resolved with Ease</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/da-vincis-digital-palette-the-best-image-ideas-yet/"><u>Da Vinci's Digital Palette: The Best Image Ideas Yet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-guide-using-ifunnys-memetic-app/"><u>Essential Guide Using iFunny's Memetic App</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-androids-role-in-virtual-reality-content-consumption/"><u>In 2024, Android's Role in Virtual Reality Content Consumption</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-mac-techniques-for-instagram-short-form-videos/"><u>In 2024, Mac Techniques for Instagram Short-Form Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-oppo-a79-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Oppo A79 5G Phones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/madden-22-load-error-troubleshooting-steps-for-a-smooth-startup/"><u>Madden '22 Load Error Troubleshooting Steps for a Smooth Startup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximize-your-fps-ultimate-guide-to-fixing-drops-and-accelerating-gameplay-on-pc/"><u>Maximize Your FPS: Ultimate Guide to Fixing Drops and Accelerating Gameplay on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-woes-heres-how-to-stop-apex-legends-from-crashing-unexpectedly/"><u>PC Gaming Woes? Here's How to Stop Apex Legends From Crashing Unexpectedly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/silence-no-more-comprehensive-solutions-to-evil-genius-2-audio-failure/"><u>Silence No More! Comprehensive Solutions to 'Evil Genius 2' Audio Failure</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-clearing-up-the-mystery-of-persona-vee-strikers-black-screen-troubleshoot/"><u>Solved: Clearing Up the Mystery of Persona Vee Strikers' Black Screen Troubleshoot</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-resolving-the-battlenet-unable-to-launch-issue/"><u>Step-by-Step Solution: Resolving the 'Battle.net Unable to Launch' Issue</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/taming-hp-screen-glitches-and-flickers/"><u>Taming HP Screen Glitches and Flickers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-non-functional-logitech-g-hub-software-in-windows-environment/"><u>Ultimate Fixes for Non-Functional Logitech G Hub Software in Windows Environment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unfollow-strategies-for-x-previously-known-as-twitter-timely-tips-and-tricks/"><u>Unfollow Strategies for X (Previously Known as Twitter): Timely Tips & Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-insights-on-amazon-prime-day-previews-do-these-savings-live-up-to-the-hype/"><u>Unveiling Insights on Amazon Prime Day Previews: Do These Savings Live Up to the Hype?</u></a></li>
 </ul></div>
 

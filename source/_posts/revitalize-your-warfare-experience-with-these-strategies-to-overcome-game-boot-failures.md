@@ -1,7 +1,7 @@
 ---
 title: Revitalize Your Warfare Experience with These Strategies to Overcome Game Boot Failures
-date: 2024-12-31T16:52:13.316Z
-updated: 2025-01-05T18:21:31.141Z
+date: 2025-01-07T16:15:06.806Z
+updated: 2025-01-12T16:14:37.849Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 6. **[Change power plan to Ultimate Performance](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
@@ -61,10 +61,6 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 
  If you’re confident with your gaming rig, simply continue to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Change Display Mode
 
  Some Modern Warfare gamers reported that changing the Display Mode from**Fullscreen Borderless** to**Fullscreen** fixes their FPS dropping issue. You can give this a try as it may boost your FPS right away.
@@ -75,10 +71,6 @@ You can do it with only 2 steps:
 2. Navigate to the**Graphics** tab. Under the**Display** section and to the right of**Display Mode** , click the box and select**Fullscreen** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/modern-warfare-set-to-fullscreen.jpg)
 3. Join a game and see if your FPS gets better.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If changing Display Mode doesn’t give you any luck, you can check out the next solution.
 
@@ -97,7 +89,7 @@ You can do it with only 2 steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -116,6 +108,10 @@ And it’s quite easy to update too:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will then check and install updates automatically. This might take a while depending on your Internet speed.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart the computer.
 
@@ -125,11 +121,19 @@ And it’s quite easy to update too:
 
  If this method doesn’t help your case, please move on to the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5:**Clean up resource-hungry processes**
 
  Sometimes your game becomes laggy when you have some background tasks eating up your RAM or CPU resources. Before opening a game in Modern Warfare, first make sure you’ve exited programs like**Chrome** ,**Discord** ,**Skype** or**Windows Update** that might exhaust your computer resources.
 
  If you’re sure you’ve left enough resources for Modern Warfare and the FPS issue is still there, check out the next fix to change your power plan.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Change your power plan to Ultimate Performance
 
@@ -142,7 +146,7 @@ Here’s how to enable this power plan:
 2. Select**Ultimate Performance** . If you don’t see this power plan, please continue to the next step to unhide it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
@@ -154,10 +158,6 @@ Here’s how to enable this power plan:
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After changing your power plan, you can then test the improvement in Modern Warfare.
 
@@ -180,18 +180,21 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-pros-pathway-to-professional-video-conferencing-with-slack-and-filmora/"><u>[New] 2024 Approved The Pro's Pathway to Professional Video Conferencing with Slack & Filmora</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-into-the-game-starting-an-apple-powered-sports-network/"><u>[Updated] In 2024, Get Into the Game Starting an Apple-Powered Sports Network</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-seamless-transfer-your-path-to-storing-instagram-videos-on-pc/"><u>[Updated] In 2024, Seamless Transfer Your Path to Storing Instagram Videos on PC</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-12-mini-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 12 mini With 7 Methods</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-itel-a60-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-14-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone 14 Pro? | Stellar</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-realme-gt-3-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Realme GT 3 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-early-release-glitches-in-star-wars-jedi-fallen-order-a-comprehensive-guide/"><u>Overcoming Early Release Glitches in Star Wars Jedi: Fallen Order – A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-rogue-companys-pc-instability-a-comprehensive-guide/"><u>Overcoming Rogue Company's PC Instability - A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-cyberpunk-angs-the-ultimate-guide-to-tackling-the-black-screen-glitch/"><u>Resolving Cyberpunk Angs - The Ultimate Guide to Tackling the Black Screen Glitch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/seamless-gaming-experience-eliminating-ps5-console-connectivity-and-performance-delays/"><u>Seamless Gaming Experience: Eliminating PS5 Console Connectivity and Performance Delays</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-chivalry-ii-crash-problems-successful-resolution-and-tips-for-smooth-gaming/"><u>Troubleshooting Chivalry II Crash Problems: Successful Resolution and Tips for Smooth Gaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/what-to-do-when-your-alienware-command-center-wont-turn-on-a-step-by-step-guide/"><u>What to Do When Your Alienware Command Center Won't Turn On: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-beyond-boundaries-a-comprehensive-hubsan-h501x4-study/"><u>[New] Beyond Boundaries A Comprehensive Hubsan H501X4 Study</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/op-10-female-youtubers-lastest-for-2024/"><u>[New] Top 10 Female YouTubers [Lastest] for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-portraying-paradoxes-effects-for-time-travel-films-for-2024/"><u>[Updated] Portraying Paradoxes Effects for Time Travel Films for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-quick-and-quirky-make-memes-with-kapwing-app/"><u>[Updated] Quick & Quirky Make Memes with Kapwing App</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-resolving-imovie-cuts-understanding-crop-rationale/"><u>2024 Approved Resolving iMovie Cuts Understanding Crop Rationale</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-rog-maximus-z790-formula-in-depth-analysis-of-superior-hybrid-cooling-and-premium-build/"><u>Asus ROG Maximus Z790 Formula - In-Depth Analysis of Superior Hybrid Cooling & Premium Build</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-solution-fixing-red-dead-online-pc-crashing-problems-easily/"><u>Comprehensive Solution: Fixing Red Dead Online PC Crashing Problems Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cortana-stuck-steps-to-restore-the-ai-personal-assistant-on-your-pcphone/"><u>Cortana Stuck? Steps to Restore the AI Personal Assistant on Your PC/Phone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-solutions-to-stop-your-chrome-from-stalling-on-windows-10-systems/"><u>Effortless Solutions to Stop Your Chrome From Stalling on Windows 10 Systems</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/filmoras-blueprint-for-stellar-youtube-trailers/"><u>Filmora's Blueprint for Stellar YouTube Trailers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-re5-launch-problem-on-your-windows-machine-solutions-inside/"><u>Fixing the RE5 Launch Problem on Your Windows Machine - Solutions Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/gas-station-simulator-pc-issues-a-comprehensive-troubleshooting-and-fixing-manual/"><u>Gas Station Simulator PC Issues – A Comprehensive Troubleshooting and Fixing Manual</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-infinix-smart-8-plus-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Infinix Smart 8 Plus to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/polycyclic-aromatic-hydrocarbons-pahs-are-formed-by-fused-benzene-rings-and-can-exhibit-different-chemical-properties-than-monocyclic-aromatics/"><u>Polycyclic Aromatic Hydrocarbons (PAHs) Are Formed by Fused Benzene Rings and Can Exhibit Different Chemical Properties than Monocyclic Aromatics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-game-crashes-on-pc-tips-and-solutions-to-play-no-rest-for-the-wicked/"><u>Troubleshooting Game Crashes on PC: Tips and Solutions to Play 'No Rest for the Wicked'</u></a></li>
 </ul></div>
 

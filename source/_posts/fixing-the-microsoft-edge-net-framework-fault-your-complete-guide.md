@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Microsoft Edge .NET Framework Fault: Your Complete Guide"
-date: 2025-01-04T20:30:58.080Z
-updated: 2025-01-05T20:46:17.885Z
+date: 2025-01-08T16:18:13.032Z
+updated: 2025-01-12T16:09:41.090Z
 tags:
   - win11
   - win10
@@ -31,7 +31,15 @@ Battle.net is your destination for playing Blizzard & Activision games. However,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-fix-Battle.net-not-opening.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Image source: battle.net_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Run Battle.net as an administrator and in compatibility mode
 
@@ -56,12 +64,12 @@ _Image source: battle.net_
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-1.jpg)
 3. From the left navigation pane, click**Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-2.jpg)
 4. Scroll down and check if Battle.net is on the list. If it isn’t, proceed to add it to the exception list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Click on the**Change settings** button.  
 
@@ -71,11 +79,11 @@ _Image source: battle.net_
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-4.jpg)
 7. Click**Browse…** and go to the installation folder.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-5.jpg)  
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-5.jpg)  
 
  If you have no idea of where the installation folder is, simply right-click on the shortcut and select**Open file location** .  
 
@@ -83,7 +91,7 @@ _Image source: battle.net_
 8. Find**Battle.net.exe** and click on it. Then click**Open** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-6.jpg)
@@ -92,11 +100,11 @@ _Image source: battle.net_
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-7.jpg)
 10. Now make sure Battle.net is added to the list and tick**Domain** ,**Private** , and**Public** . Once you’re done, click**OK** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-8.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-8.jpg)
 
 Now open Battle.net. If it isn’t opening, try the next fix below.
 
@@ -110,11 +118,11 @@ Now open Battle.net. If it isn’t opening, try the next fix below.
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes**  tab, right-click the programs that are most likely to cause interference, such as Razer Synapse and those that are eating up your resources. Then select **End task** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you’re done, open the agent and check if your problem has been resolved. If it persists, move on to the next fix.
 
@@ -131,15 +139,15 @@ Now open Battle.net. If it isn’t opening, try the next fix below.
 
  After you’ve finished the process, restart your PC and try to launch the agent. If it still fails to open properly, try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Update your drivers
 
  Each piece of hardware on your system, be it your video card, sound card or others, has its own specific driver, which ensures that different hardware components can work smoothly on your system. However, these hardware drivers are susceptible to corruption. When that happens, your PC performance would suffer and some programs may fail to work properly as expected. In this situation, you should attempt to update your drivers.
 
  There are mainly two ways you can update your drivers:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1: Manually update your drivers
 
@@ -152,7 +160,7 @@ You can update your drivers via the Device Manager:
 3. Click on the**arrow >** to expand the section. Then right-click on the device that you’re going to update the driver for and select**Update driver** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-update-drivers-via-the-Device-Manager.jpg)
@@ -177,10 +185,6 @@ Then follow the on-screen instructions to get the updates.
 
  After updating drivers, reboot your PC and then try to open Battle.net. If your problem persists, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Repair corrupted system files
 
  If none of the above methods didn’t give you any luck, it’s time to dig deeper. It’s that you might have corrupted system files that could cause a wide variety of issues, ranging from minor glitches to critical performance issues. To check if that’s your case, use System File Checker, a utility in Windows to check for problems with files on your computer and hopefully repair the corrupted ones. To do this, follow the steps below.
@@ -202,10 +206,6 @@ Then follow the on-screen instructions to get the updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/use-System-File-Checker-to-repair-corrupted-files.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  However, if that fails to fix an underlying problem, you’ll need a more advanced tool to help you with that. **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is such a tool that specializes in Windows repair. It’ll help replace damaged or missing Windows files with healthy ones and restore your PC back to its greatness. And it’s more than that. Fortect can protect and remove malware from your PC, as well as detect threatening apps before it’s too late!
 
  To scan for and fix corrupted system files without hassle, take the steps below.
@@ -217,7 +217,7 @@ Then follow the on-screen instructions to get the updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with and full technical support. If you encounter any issues when using Fortect, do not hesitate to contact their support team.
@@ -253,22 +253,22 @@ Then follow the on-screen instructions to get the updates.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-epic-quests-unveiled-top-games-mirroring-ghost-of-tsushima/"><u>[New] In 2024, Epic Quests Unveiled Top Games Mirroring Ghost of Tsushima</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-obs-overpower-vs-streamlabs-supremacy-for-2024/"><u>[New] OBS Overpower Vs. Streamlabs Supremacy for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-spinning-tales-in-sound-your-ultimate-guide-to-podcast-scripts/"><u>[Updated] Spinning Tales in Sound Your Ultimate Guide to Podcast Scripts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ace-your-gaming-experience-fixing-the-ps4-unexpected-shutdown-dilemma-in-6-easy-steps/"><u>Ace Your Gaming Experience - Fixing the PS4 Unexpected Shutdown Dilemma in 6 Easy Steps</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/eclectic-videoland-rating-for-2024/"><u>Eclectic Videoland Rating for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-brings-in-ray-bans-stories-exploring-the-features-and-cost/"><u>Facebook Brings In Ray-Bans Stories: Exploring the Features & Cost</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-stutter-and-lag-the-ultimate-guide-to-smoother-play-for-hogwarts-legacy/"><u>Fixing Stutter and Lag: The Ultimate Guide to Smoother Play for Hogwarts Legacy</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-the-ascent-from-dumping-your-save-files-during-pc-sessions/"><u>How to Stop The Ascent From Dumping Your Save Files During PC Sessions</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Realme GT 5 (240W)? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-premier-movie-access-on-facebook-ranked-8-list/"><u>In 2024, Premier Movie Access on Facebook Ranked #8 List</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-iphone-13-pro-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 13 Pro Keeps Asking for Outlook Password | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/innovative-ways-to-record-without-background-sounds/"><u>Innovative Ways to Record Without Background Sounds</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-persistent-problems-in-ghostwire-tokyo-ultimate-guide-to-prevent-pc-malfunctions/"><u>Overcome Persistent Problems in Ghostwire: Tokyo; Ultimate Guide to Prevent PC Malfunctions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-launch-hurdles-in-virtual-farmers-life-2022-expert-advice-and-tips/"><u>Overcoming Launch Hurdles in Virtual Farmer's Life 2022 – Expert Advice & Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-and-enhance-your-among-us-gameplay-avoid-downloads-issues/"><u>Troubleshoot and Enhance Your Among Us Gameplay: Avoid Downloads Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/understanding-and-resolving-the-dota-2-vac-error-alert-updated-tips/"><u>Understanding and Resolving the Dota ˈ2 VAC Error Alert - Updated Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlocking-ascent-the-fix-for-a-missing-launch/"><u>Unlocking 'Ascent': The Fix for a Missing Launch!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-solutions-to-solve-common-issues-for-youtube-shorts-for-2024/"><u>[Updated] Solutions to Solve Common Issues for YouTube Shorts for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boosting-your-gameplay-effective-tips-to-enhance-fps-and-minimize-lag-in-fall-guys/"><u>Boosting Your Gameplay: Effective Tips to Enhance FPS & Minimize Lag in Fall Guys</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ng-extra-borders-for-smooth-youtube-playback/"><u>Erasing Extra Borders for Smooth YouTube Playback</u></a></li>
+<li><a href="https://program-issues.techidaily.com/euro-truck-simulator-2-how-to-overcome-and-repair-persistent-pc-bugs/"><u>Euro Truck Simulator 2 - How to Overcome and Repair Persistent PC Bugs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-unresponsive-utorrent-in-just-7-simple-steps-pro-tips-inside/"><u>How to Fix Unresponsive uTorrent in Just 7 Simple Steps - Pro Tips Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-lag-problems-in-resident-evil-village-on-your-pc-the-ultimate-guide/"><u>How To Resolve Lag Problems In Resident Evil Village on Your PC - The Ultimate Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harmonize-visuals-and-vibrations-3-affordable-ipad-methods-to-music-in-video/"><u>In 2024, Harmonize Visuals and Vibrations 3 Affordable iPad Methods to Music in Video</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-knowledge-your-guide-to-top-hardware-picks-by-tom/"><u>Mastering Tech Knowledge - Your Guide to Top Hardware Picks by Tom</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimizing-mac-ipad-iphone-browsing-via-pip-for-2024/"><u>Optimizing Mac, iPad, iPhone Browsing via PIP for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/overcome-dimness-with-easy-iphone-editing-for-2024/"><u>Overcome Dimness with Easy iPhone Editing for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-delays-in-half-life-aliest-comprehensive-solutions-for-a-smooth-pc-gaming-experience/"><u>Overcoming Delays in Half-Life: Aliest - Comprehensive Solutions for a Smooth PC Gaming Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-automatic-search-bar-activation-win11-edition/"><u>Preventing Automatic Search Bar Activation, Win11 Edition</u></a></li>
+<li><a href="https://fox-http.techidaily.com/ps5xbox-series-x-elite-console-companion-screens-for-2024/"><u>PS5/Xbox Series X Elite Console Companion Screens for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-troubleshooting-steps-for-msi-mystic-light-issues-under-windows/"><u>Solution Found: Troubleshooting Steps for MSI Mystic Light Issues Under Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993515097-tower-of-fantasy-pc-game-persistently-fails-find-out-why/"><u>Tower of Fantasy PC Game Persistently Fails – Find Out Why</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-overcoming-unresponsive-rust-programs-with-new-insights/"><u>Troubleshooting Guide: Overcoming Unresponsive Rust Programs with New Insights</u></a></li>
 </ul></div>
 

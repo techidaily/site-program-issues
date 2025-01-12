@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Launch Hurdle in Monster Hunter Stories 2: Wings of Ruin - A Step-by-Step Guide to Successful Game Setup"
-date: 2024-12-29T23:03:36.577Z
-updated: 2025-01-05T20:10:55.215Z
+date: 2025-01-09T16:32:40.267Z
+updated: 2025-01-12T16:03:23.798Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/6a3b42ee0f491feaaae6060437bee4c1fe86f210f
 Does your FIFA 20 crash on PC so often that it is all but unplayable? If the answer is “yes,” don’t panic – you’re not alone. Although this problem can be quite tricky sometimes, there’re still a few general fixes for you to try. Now let’s dig in and see what’s what.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Check your PC specs first
@@ -31,16 +31,12 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-398.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the **DirectX Diagnostic Tool** window, on the **System** tab, you can see the make and model of your computer. Just take note of the following parameters: **Operating System** , **Processor** , **Memory** , and **DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-402.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Ignore the specs listed here. This computer is not used for gaming.
@@ -50,7 +46,7 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-437.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) If you also want to know the screen resolution of your monitor, right-click a blank area of your desktop to open the context menu. Then click **Display settings** .
@@ -60,10 +56,6 @@ In case you don’t know how, here’s the guidance:
  5) So this is your **screen resolution** , as illustrated in the following screenshot.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-412.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Don’t rush to close the **Settings** window. Click **Storage**  in the left pane and then you’ll find out the **storage** of your PC easily.
 
@@ -122,7 +114,7 @@ In case you don’t know how, here’s the guidance:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1:**Update your device drivers**
@@ -150,7 +142,7 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -158,6 +150,10 @@ In case you don’t know how, here’s the guidance:
  If you still have random crashes with FIFA 20, you should give the next fix a try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 2: Roll back your graphics card driver**
 
@@ -167,10 +163,6 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-212.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the Device Manager window, double-click on the **Display adapters** node to expand its drop-down list. Then right-click on your graphics card (the one used to run the game) and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-933.png)
@@ -178,6 +170,10 @@ In case you don’t know how, here’s the guidance:
  3) Click**Roll Back Driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-938.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the **Roll Back Driver** option is grayed out, that means there’s no driver to roll back to. In this case you’ll have to try other fixes.
 
@@ -191,6 +187,10 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Update Windows operating system
 
  This fix should be helpful especially when your Windows operating system hasn’t been updated for a long time. You should first check for updates, then perform them if there’s any.
@@ -202,6 +202,10 @@ In case you don’t know how, here’s the guidance:
  2) On the **Windows Update** tab, in the results pane, click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-947.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait for the system to search for available updates online. If there’s indeed a pending update, then Windows will automatically download the update and install it. Once the process completes, restart your computer for the changes to be fully implemented.
 
@@ -274,10 +278,6 @@ If you continue to face the crashing problem, please move on to Fix 6.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the Command Prompt, type the following command (**note** that there’s a space between sfc and /):
 
 sfc /scannow
@@ -285,10 +285,6 @@ sfc /scannow
  After you finish entering the command, hit **Enter** on your keyboard. Then the sfc tool will begin to scan all system files and repair the corrupted or missing ones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-183.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Wait until the verification process completes. Then **restart** your computer for the changes to take effect.
 
@@ -326,6 +322,10 @@ dism.exe /online /cleanup-image /restorehealth
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 8: Wait for more game updates
 
  Lastly, there’s a chance that your problem is triggered by technical issues of FIFA 20 (such as an unforeseen issue in the game’s code). In that case, you should simply wait for more game updates to fix the problem. Or you can contact **[EA](https://help.ea.com/en/contact-us/)**  (the game developer) and see if they can offer you any assistance.
@@ -352,17 +352,22 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-guide-to-top-hd-video-recorders/"><u>[Updated] 2024 Approved Ultimate Guide to Top HD Video Recorders</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/7-best-adblock-apps-for-android/"><u>7 Best AdBlock Apps for Android</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/takes-to-avoid-as-a-new-youtuber/"><u>8 Mistakes to Avoid as a New Youtuber</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-x90s-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Vivo X90S? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/internal-recorder-usage-for-capturing-screens-on-mate-series-and-p-series-mate-1020-p2010-for-2024/"><u>Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10) for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gaming-fixes-resolving-continuous-aliens-fireteam-elite-software-failures/"><u>PC Gaming Fixes: Resolving Continuous Aliens: Fireteam Elite Software Failures</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-pc-issues-no-more-spellblock-stop-spellbreak-crashes-now/"><u>Resolving PC Issues: No More Spellblock - Stop Spellbreak Crashes Now</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721991702158-secrets-to-keeping-your-chatgpt-dialogues-confidential-no-deletes-required/"><u>Secrets to Keeping Your ChatGPT Dialogues Confidential, No Deletes Required!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-sailing-get-rid-of-cyberpunk-2077s-irritating-lags-and-hiccups/"><u>Smooth Sailing: Get Rid of Cyberpunk 2077'S Irritating Lags and Hiccups</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-nier-automata-hd-update-initialization-hiccups/"><u>Solving NieR: Automata HD Update Initialization Hiccups</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-fix-failed-launch-lunar-client-error-on-windows-os/"><u>Steps to Fix Failed Launch: Lunar Client Error on Windows OS</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/troubleshooting-windows-11-solutions-to-resolve-drive-issue-errors/"><u>Troubleshooting Windows 11: Solutions to Resolve 'Drive Issue' Errors</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-sound-clarity-in-media-paid-vs-free-software-solutions-for-2024/"><u>[New] Sound Clarity in Media - Paid Vs. Free Software Solutions for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-virtual-trips-unveiled-top-10-iphoneandroid-apps-for-2024/"><u>[Updated] Virtual Trips Unveiled Top 10 iPhone/Android Apps for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beating-the-directx-error-in-fifa-20-techniques-and-solutions-unveiled/"><u>Beating the DirectX Error in FIFA 20: Techniques and Solutions Unveiled</u></a></li>
+<li><a href="https://facebook.techidaily.com/beyond-socializing-why-you-shouldnt-neglect-facebook/"><u>Beyond Socializing: Why You Shouldn't Neglect Facebook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-strategies-for-speeding-up-origin-downloads/"><u>Effective Strategies for Speeding Up Origin Downloads</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-missing-camera-issue-in-snapchat-a-step-by-step-guide/"><u>How to Resolve the Missing Camera Issue in Snapchat: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-into-a-metaverse-virtuoso-essential-tools-list/"><u>In 2024, Transform Into a Metaverse Virtuoso - Essential Tools List</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-creation-of-custom-ios-17-contact-cards-for-seamless-profile-integration-via-namedrop/"><u>Mastering the Creation of Custom iOS 17 Contact Cards for Seamless Profile Integration via NameDrop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdle-of-unresponsive-gamepads-with-steam-in-windows/"><u>Overcoming the Hurdle of Unresponsive Gamepads with Steam in Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/samsung-960-evo-ssd-secure-your-data-with-the-latest-driver-version-for-windows-systems/"><u>Samsung 960 EVO SSD: Secure Your Data with the Latest Driver Version for Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/sign-xlsx-online-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign .xlsx Online for Free</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-problem-how-to-fix-and-prevent-fortnite-version-ls-0013-initialization-failures/"><u>Solved Problem: How to Fix and Prevent Fortnite Version LS-0013 Initialization Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-surge-2s-endless-crash-loop-woes/"><u>Solving The Surge 2'S Endless Crash Loop Woes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-issues-with-msi-mystic-light-compatibility-on-windows/"><u>Troubleshooting Guide: Fixing Issues with MSI Mystic Light Compatibility on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-unable-to-join-a-party-issue-in-fortnite-with-error-code-critical-fixes/"><u>Troubleshooting the 'Unable to Join a Party' Issue in Fortnite with Error Code Critical Fixes</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-design-your-dream-collage-top-online-photo-and-video-tools/"><u>Updated Design Your Dream Collage Top Online Photo and Video Tools</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/updating-your-network-adapter-drivers-on-windows-a-step-by-step-guide-tips-from-yl-computing/"><u>Updating Your Network Adapter Drivers on Windows: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Graphics Hurdles: Addressing the 'DirectX' Problem on FIFA 20 Console Game"
-date: 2024-12-29T17:43:13.640Z
-updated: 2025-01-05T20:40:06.784Z
+date: 2025-01-09T16:17:26.849Z
+updated: 2025-01-12T16:23:21.379Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Try these fixes**
 
  Here’s a list of fixes that have resolved this problem for other FH 4 players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -41,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 11. **[Reinstall Forza Horizon 4](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 1: Check If your PC meets the minimum system requirements for Forza Horizon 4**
 
@@ -78,11 +78,19 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 
 **You may need to upgrade your hardware** if your PC fails to meet the minimum system requirements for Forza Horizon 4.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 2: Install the latest game patch**
 
  The developers of Forza Horizon 4 release regular game patches to fix bugs.   **It’s possible that a recent patch has triggered this issue, and that a new patch is required to fix it** .
 
  If a patch is available, install it, then run Forza Horizon 4 to see if you resolved this issue. If this issue persists, or if there was no new game patch available, move on to Fix 3, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 3: Update your drivers**
 
@@ -102,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Driver-Easy-Scan-screen.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Update-drivers.jpg)  
@@ -131,7 +135,7 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
  Launch Forza Horizon 4 after you clear your standby memory. If the game doesn’t crash, congratulations! You’ve fixed this problem. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 5: Disable your microphone for Forza Horizon 4**
@@ -141,6 +145,10 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 1. On your keyboard, press **the Windows logo key**  and **I**  at the same time to open the **Windows Settings** , and then click **Privacy**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap833.png)
 2. On the left panel, click**Microphone** . Then on the right,**Turn off** the toggle next to**Forza Horizon 4** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap834-1.png)
 3. Restart your Windows system and launch Forza Horizon 4 again.
@@ -185,7 +193,7 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 ###
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 9: Update your Windows system to the latest version**
@@ -196,11 +204,11 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap838.png)
 2. Click the   **Check for updates**  button to update your Windows system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap839.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your PC and launch Forza Horizon 4 again. See if you fixed this issue. If not, try the next fix, below.
 
@@ -213,7 +221,7 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 2. Navigate to the **Services**  tab, check   **Hide all Microsoft services**  and then click **Disable all**  .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap841.png)
@@ -222,29 +230,21 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap843.png)
 4. On the **Startup**  tab in **Task Manager** , for **each**  startup item, select the item and then click   **Disabled**  .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap844.png)
 5. Go back to the **System Configuration**  window and click   **OK**  .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap845.png)
 6. Click **Restart**  to restart your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap846.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Restart** your PC and run Forza Horizon 4 to check whether the problem reappears. If not, you need to open the **System Configuration**  window again to enable services and applications **one by one**  until you find the problematic software. After enabling each services, you need to restart  your PC to apply the changes.
 
  Once you find out the problematic software that make the game keep crashing, you need to **uninstall**  it in order to resolve this  issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 11: Reinstall Forza Horizon 4**
 
@@ -261,7 +261,7 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 4. Select the game you purchased before to start installing the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch the game to see if it will still keep crashing. Hopefully, you will be able to resolve this annoying issue by reinstalling the game.
@@ -287,20 +287,16 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-innovative-approach-wearable-unlocks-your-mac/"><u>[New] In 2024, Innovative Approach Wearable Unlocks Your Mac</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-how-to-view-facebook-videos-with-apple-remote/"><u>[Updated] How to View Facebook Videos with Apple Remote</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-practical-routines-for-streamlining-gotomeeting-session-logging/"><u>2024 Approved Practical Routines for Streamlining GoToMeeting Session Logging</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/effortless-presentation-recording-with-modern-webcams-for-2024/"><u>Effortless Presentation Recording with Modern Webcams for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhanced-artificial-intelligence-performance-with-intels-ultra-pc-the-new-era-of-optimized-model-integration/"><u>Enhanced Artificial Intelligence Performance with Intel's Ultra PC: The New Era of Optimized Model Integration</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experience-skyrim-anytime-with-geforce-nows-cloud-gaming-service/"><u>Experience Skyrim Anytime with GeForce NOW's Cloud Gaming Service</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-critical-gobi-error-in-ubisofts-co-op-shooter-back-4-blood-with-unreal-engine-4/"><u>Fixing the Critical Gobi Error in Ubisoft's Co-Op Shooter: Back 4 Blood with Unreal Engine 4</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-oppo-a2-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Oppo A2?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722981900544-how-to-stop-your-pc-from-continuous-crashing-issues-resolved/"><u>How To Stop Your PC From Continuous Crashing Issues - Resolved!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-guide-successfully-repairing-live-server-communication-breakdown-errors/"><u>Master Guide: Successfully Repairing 'Live Server Communication Breakdown' Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-fixes-unlock-solutions-to-bypass-persistent-loading-screens-in-rdr-2/"><u>Mastering Fixes: Unlock Solutions to Bypass Persistent Loading Screens in RDR ^2</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-call-of-duty-warzone-screen-issues-a-comprehensive-guide/"><u>Resolving Call of Duty: Warzone Screen Issues : A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/sovol-sv0-user-how-does-the-sovol-sv08-pay-tribute-to-its-voron-heritage/"><u>Sovol SV0# User: How Does the Sovol SV08 Pay Tribute to Its Voron Heritage?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unstuck-from-the-black-void-solutions-for-2k21-nba-game-crashing-issue-2024-edition/"><u>Unstuck From the Black Void: Solutions for 2K21 NBA Game Crashing Issue - 2024 Edition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-creating-an-iphone-photo-mosaic-a-step-by-step-guide/"><u>[Updated] Creating an iPhone Photo Mosaic A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-solo-stream-smoothness-hacks-for-seamless-live-broadcasts/"><u>2024 Approved Solo Stream Smoothness Hacks for Seamless Live Broadcasts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-strategies-for-effective-youtube-playlist-distribution/"><u>2024 Approved Strategies for Effective YouTube Playlist Distribution</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ensuring-smooth-sailing-for-iphone-xs-face-recognition/"><u>Ensuring Smooth Sailing for iPhone X's Face Recognition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/experience-smooth-play-with-yakuza-6-on-pc-crash-no-more/"><u>Experience Smooth Play with Yakuza 6 on PC - Crash No More</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-game-stability-enhanced-no-more-unexpected-shutdowns-in-version/"><u>Football Manager Game Stability Enhanced - No More Unexpected Shutdowns in Version #</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/garmins-ultra-30-action-camera-revealed-in-full-detail-for-2024/"><u>Garmin's Ultra 30 Action Camera Revealed in Full Detail for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stabilizing-your-gameplay-addressing-total-war-warhammer-ii-performance-errors/"><u>Stabilizing Your Gameplay: Addressing Total War: Warhammer II Performance Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-phasmophobia-tackling-high-processor-usage/"><u>Troubleshooting Phasmophobia: Tackling High Processor Usage</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unique-identity-creation-accessible-logo-base-and-personal-customization-for-no-cost/"><u>Unique Identity Creation Accessible Logo Base & Personal Customization for No-Cost</u></a></li>
 </ul></div>
 

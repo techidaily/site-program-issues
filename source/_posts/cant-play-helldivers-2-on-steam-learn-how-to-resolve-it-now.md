@@ -1,7 +1,7 @@
 ---
 title: Can't Play Helldivers 2 on Steam? Learn How to Resolve It Now
-date: 2025-01-04T19:23:35.399Z
-updated: 2025-01-05T19:48:10.941Z
+date: 2025-01-06T16:21:50.496Z
+updated: 2025-01-12T16:25:20.576Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 2. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Adjust your proxy settings
 
  In most cases, Error 130 happens when your browser fails to connect to the internet because of improper proxy configuration. To fix it, follow the instructions below:
@@ -35,21 +39,29 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-373.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Type**inetcpl.cpl** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-358.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the**Connections tab** , then**LAN settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-363.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Restart your computer and Steam to test your issue.
 
@@ -91,17 +103,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-364.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Steam
 
@@ -123,16 +127,12 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)**  Right-click **Steam** , and then click **Uninstall** .
@@ -144,7 +144,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
@@ -155,13 +155,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **12)**  Relaunch your Steam to test your issue.
 
@@ -189,22 +189,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-best-practices-for-laptop-based-ppt-presentations-on-google-meet-for-2024/"><u>[New] Best Practices for Laptop-Based PPT Presentations on Google Meet for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-beyond-binary-boundaries-metaverse-vs-multiverse/"><u>[New] Beyond Binary Boundaries Metaverse V/S Multiverse</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-achieving-profit-through-youtube-sourav-joshis-guide/"><u>[New] In 2024, Achieving Profit Through YouTube Sourav Joshi’s Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-professional-posting-hacks-for-instagram-tv/"><u>[New] In 2024, Professional Posting Hacks for Instagram TV</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-propel-your-youtube-journey-breakthroughs-at-the-500-subscriber-mark/"><u>[Updated] 2024 Approved Propel Your YouTube Journey Breakthroughs at the 500-Subscriber Mark</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-kodi-network-issue-expert-tips-on-getting-directory-info-back-solved/"><u>Fix Your Kodi Network Issue: Expert Tips on Getting Directory Info Back [Solved]</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-graphics-driver-crashed-issue-in-valorant-fast-solutions/"><u>Fixing the 'Graphics Driver Crashed' Issue in Valorant - Fast Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/hearts-of-iron-4-troubleshooting-tips-fixing-game-crashing-bugs-successfully/"><u>Hearts of Iron 4 Troubleshooting Tips: Fixing Game-Crashing Bugs Successfully</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-and-repair-xcom-2-crashing-instances-in-windows-environments/"><u>How to Prevent and Repair XCOM 2 Crashing Instances in Windows Environments</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-these-7-techniques-and-never-face-an-nba-2k23-game-crash-on-your-windows-machine-again/"><u>Master These 7 Techniques and Never Face an NBA 2K23 Game Crash on Your Windows Machine Again</u></a></li>
-<li><a href="https://fox-info.techidaily.com/masterpiece-episodes-for-airwaves/"><u>Masterpiece Episodes for Airwaves</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/mobile-editors-roundup-top-8-choices-for-iphone-and-android-users-for-2024/"><u>Mobile Editors Roundup Top 8 Choices for iPhone and Android Users for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/perfecting-live-footage-with-fbx-recorder/"><u>Perfecting Live Footage with FBX Recorder</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-gas-station-simulation-software-continuous-pc-crashes/"><u>Resolved: Fixes for Gas Station Simulation Software Continuous PC Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-reviving-an-unresponsive-hp-display-unit-solved/"><u>Step-by-Step Guide to Reviving an Unresponsive HP Display Unit [SOLVED]</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-lag-problems-solutions-for-dying-light-players/"><u>Troubleshooting Lag Problems: Solutions for Dying Light Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-resolving-issues-with-windows-11s-taskbar/"><u>Troubleshooting: Resolving Issues with Windows 11'S Taskbar</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-pioneering-sustainable-video-capturing-techniques-for-2024/"><u>[New] Pioneering Sustainable Video Capturing Techniques for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-best-screen-recording-software-top-10-list/"><u>[Updated] In 2024, Best Screen Recording Software Top 10 List</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-prime-insta-tunes-locator-a-guide-to-premium-sound-sets/"><u>2024 Approved Prime Insta Tunes Locator A Guide to Premium Sound Sets</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unveilingnextgencameratech/"><u>2024 Approved UnveilingNextGenCameraTech</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-aid-excellence-using-these-high-tech-digital-tools/"><u>Boost Aid Excellence Using These High-Tech Digital Tools</u></a></li>
+<li><a href="https://win-webster.techidaily.com/come-aggiornare-il-tuo-sistema-operativo-da-windows-e-alla-piu-recente-versione-windows-11-manuale-completo-per-utenti-fai-da-te/"><u>Come Aggiornare Il Tuo Sistema Operativo Da Windows E Alla Più Recente Versione, Windows 11: Manuale Completo per Utenti Fai-Da-Te.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-eliminating-latency-problems-in-fortnite/"><u>Effective Solutions: Eliminating Latency Problems in Fortnite</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-risk-of-rain-2-crashes-ultimate-troubleshooting-guide/"><u>Fixing Risk of Rain 2 Crashes: Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-ghostrunner-crash-issue-in-windows-11-a-comprehensive-guide/"><u>Fixing the 'Ghostrunner' Crash Issue in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/improved-dragon-age-origins-performance-and-stability-for-windows-11-users/"><u>Improved Dragon Age: Origins Performance & Stability for Windows 11 Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-samsung-galaxy-z-fold-5-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Samsung Galaxy Z Fold 5 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010387686-pc-gaming-fixes-why-isnt-payday-2-starting-solutions-inside/"><u>PC Gaming Fixes: Why Isn't Payday 2 Starting? Solutions Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persistent-problems-eliminate-gta-5-game-crashes-with-these-fixes/"><u>Persistent Problems? Eliminate GTA 5 Game Crashes with These Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stability-enhancement-tips-preventing-repeated-crashes-in-mystic-sphere-vii-when-playing-on-pc/"><u>Stability Enhancement Tips: Preventing Repeated Crashes in 'Mystic Sphere VII' When Playing on PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-conundrum-explained-navigating-through-the-intricacies-of-ai-goal-harmonization/"><u>The Conundrum Explained: Navigating Through the Intricacies of AI Goal Harmonization</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-serious-sam-4-performance-issues-fixes-for-pc-crashing-and-stuttering/"><u>Troubleshooting Serious Sam 4 Performance Issues: Fixes for PC Crashing and Stuttering</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-call-of-duty-warzones-2024-black-screen-issue/"><u>Ultimate Guide: Resolving Call of Duty Warzone's 2024 Black Screen Issue</u></a></li>
 </ul></div>
 

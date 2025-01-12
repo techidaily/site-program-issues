@@ -1,7 +1,7 @@
 ---
 title: Resolving Destiny 2 Graphical Glitches - Initialization Error Fix
-date: 2025-01-03T18:09:15.090Z
-updated: 2025-01-05T23:29:37.694Z
+date: 2025-01-09T16:13:03.253Z
+updated: 2025-01-12T16:15:53.269Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ STAR WARS The Old Republic (SWTOR) window does not show after you press Play? Yo
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -53,10 +57,6 @@ STAR WARS The Old Republic (SWTOR) window does not show after you press Play? Yo
  If SWTOR works properly after you disable the antivirus software, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution.
 
 If SWTOR still won’t start, read on and try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run SWTOR in Admin mode
 
@@ -91,7 +91,7 @@ If this doesn’t work for you, then go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-17-00.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -101,7 +101,7 @@ If this doesn’t work for you, then go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-17-08.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -112,10 +112,6 @@ If this doesn’t work for you, then go ahead with the next fix.
 **4)** Relaunch your game to test your issue.
 
 If your game still won’t launch, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of game files
 
@@ -135,13 +131,13 @@ If your game still won’t launch, then go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-57-39.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Relaunch the game to test your issue.
 
 If SWTOR is still unplayable, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Delete the BitRaider folder
 
@@ -153,9 +149,17 @@ If SWTOR is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-39-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Delete the**Bitraider folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-38-29.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Relaunch the game and wait for the repair to be complete.
 
@@ -169,13 +173,13 @@ If SWTOR is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-20-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Select**Notepad** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-20-56.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Find the matching section in the file and delete the 4 lines and replace them with this:
 
@@ -185,10 +189,6 @@ If SWTOR is still unplayable, move on to the next fix.
  **, “bitraider\_disable”: “true”**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-43-29.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)** On your keyboard, press the**Ctrl key and S** to save the changes. Then close Notepad.
 
@@ -227,22 +227,16 @@ If SWTOR is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-6-youtuber-quizzes-to-know-which-youtuber-you-are/"><u>[New] In 2024, 6 YouTuber Quizzes to Know Which YouTuber You Are</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-elevate-presentations-10-must-have-slide-show-designs-at-no-cost/"><u>[New] In 2024, Elevate Presentations 10 Must-Have Slide Show Designs at No Cost</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-cutting-edge-vr-tools-for-drones/"><u>[Updated] Cutting-Edge VR Tools for Drones</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-the-top-best-cloud-storage-service-for-business/"><u>[Updated] The Top Best Cloud Storage Service for Business</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723010737663-banish-your-woes-in-star-wars-jedi-fallen-order-squadron-with-fixes-for-critical-errors/"><u>Banish Your Woes in Star Wars Jedi: Fallen Order Squadron with Fixes for Critical Errors</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-honor-x50i-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Honor X50i</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-common-age-of-empires-4-stuttering-problems-proven-techniques/"><u>Fixing Common Age of Empires 4 Stuttering Problems: Proven Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-gameplay-interruptions-troubleshooting-continuous-crashes-in-frontier-for-your-computer/"><u>Fixing Gameplay Interruptions: Troubleshooting Continuous Crashes in Frontier for Your Computer</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-magic-6-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor Magic 6</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/leveraging-fb-livestream-for-post-produced-content-dissemination/"><u>Leveraging FB Livestream for Post-Produced Content Dissemination</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-sims-4-visual-bliss-eliminating-video-card-glitches/"><u>Master The Sims 4 Visual Bliss: Eliminating Video Card Glitches</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-high-fps-in-csgo-the-comprehensive-improvement-guide-you-need/"><u>Mastering the Art of High FPS in CS:GO - The Comprehensive Improvement Guide You Need</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-troubleshooting-guide-fixing-zombie-army-4-gameplay-glitches/"><u>PC Troubleshooting Guide - Fixing 'Zombie Army 4' Gameplay Glitches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-sailing-how-left-4-dead-2-got-rid-of-its-crash-problems/"><u>Smooth Sailing: How Left 4 Dead 2 Got Rid of Its Crash Problems</u></a></li>
-<li><a href="https://fox-access.techidaily.com/top-10-no-money-photo-enhancers-for-web-users-for-2024/"><u>Top 10 No-Money Photo Enhancers for Web Users for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-naraka-bladepoint-stutter-and-lag/"><u>Troubleshooting Naraka: Bladepoint Stutter and Lag</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-palworld-solutions-for-eos-login-failures/"><u>Troubleshooting PalWorld: Solutions for EOS Login Failures</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-inconspicuous-footprint-of-social-media-engagements/"><u>[New] 2024 Approved The Inconspicuous Footprint of Social Media Engagements</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-metaverse-frontier-gear-guide-select-8-headsets/"><u>[Updated] Metaverse Frontier Gear Guide Select 8 Headsets</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-sketching-your-signature-tiktok-end-note/"><u>[Updated] Sketching Your Signature TikTok End-Note</u></a></li>
+<li><a href="https://fox-http.techidaily.com/asmr-unveiled-benefits-for-your-well-being-for-2024/"><u>ASMR Unveiled Benefits for Your Well-Being for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-a-musical-portfolio-in-youtube-for-2024/"><u>Curating a Musical Portfolio in Youtube for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-launch-problem-a-comprehensive-guide-to-starting-avatar-frontiers-of-pandora/"><u>Fixing the Launch Problem: A Comprehensive Guide to Starting Avatar: Frontiers of Pandora</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-realme-gt-neo-5-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Realme GT Neo 5 Phones? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/successfully-resolving-the-camera-not-found-error-on-snapchat-app/"><u>Successfully Resolving the 'Camera Not Found' Error on Snapchat App</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997634642-terraria-continues-to-glitch-heres-how-you-can-fix-it-with-simple-hacks/"><u>Terraria Continues to Glitch? Here's How You Can Fix It with Simple Hacks !</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-resolving-gtfo-application-disruptions-efficiently/"><u>Understanding and Resolving GTFO Application Disruptions Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unprintable-pdf-woes-masterful-shortcuts-to-make-them-work/"><u>Unprintable PDF Woes? Masterful Shortcuts to Make Them Work!</u></a></li>
 </ul></div>
 

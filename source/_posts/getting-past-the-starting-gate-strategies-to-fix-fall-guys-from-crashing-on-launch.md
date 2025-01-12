@@ -1,7 +1,7 @@
 ---
 title: "Getting Past the Starting Gate: Strategies to Fix Fall Guys From Crashing on Launch"
-date: 2024-12-29T18:36:57.894Z
-updated: 2025-01-05T21:13:18.380Z
+date: 2025-01-05T16:26:37.594Z
+updated: 2025-01-12T16:09:50.319Z
 tags:
   - win11
   - win10
@@ -40,16 +40,12 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Underlock your GPU
@@ -62,7 +58,7 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -78,10 +74,6 @@ Here is how to verify the integrity of Dauntless:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -103,6 +95,10 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable your antivirus program
 
  Running Dauntless consumes lots of memory and CPU usage, so it’s possible that your antivirus program may detect it as some sort of threat and prevent it from running smoothly. So you might need to disable your antivirus temporarily and check if the crashing issue persists.
@@ -115,6 +111,10 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Run Dauntless on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
@@ -125,13 +125,13 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
@@ -166,22 +166,21 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-keeping-crystal-clear-avoiding-lens-haze/"><u>[New] Keeping Crystal Clear Avoiding Lens Haze</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-should-you-monitor-off-facebook-a-guide-for-users/"><u>[New] Should You Monitor Off-Facebook? A Guide for Users</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-ultimate-tutorial-on-winning-spotify-advertising/"><u>[Updated] 2024 Approved The Ultimate Tutorial on Winning Spotify Advertising</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-boost-camera-output-retain-excellent-clarity/"><u>[Updated] In 2024, Boost Camera Output, Retain Excellent Clarity</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-mp4-reimagined-effortlessly-adding-srt/"><u>[Updated] MP4 Reimagined Effortlessly Adding SRT</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722990944267-banish-kurtzpel-downfall-errors-once-and-for-all-effective-troubleshooting-steps-unveiled/"><u>Banish KurtzPel Downfall Errors Once and For All - Effective Troubleshooting Steps Unveiled!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-the-top-ai-assistant-claude-vs-chatgpt-for-daily-use/"><u>Choosing the Top AI Assistant: Claude Vs. ChatGPT for Daily Use</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/closing-the-gap-how-iphones-can-match-androids-ai-prowess-with-four-key-features-analysis-by-zdnet/"><u>Closing the Gap: How iPhones Can Match Android's AI Prowess with Four Key Features | Analysis by ZDNET</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/come-iniziare-a-progettare-una-soluzione-di-backup-programmato-con-aomei-backupper/"><u>Come Iniziare a Progettare Una Soluzione Di Backup Programmato Con AOMEI Backupper</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-get-outriders-running-again/"><u>Fixing the Issue: How to Get Outriders Running Again</u></a></li>
-<li><a href="https://program-issues.techidaily.com/grand-theft-auto-v-troubleshooting-fixing-errgfxd3dinit-graphics-issue/"><u>Grand Theft Auto V Troubleshooting: Fixing ERR_GFX_D3D_INIT Graphics Issue</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-launch-your-live-stream-a-comprehensive-beginners-manual/"><u>In 2024, Launch Your Live Stream A Comprehensive Beginner's Manual</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-superpeople-dx9-issue-a-step-by-step-guide/"><u>Solving the 'Superpeople DX9 Issue' - A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-remedy-for-fixing-the-life-threatening-gaming-glitch-in-ghost-runner-for-windows-10-users/"><u>Step-by-Step Remedy for Fixing the Life-Threatening Gaming Glitch in Ghost Runner for WINDOWS 10 Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-mafia-trilogys-capstone-game-now-confirmed-for-launch/"><u>The Mafia Trilogy's Capstone Game Now Confirmed for Launch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-resolving-cannot-start-csgo-problems/"><u>Troubleshooting Steps for Resolving 'Cannot Start CS:GO' Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-how-to-solve-fall-guys-game-crashes-on-launch/"><u>Troubleshooting: How to Solve 'Fall Guys' Game Crashes on Launch</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-fabricate-funny-images-on-giphy/"><u>[New] Fabricate Funny Images on Giphy</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-10-best-free-image-hosting-sites/"><u>[Updated] 10 Best Free Image Hosting Sites</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-urban-to-agrarian-journey-stardew-titles-traced/"><u>[Updated] In 2024, Urban to Agrarian Journey Stardew Titles Traced</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/1-step-by-step-guide-saving-live-channels-from-younow-for-later-viewing/"><u>1. Step-by-Step Guide: Saving Live Channels From YouNow for Later Viewing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-vivo-v27-pro-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Vivo V27 Pro</u></a></li>
+<li><a href="https://article-files.techidaily.com/explore-top-10-dynamic-picture-background-switchers/"><u>Explore Top 10 Dynamic Picture-Background Switchers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-the-frozen-frame-solutions-for-smoothing-out-borderlands-groggy-gameplay/"><u>Fix the Frozen Frame: Solutions for Smoothing Out Borderlands Groggy Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fortnite-troubleshooting-ultimate-guide-to-stop-pc-game-from-freezing-2024-solution/"><u>Fortnite Troubleshooting: Ultimate Guide to Stop PC Game From Freezing (2024 Solution)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-a-smooth-battle-experience-overcoming-pc-hiccups-in-call-of-duty-modern-warfare/"><u>Get a Smooth Battle Experience: Overcoming PC Hiccups in Call of Duty: Modern Warfare</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-common-directx-errors-in-fifa-20-steps-for-a-smooth-gameplay/"><u>How to Fix Common DirectX Errors in FIFA 20: Steps for a Smooth Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-lag-and-freezing-in-fortnite-on-windows/"><u>How to Resolve Lag and Freezing in Fortnite on Windows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/innovative-design-in-the-netatmo-weather-station-perfect-for-modern-home-automation-enthusiasts/"><u>Innovative Design in the Netatmo Weather Station: Perfect for Modern Home Automation Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-file-names-in-windows-settings-max-156/"><u>Optimizing File Names in Windows Settings (Max 156)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-samsung-galaxy-f04-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Samsung Galaxy F04 Phones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-resolve-witcher-3-wild-hunt-startup-issues/"><u>Troubleshooting Steps to Resolve 'Witcher 3: Wild Hunt' Startup Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-optimizing-performance-and-fixing-crashes-in-avatar-on-pc/"><u>Troubleshooting Tips: Optimizing Performance and Fixing Crashes in 'Avatar on PC'</u></a></li>
 </ul></div>
 

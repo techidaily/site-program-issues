@@ -1,7 +1,7 @@
 ---
 title: "Resolving Playback Problems in RoboCop: Rogue City – How to Get It Running Smoothly on Your Computer"
-date: 2025-01-04T16:07:04.343Z
-updated: 2025-01-05T20:00:23.761Z
+date: 2025-01-11T16:09:12.470Z
+updated: 2025-01-12T16:24:44.551Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  We’ve collected 5 working fixes for Destiny 2 Beyond Light crashing. You don’t have to try them all; just work from the top down until you find the one that does the trick.
@@ -39,7 +35,7 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
  The screenshots below come from Windows 10, but the fixes also apply to Windows 7, 8 and 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Verify the integrity of your game files
@@ -49,10 +45,6 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 1. Launch your Steam client and navigate to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-0.jpg)
 2. Right-click**Destiny 2: Beyond Light** from the game list, and click**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-22-2.jpg)
 3. Select the**Local Files** tab, and click**Verify Integrity of Game Files** .  
@@ -89,6 +81,10 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-4.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click**Update** to do it for free, but it’s partly manual.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-5.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -99,7 +95,7 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Set high priority
@@ -113,16 +109,16 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-1-5.jpg)
 3. Right-click the**Destiny 2: Beyond Light.exe file** . Then, mouse over**Set priority** and select**Above normal** or**High** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-2-3.jpg)
 4. Click**Change priority** to confirm.
 
  Relaunch the game and check whether it runs properly or not. If not, there are two more fixes below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Disable the shader cache
 
@@ -132,15 +128,19 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-3.jpg)
 2. Click**3D Settings** \>**Manage 3D settings** on the left pane.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4-3.jpg)
 3. Under the Global Settings section, scroll down and**turn off Shader Cache** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-2.jpg)
 4. Go to**C:\\ProgramData\\NVIDIA Corporation\\NV\_Cache** and**delete the content of that folder** . (You can also copy them and store them elsewhere.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Beyond Light again and the crashing problem should no longer occur. If not, go to Fix 5 below.
 
@@ -154,12 +154,12 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-0.jpg)
 2. Right-click**Destiny 2 Beyond Light** and click**Manage** \>**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-2.jpg)
 3. On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Go to this path:**C:\\Program Files (x86)\\Steam\\steamapps\\common** . Then, delete the**Destiny 2 Beyond Light** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-1.jpg)
@@ -189,14 +189,19 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/exploring-common-causes-and-solutions-to-grand-theft-auto-v-game-crashing-issues/"><u>Exploring Common Causes and Solutions to Grand Theft Auto V Game Crashing Issues</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-create-ken-burns-effect-detaied-steps-for-2024/"><u>How to Create Ken Burns Effect? Detaied Steps for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-now-available-for-far-cry-6-initial-pc-startup-issues/"><u>Resolved: Fixes Now Available for Far Cry 6 Initial PC Startup Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-youtube-stuttering-when-video-halts-but-sound-persists-in-chromefirefox/"><u>Solving YouTube Stuttering: When Video Halts but Sound Persists in Chrome/Firefox</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-t2x-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo T2x 5G</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlocking-early-football-manager-2022-access-tackling-and-solving-launch-delays/"><u>Unlocking Early Football Manager 2022 Access: Tackling and Solving Launch Delays</u></a></li>
-<li><a href="https://video-capture.techidaily.com/unpacking-features-a-deep-dive-into-free2xs-tools/"><u>Unpacking Features A Deep Dive Into Free2X's Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/flac-and-mkv-movavi/"><u>무료 인터넷 공급 - FLAC & MKV 비디오를 원형으로 전환: Movavi 소개</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/amodel-explanation/"><u>データ安全保護:「バックアップ」と「同期」の具体的違いについamodel Explanation</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-creating-fluid-sound-segments-in-logic-pro-x/"><u>[New] 2024 Approved Creating Fluid Sound Segments in Logic Pro X</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-from-pixel-to-prospectus-the-top-7-generators-for-artistic-conversion/"><u>[Updated] 2024 Approved From Pixel to Prospectus - The Top 7 Generators for Artistic Conversion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-building-trust-through-words-docu-script-insights/"><u>[Updated] Building Trust Through Words Docu-Script Insights</u></a></li>
+<li><a href="https://article-posts.techidaily.com/audio-amplification-adding-tracks-to-premiere-projects-with-ease-for-2024/"><u>Audio Amplification Adding Tracks to Premiere Projects with Ease for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoid-the-frustration-of-days-gone-crashes-in-2e4-expert-fix-solutions-revealed/"><u>Avoid the Frustration of 'Days Gone' Crashes in 2E4: Expert Fix Solutions Revealed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cult-of-the-lamb-stability-hacks-no-more-pc-disruptions/"><u>Cult of the Lamb Stability Hacks - No More PC Disruptions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005599902-facing-continuous-game-crashes-in-the-ascent-on-your-desktop-we-can-help/"><u>Facing Continuous Game Crashes in The Ascent on Your Desktop? We Can Help</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-pc-instability-in-madden-2nolution-solutions-for-a-smooth-experience/"><u>Fixing PC Instability in Madden 2Nolution: Solutions for a Smooth Experience</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-nokia-c12-plus-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Nokia C12 Plus Face Lock?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-infinix-zero-5g-2023-turbowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Infinix Zero 5G 2023 Turbowith/without a PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-crafting-interactive-web-services-using-language-models/"><u>Mastering the Art of Crafting Interactive Web Services Using Language Models</u></a></li>
+<li><a href="https://program-issues.techidaily.com/restore-auditory-bliss-in-fallout-4-pc-version-with-these-easy-hacks/"><u>Restore Auditory Bliss in Fallout 4 PC Version with These Easy Hacks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revive-your-stuck-rust-programs-2024-strategies/"><u>Revive Your Stuck Rust Programs: 2024 Strategies</u></a></li>
+<li><a href="https://win-great.techidaily.com/to-uninstall-and-reinstall-or-not-to-uninstall-reviving-slow-network-drivers-effectively/"><u>To Uninstall & Reinstall, or Not to Uninstall - Reviving Slow Network Drivers Effectively.</u></a></li>
 </ul></div>
 

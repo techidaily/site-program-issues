@@ -1,7 +1,7 @@
 ---
 title: "Call of Duty's Black Ops Cold War - UI Problem #27711: Fixed & Enhanced for Players"
-date: 2025-01-03T20:19:49.221Z
-updated: 2025-01-05T22:33:33.451Z
+date: 2025-01-07T16:02:19.912Z
+updated: 2025-01-12T16:02:23.320Z
 tags:
   - win11
   - win10
@@ -28,7 +28,7 @@ It’s very frustrating when Call of Duty Black Ops Cold War keeps freezing on y
 5. **[Lower the in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Avoid PC overheating
@@ -38,6 +38,10 @@ It’s very frustrating when Call of Duty Black Ops Cold War keeps freezing on y
  To avoid this problem, you can**clean the dust regularly** and**check the cooling system** to ensure your PC is in a cool, well-ventilated condition. Also,**stop overclocking your processor** as this will increase the chance of overheating.
 
  If Call of Duty Cold War just freezes without any overheating symptoms, take a look at other workable fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics card driver
 
@@ -56,11 +60,11 @@ There are two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-9.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** to do it for free, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -78,7 +82,7 @@ Here are the steps:
 2. Navigate to the**Compatibility** tab. Then, tick**Disable fullscreen optimizations** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/11.jpg)
@@ -87,24 +91,16 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/12.jpg)
 4. Tick**Override** **High DPI** **scaling behavior** and select**Application** from the drop-down menu below. Then, click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-3.jpg)
 5. Click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch your game to see if the freezing problem goes away. If not, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Scan and repair corrupted game files
 
@@ -127,6 +123,10 @@ Here are the steps:
 2. Select the**Graphics** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-8.jpg)
 3. Lower the parameters under each section according to your needs.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-9.jpg)
 
@@ -154,21 +154,19 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-essential-steps-for-skype-capture-via-obs/"><u>[New] 2024 Approved Essential Steps for Skype Capture via OBS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-building-a-cohesive-setup-synergizing-obs-with-zoom-services-for-2024/"><u>[New] Building a Cohesive Setup Synergizing OBS with Zoom Services for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-elevating-video-view-count-top-hashtag-trends-guide/"><u>[New] In 2024, Elevating Video View Count Top Hashtag Trends Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-interpreting-second-duration-from-mb-content/"><u>[New] Interpreting Second Duration From MB Content</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-mastery-over-instagrams-integration-with-music-emoji-features/"><u>[New] Mastery Over Instagram's Integration with Music Emoji Features</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-dissecting-biggest-fifa-footage-trends-in-graphs/"><u>2024 Approved Dissecting Biggest FIFA Footage Trends in Graphs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-vivo-x100-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Vivo X100 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/black-myth-wukong-out-of-video-memory-error-on-pc/"><u>Black Myth Wukong Out of Video Memory Error on PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/elder-scrolls-online-update-addressing-the-blackwood-region-server-delays/"><u>Elder Scrolls Online Update: Addressing the Blackwood Region Server Delays</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-out-of-video-memory-glitch-in-black-myth-wukong-game-crashes-on-windows/"><u>Fixing the 'Out of Video Memory' Glitch in Black Myth: Wukong Game Crashes on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-stuttering-and-lag-issues-in-the-pc-version-of-black-myth-wukong-game/"><u>Resolve Stuttering and Lag Issues in the PC Version of Black Myth Wukong Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/skyrim-stability-enhanced-troubleshooting-persistent-crashes/"><u>Skyrim Stability Enhanced: Troubleshooting Persistent Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-skyrim-from-freezing-quick-and-easy-troubleshooting-steps-inside/"><u>Stop Skyrim From Freezing: Quick and Easy Troubleshooting Steps Inside!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-prevent-and-fix-black-myth-wukong-from-freezing-or-crashing-on-pc-systems/"><u>Troubleshooting Steps to Prevent and Fix 'Black Myth Wukong' From Freezing or Crashing on PC Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-video-memory-issues-in-black-myth-wukong-game-for-windows-computers/"><u>Troubleshooting Video Memory Issues in Black Myth Wukong Game for Windows Computers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-gpt-4-complimentary-access-opened-up-yet-6-compelling-arguments-for-continuing-with-chatgpt-plus/"><u>Unlocking GPT-4: Complimentary Access Opened Up - Yet, 6 Compelling Arguments for Continuing with ChatGPT Plus</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/aximizing-audience-engagement-with-youtube-shorts-templates-for-2024/"><u>[New] Maximizing Audience Engagement with YouTube Shorts Templates for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-xbox-one-mastering-live-gaming-broadcasts/"><u>[New] Xbox One Mastering Live Gaming Broadcasts</u></a></li>
+<li><a href="https://solve-info.techidaily.com/cookiebot-the-key-to-unlocking-next-level-site-personalization-and-insights/"><u>Cookiebot: The Key to Unlocking Next-Level Site Personalization and Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-steps-to-correct-discord-setup-failures-get-started-now/"><u>Effortless Steps to Correct Discord Setup Failures – Get Started Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-steam-crashes-instantly-a-comprehensive-guide/"><u>Fix Steam Crashes Instantly: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/game-file-recovery-techniques-fixing-broken-games-on-a-desktop-system-2024-edition/"><u>Game File Recovery Techniques: Fixing Broken Games on a Desktop System - 2024 Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-realme-11-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Realme 11 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hp-monitor-troubles-discover-proven-strategies-for-a-swift-resolution/"><u>HP Monitor Troubles? Discover Proven Strategies for a Swift Resolution</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-ranking-the-leading-free-srt-translators-online/"><u>In 2024, Ranking the Leading Free SRT Translators Online</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-smooth-gaming-experiences-fix-stuttering-and-low-fps-in-latest-titles/"><u>Mastering Smooth Gaming Experiences: Fix Stuttering and Low FPS in Latest Titles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-your-obs-latency-woes-effective-solutions-for-flawless-streaming-and-recording/"><u>Overcome Your OBS Latency Woes - Effective Solutions for Flawless Streaming and Recording</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-guide-to-disable-disk-read-error/"><u>Quick Fix Guide to Disable “Disk Read” Error</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/rhythmic-resonance-select-sites-for-downloading-tones-for-2024/"><u>Rhythmic Resonance Select Sites for Downloading Tones for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-art-of-crafting-an-engaging-facebook-biography-in-under-157-characters/"><u>The Art of Crafting an Engaging Facebook Biography in Under 157 Characters</u></a></li>
 </ul></div>
 

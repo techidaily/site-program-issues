@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Opening Issues with Razer Synapse Software
-date: 2024-12-31T20:56:55.517Z
-updated: 2025-01-05T23:21:48.909Z
+date: 2025-01-10T16:20:52.476Z
+updated: 2025-01-12T16:25:17.847Z
 tags:
   - win11
   - win10
@@ -46,6 +46,10 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 
 You can fix it by uninstalling the multiplayer HD texture packs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphic driver
 
  Halo Infinite stuttering or lagging problem is usually related to the graphic driver. Make sure your GPU is fully up to date, the older GPU drivers can lead to poor performance and micro stutter.
@@ -87,7 +91,7 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Set**TEXTURE FILTERING** to**Ultra** .
@@ -95,19 +99,23 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7) Run the game to check.
 
 If it’s not working, move to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Turn off background apps
@@ -120,15 +128,7 @@ If it’s not working, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Change NVIDIA resolution
 
@@ -155,17 +155,21 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-choosing-the-ultimate-action-cam-does-black-gopro-outshine-x1000v/"><u>[Updated] In 2024, Choosing the Ultimate Action Cam Does Black GoPro Outshine X1000V?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-elevate-your-video-game-top-10-keyword-strategy-resources/"><u>[Updated] In 2024, Elevate Your Video Game Top 10 Keyword Strategy Resources</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-speed-tutorial-changing-photos-into-engaging-youtube-thumbnails/"><u>[Updated] Speed Tutorial Changing Photos Into Engaging YouTube Thumbnails</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-glitches-a-detailed-walkthrough-to-prevent-fifa-20-crashes-on-windowsmac/"><u>Bypassing Glitches: A Detailed Walkthrough to Prevent FIFA 20 Crashes on Windows/Mac</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/captivating-audience-with-these-innovative-videos-for-2024/"><u>Captivating Audience with These Innovative Videos for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-resolve-firefox-stuttering-issues/"><u>Comprehensive Guide to Resolve Firefox Stuttering Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cs2-gameplay-interrupted-learn-how-to-enhance-frame-rate-stability-on-pc/"><u>CS2 Gameplay Interrupted? Learn How to Enhance Frame Rate Stability on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-gta-5-online-connection-problems-and-enjoy-seamless-gameplay/"><u>How to Fix GTA 5 Online Connection Problems and Enjoy Seamless Gameplay</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-2023s-elite-web-based-recording-devices/"><u>In 2024, 2023'S Elite Web-Based Recording Devices</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-cam-gear-mastering-low-speed-video-recording/"><u>In 2024, Ultimate Cam Gear Mastering Low-Speed Video Recording</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-professional-techniques-for-coloring-gopro-videos/"><u>In 2024, Unlock Professional Techniques for Coloring GoPro Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/re-tune-your-ps5ps4-voice-settings-easily/"><u>Re-Tune Your PS5/PS4 Voice Settings Easily</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-enhancing-online-privacy-youtubes-access-controls/"><u>[Updated] 2024 Approved Enhancing Online Privacy YouTube's Access Controls</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-photographys-new-frontier-toolwiz-app-detailed-review-2023-edition/"><u>2024 Approved Photography's New Frontier Toolwiz App - Detailed Review, 2023 Edition</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-methods-for-properly-setting-up-your-amd-chipset-drivers/"><u>Effective Methods for Properly Setting Up Your AMD Chipset Drivers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elevate-your-gaming-skills-using-the-cutting-edge-49-inch-philips-evonia-curved-oled-monitor/"><u>Elevate Your Gaming Skills Using The Cutting-Edge, 49-Inch Philips Evonia Curved OLED Monitor</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-a-non-launching-city-skylines-2-expert-tips-and-tricks/"><u>Fixing a Non-Launching City Skylines 2 - Expert Tips and Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stabilize-granblue-fantasy-relink-functionality-on-windows-and-mac/"><u>How to Stabilize Granblue Fantasy Relink Functionality on Windows and Mac</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-iphone-images-import-problems-in-windows-1011/"><u>Overcoming iPhone Images Import Problems in Windows 10/11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rainbow-six-siege-error-fixes-overcoming-server-connection-hurdles/"><u>Rainbow Six Siege Error Fixes: Overcoming Server Connection Hurdles</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-list-10-video-editing-apps-for-kids-both-free-and-paid-for-2024/"><u>The Ultimate List 10 Video Editing Apps for Kids, Both Free and Paid for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-intel-device-drivers-fixes-when-the-assistant-fails/"><u>Troubleshooting Intel Device Drivers: Fixes When the Assistant Fails</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/ultimate-fb-video-player-guide-top-picks-listed/"><u>Ultimate FB Video Player Guide Top Picks Listed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-fortnite-warzone-crashes-on-your-pc/"><u>Ultimate Guide: Resolving Fortnite Warzone Crashes on Your PC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/k-the-potential-of-your-video-platform-growth/"><u>Unlock the Potential of Your Video Platform Growth</u></a></li>
+<li><a href="https://program-issues.techidaily.com/world-of-warcraft-halted-by-error-132-heres-how-to-get-you-back-in-game/"><u>World of Warcraft Halted by Error 132? Here's How to Get You Back In-Game</u></a></li>
 </ul></div>
 

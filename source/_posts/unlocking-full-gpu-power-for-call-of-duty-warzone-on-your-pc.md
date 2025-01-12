@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Full GPU Power for Call of Duty: Warzone on Your PC"
-date: 2024-12-31T20:18:19.309Z
-updated: 2025-01-05T19:08:56.668Z
+date: 2025-01-09T16:22:37.856Z
+updated: 2025-01-12T16:27:30.139Z
 tags:
   - win11
   - win10
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/38e4000e96c33206bb992b3f696967e164e1f69dc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png)
@@ -54,6 +50,10 @@ modem
 wireless router
 
  Now check if the error goes away. If not, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -72,7 +72,7 @@ wireless router
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -90,7 +90,7 @@ wireless router
 3. Click the**Game Settings** tab. Then tick**Additional command line arguments** and enter**\-D3D11** in the text field.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
@@ -106,28 +106,36 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.jpg)
 2. Click**Settings** under the Performance section.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
 
@@ -147,15 +155,7 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings1.jpg)
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
 
@@ -181,19 +181,24 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/1722987830742-fixed-overcome-constant-freezing-errors-while-playing-ghostwire-tokyo-for-pc-users/"><u>[Fixed] Overcome Constant Freezing Errors While Playing Ghostwire: Tokyo for PC Users</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-framefinesse-a-detailed-guide-on-ig-image-dimensions/"><u>[New] 2024 Approved FrameFinesse A Detailed Guide on IG Image Dimensions</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-holistic-capture-vs-structured-visual-space-for-2024/"><u>[New] Holistic Capture vs Structured Visual Space for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-to-sharpen-video-calls-with-zoom-in-teams/"><u>[Updated] Expert Tips to Sharpen Video Calls with ZOOM in Teams</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-fix-stuck-instagram-story-pins-for-2024/"><u>[Updated] Fix Stuck Instagram Story Pins for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-mastering-youtube-broadcast-wirecast-streaming-guide/"><u>[Updated] Mastering YouTube Broadcast WireCast Streaming Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/avoiding-and-fixing-cities-skylines-stability-issues-expert-advice/"><u>Avoiding and Fixing Cities: Skylines Stability Issues - Expert Advice</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boost-gaming-performance-fix-high-latency-in-valheim-on-windows-computers/"><u>Boost Gaming Performance: Fix High Latency in Valheim on Windows Computers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/how-to-feature-music-seamlessly-on-instagram-for-2024/"><u>How To Feature Music Seamlessly on Instagram for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/insurgent-conflict-why-sandstorm-video-game-frequently-experiences-crashes/"><u>Insurgent Conflict: Why 'Sandstorm' Video Game Frequently Experiences Crashes</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/overcoming-social-media-livestream-errors-for-2024/"><u>Overcoming Social Media Livestream Errors for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013492368-quick-fix-for-apex-legends-not-opening-top-tips-inside/"><u>Quick Fix for 'Apex Legends Not Opening': Top Tips Inside!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solutions-for-common-reasons-behind-ark-database-applications-crashes/"><u>Solutions for Common Reasons Behind ARK Database Applications Crashes</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-logitech-mouse-drivers-in-windows-11-quickly-and-easily/"><u>Update Logitech Mouse Drivers in Windows 11. Quickly & Easily</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-dropping-drama-the-best-podcast-beginnings/"><u>[New] In 2024, Dropping Drama The Best Podcast Beginnings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-extract-unlimited-photographic-content-from-esteemed-4-video-channels/"><u>[Updated] 2024 Approved Extract Unlimited Photographic Content From Esteemed 4 Video Channels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-pre-windows-10-era-to-windows-11-now/"><u>[Updated] From Pre-Windows 10 Era To Windows 11 Now</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-charting-the-evolution-of-windows-movie-maker/"><u>2024 Approved Charting the Evolution of Windows Movie Maker</u></a></li>
+<li><a href="https://program-issues.techidaily.com/connectivity-error-fixes-for-minecraft-players-how-to-restore-access-to-your-gaming-realm/"><u>Connectivity Error Fixes for Minecraft Players: How to Restore Access to Your Gaming Realm</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/discover-abbyys-revolutionary-solutions-experience-them-live-at-pegaworld-inspire-2023/"><u>Discover ABBYY's Revolutionary Solutions: Experience Them Live at PegaWorld Inspire 2023!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/explore-our-12-tycoon-classics-for-engrossing-experiences/"><u>Explore Our #12 Tycoon Classics for Engrossing Experiences</u></a></li>
+<li><a href="https://program-issues.techidaily.com/game-optimization-tips-how-to-maintain-steady-frame-rates-for-smooth-gaming-on-pcs/"><u>Game Optimization Tips: How to Maintain Steady Frame Rates for Smooth Gaming on PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-and-install-the-newest-logitech-g403-software-on-your-computer/"><u>How to Get and Install the Newest Logitech G403 Software on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-your-gamepad-working-with-steam-on-a-windows-machine/"><u>How to Get Your Gamepad Working With Steam on a Windows Machine</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-t2-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo T2 Pro 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-sony-xbr-49x9eboxer-49-screen-ultra-hd-and-smart-features-unveiled/"><u>In-Depth Look at the Sony XBR-49X9eboxer, 49 Screen - Ultra HD and Smart Features Unveiled</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-lag-and-crashes-when-playing-pc-version-of-god-of-war/"><u>Overcoming Lag and Crashes When Playing PC Version of God of War</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reset-display-settings-overcoming-win-10-hurdle/"><u>Reset Display Settings: Overcoming Win 10 Hurdle</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-troubleshooting-days-gone-pc-startup-problems-and-error-fixes/"><u>Solved! Troubleshooting Days Gone PC Startup Problems and Error Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-activating-hyper-v-in-windows-10/"><u>Step-by-Step Guide: Activating Hyper-V in Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unveiling-the-challenges-that-have-halted-the-ascents-release-date/"><u>Unveiling the Challenges That Have Halted 'The Ascent's Release Date</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-isnt-my-cortana-active-expert-tips-to-restore-its-functionality/"><u>Why Isn't My Cortana Active? Expert Tips to Restore Its Functionality</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Error Code 80Asteroids 97 in COD: Black Ops Cold War? Here's Your Ultimate Fix"
-date: 2024-12-31T19:39:36.634Z
-updated: 2025-01-05T20:05:03.911Z
+date: 2025-01-08T16:17:07.079Z
+updated: 2025-01-12T16:02:29.733Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ If you’re presented with an error message ‘_**DirectX Encountered an Unrecov
 4. **[Play the game in DirectX 11 mode](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1\. Close unnecessary background apps
@@ -38,7 +38,7 @@ If you’re presented with an error message ‘_**DirectX Encountered an Unrecov
  Make sure you have closed all the applications that are related to graphics card monitoring, and turn off all overlay features. Try launching your COD: Warzone again to test the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2\. Update your device drivers
@@ -68,20 +68,24 @@ There are mainly two ways of updating your device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. If you just want to update your webcam driver for free, simply click the **Update** button next to it (it’s partly manual).  
   
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4\. Once complete, restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3\. Repair your game files
 
@@ -99,6 +103,10 @@ There are mainly two ways of updating your device drivers:
 
  Does the simple workaround work for you? If not, you can try the following fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4\. Play the game in DirectX 11 mode
 
  If the Warzone DirectX error persists when you’re using DirectX 12, you can run the game in DirectX 11 to see if this solves your problem. You can easily revert to DirectX 12 if this method doesn’t do the trick.
@@ -109,17 +117,9 @@ There are mainly two ways of updating your device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/mw-d3d11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Check **Additional Command Line Arguments** and type **\-d3d11** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-11.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4\. Click **Done** .
 
@@ -147,17 +147,21 @@ There are mainly two ways of updating your device drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-evaluating-expenditure-on-turning-songs-into-visuals/"><u>[New] 2024 Approved Evaluating Expenditure on Turning Songs Into Visuals</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-cutting-edge-mac-cam-apps-a-look-past-bandicam/"><u>[New] In 2024, Cutting-Edge Mac Cam Apps A Look Past Bandicam</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-dell-g15-driver-download-and-installation-tutorial-for-windows-operating-systems/"><u>Easy Dell G15 Driver Download and Installation Tutorial for Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-to-installing-intels-usb-30-driver-on-windows-11-systems/"><u>Easy Guide to Installing Intel's USB 3.0 Driver on Windows 11 Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-for-when-thaumaturge-wont-start-or-function-properly-on-windows/"><u>Effective Fixes for When Thaumaturge Won't Start or Function Properly on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-gameplay-eight-essential-hacks-for-guardians-of-the-galaxy-running-smoothly-on-pc/"><u>Fix Your Gameplay! Eight Essential Hacks for Guardians of the Galaxy Running Smoothly on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-the-black-screen-issue-in-resident-evil-village-on-pc/"><u>How to Fix the 'Black Screen' Issue in Resident Evil Village on PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-asus-rog-phone-7-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Asus ROG Phone 7? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/non-google-options-for-augmented-reality-embellishing/"><u>Non-Google Options for Augmented Reality Embellishing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolution-reached-issues-with-death-strandings-initial-release-rectified/"><u>Resolution Reached: Issues with Death Stranding's Initial Release Rectified</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-artisans-path-to-crafting-confidential-snaps-for-2024/"><u>The Artisan's Path to Crafting Confidential Snaps for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformateur-de-fichiers-mxf-pour-mac-convertissez-facilement-vers-mp4-mov-et-autres-formats/"><u>Transformateur De Fichiers MXF Pour Mac : Convertissez Facilement Vers MP4, MOV Et Autres Formats</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/aximize-your-youtube-impact-mastering-the-art-of-influential-channels-branding/"><u>[New] Maximize Your YouTube Impact Mastering the Art of Influential Channels' Branding</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adobe-premiere-promp4/"><u>「Adobe Premiere ProでエクスポートしたMP4動画が再生失敗する対策ガイド」</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-and-correcting-frequent-failures-of-the-lunar-software-on-windows-based-systems/"><u>Addressing and Correcting Frequent Failures of the Lunar Software on Windows-Based Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beyond-troubleshooting-ending-hyper-scapes-disruptive-pc-shutdowns-for-good/"><u>Beyond Troubleshooting: Ending Hyper Scape's Disruptive PC Shutdowns for Good</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-download-and-installation-instructions-intel-me-driver-for-w10817-systems/"><u>Comprehensive Download & Installation Instructions: Intel ME Driver for W10/8.1/7 Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/conversione-gratuita-online-di-file-mkv-in-aac-con-movavi-convertitori-video/"><u>Conversione Gratuita Online Di File Mkv in Aac Con Movavi - Convertitori Video</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-fixes-for-immediate-access-to-fortnite-after-failed-logins/"><u>Effortless Fixes for Immediate Access to Fortnite After Failed Logins</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/essential-tips-and-tricks-for-capturing-quality-tracks-in-macos-el-capitan/"><u>Essential Tips and Tricks for Capturing Quality Tracks in MacOS El Capitan</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-starcraft-2-from-crashing-on-your-pc-successful-solutions-unveiled/"><u>How to Stop StarCraft 2 From Crashing on Your PC - Successful Solutions Unveiled</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-agile-approaches-storing-ppt-speeches/"><u>In 2024, Agile Approaches Storing PPT Speeches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-the-cloud-your-ultimate-introduction-and-faqs-on-cloud-technology-zdnet/"><u>Mastering the Cloud: Your Ultimate Introduction and FAQs on Cloud Technology (ZDNet)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/outriders-graphics-improved-resolving-the-issue-of-fuzzy-images/"><u>Outriders Graphics Improved: Resolving the Issue of Fuzzy Images</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/preserving-your-network-configurations-expert-tips-from-yl-computings-guide/"><u>Preserving Your Network Configurations: Expert Tips From YL Computing's Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/starcraft-2-stability-fixes-preventing-game-crashes-on-personal-computers/"><u>StarCraft 2 Stability Fixes: Preventing Game Crashes on Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-eradicating-windowed-chrome-flicker-issues-the-definitive-2024-guide/"><u>Step-by-Step Solutions for Eradicating Windowed Chrome Flicker Issues – The Definitive 2024 Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-mp4-conversion-tools-the-ultimate-guide-to-transforming-your-mkv-files-on-pcs-and-macs/"><u>Top 10 MP4 Conversion Tools: The Ultimate Guide to Transforming Your MKV Files on PCs and Macs</u></a></li>
 </ul></div>
 

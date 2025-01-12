@@ -1,7 +1,7 @@
 ---
 title: "Stop League of Legends From Freezing: A Step-by-Step Guide"
-date: 2025-01-04T17:26:12.594Z
-updated: 2025-01-05T19:38:36.203Z
+date: 2025-01-10T16:19:32.524Z
+updated: 2025-01-12T16:12:42.381Z
 tags:
   - win11
   - win10
@@ -65,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -87,19 +91,23 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -119,6 +127,10 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -129,17 +141,9 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
@@ -148,7 +152,7 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
@@ -162,10 +166,6 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
@@ -193,20 +193,16 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-essential-xbox-x-screens-find-your-perfect-match-now/"><u>[New] 2024 Approved Essential Xbox X Screens Find Your Perfect Match Now</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-ultimate-hexa-copter-ranks-unveiled/"><u>[New] 2024 Approved Ultimate Hexa-Copter Ranks Unveiled</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-essential-guide-to-understanding-and-using-instagrams-music-features-for-2024/"><u>[Updated] The Essential Guide to Understanding and Using Instagram's Music Features for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/avoid-irritants-certain-products-such-as-douches-powders-or-scented-feminine-hygiene-products-can-irritate-the-urethra-and-increase-your-risk-of-a-uti-opt-f393/"><u>Avoid Irritants: Certain Products, Such as Douches, Powders, or Scented Feminine Hygiene Products, Can Irritate the Urethra and Increase Your Risk of a UTI. Opt for Unscented Personal Care Items Instead</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-guide-stop-chrome-from-freezing-on-windows-11-with-these-easy-fixes/"><u>Expert Guide: Stop Chrome From Freezing on Windows 11 with These Easy Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-modern-warfare-3-crash-issues-simple-solutions-for-stable-gameplay/"><u>Fixing Modern Warfare 3 Crash Issues: Simple Solutions for Stable Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-playstation-conflicts-solving-total-war-saga-troy-issues-on-pc/"><u>How To Resolve PlayStation Conflicts - Solving 'Total War Saga: Troy' Issues On PC</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-iphone-11-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On iPhone 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008140242-master-the-art-of-smooth-gaming-tips-to-prevent-disco-elysium-from-crashing/"><u>Master The Art of Smooth Gaming – Tips to Prevent Disco Elysium From Crashing!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-call-of-duty-wwii-error-message-easy-fixes-for-code-4128/"><u>Resolving Call of Duty: WWII Error Message - Easy Fixes for CODE 4128</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-setting-up-the-seren-addon-in-kodi/"><u>Step-by-Step Guide: Setting up the Seren Addon in Kodi</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-warzone-disc-read-errors-50-and-31-in-battlefield/"><u>Ultimate Guide: Solving Warzone Disc Read Errors (5.0 and 3.1) in Battlefield</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-and-repairing-msodll-not-found-system-problems/"><u>Understanding and Repairing 'mso.dll Not Found' System Problems</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-canon-camcorder-video-editing-essentials-software-tools-and-tricks/"><u>Updated Canon Camcorder Video Editing Essentials Software, Tools, and Tricks</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/be-listening-made-easy-with-direct-recording/"><u>YouTube Listening Made Easy with Direct Recording</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-boost-your-youtube-earnings-with-effective-adsense-use/"><u>[Updated] In 2024, Boost Your YouTube Earnings with Effective AdSense Use</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-instant-reddit-archives-retrieval-with-ease-for-2024/"><u>[Updated] Instant Reddit Archives Retrieval with Ease for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/breaking-the-silence-in-the-commonwealth-comprehensive-guide-to-repairing-fallout-4s-audio-issues-on-your-computer/"><u>Breaking The Silence in the Commonwealth: Comprehensive Guide to Repairing Fallout 4'S Audio Issues on Your Computer</u></a></li>
+<li><a href="https://fox-info.techidaily.com/days-viewing-assessing-file-size-in-gb/"><u>Day's Viewing Assessing File Size in GB</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-problem-elder-scrolls-online-loading-errors-explained/"><u>Fixing the Problem: Elder Scrolls Online Loading Errors Explained</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-forest-sons-game-crashes-on-your-pc-comprehensive-guide/"><u>Resolving 'Forest Sons' Game Crashes on Your PC - Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-launching-battlenet-successfully-guide/"><u>Step-by-Step Solutions for Launching Battle.net Successfully (Guide )</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-solution-how-to-fix-a-blank-interface-in-epic-games-launcher-application/"><u>The Solution: How to Fix a Blank Interface in Epic Games Launcher Application</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-download-guide-set-up-logitech-racing-wheels-for-gaming-on-windows-operating-systems-7810/"><u>Ultimate Download Guide: Set Up Logitech Racing Wheels For Gaming on Windows Operating Systems (7/8/10)</u></a></li>
 </ul></div>
 

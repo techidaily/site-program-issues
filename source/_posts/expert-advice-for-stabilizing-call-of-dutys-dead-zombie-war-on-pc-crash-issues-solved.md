@@ -1,7 +1,7 @@
 ---
 title: Expert Advice for Stabilizing Call of Duty's Dead Zombie War on PC – Crash Issues Solved
-date: 2024-12-29T20:14:46.826Z
-updated: 2025-01-05T19:46:25.986Z
+date: 2025-01-11T16:04:28.479Z
+updated: 2025-01-12T16:20:45.146Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
 5. **[Disable in-game overlays](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Stop overclocking
 
  Many players would like to try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -43,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
  To reduce the frequency of crashes in Metro Exodus PC Enhanced Edition, you may need to reset the CPU or the graphics card to the manufacturer specifications.
 
  Launch the game and see if this issue persists after you stopped overclocking. if the game still crashes, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics drivers
 
@@ -59,11 +51,11 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
 
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
@@ -73,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
  Restart Metro Exodus PC Enhanced Edition to see if you fixed the crashing issue. If yes, congratulations!
 
 If the issue persists, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Verify the integrity of game files
 
@@ -86,6 +82,10 @@ If the issue persists, try the next fix below.
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
 
 ## Fix 4: Install the latest game patch
@@ -97,7 +97,7 @@ If the issue persists, try the next fix below.
  Run Metro Exodus PC Enhanced Edition again to see if the game crashes. If it didn’t work, or there was no new game patch available, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Disable in-game overlays
@@ -133,25 +133,25 @@ To perform a clean boot, just follow the steps below:
 2. Navigate to the **Services** tab, check **Hide all Microsoft services,** and then click **Disable all** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
@@ -184,18 +184,22 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-resolved-disappearing-youtube-bite-sizes/"><u>[New] Resolved Disappearing YouTube Bite Sizes</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-becoming-one-in-the-tiktok-living-room-your-steps/"><u>[Updated] In 2024, Becoming One in the TikTok Living Room Your Steps</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-14-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi 14</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/choosing-between-projectors-and-tvs-for-superior-4k-viewing/"><u>Choosing Between Projectors & TVs for Superior 4K Viewing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-nba-2k24s-troublesome-e66ac-glitch-comprehensive-guide-and-fixes/"><u>Eliminate NBA 2K24's Troublesome E66ac Glitch: Comprehensive Guide & Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-updated-software-and-download-drivers-for-your-logitech-g403-mouse-on-pc/"><u>Get Updated Software & Download Drivers for Your Logitech G403 Mouse on PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-tecno-spark-20-proplus-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Tecno Spark 20 Pro+</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-instagram-picture-perfection-expert-tips-unveiled/"><u>In 2024, Mastering Instagram Picture Perfection Expert Tips Unveiled</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-launchdll-disappearance-a-step-by-step-guide/"><u>Solving 'Launch.dll' Disappearance: A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ltimate-list-of-must-watch-historical-youtubes-for-students/"><u>The Ultimate List of Must-Watch Historical YouTubes for Students</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-wsappx-effective-methods-to-address-increased-cpu-load-and-hard-drive-usage/"><u>Troubleshooting WSAPPX: Effective Methods to Address Increased CPU Load and Hard Drive Usage</u></a></li>
-<li><a href="https://program-issues.techidaily.com/war-thunder-performance-optimization-say-goodbye-to-slowdowns-2024-advice/"><u>War Thunder Performance Optimization - Say Goodbye to Slowdowns (2024 Advice)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722998122023-warzone-dev-error-5573-heres-what-you-need-to-know-for-pc-and-console-setup-correction/"><u>Warzone Dev Error #5573? Here's What You Need To Know for PC & Console Setup Correction</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-dazzling-design-discovering-three-instagram-highlight-hacks/"><u>[New] In 2024, Dazzling Design Discovering Three Instagram Highlight Hacks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-editprime-vision/"><u>[Updated] 2024 Approved EditPrime Vision</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-gradual-sound-reduction-for-computers-mac-and-windows/"><u>[Updated] Gradual Sound Reduction for Computers (Mac & Windows)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-htc-u23-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From HTC U23 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dayz-first-person-shooter-instant-and-simple-fixes-for-game-crashes/"><u>DayZ First-Person Shooter: Instant and Simple Fixes for Game Crashes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-most-efficient-work-travel-tablet-alternative-to-microsoft-and-lenovo-according-to-industry-experts-insights/"><u>Discover the Most Efficient Work Travel Tablet Alternative to Microsoft and Lenovo, According to Industry Experts Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-how-to-resolve-lack-of-audio-during-twitch-live-broadcasts/"><u>Fix: How to Resolve Lack of Audio During Twitch Live Broadcasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-problem-of-davinci-resolve-not-starting-on-a-windows-pc/"><u>Fixing the Problem of DaVinci Resolve Not Starting on a Windows PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-nvidia-graphics-card-drivers-compatible-downloads-for-windows-7-to-10/"><u>Free NVIDIA Graphics Card Drivers: Compatible Downloads for Windows 7 to 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y78-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-cult-of-the-lamb-from-crashing-your-gaming-session-on-pc/"><u>How to Stop Cult of the Lamb From Crashing Your Gaming Session on PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revealing-the-quintessential-5-titling-visionaries-online/"><u>In 2024, Revealing the Quintessential 5 Titling Visionaries Online</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigating-and-repairing-the-stubborn-issue-of-exam-launches-not-working-insights-users/"><u>Navigating and Repairing the Stubborn Issue of Exam Launches Not Working - Insights Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revive-your-steam-vr-experience-with-these-6-detection-fixes/"><u>Revive Your Steam VR Experience with These 6 Detection Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guidelines-for-red-dead-redemption-2s-errgfxstate-graphic-issue/"><u>Solution Guidelines for Red Dead Redemption 2'S ERR_GFX_STATE Graphic Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-step-by-step-guide-to-decrease-cpu-load-in-god-of-war-gaming/"><u>Troubleshooting: Step-by-Step Guide to Decrease CPU Load in God of War Gaming</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-chatgpt-code-interpretation-tool-its-significance-explained/"><u>Understanding the ChatGPT Code Interpretation Tool: Its Significance Explained</u></a></li>
 </ul></div>
 

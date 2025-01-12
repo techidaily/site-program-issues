@@ -1,7 +1,7 @@
 ---
 title: "Speedy Success: Navigating the Nuances of Star Wars BF2 Shader Improvement."
-date: 2024-12-30T23:02:31.513Z
-updated: 2025-01-05T22:01:58.327Z
+date: 2025-01-10T16:18:16.261Z
+updated: 2025-01-12T16:07:50.181Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 [Re-enable DirectX 12 mode](https://tools.techidaily.com/drivereasy/download/)
 [Why disabling DirectX 12 works](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Disable DirectX 12 mode
 
  For most players getting stuck at the “Optimizing Shaders” screen, you won’t be able to get to your main menu and see the**OPTIONS** screen. But you can change the DirectX mode by editing the bootup file. Here’s how:
@@ -35,6 +31,10 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![STAR WARS Battlefront II installation file](https://images.drivereasy.com/wp-content/uploads/2021/01/game-installation-file.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Inside of it, open the folder**settings** .
 
  3) Now double-click**BootOptions** and select**Notepad** .  
@@ -42,7 +42,7 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 ![disable DirectX 12 mode in BootOptions](https://images.drivereasy.com/wp-content/uploads/2021/01/bootoptions.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Locate the line**GstRender.EnableDx12** . Change the value to**0** .  
@@ -58,7 +58,7 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
  After you successfully launched the game, it may re-enable the DirectX 12 mode automatically or it won’t. If it won’t, you can manually re-enable it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Re-enable DirectX 12 mode
@@ -68,7 +68,7 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 ![re-enable DirectX 12 mode in STAR WARS Battfront II](https://images.drivereasy.com/wp-content/uploads/2021/01/reenable-DirectX-12-mode-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Under the GRAPHICS SETTINGS section, locate**ENABLE DIRECTX 12** . If it’s**OFF** , click**ON** . If it’s already ON, take the steps below to enable it in the bootup file.
@@ -79,11 +79,11 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![re-enable DirectX 12 mode in the bootup file STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/re-enable-DirectX-12-mode.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click**File > Save** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why disabling DirectX 12 works
 
@@ -106,18 +106,24 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-the-path-to-professional-presence-youtube-tips-and-tricks/"><u>[New] 2024 Approved The Path to Professional Presence YouTube Tips & Tricks</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-tutorial-triumphant-skyrocketing-your-youtube-presence/"><u>[New] In 2024, Tutorial Triumphant Skyrocketing Your YouTube Presence</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/avigating-the-seamless-shift-from-imovie-to-youtube-broadcasts-for-2024/"><u>[New] Navigating the Seamless Shift From iMovie to YouTube Broadcasts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-youtube-video-the-ultimate-guide/"><u>[Updated] 2024 Approved How to Make YouTube Video The Ultimate Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/common-causes-and-fixes-for-persona-3-flare-pc-instability-issues/"><u>Common Causes & Fixes for Persona 3 Flare PC Instability Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-optimizing-visual-performance-in-forza-horizon-5s-latest-upgrade/"><u>Fixes for Optimizing Visual Performance in Forza Horizon #5'S Latest Upgrade</u></a></li>
-<li><a href="https://win-able.techidaily.com/free-methods-to-transform-your-dvds-into-mp4-format-on-windows-11/"><u>Free Methods to Transform Your DVDs Into MP4 Format on Windows 11</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-screen-success-brand-endorsement-strategies/"><u>In 2024, Screen Success Brand Endorsement Strategies</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-x100-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo X100 Phone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722975879080-install-canon-mf8200c-driver-on-your-pc-compatible-with-windows-os-versions/"><u>Install Canon MF8200C Driver on Your PC – Compatible with Windows OS Versions!</u></a></li>
-<li><a href="https://discover-community.techidaily.com/les-meilleures-methodes-pour-supprimer-lespace-libre-sur-windows-11-guide-detaille/"><u>Les Meilleures Méthodes Pour Supprimer L'espace Libre Sur Windows 11 : Guide Détaillé</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723010795706-mount-and-blade-2-bannerlord-stability-issues-corrected-solutions-inside/"><u>Mount & Blade 2: Bannerlord Stability Issues Corrected - Solutions Inside!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-issue-what-to-do-if-the-msi-dragon-center-fails-to-function/"><u>Solving the Issue: What To Do If The MSI Dragon Center Fails to Function</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-10-basic-blocks-house-concepts-for-mc-players/"><u>[New] 10 Basic Blocks House Concepts for MC Players</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-decipher-youtubes-mysteries-with-advanced-insights-from-social-blade/"><u>[New] In 2024, Decipher YouTube's Mysteries with Advanced Insights From Social Blade</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-streamline-your-twitch-live-recordings-today/"><u>[New] Streamline Your Twitch Live Recordings Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-psychonauts-2-keeps-crashing-on-pc/"><u>[SOLVED] Psychonauts 2 Keeps Crashing on PC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-from-amateur-to-professional-transform-your-minecraft-recordings-with-mac/"><u>[Updated] From Amateur to Professional Transform Your Minecraft Recordings with Mac</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-cutting-edge-ad-strategies-for-peak-performance-on-facebook/"><u>2024 Approved Cutting-Edge Ad Strategies for Peak Performance on Facebook</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-rated-free-and-paid-android-video-editors/"><u>2024 Approved Top-Rated Free and Paid Android Video Editors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-obstacles-for-smooth-final-exam-release-tips-and-tricks/"><u>Bypassing Obstacles for Smooth Final Exam Release - Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-discord-video-chat-screen-share-audio-not-working-correctly/"><u>Fix Your Discord Video Chat - Screen Share Audio Not Working Correctly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-how-to-troubleshoot-discords-non-functional-screen-sharing-sound-issue/"><u>Fix: How to Troubleshoot Discord's Non-Functional Screen Sharing Sound Issue</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hitman-3-connection-woes-discover-quick-remedies-today/"><u>Hitman 3 Connection Woes? Discover Quick Remedies Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-troubleshoot-a-non-detecting-steam-virtual-reality-setup/"><u>How to Troubleshoot a Non-Detecting Steam Virtual Reality Setup</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-highest-humor-infused-cut-and-paste/"><u>In 2024, Highest Humor-Infused Cut & Paste</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximizing-gameplay-fluidity-solutions-to-resolve-low-fps-in-valorant-updated-guide/"><u>Maximizing Gameplay Fluidity: Solutions to Resolve Low FPS in Valorant (Updated Guide )</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-from-zero-to-hero-top-10-free-and-paid-android-video-editing-apps/"><u>New From Zero to Hero Top 10 Free and Paid Android Video Editing Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-game-interruptions-a-complete-guide-to-solving-total-war-warhammer-ii-crashes/"><u>Overcoming Game Interruptions - A Complete Guide to Solving Total War: Warhammer II Crashes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-integration-adding-bing-chatbot-functionality-to-your-android-keyboard-experience/"><u>Seamless Integration: Adding Bing Chatbot Functionality to Your Android Keyboard Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-persistent-crashes-in-darkest-dungeon-s-gt-mkii-on-your-gaming-rig/"><u>Troubleshooting Persistent Crashes in Darkest Dungeon ˈs Gt MkII on Your Gaming Rig</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-wolcens-latest-update-issues-why-the-game-havent-launched-yet/"><u>Troubleshooting Wolcen's Latest Update Issues – Why the Game Haven't Launched Yet</u></a></li>
 </ul></div>
 

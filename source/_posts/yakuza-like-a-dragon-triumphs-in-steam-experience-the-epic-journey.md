@@ -1,7 +1,7 @@
 ---
 title: "Yakuza: Like A Dragon Triumphs in Steam - Experience the Epic Journey!"
-date: 2025-01-03T18:39:24.240Z
-updated: 2025-01-05T20:35:41.009Z
+date: 2025-01-09T16:20:11.102Z
+updated: 2025-01-12T16:16:06.002Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 5. **[Delete the game cache files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Adjust the in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Reboot your network
 
  Many players reported the Warzone dev error 6328 can be caused by network glitches. To see if that’s the case, try troubleshooting your router and modem.
@@ -37,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
  Simply **turn off the router and modem and plug it back in after at least 30 seconds** . This is supposed to refresh your device and clear the clogged connection. And you’re also recommended to**use a wired connection** instead of Wi-Fi for more stable gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 modem
 
@@ -51,7 +51,7 @@ wireless router
  Now check if the error goes away. If not, take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
@@ -70,17 +70,13 @@ wireless router
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Check how Warzone works. If the driver update doesn’t give you luck, move on to the third solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Run Warzone on DirectX 11
@@ -91,6 +87,10 @@ wireless router
 2. Select**Call of Duty: MW** on the left pane and click**Options > Game Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.jpg)
 3. Click the**Game Settings** tab. Then tick**Additional command line arguments** and enter**\-D3D11** in the text field.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
@@ -111,22 +111,26 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
 
@@ -136,10 +140,6 @@ wireless router
 2. Delete the **Battle.net**  and **Blizzard Entertainment** folder.
 
  Restart the Battle.net client and see whether you could play Warzone as normal. If the game is still unplayable, try the last method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6 – Adjust the in-game graphics settings
 
@@ -176,18 +176,19 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-hdr-mastery-for-home-and-professional-pcs/"><u>[Updated] HDR Mastery for Home and Professional PCs</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-plain-screeners-toolkit-for-win10-users/"><u>2024 Approved Plain Screener's Toolkit for Win10 Users</u></a></li>
-<li><a href="https://blog-min.techidaily.com/bewapening-mov-naar-mpeg-vrij-nalezen-gratuit-online/"><u>Bewapening MOV Naar MPEG Vrij Nalezen - Gratuit Online</u></a></li>
-<li><a href="https://program-issues.techidaily.com/chest-pain-or-discomfort-that-may-feel-like-pressure-squeezing-fullness-or-pain-in-the-center-or-left-side-of-your-chest-this-can-sometimes-be-mistaken-for-609/"><u>Chest Pain or Discomfort that May Feel Like Pressure, Squeezing, Fullness, or Pain in the Center or Left Side of Your Chest. This Can Sometimes Be Mistaken for Indigestion or Heartburn and Might Even Come and Go with Activity.</u></a></li>
-<li><a href="https://ai-video.techidaily.com/chrome-video-translators-top-5-video-translation-chrome-extensions/"><u>Chrome Video Translators Top 5 Video Translation Chrome Extensions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diablo-immortal-pc-release-delayed-update-insights/"><u>Diablo Immortal PC Release Delayed - Update Insights</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-honor-90-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Honor 90? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-baldurs-gate-the-third-pc-game-crashes-now-resolved/"><u>Fixing Baldur's Gate The Third: PC Game Crashes Now Resolved</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-xs-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone XS? Complete Guide</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-translate-instagram-videos-easily-a-step-by-step-guide/"><u>New In 2024, Translate Instagram Videos Easily A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/online-free-conversion-convert-rmvb-file-to-high-quality-mp3-using-movavi/"><u>Online Free Conversion: Convert RMVB File to High-Quality MP3 Using Movavi</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-strategies-for-troubleshooting-the-end-of-an-epoch-avoiding-pc-shutdowns/"><u>Top Strategies for Troubleshooting the End of an Epoch: Avoiding PC Shutdowns</u></a></li>
-<li><a href="https://program-issues.techidaily.com/trouble-free-guide-to-solving-msi-mystic-light-problems-on-a-pc-running-windows/"><u>Trouble-Free Guide to Solving MSI Mystic Light Problems on a PC Running Windows</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-explore-the-best-apps-for-effortless-youtube-to-webm-conversion/"><u>[New] 2024 Approved Explore the Best Apps for Effortless YouTube to WebM Conversion</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/levate-your-youtube-presence-strategic-tagging-and-titling-techniques/"><u>[New] Elevate Your YouTube Presence Strategic Tagging and Titling Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-farming-simulator-22-fps-drops-on-pc/"><u>[SOLVED] Farming Simulator 22 FPS Drops on PC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-success-on-youtube-standard-studio-or-beta/"><u>[Updated] In 2024, Crafting Success on YouTube Standard Studio or Beta</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-writers-toolkit-dialogue-and-narration-techniques-for-success/"><u>[Updated] In 2024, The Writer's Toolkit Dialogue and Narration Techniques for Success</u></a></li>
+<li><a href="https://program-issues.techidaily.com/assassins-creed-valhalla-resolved-pc-performance-hiccups-and-smooth-playback-tips/"><u>Assassin's Creed Valhalla - Resolved PC Performance Hiccups and Smooth Playback Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-guide-what-to-do-when-ie-stops-functioning-correctly/"><u>Complete Guide: What to Do When IE Stops Functioning Correctly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-stop-the-constant-crashing-in-age-of-empires-iv-on-your-computer/"><u>Fixes & Solutions: Stop the Constant Crashing in Age of Empires IV on Your Computer</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-oneplus-ace-3-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from OnePlus Ace 3 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/league-of-legends-performance-optimized-defeat-the-dreaded-frame-per-second-decline/"><u>League of Legends Performance Optimized: Defeat the Dreaded Frame Per Second Decline</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-next-level-graphics-asus-introduces-a-27-oled-game-masterpiece-crystal-clear-g-syncfreesync-display-with-no-flickering/"><u>Unleash Next-Level Graphics: Asus Introduces a 27 OLED Game Masterpiece - Crystal Clear G-Sync/FreeSync Display with No Flickering</u></a></li>
 </ul></div>
 

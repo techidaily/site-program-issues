@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing Dark Souls 3 Unexpected Shutdowns
-date: 2025-01-01T21:24:23.486Z
-updated: 2025-01-05T23:56:48.514Z
+date: 2025-01-06T16:13:02.447Z
+updated: 2025-01-12T16:11:40.329Z
 tags:
   - win11
   - win10
@@ -29,21 +29,25 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 4. [Set game options to LOW](https://tools.techidaily.com/drivereasy/download/)
 5. [Verify Integrity of Game Files](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Disable overlays for your game
 
  If there is any overlay software running when you play Dark Souls 3, it may cause game crashing on startup or freezing. It’s normal to use overlays for Steam games, but some games could be incompatible with overlay software.
 
 **Try disabling overlays for Dark Souls 3** and see if your game stops crashing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run in Windowed mode
 
  If you play Dark Souls 3 in Fullscreen mode, it may crash to your desktop. In this case, you can fix your game crashing problem by switching to**Windowed mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-708.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can go to the game options and change to Windowed mode, then re-launch your game to see if it works.
 
@@ -55,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Open**DarkSouls3** folder.
 
  4) Open**GraphicsConfig.xml** with notepad. Then change  
@@ -65,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
  5) Save your change and restart your game.
 
  Your problem still persists, don’t worry. There are other solutions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your video driver
 
@@ -99,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 Now launch Dark Souls 3 and see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Set game options to LOW
@@ -109,10 +113,6 @@ Now launch Dark Souls 3 and see if it works.
  Be sure to set the resolution to the same resolution of your monitor. Also set**Effects quality** ,**Shadow quality** , and**Light quality** to**LOW** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-709.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you can’t access the in-game settings, try this:
 
@@ -137,7 +137,7 @@ Then play your game to see if it works properly.
  Still no luck? Don’t give up hope. There’s one more thing to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Verify Integrity of Game Files
@@ -154,13 +154,13 @@ Then play your game to see if it works properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-703.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-705.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
@@ -187,15 +187,20 @@ Then play your game to see if it works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-potential-with-facebooks-live-a-comprehensive-guide-for-creators/"><u>[New] Unlocking Potential with Facebook’s LIVE A Comprehensive Guide for Creators</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boosting-horizon-zero-dawns-graphics-and-frame-rate-for-a-smoother-adventure/"><u>Boosting Horizon Zero Dawn's Graphics and Frame Rate for a Smoother Adventure</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/instant-relief-from-frequent-applet-freezes-and-crashes/"><u>Instant Relief From Frequent Applet Freezes and Crashes</u></a></li>
-<li><a href="https://fox-access.techidaily.com/leading-cloud-capacity-options-reviewed/"><u>Leading Cloud Capacity Options Reviewed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-to-stop-bloodhunt-from-lagging-or-freezing-on-windows-1011/"><u>Optimizing Your PC to Stop 'BloodHunt' From Lagging or Freezing on Windows 10/11</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-your-arrow-keys-on-the-keyboard-with-these-expert-fixes/"><u>Revive Your Arrow Keys on the Keyboard with These Expert Fixes</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-samsung-galaxy-a15-4g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Samsung Galaxy A15 4G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/valorant-graphics-glitch-solve-the-driver-crashed-error-swiftly-and-get-back-to-gaming/"><u>Valorant Graphics Glitch? Solve the 'Driver Crashed' Error Swiftly and Get Back to Gaming</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-savory-cinema-principles-of-culinary-cinematography/"><u>2024 Approved Savory Cinema Principles of Culinary Cinematography</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-top-10-best-ways-to-optimize-instagram-highlights-for-your-business/"><u>2024 Approved Top 10 Best Ways to Optimize Instagram Highlights for Your Business</u></a></li>
+<li><a href="https://program-issues.techidaily.com/child-becomes-children/"><u>Child Becomes Children</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-dark-comprehensive-solutions-for-pc-users-facing-black-screens-in-zoom/"><u>Fixing the Dark: Comprehensive Solutions for PC Users Facing Black Screens in Zoom</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-15-pro-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 15 Pro Without Passcode Now</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-itel-a05s-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Itel A05s 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-acoustic-transitions-in-audacity-pro-suite-for-2024/"><u>Mastering Acoustic Transitions in Audacity Pro Suite for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-exploring-the-best-audio-blending-software-top-picks-free-of-charge/"><u>New 2024 Approved Exploring the Best Audio Blending Software - Top Picks , Free of Charge!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/peak-psd-gradient-innovations/"><u>Peak PSD Gradient Innovations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/preserved-meats-portuguese-cuisine-makes-use-of-a-variety-of-preserved-meats-like-chourico-sausage-linguica-another-type-of-sausage-salted-codfish-and-smoke382/"><u>Preserved Meats: Portuguese Cuisine Makes Use of a Variety of Preserved Meats Like Chouriço (Sausage), Linguiça (Another Type of Sausage), Salted Codfish and Smoked Bacon, Which Are Often Used as Flavor Enhancers in Stews or Served Alongside Rice Dishes.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/simple-solutions-for-quickly-resolving-directx-issues-in-fifa-19/"><u>Simple Solutions for Quickly Resolving DirectX Issues in FIFA 19</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-resolving-no-rest-for-the-wicked-game-crashes-on-windows/"><u>Solutions for Resolving 'No Rest for the Wicked' Game Crashes on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-fixing-stuttering-issues-in-assassins-creed-valhalla-on-pc/"><u>Solved: Fixing Stuttering Issues in Assassin's Creed Valhalla on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-clearing-up-elden-rings-startup-black-screen-dilemma/"><u>Step-by-Step Solution for Clearing Up Elden Ring’s Startup Black Screen Dilemma</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Vivo T2x 5G | Dr.fone</u></a></li>
 </ul></div>
 

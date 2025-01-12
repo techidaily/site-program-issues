@@ -1,7 +1,7 @@
 ---
 title: Solved! Troubleshooting Days Gone PC Startup Problems and Error Fixes
-date: 2025-01-01T22:58:25.894Z
-updated: 2025-01-05T20:51:53.618Z
+date: 2025-01-08T16:04:44.588Z
+updated: 2025-01-12T16:02:48.951Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
 ![resolve not openning](https://images.drivereasy.com/wp-content/uploads/2021/11/resolve.jpg)
 
  Looking for a solution to the**DaVinci Resolve won’t open** problem? No matter if your Resolve is not responding at all or gets stuck at the loading screen, you can try the following methods to fix the problem immediately.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -51,6 +55,10 @@ No luck? Don’t worry. We have a few more fixes for you.
 
  Resolve will act up especially if you’re using a USB headset as the audio output device. Once you have removed the USB device from your PC, launch your Revolve again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3\. Launch DaVinci Resolve in Compatibility mode
 
  Still can’t launch your Resolve? It might be caused by some incompatibility issues, which can be solved by running Resolve in compatibility mode.
@@ -63,10 +71,14 @@ No luck? Don’t worry. We have a few more fixes for you.
 3. Click**Apply** \>**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you can run Resolve to test the issue. If DaVinci Resolve is still not responding, you can head on to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4\. Update the graphics driver
 
@@ -81,16 +93,20 @@ No luck? Don’t worry. We have a few more fixes for you.
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and launch your Resolve to check if the issue has been resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5\. Increase the Virtual Memory
 
@@ -105,24 +121,12 @@ No luck? Don’t worry. We have a few more fixes for you.
 ![adjust virtual memory size](https://images.drivereasy.com/wp-content/uploads/2021/11/property-options.jpg)
 4. Uncheck the**Automatically manage paging file size for all drives** . Then select**Custom size** , and enter the value accordingly.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![installed ram](https://images.drivereasy.com/wp-content/uploads/2021/11/installed-ram.jpg)  
 **Note:** It’s recommended to use a number that’s**one and a half times** the total available memory for the “**Initial size** ” and**three times** of available memory for the “**Maximum size** ” when possible. (For example, my installed RAM is 16GB, so I set the initial size to 24,000, maximum size to 48,000). If you don’t know your installed RAM, you can press the**Windows** key +**Pause** to check your device specifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click **OK**  to confirm the change.
 
  Restart your computer for the changes to take effect, and try opening your DaVinci Resolve to check if it launches successfully.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6\. Enable IGPU Multi-Monitor in BIOS
 
@@ -144,10 +148,6 @@ No luck? Don’t worry. We have a few more fixes for you.
 3. Switch this feature from**Disabled** to**Enabled** .
 4. Save and exit the BIOS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7\. Uninstall your antivirus software
 
  Antivirus software is known to interfere with many programs, and if you’re experiencing issues with Resolve after installing third-party antivirus software, you might need to uninstall them because disabling them is not enough to prevent them from running in the background.
@@ -155,6 +155,10 @@ No luck? Don’t worry. We have a few more fixes for you.
  In the meantime, you should disable VPN services, such as NordVPN, ExpressVPN.
 
  If DaVinci Resolve won’t launch after removing your antivirus software and disabling your VPN, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8\. Allow TCP Network Port Access
 
@@ -171,10 +175,6 @@ Here’s how to troubleshoot this issue quickly:
    * Navigate to**C:\\Program Files\\Blackmagic Design\\DaVinci Resolve** .  
    * Double click on the**CaptureLogs.bat** file (or right-click and then run as administrator).  
    * It will generate a **log file**  to your desktop –**DaVinci-Resolve-logs-<current time>.zip** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 9\. Reinstall DaVinci Resolve
 
@@ -203,20 +203,17 @@ Here’s how to troubleshoot this issue quickly:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-maximizing-your-platforms-posting-tiktok-content-on-twitter/"><u>2024 Approved Maximizing Your Platforms Posting TikTok Content on Twitter</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-seamless-blend-enhancing-your-ae-projects-with-luts/"><u>2024 Approved The Seamless Blend Enhancing Your AE Projects with LUTs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-muse-tips-for-writing-and-publishing-a-book-of-poems/"><u>ChatGPT as Your Muse: Tips for Writing and Publishing a Book of Poems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effective-solutions-for-compatibility-of-synaptics-touchpadmouse-with-windows-11-systems/"><u>Effective Solutions for Compatibility of Synaptics Touchpad/Mouse with Windows 11 Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-stuttering-glitches-in-fortnite-effective-strategies-for-a-seamless-gaming-session/"><u>Eliminate Stuttering Glitches in Fortnite: Effective Strategies for a Seamless Gaming Session</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-the-leading-free-subtitle-tools-online-for-2024/"><u>Explore the Leading Free Subtitle Tools Online for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-persistent-system-errors-and-crashes-on-your-computer-tips-for-2eb4r/"><u>How to Prevent Persistent System Errors and Crashes on Your Computer - Tips for 2Eb4r</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-repair-acrocefexe-application-issues-effectively/"><u>How to Repair AcroCEF.exe Application Issues Effectively</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-hot-30-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Infinix Hot 30 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/left-asterisk-2-troubleshooting-how-to-stop-the-game-from-closing-unexpectedly/"><u>Left Asterisk 2 Troubleshooting: How to Stop the Game From Closing Unexpectedly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-qbittorrent-freezing-problems-with-these-simple-steps/"><u>Overcoming qBittorrent Freezing Problems with These Simple Steps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/quick-and-easy-image-transition-techniques-explored/"><u>Quick and Easy Image Transition Techniques Explored</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-and-correct-error-327-in-star-wars-battlefront-2-for-smooth-gameplay/"><u>Troubleshoot and Correct Error 327 in Star Wars Battlefront 2 for Smooth Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-troubleshooting-and-fixing-error-code-130-on-steam/"><u>Ultimate Guide to Troubleshooting and Fixing Error Code 130 on Steam</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ultimate-selection-best-idevice-custom-alerts-for-2024/"><u>[New] Ultimate Selection Best iDevice Custom Alerts for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-8-best-youtube-video-promotion-services-real/"><u>[Updated] In 2024, 8 Best YouTube Video Promotion Services (Real)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/anticipated-launch-all-insider-details-on-apples-upcoming-arvr-headset-exclusive-update-from-zdnet/"><u>Anticipated Launch: All Insider Details on Apple's Upcoming AR/VR Headset - Exclusive Update From ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-launch-errors-for-armored-core-vi-fires-of-rubicon-players-experience/"><u>Fixing Launch Errors for Armored Core VI: Fires of Rubicon Players Experience</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-samsung-galaxy-m14-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Samsung Galaxy M14 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-realign-read-aloud-settings-on-word-app/"><u>How To Realign Read Aloud Settings on Word App</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-samsung-galaxy-f34-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Samsung Galaxy F34 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/maximizing-mobile-profits-enabling-youtubers-revenue-for-2024/"><u>Maximizing Mobile Profits Enabling YouTubers' Revenue for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-your-rig-for-flawless-play-addressing-stutters-and-lags-in-video-game-v/"><u>Optimize Your Rig for Flawless Play: Addressing Stutters and Lags in Video Game V</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-resolving-winwordexe-errors-in-seconds/"><u>Quick Solutions: Resolving WINWORD.EXE Errors in Seconds</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-detroit-game-issues-experience-the-perfect-run-on-windows-machine/"><u>Solved Detroit Game Issues: Experience the Perfect Run on Windows Machine</u></a></li>
+<li><a href="https://program-issues.techidaily.com/usda-economic-research-service-nd-glyphosate-usage-in-us-crops-retrieved-from-httpswwwersusdagovwebdocspuptwg127045htmsthashocj6ztm9dpuf/"><u>USDA Economic Research Service (N.d.). Glyphosate Usage in U.S. Crops. Retrieved From https://www.ers.usda.gov/webdocs/PUPTWG/127045.htm#sthash.Ocj6zTm9.dpuf</u></a></li>
 </ul></div>
 

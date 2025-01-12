@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Your Console's Audio Issues - The Ultimate Mic Fix Guide for 2nD4
-date: 2024-12-29T23:33:47.180Z
-updated: 2025-01-05T19:34:47.204Z
+date: 2025-01-11T16:11:32.949Z
+updated: 2025-01-12T16:02:06.108Z
 tags:
   - win11
   - win10
@@ -43,6 +43,10 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 
  The following screenshots are taken from Windows 10, but it’s also applicable to other Windows operating systems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1 Allow access to your microphone
 
  If your computer doesn’t grant access to the use of a microphone, no app will be able to capture your voice. In other words, you need to allow your system and application to access your microphone.
@@ -50,10 +54,6 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to invoke Settings. Select**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working1.jpg)
 2. Scroll down and click**Microphone** . Click the**Change** button, then make sure the**Microphone for this device** is toggled**On** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working7.jpg)
 3. Check if**Allow apps to access your microphone** is**On** .  
@@ -74,10 +74,14 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working9.jpg)
 2. Click the**speaker icon** under OBS to unmute it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working22.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Set the target audio device as default & Increase microphone volume
@@ -86,12 +90,12 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working17.jpg)
 2. Select**Recording** . Right-click on any empty place inside the window and tick**Show Disabled Devices** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working14.jpg)
 3. Then right-click your microphone device and click**Enable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working13.jpg)
 4. Right-click it again and select**Set as Default Device** .  
@@ -103,23 +107,27 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 6. Select the**Levels** tab, then drag the volume slider towards the largest value. Click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working24.jpg)
 7. Click**OK** again.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working25.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working25.jpg)
 
 ### Check if mic Exclusive Mode is on
 
 1. Right-click the**speaker icon** in the bottom-right corner of your taskbar. And click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working17.jpg)
 2. Select**Recording** . Right-click your microphone device and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working18.jpg)
 3. Select the**Advanced** tab. Uncheck**Allow applications to take exclusive control of this device** . Then click**OK** to apply the change.  
@@ -143,12 +151,12 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/google-meet-camera-6.jpg)
 3. Click the**Update** button next to the flagged audio drivers to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working23.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -167,20 +175,16 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working21.jpg)
 3. Click**Hotkeys** on the left tab. Scroll down to locate Push-to-talk. If it’s displaying a key,**delete** it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working19.jpg)
 4. Click**Apply** and**OK** on the bottom-right corner.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Use your microphone to check whether the problem is solved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5 Reinstall OBS
 
@@ -190,16 +194,16 @@ Use your microphone to check whether the problem is solved.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working2.jpg)
 2. Scroll down and click**OBS Studio** . Click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working3.jpg)
 3. Visit[OBS official website](https://obsproject.com/) to**download** and**install** a new one for your computer.
 
  When the installation is complete, launch the application and use your mic. If it works, then you’ve solved the problem.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6 Upload log files to OBS support team
 
@@ -213,10 +217,6 @@ Use your microphone to check whether the problem is solved.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working4.png)
 3. Visit[**OBS Analyzer web page**](https://obsproject.com/tools/analyzer) . Paste the URL and click**Analyze** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working10-1.jpg)
 
@@ -244,21 +244,17 @@ Use your microphone to check whether the problem is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-from-pixels-to-perfection-selecting-the-premier-screen-recording-software/"><u>[New] From Pixels to Perfection Selecting the Premier Screen Recording Software</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-ideal-fullscreen-recording-software-roundup-pcmac-edition/"><u>[New] In 2024, Ideal Fullscreen Recording Software Roundup PC/Mac Edition</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-microsofts-hololens-journey-from-vision-to-reality-for-2024/"><u>[New] Microsoft’s HoloLens Journey – From Vision to Reality for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-top-strategies-for-livestream-and-archiving-sports-action/"><u>[New] Top Strategies for Livestream & Archiving Sports Action</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-digital-deluge-examining-this-years-most-shared-videos/"><u>[Updated] 2024 Approved The Digital Deluge Examining This Year's Most Shared Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-prime-5-web-based-screening-sessions/"><u>2024 Approved Prime 5 Web-Based Screening Sessions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-restoring-your-windows-11-taskbar-functionality/"><u>Diagnosing and Restoring Your Windows 11 Taskbar Functionality</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-recurrent-issues-with-the-ark-software-crashing-down/"><u>Effective Solutions for Recurrent Issues with the ARK Software Crashing Down</u></a></li>
-<li><a href="https://program-issues.techidaily.com/essential-tips-for-successfully-starting-saints-row-pc-version-without-errors/"><u>Essential Tips for Successfully Starting Saints Row PC Version Without Errors</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-lenovos-innovative-auto-swiveling-laptop-a-firsthand-experience-from-ifa-202/"><u>Exploring Lenovo's Innovative Auto-Swiveling Laptop: A Firsthand Experience From IFA 202</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-bringing-clarity-to-online-meetings-free-and-paid-zoom-transcribing-pros/"><u>In 2024, Bringing Clarity to Online Meetings Free & Paid Zoom Transcribing Pros</u></a></li>
-<li><a href="https://os-tips.techidaily.com/in-depth-insights-into-data-wipe-excellence-with-dr-fone-data-eraser-by-wondershare-the-ios-edition/"><u>In-Depth Insights Into Data Wipe Excellence with Dr. Fone Data Eraser by Wondershare - The iOS Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-content-warning-app-malfunction-troubleshooting-steps-for-pc-users/"><u>Solving 'Content Warning' App Malfunction: Troubleshooting Steps for PC Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tf2-wont-start-here-are-the-solutions/"><u>TF2 Won't Start? Here Are the Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-obs-software-errors-on-windows-1110/"><u>Troubleshooting and Solving OBS Software Errors on WIndows 11/10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-rogue-company-how-to-prevent-pc-disruptions/"><u>Troubleshooting Rogue Company: How to Prevent PC Disruptions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-old-world-wonders-iphone-x-portraits/"><u>[New] 2024 Approved Old World Wonders – iPhone X Portraits</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-unseen-horizons-the-top-3-non-youtube-video-havens/"><u>[New] 2024 Approved Unseen Horizons The Top 3 Non-Youtube Video Havens</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-drone-shopping-simplified-key-takeaways-for-beginners-for-2024/"><u>[New] Drone Shopping Simplified Key Takeaways for Beginners for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-photographic-pastime-iphone-x-retro-clicks/"><u>[New] Photographic Pastime IPhone X Retro Clicks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-advanced-android-photography-essentials/"><u>[Updated] In 2024, Advanced Android Photography Essentials</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-learn-how-to-control-video-speed-on-snapchat-effectively-for-2024/"><u>[Updated] Learn How to Control Video Speed on Snapchat Effectively for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/advanced-screen-recording-methods-on-dell-laptops/"><u>Advanced Screen Recording Methods on Dell Laptops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008735507-battling-freezing-frame-rates-in-fallout-4-discover-effective-solutions/"><u>Battling Freezing Frame Rates in Fallout 4? Discover Effective Solutions!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/curing-the-dragon-quest-xi-crashes-with-ease-a-detailed-solution-breakdown/"><u>Curing the Dragon Quest XI Crashes with Ease – A Detailed Solution Breakdown</u></a></li>
+<li><a href="https://program-issues.techidaily.com/final-fantasy-xv-stability-issues-on-pc-corrected-comprehensive-guide/"><u>Final Fantasy XV Stability Issues on PC Corrected - Comprehensive Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-is-metro-exodus-pc-enhanced-edition-experiencing-crashes/"><u>Troubleshooting Guide: Why Is Metro Exodus (PC) Enhanced Edition Experiencing Crashes?</u></a></li>
 </ul></div>
 

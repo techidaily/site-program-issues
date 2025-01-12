@@ -1,7 +1,7 @@
 ---
 title: Six Essential Tricks to Optimize Frame Rates and Eliminate Lag in Elden Ring
-date: 2024-12-30T18:38:14.954Z
-updated: 2025-01-05T20:23:14.035Z
+date: 2025-01-09T16:05:26.762Z
+updated: 2025-01-12T16:13:29.483Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
 ## Comprehve Solutions to Eliminate Stuttering and Increase Frame Rates in PC Gaming Environments
 
 Stop blaming yourself for losing your temper when the FPS (frame per second) drops in games: only saints can keep calm and cool in that situation. As luck would have it, there are some proven fixes that can help to stop or at least reduce the FPS drops in games, and we’ve gathered them here so you can try them as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes for FPS drops in games
 
@@ -32,7 +36,7 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check the system requirements
@@ -47,6 +51,10 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Make sure your computer is not overheating
 
  If the ventilation for your computer is rather poor, your machine may run hot, thus with the FPS dropping problems in games, among many other PC performance issues.
@@ -56,10 +64,6 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
  Here is a detailed post for your reference if your computer is overheating: [**How to Know Your CPU Overheating and How to Fix It**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Close CPU- and bandwidth-intensive services and applications
 
@@ -103,17 +107,21 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4.2 Switch to a public DNS server
@@ -130,16 +138,8 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -155,10 +155,6 @@ To do so:
  Another reason why FPS drops in your games is probably outdated or incorrect drivers for your graphics and network cards. This is because outdated, incorrect, or missing drivers for your display card and network card could lead to unstable graphics rendering and slow network connection, and therefore the stuttering and the FPS dropping problems. So you should update your device drivers to see if it helps.
 
  There are mainly 2 ways you can update the drivers for your video card and network card: manually or automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics and network drivers manually
 
@@ -191,7 +187,7 @@ and your network card manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -202,6 +198,10 @@ and your network card manufacturer:
  Launch your game again and see if the latest graphics and network drivers help to improve the FPS. If this fix doesn’t work for you, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Modify the Power Mode
 
@@ -217,7 +217,7 @@ To change the power mode:
 3. Then run your game to see if the frame rate per second is higher. If the problem remains still, please move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -249,20 +249,17 @@ To change the power mode:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-best-way-to-perform-obs-streaming/"><u>[New] In 2024, Best Way to Perform OBS Streaming</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unleashing-inspiration-ideas-for-engaging-channels/"><u>[New] Unleashing Inspiration Ideas for Engaging Channels</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solved-gameloop-crashing-on-windows-1110/"><u>[SOLVED] Gameloop Crashing on Windows 11/10</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-effective-techniques-for-creating-podcast-rss-feeds-for-2024/"><u>[Updated] Effective Techniques for Creating Podcast RSS Feeds for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-framework-chromebook-analysis-unveiling-the-ultimate-fixable-and-modern-day-robust-laptop-insights/"><u>Comprehensive Framework Chromebook Analysis: Unveiling the Ultimate Fixable and Modern-Day Robust Laptop - Insights</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-when-persona-3-ultimate-wont-start-up/"><u>Effective Solutions When Persona 3 Ultimate Won't Start Up</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-repairing-failed-attempts-to-launch-microsoft-outlook/"><u>Expert Tips for Repairing Failed Attempts to Launch Microsoft Outlook</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-prevent-dramatic-fps-drops-in-resident-evil-village-on-pc/"><u>Fixes and Solutions: How to Prevent Dramatic FPS Drops in Resident Evil Village on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-helldivers-ii-resolving-the-black-screen-at-launch/"><u>Fixing Helldivers II - Resolving the Black Screen at Launch</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/modern-warfare-launch-failures-solutions-and-fixes/"><u>Modern Warfare Launch Failures - Solutions and Fixes</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-masters-list-eliminating-window-based-background-sounds-from-your-recordings-for-2024/"><u>New Masters List Eliminating Window-Based Background Sounds From Your Recordings for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-call-of-duty-wwii-error-message-code-4128/"><u>Resolving Call of Duty: WWII Error Message - Code 4128</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solutions-for-preventing-skyline-cities-2-from-freezing-up-in-windows/"><u>Solutions for Preventing Skyline Cities 2 From Freezing Up in Windows</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/x-plane-cuatrocientos-once-reviewed-stunning-visuals-meet-cutting-edge-simulation-tech/"><u>X-Plane Cuatrocientos Once Reviewed: Stunning Visuals Meet Cutting-Edge Simulation Tech</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-art-of-iphone-photography-top-10-visual-arrangement-tips/"><u>[New] 2024 Approved The Art of iPhone Photography Top 10 Visual Arrangement Tips</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-laughs-in-a-click-building-hilarious-memes/"><u>[Updated] In 2024, Laughs in a Click Building Hilarious Memes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bust-the-glitches-in-nba-2k23-on-pc-learn-about-our-7-key-fixes-for-an-optimal-gaming-experience/"><u>Bust the Glitches in NBA 2K23 on PC: Learn About Our 7 Key Fixes for an Optimal Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-stutter-and-crashes-optimizing-your-pubg-gaming-experience-on-personal-computers/"><u>Fixing Stutter and Crashes: Optimizing Your PUBG Gaming Experience on Personal Computers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-samsung-galaxy-z-flip-5-devices-by-drfone-android/"><u>How to Reset Gmail Password on Samsung Galaxy Z Flip 5 Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-crash-problems-in-diablo-2-classic-remastered/"><u>How to Resolve Crash Problems in Diablo 2 Classic Remastered</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-itel-p55t-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Itel P55T for Free? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-fusing-visual-media-and-apple-audio/"><u>In 2024, Fusing Visual Media and Apple Audio</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/sdr-vs-hdr-the-superiority-of-high-dynamic-range-in-video-production-for-2024/"><u>SDR Vs. HDR The Superiority of High Dynamic Range in Video Production for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-fall-guys-overcoming-pc-game-freezing-issues/"><u>Solving Fall Guys: Overcoming PC Game Freezing Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/version-52-of-mozilla-thunderbird-released-explore-the-enhanced-email-client-today/"><u>Version 52 of Mozilla Thunderbird Released: Explore the Enhanced Email Client Today</u></a></li>
 </ul></div>
 

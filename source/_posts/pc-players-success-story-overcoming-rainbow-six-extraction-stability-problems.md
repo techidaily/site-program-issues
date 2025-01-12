@@ -1,7 +1,7 @@
 ---
 title: "PC Players' Success Story: Overcoming Rainbow Six Extraction Stability Problems"
-date: 2025-01-01T20:04:52.094Z
-updated: 2025-01-05T23:36:51.494Z
+date: 2025-01-09T16:15:25.465Z
+updated: 2025-01-12T16:04:04.732Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
  Recently, Insurgency: Sandstorm was made available on PlayStation 4 and Xbox One. However, quite a number of players complained that the game keeps crashing on their PC or consoles. If you happen to be one of them, don’t worry. Here are some fixes you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -46,16 +46,20 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-properties.jpg)
 3. Navigate to the**LOCAL FILES** tab and select**Verify integrity of game files…** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the process is finished, launch Insurgency: Sandstorm to see if the game crashes again.
 
 If the game keeps crashing, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run the game as an administrator
 
@@ -68,20 +72,12 @@ If the game keeps crashing, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-properties.jpg)
 3. Select the**LOCAL FILES** tab and click**Browse…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-browse-local-files.jpg)
 4. Navigate to**Insurgency > Binaries > Win64** .
 
 5. Right-click the**InsurgencyClient-Win64-Shipping.exe** application and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.jpg)
 6. Select the**Compatibility** tab, then check**Run this program as an administrator** and click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
 
@@ -90,7 +86,7 @@ Launch the game again to check if your problem is resolved.
 If the crashing issue remains, check out the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -109,15 +105,15 @@ If the crashing issue remains, check out the next fix.
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your computer and launch Insurgency: Sandstorm to see if the game crashes again.
 
  If updating your graphics driver doesn’t help, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reset the video settings
 
@@ -155,33 +151,37 @@ If the crashing issue persists, go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.cpl_.jpg)
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Click**Change settings** and then click**Allow another app…** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. In the new window, click**Browse…** . Browse to**Steam > steamapps > common > sandstorm** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add-another-app-browse.jpg)
 5. Select**InsurgencyEAC.exe** application and click**Open** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Click**Network types…** , check**Private** and**Public** then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/network-types.jpg)
 7. Click**Add** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add.jpg)
 8. Repeat step 3 to step 7 to add**InsurgencyClient-Win64-Shipping.exe** application. The file is located at **Steam > steamapps > common > sandstorm > Insurgency > Binaries > Win64** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once done, relaunch the game to see if it crashes again.
 
@@ -210,16 +210,24 @@ Once done, relaunch the game to see if it crashes again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-checklist-for-adding-effective-on-screen-captions-to-your-videos/"><u>[New] The Ultimate Checklist for Adding Effective On-Screen Captions to Your Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-compreeved-guide-converting-webp-to-quality-jpg-format/"><u>[Updated] Compreeved Guide Converting WebP to Quality JPG Format</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-visual-templates-free-eco-friendly-options-for-2024/"><u>[Updated] Visual Templates Free Eco-Friendly Options for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-oneplus-nord-ce-3-lite-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your OnePlus Nord CE 3 Lite 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnose-and-repair-pc-instability-with-necromunda-hired-gun-expert-advice/"><u>Diagnose & Repair PC Instability with 'Necromunda: Hired Gun' – Expert Advice</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elevate-your-performance-in-the-ascent-by-boosting-frame-rates-and-fixing-stutter-issues/"><u>Elevate Your Performance in The Ascent by Boosting Frame Rates & Fixing Stutter Issues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-palm-2-revolutionizes-googles-bard-the-ultimate-7-point-breakdown/"><u>How PaLM 2 Revolutionizes Google’s BARD: The Ultimate 7-Point Breakdown</u></a></li>
-<li><a href="https://solve-info.techidaily.com/mp3-dsf/"><u>MP3形式へのシンプルな変換: DSFファイルを取り込むためのガイド</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-microsoft-flight-simulator-2020-update-errors-fixed/"><u>Resolved: Microsoft Flight Simulator 2020 - Update Errors Fixed!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-to-get-dolby-atmos-working-properly-on-your-windows-11-or-10-computer/"><u>Step-by-Step Solutions to Get Dolby Atmos Working Properly on Your Windows 11 or 10 Computer</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ver-art-the-key-to-more-views/"><u>YT Cover Art The Key to More Views</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-a-step-by-step-approach-to-downloading-memorable-moments-from-social-media/"><u>[New] A Step-By-Step Approach to Downloading Memorable Moments From Social Media</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-clear-shots-a-guide-to-still-image-stability-for-2024/"><u>[New] Clear Shots A Guide to Still Image Stability for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guiding-imovie-content-from-home-studio-to-youtube-hub/"><u>[New] In 2024, Guiding iMovie Content From Home Studio to YouTube Hub</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-faces-of-technology-analyzing-face-detection-in-phones/"><u>[Updated] Faces of Technology Analyzing Face Detection in Phones</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-efficient-ways-to-clean-your-youtube-watch-later-playlist/"><u>[Updated] In 2024, Efficient Ways to Clean Your YouTube Watch Later Playlist</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-reality-redefined-examining-vr-today-and-upcoming-challenges/"><u>[Updated] In 2024, Reality Redefined Examining VR Today & Upcoming Challenges</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-persistent-issues-solving-resolved-game-crashes-in-ghostwire-tokyo-on-windows/"><u>Fixing Persistent Issues: Solving [Resolved] Game-Crashes in Ghostwire: Tokyo on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002892635-league-of-legends-online-issue-solutions-connection-restored/"><u>League of Legends Online Issue Solutions: Connection Restored</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/masterclass-review-unpacking-the-features-of-android-lightroom-for-2024/"><u>Masterclass Review Unpacking the Features of Android Lightroom for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-solution-dealing-with-enigma-encased-system-crashes/"><u>PC Gaming Solution: Dealing with Enigma-Encased System Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-recurring-pc-problems-stability-in-new-world-gaming/"><u>Resolving Recurring PC Problems: Stability in 'New World' Gaming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/seamless-transfer-moving-images-from-google-photos-to-icloud-photos-a-simple-step-by-step-guide/"><u>Seamless Transfer: Moving Images From Google Photos to iCloud Photos - A Simple Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-fortnite-memory-crashes-top-techniques-for-more-gaming-hours/"><u>Solving Fortnite Memory Crashes – Top Techniques for More Gaming Hours!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-ls-0013-glitch-in-borderlands-3-a-comprehensive-tutorial/"><u>Step-by-Step Fixes for LS-0013 Glitch in Borderlands 3: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-tips-for-enhancing-your-photos-with-professional-selfie-light-sets/"><u>Top Tips for Enhancing Your Photos with Professional Selfie Light Sets</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007876745-trouble-starting-valorant-on-your-desktop-computer-uncover-the-latest-solutions/"><u>Trouble Starting Valorant on Your Desktop Computer? Uncover the Latest Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-persistent-launch-issues-with-necromunda-hired-gun-for-windows-users/"><u>Troubleshooting Persistent Launch Issues with Necromunda: Hired Gun for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-why-cant-i-get-saints-row-running-on-my-pc/"><u>Troubleshooting Steps: Why Can't I Get Saints Row Running on My PC?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valheim-performance-optimization-guide-solve-lag-issues-and-enhance-fps-for-ultimate-gaming-experience/"><u>Valheim Performance Optimization Guide: Solve Lag Issues & Enhance FPS for Ultimate Gaming Experience</u></a></li>
 </ul></div>
 

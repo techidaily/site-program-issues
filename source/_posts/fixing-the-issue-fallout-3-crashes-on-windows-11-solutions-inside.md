@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Fallout 3 Crashes on Windows 11 – Solutions Inside"
-date: 2025-01-04T18:50:28.975Z
-updated: 2025-01-05T21:12:13.275Z
+date: 2025-01-06T16:16:05.207Z
+updated: 2025-01-12T16:26:32.773Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/0c48024453358ef6a98b286edd181eb113a17b352
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-featured.jpg)
 
  Resident Evil 5 is classic, but it’s still an old game that doesn’t get along with the latest Windows. Lately there’re many gamers reporting that**Resident Evil 5 won’t launch on Windows 10** . If you’re facing the same issue, don’t worry. Here’re some working fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -40,18 +44,14 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-1.jpg)
 2. In the left menu, select**LOCAL FILES** . Then click**Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-2.jpg)
 3. Wait until the checking completes. Then you can try to start the game.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this trick doesn’t give you luck, take a look at the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -64,6 +64,10 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -72,10 +76,6 @@ Here’s how you can check the file integrity on Steam:
  Once you’ve updated your graphics driver, restart your PC and check if Resident Evil 5 launches now.
 
  If the latest video driver doesn’t help you, check out the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -87,13 +87,13 @@ Here’s how you can check the file integrity on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
 
  If this method doesn’t work for you, simply continue to the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest version of Games for Windows Live (GFWL)
 
@@ -112,12 +112,12 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-1.jpg)
 3. Open the Resident Evil 5 folder and paste the patch files.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Check for corrupted system files
 
@@ -133,7 +133,7 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -157,22 +157,18 @@ Here’s how you can check the file integrity on Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-easily-downgrade-system-sound-on-macwindows-devices/"><u>[New] 2024 Approved Easily Downgrade System Sound on Mac/Windows Devices</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nlocking-youtube-melodies-safe-free-extraction-methods-for-2024/"><u>[New] Unlocking YouTube Melodies Safe, Free Extraction Methods for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-5-simple-yet-powerful-strategies-to-skyrocket-your-youtube-views/"><u>[Updated] 5 Simple Yet Powerful Strategies to Skyrocket Your YouTube Views</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-assessing-ustream-plus-comparable-video-channels/"><u>[Updated] In 2024, Assessing Ustream + Comparable Video Channels</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-empower-pics-with-perimeter-blur-using-cs/"><u>2024 Approved Empower Pics with Perimeter Blur Using CS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/combatir-el-error-forza-horizon-4-wont-launch-tacticas-eficaces-actualizadas-para-2024/"><u>Combatir El Error 'Forza Horizon 4 Won't Launch': Tácticas Eficaces Actualizadas Para 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquering-the-tfla0002-hurdle-a-comprehensive-troubleshooting-manual/"><u>Conquering the TFLA0002 Hurdle: A Comprehensive Troubleshooting Manual</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-to-easily-correct-steams-damaged-game-discs/"><u>Expert Tips to Easily Correct Steam's Damaged Game Discs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-mastering-the-art-of-spoofing-gps-coordinates-on-mobile-devices/"><u>Guide: Mastering the Art of Spoofing GPS Coordinates on Mobile Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-solve-the-black-screen-problem-in-fallout-4-a-comprehensive-guide/"><u>How to Solve the 'Black Screen' Problem in Fallout 4: A Comprehensive Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mass-effect-legendary-edition-unlocking-all-the-exclusive-weapons/"><u>Mass Effect Legendary Edition: Unlocking All the Exclusive Weapons!</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-s-top-free-mkv-splitters-no-watermarks-or-trials-for-2024/"><u>New S Top Free MKV Splitters No Watermarks or Trials for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-constant-freezing-in-total-war-warhammer-iii-for-pc-users/"><u>Resolving Constant Freezing in Total War: Warhammer III for PC Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-deathloop-crash-issue-on-pc-simple-troubleshooting-guide/"><u>Solving the Deathloop Crash Issue on PC: Simple Troubleshooting Guide</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-6-iphone-antivirus-software-the-ultimate-protection-guide/"><u>Top 6 iPhone Antivirus Software: The Ultimate Protection Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-8-solutions-to-stop-vrchat-from-crashing-on-your-desktop/"><u>Top 8 Solutions to Stop VRChat From Crashing on Your Desktop</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-video-testimonials-the-trusted-connection/"><u>[New] In 2024, Video Testimonials The Trusted Connection</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-ultimate-list-of-cost-free-game-capture-tools/"><u>[Updated] 2024 Approved The Ultimate List of Cost-Free Game Capture Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-richest-rewards-for-creators-for-2024/"><u>[Updated] Richest Rewards for Creators for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/windows-112024/"><u>如何使用Windows 11自动修复工具及绝版安装：深入分享2024年最新技巧</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-cpu-only-play-in-cyberpunk-2077-on-windows-10-pcs/"><u>Fixes for CPU-Only Play in Cyberpunk 2077 on Windows 10 PCs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-smooth-gameplay-tips-to-fix-lag-problems-in-avatar-frontiers-of-pandora/"><u>Mastering Smooth Gameplay: Tips to Fix Lag Problems in Avatar: Frontiers of Pandora</u></a></li>
+<li><a href="https://win11.techidaily.com/probing-windows-entry-status-victory-or-defeat-stories/"><u>Probing Windows Entry Status: Victory or Defeat Stories</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/restore-whats-gone-effective-methods-for-recovering-deleted-photos-on-your-iphone-eight-plus/"><u>Restore What's Gone: Effective Methods for Recovering Deleted Photos on Your iPhone Eight Plus</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-steps-overcoming-persistent-discord-stream-lag-problems/"><u>Solution Steps: Overcoming Persistent Discord Stream Lag Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-directx-warzone-issue-a-step-by-step-guide/"><u>Solving the 'DirectX Warzone Issue': A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-key-steps-effective-obs-streaming-directly-to-facebook-users/"><u>The Key Steps Effective OBS Streaming Directly to Facebook Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-your-palworld-account-overcoming-the-eos-login-hurdle-with-6-key-solutions/"><u>Troubleshoot Your Palworld Account: Overcoming the EOS Login Hurdle with 6 Key Solutions</u></a></li>
 </ul></div>
 

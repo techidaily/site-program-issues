@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Endless Load: Resolving Anthem's Infinity Loop Issue"
-date: 2024-12-31T20:19:51.171Z
-updated: 2025-01-05T18:27:53.106Z
+date: 2025-01-11T16:25:19.518Z
+updated: 2025-01-12T16:15:25.272Z
 tags:
   - win11
   - win10
@@ -39,15 +39,7 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **If you play FUSER in Epic Games Launcher** , you can follow the instructions below to verify the game files:
 
@@ -72,11 +64,15 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
@@ -118,28 +114,32 @@ You can try turning off VSync and see if this issue persists.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Restart** your PC and launch FUSER to see if it crashes. If the game doesn’t crash, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
@@ -173,24 +173,20 @@ You can try turning off VSync and see if this issue persists.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-vlc-media-recorder-assessment-report/"><u>[New] VLC Media Recorder Assessment Report</u></a></li>
-<li><a href="https://program-issues.techidaily.com/decode-and-defend-against-phasmophobia-game-crashes-latest-solutions-and-hacks-updated-for-202n/"><u>Decode & Defend Against Phasmophobia Game Crashes: Latest Solutions and Hacks (Updated for 202N)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/eminent-exchanges-a-curated-list-of-top-reddit-posts/"><u>Eminent Exchanges A Curated List of Top Reddit Posts</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-secure-simplified-recording-of-video-conferencing/"><u>In 2024, Secure, Simplified Recording of Video Conferencing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/in-depth-fixes-for-modern-warfare-3s-memory-overflow-error-memoryexceeded-code-12707/"><u>In-Depth Fixes for Modern Warfare 3'S Memory Overflow Error - MEMORY_EXCEEDED (Code 12707)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726027563463-m4aogg/"><u>M4A音声データをOgg形式に容易に変換するテクニック</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-iphone-battery-performance-a-6-step-calibration-guide/"><u>Mastering iPhone Battery Performance: A 6-Step Calibration Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-discover-the-best-5-reaction-video-makers-to-follow/"><u>New 2024 Approved Discover the Best 5 Reaction Video Makers to Follow</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimize-counter-strike-2-expert-advice-to-improve-fps-fluctuations-and-reduce-stutter-for-enhanced-gameplay/"><u>Optimize Counter-Strike 2: Expert Advice to Improve FPS Fluctuations and Reduce Stutter for Enhanced Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-steps-to-troubleshoot-multiversus-launch-issues-on-pc/"><u>Resolved: Steps to Troubleshoot MultiVersus Launch Issues on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-error-code-327-in-star-wars-battlefront-ii-a-step-by-step-fix/"><u>Resolving 'Error Code 327' In Star Wars Battlefront II: A Step-by-Step Fix</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/streamlined-techniques-for-consolidating-several-mov-files-into-one-unified-video/"><u>Streamlined Techniques for Consolidating Several MOV Files Into One Unified Video</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tackling-latency-and-freezing-issues-in-call-of-duty-vanguard/"><u>Tackling Latency and Freezing Issues in Call of Duty: Vanguard</u></a></li>
-<li><a href="https://article-tips.techidaily.com/the-quest-for-the-ultimate-virtual-world-starts-here-htc-vive/"><u>The Quest for the Ultimate Virtual World Starts Here HTC Vive</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-pubg-pc-performance-issues/"><u>Troubleshooting Tips: Resolving PUBG PC Performance Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-ps4-freezing-issues-a-detailed-walkthrough/"><u>Ultimate Guide: Resolving PS4 Freezing Issues - A Detailed Walkthrough</u></a></li>
-<li><a href="https://program-issues.techidaily.com/war-thunder-crashing-solved-discover-the-ultimate-guide-and-tips-to-keep-your-game-running/"><u>War Thunder Crashing Solved - Discover the Ultimate Guide and Tips to Keep Your Game Running</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-guide-to-the-ultimate-photo-editing-with-facetune-2e/"><u>[New] Step-by-Step Guide to the Ultimate Photo Editing with Facetune (2E)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-complete-setup-blueprint-for-wm6/"><u>[Updated] In 2024, Complete Setup Blueprint for WM6</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-integrated-camera-use-photos-and-videos-on-one-phone/"><u>[Updated] Integrated Camera Use Photos and Videos on One Phone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-professional-graphics-with-asus-pa32u-true-to-color-for-2024/"><u>[Updated] Professional Graphics with ASUS PA32U True to Color for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-stepwise-strategies-building-a-playlist-on-youtube-for-2024/"><u>[Updated] Stepwise Strategies Building a Playlist on YouTube for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/battling-poor-signal-on-xbox-s-x-controller/"><u>Battling Poor Signal on Xbox S X Controller</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-playability-eliminating-latency-issues-in-mass-effect-legendary-edition/"><u>Enhancing Playability: Eliminating Latency Issues in Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-civ-vi-game-crashes-with-these-proven-troubleshooting-steps/"><u>Fix Your Civ VI Game Crashes with These Proven Troubleshooting Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-fortnite-errors-on-pc/"><u>How to Fix Fortnite Errors on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-your-jurassic-world-evolution-from-crashing-troubleshooting-guide/"><u>How To Stop Your Jurassic World Evolution From Crashing - Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-your-jotting-game-with-these-6-leading-ai-notes-applications/"><u>Master Your Jotting Game with These 6 Leading AI Notes Applications</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-overcoming-hitman-3-black-screen-troubles-on-a-computer/"><u>Step-by-Step Guide to Overcoming Hitman #3 Black Screen Troubles on a Computer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-rising-with-sunlight-reviews-of-the-heimvision-a80s-and-its-exceptional-morning-light-therapy/"><u>The Ultimate Guide to Rising with Sunlight - Reviews of the HeimVision A80S and Its Exceptional Morning Light Therapy</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722998179693-troubleshooting-guide-origin-application-not-starting-on-windows-11-issue-resolved/"><u>Troubleshooting Guide: Origin Application Not Starting on Windows 11 - Issue Resolved</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-for-resolving-battlenet-startup-failures/"><u>Ultimate Guide for Resolving Battle.net Startup Failures</u></a></li>
 </ul></div>
 

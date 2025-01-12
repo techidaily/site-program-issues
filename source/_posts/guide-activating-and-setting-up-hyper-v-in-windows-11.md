@@ -1,7 +1,7 @@
 ---
 title: "Guide: Activating and Setting Up Hyper-V in Windows 11"
-date: 2024-09-10T15:43:22.387Z
-updated: 2024-09-11T15:43:22.387Z
+date: 2025-01-05T16:05:27.153Z
+updated: 2025-01-12T16:10:17.899Z
 tags:
   - win11
   - win10
@@ -16,20 +16,6 @@ thumbnail: https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93c
 ## Fixative Strategies: Addressing and Correcting Black Screens in SWBF2
 
 Star Wars Battlefront 2 is an old game, so is the issue. The old game issue discussions still got new replies. If you have the same problem, don’t worry, this post can help.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -51,20 +37,6 @@ Star Wars Battlefront 2 is an old game, so is the issue. The old game issue disc
 | Storage:    | 4.3 GB                                                                       |
 | Sound Card: | DirectX 9.0c compatible Sound Card                                           |
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 2\. Turn off Discord overlay
 
  The Discord is the culprit for the problem, reported by many gamers. Follow the steps to fix the issue.
@@ -74,36 +46,21 @@ Star Wars Battlefront 2 is an old game, so is the issue. The old game issue disc
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2021-03-11_9-41-03.jpg)
 3. Click**Overlay** .
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
 4. Check**Enable in-game overlay** . Disable it if it’s toggled.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2021-03-11_9-42-39.jpg)
 5. Relaunch your game and check.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3\. Launch through the NVIDIA GeForce app
 
@@ -111,19 +68,9 @@ Star Wars Battlefront 2 is an old game, so is the issue. The old game issue disc
 
  In the game settings, change the video options from Fullscreen to Borderless and the game should running properly every time.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 4\. Update your driver
 
@@ -153,22 +100,13 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
- Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-
-
-
-
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-
-
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -183,8 +121,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,12 +128,19 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-creating-breathtaking-slow-motion-photo-editing-techniques-explored/"><u>[Updated] Creating Breathtaking Slow Motion Photo Editing Techniques Explored</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mapping-instagrams-unfollowers-landscape/"><u>2024 Approved Mapping Instagram's Unfollowers Landscape</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-curated-compilation-of-online-videoaudio-magicians/"><u>A Curated Compilation of Online Video/Audio Magicians</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-list-of-must-watch-sports-dramas-today/"><u>Discover the Ultimate List of Must-Watch Sports Dramas Today!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-security/"><u>Enhanced Security</u></a></li>
+<li><a href="https://fox-http.techidaily.com/explore-8-leading-free-srt-translators-online/"><u>Explore 8 Leading Free SRT Translators Online</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-why-is-elex-ii-experiencing-frequent-crashes-on-your-pc/"><u>Fix: Why Is Elex II Experiencing Frequent Crashes on Your PC?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-dive-into-instagram-live-without-hesitation/"><u>In 2024, Dive Into Instagram Live Without Hesitation</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/oneplus-9-pro-review/"><u>OnePlus 9 Pro Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-division-2-wont-start-a-step-by-step-guide/"><u>Solving 'Division 2 Won't Start' : A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722999503431-solving-persona-5-strikers-display-problems-black-screen-solutions-available/"><u>Solving Persona 5 Strikers Display Problems: Black Screen Solutions Available!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-when-itunes-doesnt-recognize-iphone-in-widows-10/"><u>Troubleshooting Steps for When iTunes Doesn't Recognize iPhone in Widows 10</u></a></li>
+</ul></div>
 

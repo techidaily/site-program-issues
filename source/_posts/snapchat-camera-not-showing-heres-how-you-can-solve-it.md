@@ -1,7 +1,7 @@
 ---
 title: Snapchat Camera Not Showing? Here's How You Can Solve It!
-date: 2024-12-31T17:08:52.669Z
-updated: 2025-01-05T19:42:45.846Z
+date: 2025-01-05T16:04:35.303Z
+updated: 2025-01-12T16:13:51.014Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 5. [Update your system](https://tools.techidaily.com/drivereasy/download/)
 6. [Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Check the privacy settings
 
  Make sure your camera was allowed to the Discord. Many people didn’t open the toggle and cause the camera not working issue.
@@ -45,25 +41,17 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_9-57-31.jpg)
 2. Click**Camera** in the left panel.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Make sure the toggle under**Allow apps to access your camera** is on.
 4. Click the**Change** button, check the**Camera access for this device** is on.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-02-43.jpg)
 5. Make sure you’ve turned on the**Allow desktop apps to access your camera** toggle.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-16-38.jpg)
 6. Relaunch Discord and check if the camera is working fine or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Rearrange your USB device (USB camera only)
 
@@ -78,6 +66,10 @@ Here’s how…
 
 If it doesn’t help, please move to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Close all the background app
 
  One common reason for the Discord camera not working issue is your camera it’s used in the background by other applications so it’s not available to Discord. Also, kill unnecessary background programs will give Discord more resources and prevent potential conflicts.
@@ -88,7 +80,11 @@ If it doesn’t help, please move to the next fix.
 3. Launch Discord camera to check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update camera driver
@@ -123,10 +119,6 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -145,6 +137,10 @@ OR
 
 If your camera is still not working on Discord, move to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Reinstall Discord
 
  Reinstall Discord is a useful common fix for issues. It’s because the corrupt installation of Discord or the outdated Discord version could be the reason for many problems, camera not working issue could be one of the problems.
@@ -157,19 +153,23 @@ If your camera is still not working on Discord, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-40-47.jpg)
 4. Follow the on-screen instructions to finish the process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Press the**Windows logo key + R** to open the Run box and type**%appdata%** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-42-04.jpg)
 6. Find the Discord folder and delete it.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-01.jpg)
 7. Open the Run box and type**%LocalAppData%** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-33.jpg)
 8. Find the Discord folder and delete it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-45-16.jpg)
 9. Restart your computer.
@@ -198,19 +198,22 @@ If your camera is still not working on Discord, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unlock-the-potential-of-your-instagram-content-with-video-edits/"><u>[Updated] 2024 Approved Unlock the Potential of Your Instagram Content with Video Edits</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boost-your-gaming-ultimate-guide-to-resolving-valheims-frame-rate-issues/"><u>Boost Your Gaming: Ultimate Guide to Resolving Valheim's Frame Rate Issues</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-civi-3-disney-100th-anniversary-edition-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Xiaomi Civi 3 Disney 100th Anniversary Edition support MKV video files?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortlessly-fix-your-pc-issues-with-assassins-creed-odyssey-no-more-crashes/"><u>Effortlessly Fix Your PC Issues with Assassin's Creed Odyssey - No More Crashes!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-itel-p55-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Itel P55 5G Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-graphical-issues-in-forza-horizon-5-with-a-driver-update/"><u>How To Resolve Graphical Issues in Forza Horizon 5 With A Driver Update</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/listenleap-escaping-dacasts-grip/"><u>ListenLeap Escaping DaCast's Grip</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-stability-for-halo-infinite-on-pc-a-guide-to-preventing-game-shutdowns-and-disruptions/"><u>Mastering Stability for Halo Infinite on PC: A Guide to Preventing Game Shutdowns and Disruptions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-iphone-connectivity-issues-by-resetting-network-settings/"><u>Resolve iPhone Connectivity Issues by Resetting Network Settings</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-minecraft-hiccups-top-pc-tips-to-achieve-seamless-gaming-this-year/"><u>Resolving Minecraft Hiccups: Top PC Tips to Achieve Seamless Gaming This Year</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revive-the-roar-of-creepers-and-chirps-in-minecraft-comprehensive-fixes-for-no-sounds-issues/"><u>Revive the Roar of Creepers and Chirps in Minecraft: Comprehensive Fixes for No Sounds Issues</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/top-score-facebooks-1-10-music-video-showcase/"><u>Top Score Facebook’s #1-#10 Music Video Showcase</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-capturing-the-spectrum-a-broad-overview-of-recorders/"><u>[Updated] Capturing the Spectrum A Broad Overview of Recorders</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-zte-nubia-z60-ultra-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from ZTE Nubia Z60 Ultra to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007739300-banish-lag-and-crash-in-lol-easy-fix-guides-you-need-today/"><u>Banish Lag & Crash in LoL: Easy Fix Guides You Need Today!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-fifa-19-directx-glitches-like-a-pro-easy-fixing-techniques-unveiled/"><u>Beat FIFA 19 DirectX Glitches Like a Pro: Easy Fixing Techniques Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensively-exploring-windows-n-editions-use-cases/"><u>Comprehensively Exploring Windows N Editions' Use Cases</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722991326994-fixing-madden-22-stalling-issue-at-launch-proven-methods-to-get-playing-asap/"><u>Fixing Madden 22 Stalling Issue at Launch - Proven Methods to Get Playing ASAP!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-es-400-scanning-software-for-windows-machines/"><u>Get the Latest ES-400 Scanning Software for Windows Machines</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-motorola-moto-g-5g-2023-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Motorola Moto G 5G (2023) Through Google Earth?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-soundtrack-of-your-phone-classic-tones-download-site-guide/"><u>In 2024, The Soundtrack of Your Phone Classic Tones Download Site Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-secret-how-to-disable-youtube-snippet-playback/"><u>In 2024, Unveiling the Secret How to Disable YouTube Snippet Playback</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mordhau-crashes-no-more-expert-solutions-and-troubleshooting-guide/"><u>Mordhau Crashes No More: Expert Solutions & Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-armored-core-6-stability-and-play-experience-on-your-pc/"><u>Optimizing Armored Core 6 Stability and Play Experience on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/starfield-audio-fixed-say-goodbye-to-intermittent-sounds-and-freezing-tracks/"><u>Starfield Audio Fixed: Say Goodbye to Intermittent Sounds & Freezing Tracks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-resident-evil-village-pc-lag-issues-step-by-step-solution/"><u>Troubleshooting and Solving Resident Evil Village PC Lag Issues - Step by Step Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solve-your-phasmophobia-vr-glitches-and-get-back-to-gaming/"><u>Ultimate Guide: Solve Your Phasmophobia VR Glitches and Get Back to Gaming</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Motorola Moto G04 | Dr.fone</u></a></li>
 </ul></div>
 

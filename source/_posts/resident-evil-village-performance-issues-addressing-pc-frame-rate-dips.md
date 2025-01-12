@@ -1,7 +1,7 @@
 ---
 title: "Resident Evil Village Performance Issues: Addressing PC Frame Rate Dips"
-date: 2024-09-10T15:45:54.147Z
-updated: 2024-09-11T15:45:54.147Z
+date: 2025-01-11T16:20:20.760Z
+updated: 2025-01-12T16:01:39.578Z
 tags:
   - win11
   - win10
@@ -31,20 +31,6 @@ Resident Evil Village is finally out. And like every AAA title, Resident Evil Vi
 6. **[Run the game as administrator](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Update the related software](https://tools.techidaily.com/drivereasy/download/)**
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### 1\. Disable in-game Overlay
 
  Overlays sometimes eat up bandwidth or introduce compatibility problems, thus causing problems in games, and that includes Resident Evil Village not launching or crashing on start up.
@@ -57,6 +43,10 @@ Resident Evil Village is finally out. And like every AAA title, Resident Evil Vi
 2. Click the **Settings** icon, and then select the **Overlay** tab.
 3. Toggle the switch to disable the **Enable in-game overlay** option.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-game-overlay-discord.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note: If you want to diable it just for Resident Evil Village, you can go to**Settings** \>**Games** , and togglle**Resident Evil Village** to**Off** .
 
@@ -105,20 +95,6 @@ There’re mainly two ways you can update your graphics drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
@@ -140,39 +116,19 @@ There’re mainly two ways you can update your graphics drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties-steam.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
  3) Select the**Local files** tab and click the**Verify integrity of game files…** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Verify-Integrity-of-Game-Files.jpg)
 
- 4) Steam will verify the game’s files – this process may take several minutes.
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-
-
+ 4) Steam will verify the game’s files – this process may take several minutes.
 
 ### 4\. Disable your antivirus software temporarily
 
@@ -184,41 +140,33 @@ There’re mainly two ways you can update your graphics drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those that belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech,** and **Intel** . Then click **OK**  to apply the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** +**Shift**  +**Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click **Disable** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Launch the game in windowed mode
 
@@ -230,43 +178,9 @@ There’re mainly two ways you can update your graphics drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/properties-steam.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click on the**General** tab and click**SET LAUNCH OPTIONS** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/set-launch-options-edited.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  4) Type or paste`**-windowed -noborder**` .
 
@@ -274,19 +188,9 @@ There’re mainly two ways you can update your graphics drivers:
 
  Now you can launch your Resident Evil Village to check if the not launching issue has been resolved by now.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
 ### 6\. Run the game as an administrator
 
@@ -299,34 +203,6 @@ There’re mainly two ways you can update your graphics drivers:
 3) In the**Properties** window, go to the**Compatibility** tab, and select**Run this program as an administrator** . Then click**Apply > OK** .
 
 ![run as admin](https://images.drivereasy.com/wp-content/uploads/2021/01/run-as-admin.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### 7\. Update the related software
 
@@ -354,8 +230,6 @@ There’re mainly two ways you can update your graphics drivers:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -363,12 +237,24 @@ There’re mainly two ways you can update your graphics drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-boosting-visibility-on-tiktok-with-smart-hashtags/"><u>2024 Approved Boosting Visibility on TikTok with Smart Hashtags</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-screen-blackness-in-resident-evil-village-for-pc-solutions-and-workarounds/"><u>Complete Screen Blackness in Resident Evil: Village for PC - Solutions & Workarounds</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-g2-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo G2 without App | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-elite-writers-of-aural-narratives/"><u>In 2024, Elite Writers of Aural Narratives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-virtual-frontier-googles-cardboard-meets-samsung-gear/"><u>In 2024, Exploring the Virtual Frontier Google's Cardboard Meets Samsung Gear</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-honor-play-7t-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Honor Play 7T to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-in-diablo-ii-resurrected-to-avoid-unwanted-game-interruptions/"><u>Mastering Stability in 'Diablo II Resurrected' To Avoid Unwanted Game Interruptions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-quiet-how-to-turn-up-the-volume-on-your-minecraft-soundscape/"><u>PC Gaming Quiet: How to Turn Up the Volume on Your Minecraft Soundscape</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quickly-solve-your-csgo-player-login-problems-top-5-fixes-for-no-user-logon-error/"><u>Quickly Solve Your CSGO Player Login Problems - Top 5 Fixes for ‘No User Logon’ Error</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-warzone-directx-issue-a-step-by-step-guide/"><u>Resolving the Warzone DirectX Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-made-easy-get-your-madden-22-up-and-running-today/"><u>Troubleshooting Made Easy: Get Your Madden 22 Up And Running Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-preventing-content-alerts-from-crashing-your-computer/"><u>Troubleshooting Steps for Preventing Content Alerts From Crashing Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-0x80n2efd-problem-on-windows-11-solutions-unveiled/"><u>Troubleshooting the 0X80n2EFD Problem on Windows 11 – Solutions Unveiled</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-honor-magic-6-lite-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Honor Magic 6 Lite FRP Bypass</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-nioh-2-complete-edition-crashes-effortlessly/"><u>Ultimate Guide: Resolving Nioh 2 Complete Edition Crashes Effortlessly</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/vanish-3-rivalry-mirage-4-makes-waves-for-2024/"><u>Vanish 3 Rivalry Mirage 4 Makes Waves for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gsm-wifi/"><u>오토바이오를 위해 GSM 신호를 WiFi로 자리근 전환: 공개 채용</u></a></li>
+</ul></div>
 

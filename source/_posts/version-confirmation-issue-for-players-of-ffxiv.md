@@ -1,7 +1,7 @@
 ---
 title: Version Confirmation Issue for Players of FFXIV
-date: 2024-12-31T21:39:28.673Z
-updated: 2025-01-05T23:46:29.856Z
+date: 2025-01-08T16:05:06.621Z
+updated: 2025-01-12T16:05:42.775Z
 tags:
   - win11
   - win10
@@ -42,7 +42,7 @@ The PC version of Days Gone is a solid port of a great game. But performance iss
 ![verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/properties-disable-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Under the GENERAL tab, uncheck the box**Enable the Steam Overlay while in-game** .  
@@ -58,10 +58,6 @@ If this didn’t work, move on to the next fix.
  1) Open your Steam client. Under LIBRARY, right-click your game title and select**Properties** .  
   
 ![verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/properties-disable-overlay.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Select**LOCAL FILES** . Then click**Verify integrity of game files…** . This will take several minutes to complete.  
   
@@ -92,6 +88,10 @@ However, if this didn’t help, proceed to the next fix.
   
 ![Days Gone adjust in-game settings](https://images.drivereasy.com/wp-content/uploads/2021/05/confirm-changes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Select the**GRAPHICS** tab. Then adjust the following settings:
 
 **CHROMATIC ABERRATION:** OFF  
@@ -106,21 +106,17 @@ However, if this didn’t help, proceed to the next fix.
   
 ![Days Gone adjust in-game settings](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings.jpg)
 
- Then save the changes and test your gameplay. If this didn’t give you any luck, try the next fix below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Then save the changes and test your gameplay. If this didn’t give you any luck, try the next fix below.
 
 ## 4\. Update your graphics driver
 
  Low FPS, lagging gameplay, or poor graphics aren’t always caused by an old graphics card. Sometimes, updating your graphics driver can fix performance bottlenecks and introduce improvements that make your game significantly run smoother. Moreover, updating your graphics can ensure that you always have the newest features. Therefore, if you can’t remember when was the last time you updated your drivers, do it right now as it can make a big difference.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -152,6 +148,10 @@ Here’s how to update drivers with Driver Easy:
 
  After updating your drivers, restart your PC and test the gameplay. If you can’t get a performance boost, don’t worry. Below are some other methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Disable fullscreen optimizations
 
  Many gamers found that there are certain CPU demanding games that are particularly affected by low FPS issues when enabling fullscreen optimizations. Although Days Gone might not be one of them, you can actually attempt to disable fullscreen optimizations to check if this helps improve your gaming experience:
@@ -172,14 +172,10 @@ Here’s how to update drivers with Driver Easy:
   
 ![Days Gone disable fullscreen optimization](https://images.drivereasy.com/wp-content/uploads/2021/05/click-apply-and-ok.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If this didn’t make a difference, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Customize graphics performance preference
@@ -198,10 +194,6 @@ If this didn’t make a difference, move on to the next fix.
   
 ![customize graphics performance preference](https://images.drivereasy.com/wp-content/uploads/2021/05/browse-apps.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Then open your game’s installation folder. (Usually in C:Days goneDays GoneBendGameBinariesWin64) Click on**DaysGone.exe** and click**Add** .  
   
 ![customize graphics performance preference high performance Days gone](https://images.drivereasy.com/wp-content/uploads/2021/05/high-performance-add.jpg)
@@ -210,15 +202,19 @@ If this didn’t make a difference, move on to the next fix.
   
 ![customize graphics performance preference high performance Days gone](https://images.drivereasy.com/wp-content/uploads/2021/05/high-performance-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Select**High performance** and click**Save** .  
   
 ![customize graphics performance preference high performance Days gone](https://images.drivereasy.com/wp-content/uploads/2021/05/high-performance-save.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After saving the changes, launch Days Gone and check if it helped.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Disable background apps
 
@@ -230,6 +226,10 @@ After saving the changes, launch Days Gone and check if it helped.
   
 ![turn off background apps](https://images.drivereasy.com/wp-content/uploads/2021/05/privacy.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Background apps** . Under the section**Let apps run in the background** , toggle the button to turn it**Off** .  
   
 ![turn off background apps](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-off-background-apps.jpg)
@@ -237,7 +237,7 @@ After saving the changes, launch Days Gone and check if it helped.
 Now launch Days Gone and check it can help fix the low frame rate.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Disable Windows 10 Game Mode
@@ -251,7 +251,7 @@ Now launch Days Gone and check it can help fix the low frame rate.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/gaming-1200x674.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select**Game Mode** . Then click the toggle to turn Game Mode**Off** .  
@@ -279,24 +279,18 @@ Now launch Days Gone and check it can help fix the low frame rate.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-proven-steps-to-convert-webp-to-high-quality-jpeg/"><u>[Updated] In 2024, Proven Steps to Convert WebP to High-Quality JPEG</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-professionals-picks-the-top-5-drones-to-invest-in/"><u>[Updated] Professional's Picks The Top 5 Drones to Invest In</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-secure-your-files-at-no-cost-the-best-free-1tbplus-cloud-storages/"><u>2024 Approved Secure Your Files at No Cost The Best Free 1TB+ Cloud Storages</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/abbyy-timeline/"><u>ABBYY Timelineで強力に利用するためのプロセスマイニング:実践的な事例とアクティベーションポイント</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comprehensive-guide-to-leading-social-networks-facebook-twitter-instagram-and-youtube/"><u>Comprehensive Guide to Leading Social Networks: Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-configure-word-to-open-email-attachments-exclusively-in-read-view/"><u>How to Configure Word to Open Email Attachments Exclusively in Read View</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-optimizing-kinemaster-usage-expert-advice-and-superior-digital-alternatives/"><u>In 2024, Optimizing KineMaster Usage Expert Advice and Superior Digital Alternatives</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-fixes-for-spatial-sound-issues-in-both-windows-10-and-windows-11-environments/"><u>Master Fixes for Spatial Sound Issues in Both Windows 10 and Windows 11 Environments</u></a></li>
-<li><a href="https://program-issues.techidaily.com/navigate-past-graphic-errors-in-fifa-20-a-comprehensive-guide-to-fixing-directx-hitches/"><u>Navigate Past Graphic Errors in FIFA 20 - A Comprehensive Guide to Fixing DirectX Hitches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-pauses-in-wasteland-adventure-solve-your-fallout-3-stalling-woes-on-windows-11/"><u>No More Pauses in Wasteland Adventure - Solve Your Fallout 3 Stalling Woes on Windows 11!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-xiaomi-redmi-note-13-5g-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Xiaomi Redmi Note 13 5G</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-resolution-strategies-for-common-divison-2-crashes/"><u>Quick Resolution Strategies for Common Divison 2 Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-issue-when-battlenet-refuses-to-launch-comprehensive-troubleshooting-guide-of-2024/"><u>Resolving the Issue: When Battle.net Refuses to Launch - Comprehensive Troubleshooting Guide of 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-pc-issues-a-step-by-step-walkthrough-for-stable-cyberpunk-2077-gameplay/"><u>Solving PC Issues: A Step-by-Step Walkthrough for Stable Cyberpunk 2077 Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-solving-armored-core-vi-game-crash-on-startup-issues/"><u>Step-by-Step Guide: Solving 'Armored Core VI' Game Crash on Startup Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-pc-hiccups-in-wrath-of-the-righteous-expert-advice-and-fixes/"><u>Troubleshoot PC Hiccups in 'Wrath of the Righteous': Expert Advice & Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-starcraft-ii-how-to-fix-game-crashes-on-windowsmac/"><u>Troubleshooting StarCraft II: How to Fix Game Crashes on Windows/Mac</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-amo-touchscreen-issues-top-five-solutions-you-need-to-try/"><u>Troubleshooting Windows Amo-Touchscreen Issues: Top Five Solutions You Need to Try</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-bringing-memories-to-life-a-step-by-step-final-cut-pro-slideshow-creation-tutorial-for-2024/"><u>Updated Bringing Memories to Life A Step-by-Step Final Cut Pro Slideshow Creation Tutorial for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-best-free-memes-unlock-humor-in-everyday-life/"><u>[New] Best FREE Memes Unlock Humor in Everyday Life</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-which-is-superior-for-screen-recording-obs-studio-or-fraps/"><u>[Updated] In 2024, Which Is Superior for Screen Recording – OBS Studio or Fraps?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-top-ten-ios-slideshow-creation-software-for-2024/"><u>[Updated] Top Ten iOS Slideshow Creation Software for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/6-easy-free-youtube-closers-for-your-videos-top-picks-for-2024/"><u>6 Easy, Free YouTube Closers for Your Videos (Top Picks) for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/experience-cinematic-adventure-with-intova-edge-x/"><u>Experience Cinematic Adventure With Intova Edge X</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-madden-22s-load-screen-hang-up-for-smooth-gameplay-experience/"><u>Fixing Madden 22'S Load Screen Hang-Up for Smooth Gameplay Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-smooth-gaming-eliminating-lags-in-serious-sam-4-for-pc-users/"><u>Mastering the Art of Smooth Gaming: Eliminating Lags in Serious Sam 4 for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/modern-warfare-3-gaming-issues-understanding-the-causes-of-fps-drops-and-stuttering/"><u>Modern Warfare 3 Gaming Issues : Understanding the Causes of FPS Drops and Stuttering</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-the-fifa-2020-game-crash-issue/"><u>Resolved: How to Fix the FIFA 2020 Game Crash Issue</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-productivity-on-the-go-the-premium-honor-magicbook-art-n14-for-under-1200-features-meteor-lake-cpu-and-removable-privacy-camera/"><u>Revolutionize Productivity on the Go: The Premium Honor MagicBook Art N14 for Under $1,200 Features Meteor Lake CPU and Removable Privacy Camera</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-guide-dealing-with-frequent-frontier-crashes-on-windows/"><u>The Ultimate Fix Guide: Dealing with Frequent Frontier Crashes on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-repairing-the-persistent-problem-of-metro-exodus-pc-crashes/"><u>Troubleshooting and Repairing the Persistent Problem of Metro Exodus PC Crashes</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/usb-stationseerdienst-mappen-vier-wege-om-gekistente-map-terug-te-bekrijgen-en-gratis-te-herstellen/"><u>USB Stationseerdienst Mappen: Vier Wege Om Gekistente Map Terug Te Bekrijgen En Gratis Te Herstellen</u></a></li>
 </ul></div>
 

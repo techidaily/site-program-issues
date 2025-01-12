@@ -1,7 +1,7 @@
 ---
 title: How to Fix When Your Game of Team Fortress 2 Won't Open
-date: 2024-09-10T15:43:29.371Z
-updated: 2024-09-11T15:43:29.371Z
+date: 2025-01-06T16:06:26.840Z
+updated: 2025-01-12T16:17:56.954Z
 tags:
   - win11
   - win10
@@ -35,20 +35,6 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 2. Click **Check for Updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/update.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Try these fixes
 
  There are 7 fixes for you. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -61,6 +47,10 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 6. [Disable incompatible apps](https://tools.techidaily.com/drivereasy/download/)
 7. [Reinstalling your game](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  The privilege issue might be the reason for the won’t launch problem. With high integrity access, Sea of Thieves can make full use of its features, so run the game as an administrator to see if this fixes your issue.
@@ -69,22 +59,13 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 2. Right-click on the Sea of Thieves icon and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/properties.jpg)
 3. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/09/ad.jpg)
-4. Run the game to check whether the problem is solved or not.
-
-
-
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-
-
-
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/ad.jpg)
+4. Run the game to check whether the problem is solved or not.
 
 ### Fix 2: Do an App reset
 
@@ -96,45 +77,12 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/windows-store-cache.jpg)
 4. Download and install the Sea of Thieves.
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 5. Press the**Windows key + I** together and click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/app.jpg)
 6. Find and click **Sea of Thieves** on the list.
 7. Click **Advanced Options** and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/reset.jpg)
 8. Run Sea of Thieves to check.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
 ### Fix 3: Change the Time & Region
 
@@ -144,25 +92,26 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 1. Press the **Windows Key** \+ I and click**Time & Language** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/timelanguage.jpg)
 2. Open the**Set time automatically** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/time.jpg)
 3. Check your time zone and date.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
 4. Click **Region** and check your region is corrected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/region-1.jpg)
 5. Reboot your PC
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Run Sea of Thieves to check.
 
 **Note** : If your language and region is set to **English (United States)** already please change it to **English (United Kingdom)** instead.
@@ -176,41 +125,8 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/powershell.jpg)
 3. Copy and paste the following into the Powershell window and press Enter.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  **Get-AppXPackage | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}**
 4. Run Sea of Thieves to check.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Update your drivers and programs
 
@@ -241,35 +157,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your PC and run Sea of Thieves to check.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable incompatible apps
 
@@ -293,8 +190,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -302,12 +197,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-advanced-filmmaking-techniques-selecting-top-notch-lenses/"><u>[New] Advanced Filmmaking Techniques Selecting Top-Notch Lenses</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-filmmakers-pathway-to-anime-subscription-buttons-in-filmora/"><u>[New] In 2024, Filmmaker’s Pathway to Anime Subscription Buttons in Filmora</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-instagram-quick-paths-to-influence-for-2024/"><u>[New] Mastering Instagram Quick Paths to Influence for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-recommendation-best-websites-to-download-alarm-ringtone/"><u>[Updated] In 2024, Recommendation Best Websites To Download Alarm Ringtone</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beat-the-blues-swift-remedies-to-hypervisor-bsos-in-winxose/"><u>Beat the Blues: Swift Remedies to Hypervisor BSOS in WINXOSE</u></a></li>
+<li><a href="https://program-issues.techidaily.com/compatibility-issues/"><u>Compatibility Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/counterstrikes-successor-modern-warfare-fixed-app-continues-to-run-smoothly-after-update/"><u>Counterstrike's Successor, Modern Warfare - Fixed App Continues to Run Smoothly After Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-fixing-crashes-in-call-of-duty-vanguard-on-windows-2024-edition/"><u>Diagnosing and Fixing Crashes in Call of Duty: Vanguard on Windows - 2024 Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-to-reactivate-your-corsair-icue-in-new-microsoft-operating-systems/"><u>Effective Solutions to Reactivate Your Corsair iCUE in New Microsoft Operating Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/euro-truck-simulator-2-critical-bugs-and-solutions-for-stable-gaming-experience/"><u>Euro Truck Simulator 2: Critical Bugs & Solutions for Stable Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-resolving-dying-lights-graphics-lag-and-fps-drops/"><u>Expert Guide: Resolving Dying Light's Graphics Lag and FPS Drops</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722955080411-explore-the-updates-logitech-extreme-3d-pro-drivers-now-with-improved-performance/"><u>Explore the Updates: Logitech Extreme 3D Pro Drivers Now with Improved Performance!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-issues-with-a-nonfunctional-logitech-c920-camera-a-comprehensive-guide/"><u>Fixing Issues with a Nonfunctional Logitech C920 Camera: A Comprehensive Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/full-assessment-macs-screenflow-studio-experience-for-2024/"><u>Full Assessment Mac's ScreenFlow Studio Experience for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fast-and-easy-filming-techniques-the-best-5-hacks-unveiled/"><u>In 2024, Fast & Easy Filming Techniques – The Best 5 Hacks Unveiled</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-cyberpunk-2077-experience-by-resolving-fps-issues/"><u>Optimizing Cyberpunk 2077 Experience by Resolving FPS Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-fixing-rise-of-the-tomb-raider-ring-of-elysium-crash-issues/"><u>Step-by-Step Guide to Fixing Rise of the Tomb Raider (Ring of Elysium) Crash Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-essential-handbook-for-periscope-video-logging/"><u>The Essential Handbook for Periscope Video Logging</u></a></li>
+</ul></div>
 

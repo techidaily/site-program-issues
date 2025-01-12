@@ -1,7 +1,7 @@
 ---
 title: Trouble with Assassin’s Creed Freedom Cry? Master the Launch Fixes for Optimal Playtime
-date: 2025-01-01T18:47:43.535Z
-updated: 2025-01-05T21:39:30.242Z
+date: 2025-01-08T16:04:54.762Z
+updated: 2025-01-12T16:12:06.978Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/5101a256be44324944567b3cdefbcb470dad072a3
 ## Trouble with Launching Witcher 3: Wild Hunt? Here Are Fixes That Work
 
 When you’re entering this complicated fantasy world, nothing upsets you more than getting a not launching problem. You’re definitely not alone and many players have solved the**Witcher 3 not launching** issue with the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -42,10 +46,6 @@ When you’re entering this complicated fantasy world, nothing upsets you more t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Select the**Compatibility** tab, and tick the**Run this program as an administrator** box. Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-2.jpg)
@@ -70,7 +70,7 @@ The executable for the game is located in:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select the Compatibility tab and tick the box next to**Run this program in compatibility mode for:** and select your previous operating system. Then tick**Run this program as an administrator** . Click**Apply** \>**OK** .
@@ -80,7 +80,7 @@ The executable for the game is located in:
  Now you have full access to the game files. Relaunch it to see if your Witcher 3 not launching issue still persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Remove Mods
@@ -90,7 +90,7 @@ The executable for the game is located in:
  Just delete the mods subfolder within the Witcher 3 folder and it should work. After that, you can launch the game to test the issue. If you can launch the game normally, then great! If not, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update device drivers
@@ -113,11 +113,11 @@ There are two ways for you to update your drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/NVIDIA-driver-1.jpg)
 * For AMD: Go to **[AMD Drivers & Support](https://www.amd.com/en/support)**  .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2019/11/AMD-driver-downloads-1.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/AMD-driver-downloads-1.jpg)
 
  Once you’ve downloaded the correct drivers for your system, double click the downloaded file and follow the on-screen instructions to install the driver. After that, restart your computer for the changes to take effect.
 
@@ -140,10 +140,6 @@ There are two ways for you to update your drivers:
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/update-all-your-drivers-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** You can do it for free if you like, but it’s partly manual.
 
@@ -181,6 +177,10 @@ There are two ways for you to update your drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type the command:**sfc /scannow** in the window and hit**Enter** .
 
 sfc /scannow
@@ -210,6 +210,10 @@ sfc /scannow
   * click on Origin at the top-left corner of the window > select**Application Setting** \>**More** \>**ORIGIN IN-GAME** \> move the slider to turn off**Enable Origin In-Game**
 
  After disabling the in-game overlay, you can launch your Witcher 3 again. If Witcher 3 launches successfully, then great! But if it doesn’t, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Disable Antivirus
 
@@ -247,10 +251,6 @@ Try launching your game again to see if Witcher 3 works normally again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-1019-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) Restart your PC and launch Witcher 3 again.
 
  If Witcher 3 launches successfully again, then congrats! However, you’ll need to find out the problematic software. Here is how to do it:
@@ -262,7 +262,7 @@ Try launching your game again to see if Witcher 3 works normally again.
  Once you find out the problematic software, you may need to uninstall or disable it to avoid running into the same issue in the future .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 9: Delete the GoG.dll
@@ -330,21 +330,20 @@ RECOMMENDED REQUIREMENTS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-filming-made-easy-selecting-the-right-audio-devices/"><u>[New] In 2024, Filming Made Easy Selecting the Right Audio Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-forza-horizon-4-crash-on-pc/"><u>[SOLVED] Forza Horizon 4 Crash on PC</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-manage-and-disable-recommended-podcast-episodes-in-spotify/"><u>2024 Approved How to Manage and Disable Recommended Podcast Episodes in Spotify</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/anticipated-launch-of-new-apple-devices-airpods-lite-and-airpods-max-coming-soon-latest-update-from-tech-analysts/"><u>Anticipated Launch of New Apple Devices: AirPods Lite & AirPods Max Coming Soon - Latest Update From Tech Analysts</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-infinix-zero-30-5g-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Infinix Zero 30 5G</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-on-how-to-fix-dead-by-daylights-error-8014-issue/"><u>Expert Tips on How To Fix Dead By Daylight's Error 8014 Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-gain-access-overcome-fortnites-no-permission-to-play-hurdle/"><u>How to Gain Access: Overcome Fortnite's 'No Permission to Play' Hurdle</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-comprehensive-guide-to-websites-for-text-alteration/"><u>In 2024, Comprehensive Guide to Websites for Text Alteration</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-make-every-minute-count-with-these-15-engaging-activities-while-listening-to-podcasts/"><u>In 2024, Make Every Minute Count with These 15 Engaging Activities While Listening to Podcasts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-error-code-0x0003-on-your-nvidia-geforce-experience/"><u>Resolving Error Code 0X0003 on Your NVIDIA Geforce Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-issues-of-robocop-rogue-city-pc-version-troubleshooting/"><u>Solving the Issues of RoboCop: Rogue City - PC Version Troubleshooting</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-unresponsive-pacific-drive-performance-issues/"><u>Step-by-Step Fixes for Unresponsive Pacific Drive Performance Issues</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-savvy-techies-strategy-for-saving-snapshots/"><u>The Savvy Techie's Strategy for Saving Snapshots</u></a></li>
-<li><a href="https://techidaily.com/top-8-iphone-xs-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone XS SMS/Message/Text Recovery Software | Stellar</u></a></li>
-<li><a href="https://techidaily.com/understanding-ts-files-a-comprehensive-guide-on-their-purpose-and-usage/"><u>Understanding TS Files: A Comprehensive Guide on Their Purpose and Usage</u></a></li>
-<li><a href="https://program-issues.techidaily.com/upgrade-required-ensuring-your-processor-matches-vanguards-minimum-specs/"><u>Upgrade Required: Ensuring Your Processor Matches Vanguard's Minimum Specs</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-dive-into-digital-green-magic-top-4-youtube-sources-for-no-cost-background-workshops/"><u>[New] Dive Into Digital Green Magic Top 4 YouTube Sources for No-Cost Background Workshops</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-elevate-small-screen-experience-with-these-leading-and-affordable-tools-to-download-youtubes-tiny-videos/"><u>[Updated] Elevate Small Screen Experience with These Leading & Affordable Tools to Download YouTubes' Tiny Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-blitz-photography-crafting-quick-google-collage-images/"><u>2024 Approved Blitz Photography Crafting Quick Google Collage Images</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beyond-apple-discover-the-best-rechargeable-airtag-competitors-for-your-pocket-featured/"><u>Beyond Apple: Discover the Best Rechargeable AirTag Competitors for Your Pocket, Featured</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-cs2-performance-effective-fixes-for-optimizing-fps-and-reducing-lags/"><u>Boost Your CS2 Performance: Effective Fixes for Optimizing FPS and Reducing Lags</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-world-war-ii-error-code-woe-no-more-a-step-by-step-fix/"><u>Call of Duty World War II Error Code Woe No More - A Step-by-Step Fix</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-disruptions-effective-solutions-to-prevent-god-of-war-from-crashing-on-desktops/"><u>Eliminating Disruptions: Effective Solutions to Prevent God of War From Crashing on Desktops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-frequent-crashing-issues-while-playing-lost-ark-on-your-computer/"><u>How to Stop Frequent Crashing Issues While Playing Lost Ark on Your Computer</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-xiaomi-redmi-a2-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Xiaomi Redmi A2 Phones with/without a PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-realme-note-50-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Realme Note 50 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-gameplay-tips-to-keep-palworld-running-smoothly-on-windows-machines/"><u>Optimizing Gameplay: Tips to Keep Palworld Running Smoothly on Windows Machines</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-frame-rate-drops-and-freezing-issues-in-call-of-duty-modern-warfare-2/"><u>Resolved: Fixes for Frame Rate Drops & Freezing Issues in Call of Duty: Modern Warfare 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-strategies-for-restarting-a-stalled-pacific-drive-system/"><u>Step-by-Step Strategies for Restarting a Stalled Pacific Drive System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-of-technology-samsungs-2er-2025-launch-insider-news-rumored-gadgets-and-reveals/"><u>The Future of Technology: Samsung's 2Er 2025 Launch - Insider News, Rumored Gadgets, and Reveals</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/unraveling-the-truth-about-https-does-it-always-guarantee-website-security/"><u>Unraveling the Truth About HTTPS - Does It Always Guarantee Website Security?</u></a></li>
 </ul></div>
 

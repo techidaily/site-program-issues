@@ -1,7 +1,7 @@
 ---
 title: Final Glazing
-date: 2025-01-02T19:41:10.486Z
-updated: 2025-01-05T22:31:09.126Z
+date: 2025-01-10T16:23:25.271Z
+updated: 2025-01-12T16:05:46.081Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ FIFA 20 DirectX Error
 5. **[Check if your PC meets the system requirements for FIFA 20](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
@@ -54,10 +54,6 @@ FIFA 20 DirectX Error
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -70,6 +66,10 @@ FIFA 20 DirectX Error
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Unplug ccontrollers
 
  According to users’ report, unplugging controllers is also helpful in resolving the DirectX error in FIFA 20.
@@ -79,7 +79,7 @@ FIFA 20 DirectX Error
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3:**Modify fifasetup.ini**
@@ -105,10 +105,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Update DirectX
 
  DirectX is a suite of components in Windows that allows heavy multimedia apps such as games to interact with your video and audio cards. If you’re running an old version of DirectX, it’s possible that it won’t be able to handle the graphics rendering and processing task, which might cause the DirectX error. So you should update DirectX to the latest version to see if it fixes the issue.
@@ -120,6 +116,10 @@ Here is how to do it:
  Still no joy? please move on to **Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Check if your PC meets the system requirements for FIFA 20
 
@@ -152,7 +152,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
@@ -186,24 +186,17 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-expert-advice-on-crafting-effective-youtube-video-tags/"><u>[Updated] 2024 Approved Expert Advice on Crafting Effective YouTube Video Tags</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-ultimate-harvest-hangout-top-10-agri-games-to-enjoy-together/"><u>[Updated] In 2024, The Ultimate Harvest Hangout Top 10 Agri-Games to Enjoy Together</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciphering-ai-driven-nvidias-dlss-35-features/"><u>Deciphering AI-Driven Nvidia's DLSS 3.5 Features</u></a></li>
-<li><a href="https://media-tips.techidaily.com/easy-conversion-techniques-for-changing-flv-videos-to-playable-xbox-types-mp4avimpegwmv/"><u>Easy Conversion Techniques for Changing FLV Videos to Playable Xbox Types (MP4/AVI/MPEG/WMV)</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/echoes-of-elation-international-independence-day/"><u>Echoes of Elation: International Independence Day</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/essential-8-open-source-tools-for-effective-enterprise-video-meetings-for-2024/"><u>Essential 8 Open Source Tools for Effective Enterprise Video Meetings for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fallout-3-troubleshooting-overcoming-crashes-on-your-windows-10-pc/"><u>Fallout 3 Troubleshooting: Overcoming Crashes on Your Windows 10 PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/far-cry-navigating-through-black-screen-troubleshooting-techniques/"><u>Far Cry Navigating Through Black Screen Troubleshooting Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722999890958-find-the-right-solution-for-your-xcom-2-game-crash-issues-on-a-windows-computer/"><u>Find the Right Solution for Your XCOM 2 Game Crash Issues on a Windows Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-eliminate-packet-loss-when-using-discord-tips-and-tricks/"><u>How To Eliminate Packet Loss When Using Discord – Tips & Tricks</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/navigate-detroit-become-human-a-thrilling-interactive-experience-for-pc-gamers/"><u>Navigate 'Detroit: Become Human' - A Thrilling Interactive Experience for PC Gamers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-players-rejoice-resolving-the-far-cry-6-does-not-start-problem/"><u>PC Players Rejoice: Resolving the 'Far Cry 6 Does Not Start' Problem</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/rescatar-datos-del-disco-duro-externo-sin-perder-la-configuracion-original-metodos-efectivos/"><u>Rescatar Datos Del Disco Duro Externo Sin Perder La Configuración Original: Métodos Efectivos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-pc-playthroughs-stop-halo-3-from-unexpectedly-crashing/"><u>Resolve PC Playthroughs: Stop Halo 3 From Unexpectedly Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-startup-errors-in-star-wars-the-old-republic-swtor/"><u>Resolving Startup Errors in Star Wars: The Old Republic (SWTOR)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-solving-missing-sound-device-problems-in-windows-xpvista710/"><u>Step-by-Step Guide to Solving Missing Sound Device Problems in Windows (XP/Vista/7/10)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-getting-past-helldivers-2s-launching-dark-screen-dilemma/"><u>Step-by-Step Guide: Getting Past Helldivers 2'S Launching Dark Screen Dilemma</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/tagalog-learning-effortless-for-busy-individuals-every-day/"><u>Tagalog Learning: Effortless for Busy Individuals Every Day</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-webcampro-recordingstepssimplified/"><u>[New] In 2024, WebCamPro RecordingStepsSimplified</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-god-of-war-keeps-crashing-on-pc/"><u>[SOLVED] God of War Keeps Crashing on PC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-exclusive-free-mcb-banner-designs/"><u>[Updated] 2024 Approved Exclusive Free MCB Banner Designs</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/alles-wissenswerte-uber-atlas-betriebssystem-os-unter-windows-11-eine-umfassende-leitfadenutzungshilfe/"><u>Alles Wissenswerte Über Atlas-Betriebssystem (OS) Unter Windows 11 - Eine Umfassende Leitfädenutzungshilfe</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722995422570-fix-terraria-game-stability-best-troubleshooting-tips/"><u>Fix Terraria Game Stability - Best Troubleshooting Tips!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-black-ops-cold-war-game-error-understanding-0xc0000005-issue/"><u>How to Fix Black Ops Cold War Game Error: Understanding 0Xc0000005 Issue</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-infinix-smart-8-hd-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Infinix Smart 8 HD for Parents | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/j5s-pro-model-flashlight-version-1-unleashed-a-detailed-assessment-on-its-sturdy-small-sized-radiance/"><u>J5's Pro Model Flashlight Version 1 Unleashed - A Detailed Assessment on Its Sturdy, Small-Sized Radiance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pubg-performance-boosted-eradicate-stuttering-instantly-and-effortlessly/"><u>PUBG Performance Boosted: Eradicate Stuttering Instantly & Effortlessly</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211224357-9781529439007-spells-for-prosperity/"><u>Spells for Prosperity | Free Book</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/visualizing-chronoscopic-imagery-in-media/"><u>Visualizing Chronoscopic Imagery in Media</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-isnt-my-cortana-responding-and-how-to-resolve-it/"><u>Why Isn't My Cortana Responding and How to Resolve It?</u></a></li>
 </ul></div>
 

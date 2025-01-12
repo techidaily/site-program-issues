@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Challenges That Have Halted 'The Ascent's Release Date
-date: 2025-01-05T00:33:03.428Z
-updated: 2025-01-05T19:27:20.223Z
+date: 2025-01-08T16:18:43.813Z
+updated: 2025-01-12T16:08:13.262Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/40a87a83-1301-48cf-8754-a86aea845dbb-1200x676.jpg)
 
  The Ascent is finally out! Seems like players are enjoying this game so far and have confirmed the hype is real. But just like any other new releases, we’re seeing reports of errors and bugs, including**The Ascent not launching** . If you also run into this problem, no worries! In this post, we’ll introduce some working fixes you can try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -66,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 | **Additional Notes** | Recommended specs listed above allow gameplay experience close to 60 FPS on average while using 1080p resolution and overall “High” settings. |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Run The Ascent as admin
@@ -77,16 +73,8 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/right-click-properties.jpg)
 2. Under the**Compatibility** tab, check the box of**Run this program as an administrator** . Click**Apply** then**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-this-program-as-an-administrator.jpg)
 3. The Steam client will launch now. You can run The Ascent to see if it launches now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If it doesn’t work, you can directly run the game executable as an admin. You can use Steam to**find the game installation path** :
 
@@ -94,12 +82,12 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-1.jpg)
 2. Under**LOCAL FILES** , click**Browse** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/browse-local-files-in-steam-client.jpg)
 3. Your local game folder will pop up and you should be able to find the game executable there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’ve tried to run the game as admin but it still won’t launch, try the next fix.
 
@@ -111,14 +99,14 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-1.jpg)
 2. Under**LOCAL FILES** , click**Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files.jpg)
 3. It’ll take some time for Steam to complete the scan, depending on the game size. If anything is missing or damaged, Steam will fix it for you.
 
  If verifying your game files doesn’t solve your problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update your graphics driver
 
@@ -153,13 +141,13 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-1.jpg)
 2. Paste**\-dx11** into your**Launch Options** section.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/launch-option-directx-11.jpg)
 
  You can now run the game to see if the problem is gone. If it persists, try the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Check your antivirus
 
@@ -172,6 +160,10 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 * If available, set your antivirus software to**game mode** .
 
  If your antivirus seems to be the reason that your game wouldn’t launch, consider contacting the manufacturer for assistance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Perform a clean boot
 
@@ -186,7 +178,7 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
@@ -207,9 +199,17 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch The Ascent. If it once again won’t launch, then you know that one of the services you ticked above is conflicting with it. If it_does_ launch, then the above five services are fine, and you’ll have to keep looking for the offending service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Repeat steps 2 and 3 above until you find the service that conflicts with The Ascent.  
 
@@ -221,12 +221,12 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Repeat until you find the startup item that’s conflicting with The Ascent.
 5. Disable the problem program and reboot your PC.
@@ -253,22 +253,20 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-advanced-techniques-for-efficient-use-of-luts-in-cs6cc/"><u>[New] Advanced Techniques for Efficient Use of LUTs in CS6/CC</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-beginning-the-video-odyssey-how-to-create-an-engaging-youtube-channel-for-2024/"><u>[New] Beginning the Video Odyssey How to Create an Engaging YouTube Channel for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-explore-the-journey-creating-a-one-of-a-kind-tiktok-hash/"><u>[Updated] Explore the Journey Creating a One-of-a-Kind TikTok Hash</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-videos-enhance-your-watch-time/"><u>2024 Approved Instagram Videos Enhance Your Watch Time</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dragons-dogma-2-crashing-on-pc-how-to-fix/"><u>Dragon’s Dogma 2 Crashing on PC: How to Fix</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-game-lags-in-bl3-expert-advice-to-tackle-and-resolve-performance-hitches/"><u>Eliminate Game Lags in BL3: Expert Advice to Tackle and Resolve Performance Hitches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/escalating-your-gaming-experience-7-easy-tweaks-to-prevent-freezing-in-halo-infinite/"><u>Escalating Your Gaming Experience: 7 Easy Tweaks to Prevent Freezing in Halo Infinite</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-guide-fixing-cod-battle-royale-dev-error-6328/"><u>Expert Guide: Fixing Cod Battle Royale Dev Error 6328</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-nokia-c12-plus-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Nokia C12 Plus Devices</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nokia-c12-plus-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Nokia C12 Plus Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-optimal-sims-4-performance-on-pc-new-techniques-and-insights-from-the-pros-2024-edition/"><u>Mastering Optimal Sims 4 Performance on PC - New Techniques and Insights From the Pros, 2024 Edition!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/professional-strategies-boost-your-fps-in-escape-from-tarkov/"><u>Professional Strategies: Boost Your FPS in Escape From Tarkov</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-strategies-when-team-fortress-2-wont-boot-up-correctly/"><u>Solution Strategies When Team Fortress 2 Won't Boot Up Correctly</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tackling-latency-issues-for-smooth-video-conferencing-on-xbox-one-for-2024/"><u>Tackling Latency Issues for Smooth Video Conferencing on Xbox One for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/windows-10-gamers-guide-solving-steam-game-launch-issues-effectively/"><u>Windows 10 Gamers’ Guide: Solving Steam Game Launch Issues Effectively</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-game-on-latest-windows-10-gaming-and-application-hits/"><u>[New] Game On Latest Windows 10 Gaming & Application Hits</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-bridging-images-and-words-step-by-step-text-integration-guide/"><u>[Updated] Bridging Images & Words Step-by-Step Text Integration Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-illuminate-your-content-creation/"><u>[Updated] Illuminate Your Content Creation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-master-visual-effects-discover-youtubes-green-screen-treasure/"><u>[Updated] Master Visual Effects Discover YouTube’s Green Screen Treasure</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-wise-approach-to-organize-youtube-content-into-chapters/"><u>2024 Approved Step-Wise Approach to Organize YouTube Content Into Chapters</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-seamless-experience-how-this-hp-chromebook-transforms-life-without-a-window-operating-system-insights-from-zdnet/"><u>Discover the Seamless Experience: How This HP Chromebook Transforms Life Without a Window Operating System - Insights From ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-steps-to-rectify-the-audio-configuration-issues-itunes-warns-about/"><u>Easy Steps to Rectify the Audio Configuration Issues iTunes Warns About</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-nba-2k21-from-crashing-on-your-windows-computer/"><u>How to Stop NBA 2K21 From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-streamlined-steps-easy-recording-on-vimeo/"><u>In 2024, Streamlined Steps Easy Recording on Vimeo</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-pc-boot-failures-in-payday-2-expert-solutions-revealed/"><u>Overcoming PC Boot Failures in Payday 2 - Expert Solutions Revealed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-roblox-not-starting-up-quickly-with-our-latest-fixes-and-advice/"><u>Resolve Roblox Not Starting Up Quickly with Our Latest Fixes and Advice</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-missing-msvcr110dll-a-step-by-step-guide-for-helldivers-2/"><u>Solving the Missing MSVCR110.dll: A Step-by-Step Guide for Helldivers 2</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stay-on-schedule-explore-the-best-7-alarm-clock-applications-for-productivity-enthusiasts/"><u>Stay On Schedule: Explore the Best 7 Alarm Clock Applications for Productivity Enthusiasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/watch-dogs-legion-stabilized-overcoming-pc-crashing-issues-for-an-enhanced-gaming-experience/"><u>Watch Dogs: Legion Stabilized - Overcoming PC Crashing Issues for an Enhanced Gaming Experience</u></a></li>
 </ul></div>
 

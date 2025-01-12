@@ -1,7 +1,7 @@
 ---
 title: Effortless Solutions to Stop Your Chrome From Stalling on Windows 10 Systems
-date: 2025-01-03T22:19:28.612Z
-updated: 2025-01-05T22:08:16.857Z
+date: 2025-01-08T16:26:03.634Z
+updated: 2025-01-12T16:05:55.639Z
 tags:
   - win11
   - win10
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-585-1024x582.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3\. Wait until you see the following message. Then click**Close** .
@@ -75,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-581.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-582.png)
@@ -84,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Flush your DNS
@@ -95,18 +99,18 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/1-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2\. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/Snap361-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Launch Apex Legends to see if you resolved this issue. If not, don’t worry. Try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Unlink your Apex Legends account from your Steam account
@@ -125,10 +129,6 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-587-1024x754.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5\. On the Steam page, log into**the new steam account you created in step One** .  
  You should see a window telling you that your account is now linked when you successfully logged into the new account.
 
@@ -146,13 +146,13 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-591-1024x582.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.
 
@@ -176,10 +176,6 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4\. Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel, or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
@@ -187,6 +183,10 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 5\. Launch Apex Legends and enjoy the game with your friends.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-590.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Apex Legends
 
@@ -199,7 +199,7 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3\. Download and reinstall Apex Legends. Launch the game to see if you can pass the loading screen. If so, congratulations! You’ve resolved this issue.
@@ -223,18 +223,20 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-crafting-compelling-ad-messages-a-3-phase-copywriting-guide/"><u>[New] 2024 Approved Crafting Compelling Ad Messages A 3 Phase Copywriting Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-how-to-add-transitions-on-inshot-app-in-2024/"><u>[Updated] How to Add Transitions on Inshot App, In 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbots-method-for-replicating-natural-speech/"><u>Chatbot's Method for Replicating Natural Speech</u></a></li>
-<li><a href="https://techtrends.techidaily.com/converti-i-file-mpe-gratis-al-formato-ogg-con-leditore-online-movavi-scarica-e-usa-senza-costi/"><u>Converti I File MPE Gratis Al Formato OGG Con L'editore Online Movavi - Scarica E Usa Senza Costi</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-pc-game-freezes-solutions-for-continuous-crashes-in-valheim/"><u>Fixing PC Game Freezes: Solutions for Continuous Crashes in Valheim</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/google-wireless-nest-doorbell-battery-review/"><u>Google Wireless Nest Doorbell (Battery) Review</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722995370352-how-i-fixed-my-steam-server-connectivity-woes-read-on-for-solutions/"><u>How I Fixed My Steam-Server Connectivity Woes – Read On for Solutions!</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-7-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 7 without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/in-depth-analysis-fixing-hitman-3s-elusive-connection-failure-glitch/"><u>In-Depth Analysis: Fixing Hitman 3'S Elusive Connection Failure Glitch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-hunt-without-interruptions-resolve-far-cry-6-pc-performance-errors/"><u>Master the Hunt Without Interruptions: Resolve Far Cry 6 PC Performance Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-aliens-fireteam-elite-stability-issues-on-pc-for-a-seamless-gameplay-journey/"><u>Mastering 'Aliens: Fireteam Elite' Stability Issues on PC for a Seamless Gameplay Journey</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-stardew-valley-crash-issues-on-your-computer/"><u>Solving Stardew Valley Crash Issues on Your Computer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-best-value-screen-recorder-apps-under-50/"><u>[New] 2024 Approved Best Value Screen Recorder Apps Under $50</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-5-second-stories-explained-well-for-2024/"><u>[New] 5-Second Stories Explained Well for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-cutting-edge-psd-outlines-effects/"><u>[New] Cutting-Edge PSD Outlines Effects</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-seamless-steps-to-gather-thousands-of-videos-on-tiktok/"><u>[Updated] 2024 Approved Seamless Steps to Gather Thousands of Videos on TikTok</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-effective-screen-recording-with-a-focus-on-usability/"><u>[Updated] In 2024, Effective Screen Recording with a Focus on Usability</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-iconic-images-uncovered-histories/"><u>[Updated] In 2024, Iconic Images Uncovered Histories</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/1728462905083-windows-11/"><u>确保数据安全：在Windows 11上有效删除多余存储空间的三个选项</u></a></li>
+<li><a href="https://windows11.techidaily.com/cost-saving-strategies-for-new-windows-11-users/"><u>Cost-Saving Strategies for New Windows 11 Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeat-mozilla-firefoxs-freeze-problem-a-step-by-step-guide/"><u>Defeat Mozilla Firefox's Freeze Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-wwe-2k20-pc-crashing-problems-without-hassle/"><u>Fix WWE 2K20 PC Crashing Problems Without Hassle</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009070969-fix-your-borderlands-amoknot-loading-top-strategies-inside/"><u>Fix Your Borderlands amoKnot Loading: Top Strategies Inside!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ls-0013-error-fix-for-borderlands-3-effective-solutions-explored/"><u>LS-0013 Error Fix for Borderlands 3: Effective Solutions Explored</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-your-play-effective-fixes-for-forza-horizon-5s-performance-crashes-on-windows-pcs/"><u>Optimize Your Play: Effective Fixes for Forza Horizon 5'S Performance Crashes on Windows PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-play-experience-correcting-frame-rate-issues-and-smooth-gameplay-in-call-of-duty-mw2-for-windows-platforms/"><u>Optimizing Your Play Experience: Correcting Frame Rate Issues and Smooth Gameplay in Call of Duty: MW2 for Windows Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-battle-of-titans-how-gpt-stands-against-bert-in-ai-language-modeling/"><u>The Battle of Titans: How GPT Stands Against BERT in AI Language Modeling</u></a></li>
 </ul></div>
 

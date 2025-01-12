@@ -1,7 +1,7 @@
 ---
 title: "Enjoy Uninterrupted Gaming: Addressed and Fixed Total War Saga - Troy PC Errors"
-date: 2024-09-10T15:41:03.773Z
-updated: 2024-09-11T15:41:03.773Z
+date: 2025-01-09T16:01:29.350Z
+updated: 2025-01-12T16:02:29.713Z
 tags:
   - win11
   - win10
@@ -17,20 +17,6 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
 Left 4 Dead 2 is an old game but there’re still gamers who love playing it. The game is quite steady but if you’re newbies and encounter crashing, don’t worry, this post is here to help.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Try these fixes
 
 1. [Check your system requirement](https://tools.techidaily.com/drivereasy/download/)
@@ -40,19 +26,9 @@ Left 4 Dead 2 is an old game but there’re still gamers who love playing it. Th
 5. [Disable add-ons](https://tools.techidaily.com/drivereasy/download/)
 6. [Change compatibility mode](https://tools.techidaily.com/drivereasy/download/)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 1\. Check your system requirement
 
@@ -79,6 +55,10 @@ Left 4 Dead 2 is an old game but there’re still gamers who love playing it. Th
 | DirectX:    | Version 9.0c                                                   |
 | Storage:    | 13 GB available space                                          |
 | Sound Card: | DirectX 9.0c compatible sound card                             |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2\. Update your driver
 
@@ -115,26 +95,6 @@ OR
 
 If it doesn’t work for you, move to the next fix.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 3\. Shut down background apps
 
  Shutting down background apps completely might fix your problem. The workshop items could be the culprit for crashing. The computer will have more power and resources for Left 4 Dead 2 when there are no other applications in the background.
@@ -154,37 +114,14 @@ If it doesn’t work for you, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-2.png)
 3. Click the**LOCAL FILES**  tab, then click **Verify integrity of game files…**  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-1.png)
 4. Wait for the process to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-2-1.png)
 5. Restart your computer and open the game to check.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
 You can also disable Steam overlay in Left 4 Dead 2.
 
@@ -192,42 +129,13 @@ You can also disable Steam overlay in Left 4 Dead 2.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/2021-02-05_14-09-34.jpg)
 2. Click**In-Game** , then disable “**Enable the Steam Overlay while in-game** ” and click**OK** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/2021-02-05_14-09-03.jpg)
 
-If it doesn’t work for you, move to the next fix.
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-
-
+If it doesn’t work for you, move to the next fix.
 
 ### Fix 5\. Disable add-ons
 
@@ -257,6 +165,10 @@ To check if your add-ons are the fault, here the following things to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 4. Click **OK** then run it to check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
  I’ve provided most of the fixes that are proved by other users. But there’s no solution that is 100% effective for all PC users and Left 4 Dead 2 crashing causes can be various due to different situations. Hope one of the fixes would solve your issue, and if you have any questions or suggestions, you’re welcome to leave a comment. We’ll try our best to help.
@@ -267,8 +179,6 @@ To check if your add-ons are the fault, here the following things to do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -276,12 +186,23 @@ To check if your add-ons are the fault, here the following things to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-deciphring-virtuality-metaverse-and-multiverse-distinction/"><u>[New] Deciphring Virtuality Metaverse & Multiverse Distinction</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-best-youtube-to-mp3-converters-free-download-onlinewinmac/"><u>[Updated] Best YouTube to MP3 Converters Free Download [Online/Win/Mac]</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-strategic-steps-for-a-million-viewing-video-masterpiece/"><u>[Updated] In 2024, Strategic Steps for a Million-Viewing Video Masterpiece</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/20-anker-battery-pack-revolutionizes-portable-charging-experience-spotted-by-tech-expert-on-zdnet/"><u>$20 Anker Battery Pack Revolutionizes Portable Charging Experience, Spotted by Tech Expert on ZDNet</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-meme-matrix-top-10-memes-on-social-media-platforms/"><u>2024 Approved Meme Matrix Top 10 Memes on Social Media Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-fixing-persona/"><u>Comprehensive Guide to Fixing Persona</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-issues-steps-to-keep-elite-dangerous-running-smoothly-on-a-pc/"><u>Eliminating Issues: Steps to Keep Elite Dangerous Running Smoothly on a PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-splitgate-playability-fixing-issues-with-low-frames-and-stuttering-effects/"><u>Enhancing Splitgate Playability: Fixing Issues with Low Frames and Stuttering Effects</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-note-12-pro-4g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi Note 12 Pro 4G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010377946-instant-solutions-for-unresponsive-gaming-controllers-step-by-step-repair-tips/"><u>Instant Solutions for Unresponsive Gaming Controllers - Step-by-Step Repair Tips!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/masterclass-on-fixing-application-malfunctions-from-teardown-to-recovery/"><u>Masterclass on Fixing Application Malfunctions: From Teardown to Recovery</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-complete-breakdown-audifree-audit-tool-performance-for-2024/"><u>The Complete Breakdown AudiFree Audit Tool Performance for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-phasmophobia-vr-gameplay-issues/"><u>Troubleshooting Guide: Resolving Phasmophobia VR Gameplay Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-keeping-call-of-dutys-modern-warfare-smoothly-running-on-pc-systems-now/"><u>Troubleshooting Tips: Keeping Call of Duty's Modern Warfare Smoothly Running on PC Systems Now</u></a></li>
+<li><a href="https://fox-where.techidaily.com/troubleshooting-unresponsive-disc-drives-why-your-cddvd-player-cant-read-media-insights-by-yl-computing/"><u>Troubleshooting Unresponsive Disc Drives: Why Your CD/DVD Player Can't Read Media - Insights by YL Computing</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Get Lost Ark Running Again : Expert Tips for Launch Failures"
-date: 2024-12-30T18:44:31.346Z
-updated: 2025-01-05T21:40:34.935Z
+date: 2025-01-11T16:31:12.795Z
+updated: 2025-01-12T16:08:14.708Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 
 Delays and lags in-game are no doubt ruining the fun of the game. If that’s a problem for you when you’re playing Dota 2 and you want to fix Dota 2 lag during gameplay, you’re in the right place.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  There’re 2 types of lag relevant to gaming – one is FPS lag, the other is network lag. If you’re experience the FPS lag, usually you can adjust your graphics settings to fix it. If you’re experiencing network lag instead – your network connection has slowed down, you can check for bandwidth-hungry apps and your network settings.
@@ -33,10 +29,6 @@ Delays and lags in-game are no doubt ruining the fun of the game. If that’s a 
 4. **[Change your PC’s power plan](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Adjust the proxy settings](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/)
 6. **[Clear Steam cache and cookies](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: End unwanted background programs
 
@@ -79,10 +71,6 @@ Delays and lags in-game are no doubt ruining the fun of the game. If that’s a 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-810.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Relaunch Dota 2 to see if this has resolved your problem.
 
 If not, don’t worry. There are still 5 more fixes to try.
@@ -109,9 +97,17 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2020-11-10_17-46-28.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Click**Roll Back Driver** , then click**Yes** to confirm the action if a Window pops up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2020-11-10_17-47-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Relaunch your game to test the issue.
 
@@ -129,6 +125,10 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -138,10 +138,6 @@ If not, don’t worry. There are still 5 more fixes to try.
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Configure in-game video settings
 
@@ -153,29 +149,25 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-327.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the **VIDEO**  tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-328.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Modify the video settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-329.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)**  Click **APPLY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-330.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Relaunch your game to test your problem. If your issue persists, try the next fix.
 
@@ -187,12 +179,16 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Select **Power Options.**
@@ -221,6 +217,10 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-807.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the **Connections tab** , and then click **LAN settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-775.png)
@@ -230,10 +230,6 @@ If not, don’t worry. There are still 5 more fixes to try.
  If you lose your network connections after click OK, return to the LAN Settings window to re-enable the automatic detection setting.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-776.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Relaunch your game to see if this fixed your problem. If Dota 2 still lags while you’re gaming, check the fix below.
 
@@ -249,6 +245,10 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-788.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click**Web Browser** and click **DELETE WEB BROWSER CACHE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-787.png)
@@ -257,6 +257,10 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-786.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Click **DELETE ALL BROWSER COOKIES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-785.png)
@@ -264,10 +268,6 @@ If not, don’t worry. There are still 5 more fixes to try.
 **6)** Click **OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-784.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)**  Click**Downloads** , and then click **CLEAR DOWNLOAD CACHE** .
 
@@ -303,22 +303,18 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-quick-start-guide-to-setup-and-use-obs-on-apple-systems/"><u>[New] 2024 Approved Quick Start Guide to Setup and Use OBS on Apple Systems</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-checklist-for-ideal-podcast-title-creation/"><u>[New] The Ultimate Checklist for Ideal Podcast Title Creation</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/st-youtube-thumbnail-fonts-to-make-your-video-stunning-for-2024/"><u>20 Best YouTube Thumbnail Fonts to Make Your Video Stunning for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-the-problem-mass-effect-legendary-edition-not-loading-correctly/"><u>Bypassing the Problem: Mass Effect Legendary Edition Not Loading Correctly?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/download-voice-log-inspect/"><u>Download Voice Log Inspect</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-preventing-discord-network-disruptions/"><u>Effective Solutions for Preventing Discord Network Disruptions</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mastery-in-motion-steam-switch-controller-techniques/"><u>In 2024, Mastery in Motion Steam Switch Controller Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/masterful-solutions-to-prevent-halo-infinite-from-freezing-or-crashing-on-windows/"><u>Masterful Solutions to Prevent Halo Infinite From Freezing or Crashing on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-problem-when-your-paradox-launcher-wont-start-up/"><u>Solving the Problem When Your Paradox Launcher Won't Start Up</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-real-deal-on-chatgpt-plus-five-convincing-reasons-for-upgrading-your-experience/"><u>The Real Deal on ChatGPT Plus – Five Convincing Reasons for Upgrading Your Experience</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-ultimate-voice-changer-a-detailed-manual-on-morphvox-transformation-for-2024/"><u>The Ultimate Voice Changer A Detailed Manual on MorphVOX Transformation for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-10-video-editing-software-pick-best-free-and-paid-options-for-your-pc/"><u>Top 10 Video Editing Software Pick: Best Free & Paid Options for Your PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-strategies-for-eliminating-dota-2-lag-issues-as-of-2024-proven-fixes-inside/"><u>Top Strategies for Eliminating Dota 2 Lag Issues as of 2024 - Proven Fixes Inside!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-high-disk-and-cpu-utilization-in-wsappx-applications/"><u>Troubleshooting High Disk and CPU Utilization in WSAPPX Applications</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-the-nvidia-overlay-feature-fails-to-load/"><u>Troubleshooting Steps When the Nvidia Overlay Feature Fails to Load</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-your-nox-emulator-isnt-working-and-how-you-can-stabilize-it-on-windowsmac-systems/"><u>Why Your Nox Emulator Isn't Working and How You Can Stabilize It on Windows/Mac Systems</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/your-go-to-guide-for-the-best-top-10-apps-to-download-facebook-videos-on-android-for-2024/"><u>Your Go-To Guide for the Best Top 10 Apps to Download Facebook Videos on Android for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-eternal-loop-uncovering-the-themes-of-continuity-in-black-survival/"><u>'The Eternal Loop': Uncovering the Themes of Continuity in Black Survival</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquer-windows-servers-resolving-no-servers-found-in-apex-legends-(156-chars/"><u>Conquer Windows Servers: Resolving No Servers Found in Apex Legends (<156 Chars)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996647700-dayz-first-person-shooter-instant-and-simple-fixes-for-game-crashes/"><u>DayZ First-Person Shooter: Instant and Simple Fixes for Game Crashes!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/t-to-device-converting-youtube-tracks-for-idevices-for-2024/"><u>Direct to Device Converting YouTube Tracks for iDevices for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-cyberpunk-2077-how-to-enable-gpu-usage-on-windows-11/"><u>Fixing CYBERPUNK 2077: How to Enable GPU Usage on Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-zte-nubia-z60-ultra-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on ZTE Nubia Z60 Ultra to Protect Your Individual Information</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-look-at-what-you-should-know-about-samsungs-tv-app-ecosystem/"><u>In-Depth Look at What You Should Know About Samsung's TV App Ecosystem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-for-when-utorrent-wont-connect-or-download-files-correctly/"><u>Quick Fixes for When uTorrent Won't Connect or Download Files Correctly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/roblox-sound-problems-solved-fixes-for-players-with-windows-11-or-10/"><u>Roblox Sound Problems Solved - Fixes for Players with Windows 11 or 10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-vivo-v29-pro-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Vivo V29 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ted-no-more-top-7-android-apps-to-eliminate-ads/"><u>Unwanted No More! Top 7 Android Apps to Eliminate Ads</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-add-emojis-to-videos-on-youtubefacebooksnapchat-step-by-step-guide-for-2024/"><u>Updated Add Emojis to Videos on YouTube/Facebook/Snapchat Step by Step Guide for 2024</u></a></li>
 </ul></div>
 

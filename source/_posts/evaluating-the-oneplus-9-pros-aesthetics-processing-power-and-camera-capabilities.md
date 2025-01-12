@@ -1,7 +1,7 @@
 ---
 title: Evaluating the OnePlus 9 Pro's Aesthetics, Processing Power and Camera Capabilities
-date: 2024-12-29T22:06:09.226Z
-updated: 2025-01-05T16:45:55.655Z
+date: 2025-01-06T16:06:49.608Z
+updated: 2025-01-12T16:18:45.059Z
 categories:
   - BestProducts
 description: This Article Describes Evaluating the OnePlus 9 Pro's Aesthetics, Processing Power and Camera Capabilities
@@ -16,10 +16,6 @@ thumbnail: https://www.lifewire.com/thmb/_oQA5OnTfRjhnjYB43B-l0DaeeA=/400x300/fi
 ## Amazon Luna
 
 ![Amazon Luna](https://www.lifewire.com/thmb/D9MecP2109T2iYhabM0CPBRirFA=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_Hero_Square-cced3e5a3d3e4d24af1b85a59c76932d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -44,9 +40,17 @@ Lifewire / Jeremy Laukkonen
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Amazon Luna
 
 ![Amazon Luna](https://www.lifewire.com/thmb/NT3lnZ3hOwaGUbS2tHARE7zRT1Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_Hero_Square-cced3e5a3d3e4d24af1b85a59c76932d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -73,10 +77,6 @@ Lifewire / Jeremy Laukkonen
 
  Luna is an impressive service with what seems like solid underlying tech right out of the gate. The biggest questions seem to be how and when Amazon will go about filling holes in the library, how well the service will work when they eventually roll out 4K streaming, and whether we’ll see better Android support in the future.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Design and Controls: Decent enough app and a nearly flawless controller
 
  Luna isn’t a traditional game console, so there isn’t much design to speak of in terms of hardware. The two important elements here are the Luna app, which operates as an Android app on Fire TV and a web app in[Chrome](https://www.lifewire.com/what-is-google-chrome-4687647) and[Safari](https://www.lifewire.com/what-is-safari-4173608) , and the controller that’s technically optional.
@@ -84,7 +84,7 @@ Lifewire / Jeremy Laukkonen
 ![Amazon Luna](https://www.lifewire.com/thmb/c10USyUEVgaFrdeWRUBgX6MNpOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_05-7314cf2ae25a4f428d93f40cc56fb5d1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
@@ -117,15 +117,15 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/6427gP-MSnqe4st8hfuI-7yxlos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_03-f12a92bc606e43caa77b445a2fdcf1c1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Jeremy Laukkonen
 
  If you do opt to link your controller to your Amazon account when you buy it, and you already own other Amazon devices like[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) that are connected to your Wi-Fi connection, then you can take advantage of Amazon’s Wi-Fi simple setup that shaves some time off the setup process. Otherwise, you just use the Luna controller app on your Android or iPhone to hook the controller up to Wi-Fi.
 
  After the initial setup process, your Luna controller is ready to go regardless of platform. Power on the controller, launch the Luna app or website, and everything automatically connects without any additional work or input.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Performance: Impressive game streaming, but no 4K
 
@@ -159,25 +159,21 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/NBB1N6qtwbtdjrUgwr1YaBaTuBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_02-37837bf860d244d3ab11ff01f37c609c-db472e204ada4ccca88e7510eacfae34.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Jeremy Laukkonen
 
  For some reason, the fighting category is populated by titles like the rogue-like shooter Everspace and the co-op brawler River City Girls. No actual fighting games, though. The horror category was empty until Amazon scored Resident Evil 7 Gold Edition and also saddled gorefest pixel art platformer Valfaris with the horror tag.
 
  It’s clear that Amazon is working to bring a nice mix of games to the service, but the depth and breadth of the titles you can access with a basic subscription remain the biggest question as Luna moves through beta and toward general launch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Price: Affordable fee reflects the thin library
 
  Luna comes with a price tag of $4.95 per month during the beta period, with the insinuation that it will increase later on. It’s uncertain as to whether or not the price will actually go up, but right now it’s a pretty good deal. The only real caveat is that the attractive price tag is balanced by a somewhat thin library. Go ahead and check the library before you sign up. If you see more than a handful of games you’re interested in, then Luna is absolutely worth the price of admission.
 
  The Luna controller has a heftier price tag of $50, but that’s actually pretty reasonable if you compare it to other wireless controllers. It’s cheaper than a lot of the other options, and you can use it via Wi-Fi with Luna, or via Bluetooth or USB-C to play non-Luna games on your PC. All in all, it’s a good controller that’s priced competitively.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Amazon Luna vs. Microsoft Game Pass Ultimate
 
@@ -196,6 +192,10 @@ Lifewire / Jeremy Laukkonen
 **A solid game streaming service.**
 
  Amazon Luna is an impressive game streaming service that works surprisingly well whether or not you buy the optional controller. It isn’t perfect, and you’re likely to experience hiccups here and there, but it’s an extremely affordable way to experience dozens of games, many of which would otherwise require an expensive gaming PC or console, without any kind of initial investment. The future of the service remains uncertain, and the precedent of locking Ubisoft games behind an expensive additional paywall isn’t a great sign, but Amazon has a chance to make a real splash in the gaming world with Luna.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -233,22 +233,24 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-embracing-constructive-feedback-ignoring-the-rest-for-2024/"><u>[New] Embracing Constructive Feedback, Ignoring the Rest for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-adding-music-to-photo-online/"><u>[Updated] 2024 Approved Adding Music to Photo Online</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-sleek-superior-substantial-reviewing-the-asus-mg28uq-4k-display/"><u>[Updated] Sleek, Superior, Substantial – Reviewing the ASUS MG28UQ 4K Display</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-joyjingles-where-to-find-hilarious-ringtone-links/"><u>2024 Approved JoyJingles Where to Find Hilarious Ringtone Links</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elevate-cinematic-quality-introducing-device-based-filters/"><u>Elevate Cinematic Quality Introducing Device-Based Filters</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-game-stutters-and-frame-drops-for-smooth-play-in-forza-horizon-5/"><u>Fixing Game Stutters and Frame Drops for Smooth Play in Forza Horizon 5</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/immerse-yourself-in-the-world-of-chrollo-with-high-quality-imagery-from-yl-softwares-creative-suite/"><u>Immerse Yourself in the World of Chrollo with High-Quality Imagery From YL Software's Creative Suite!</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-discovering-10-ultimate-pic-finder-portals/"><u>In 2024, Discovering 10 Ultimate Pic Finder Portals</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-quick-guide-overcoming-youtube-short-hurdles/"><u>In 2024, Quick Guide Overcoming YouTube Short Hurdles</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-fix-eliminating-starcraft-2s-sudden-shutdown-problem-on-desktops/"><u>Master the Fix: Eliminating StarCraft 2'S Sudden Shutdown Problem on Desktops</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-ui-issue-27711-on-call-of-duty-black-ops-cold-war-for-smoother-gaming/"><u>Overcome UI Issue #27711 on 'Call of Duty: Black Ops Cold War' For Smoother Gaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-assassins-creed-rogue-freezing-issues-expert-fixing-tips-and-techniques/"><u>Resolving Assassin's Creed Rogue Freezing Issues - Expert Fixing Tips & Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-fixes-for-starfield-audio-glitches-no-more-skipping-or-hiccups/"><u>Solved: Fixes for Starfield Audio Glitches - No More Skipping or Hiccups</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-updating-minecrafts-core-game-client/"><u>Step-by-Step Fixes for Updating Minecraft's Core Game Client</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/tailoring-windows-interface-with-ease-mastering-control-panel-adjustments-at-yl-software/"><u>Tailoring Windows Interface with Ease: Mastering Control Panel Adjustments at YL Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-and-overcome-among-us-2024-crashes-with-these-proven-fixes/"><u>Troubleshoot and Overcome 'Among Us' 2024 Crashes with These Proven Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-the-blue-screen-of-death-in-hell-divers-2/"><u>Ultimate Guide: Resolving the Blue Screen of Death in Hell Divers 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/detective-in-la-uncovering-clues-now-playable-on-your-computer/"><u>'Detective in LA: Uncovering Clues' Now Playable on Your Computer</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-elite-cloud-saving-solutions-compilation-for-2024/"><u>[New] Elite Cloud Saving Solutions Compilation for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-exploring-top-videography-apps-for-enhanced-win11-experience/"><u>[New] Exploring Top Videography Apps for Enhanced Win11 Experience</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-avoiding-illegal-content-youtube-to-mp4-transfer-safely/"><u>2024 Approved Avoiding Illegal Content YouTube to MP4 Transfer Safely</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-windows-1110-malwarebytes-functional-flaws/"><u>Addressing Windows 11/10 Malwarebytes Functional Flaws</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoid-game-crashes-8-must-know-fixes-for-a-flawless-playthrough-of-guardians-of-the-galaxy-pc-edition/"><u>Avoid Game Crashes: 8 Must-Know Fixes for a Flawless Playthrough of Guardians of the Galaxy (PC Edition)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-lag-winning-against-fortnites-pc-freezes/"><u>Beat the Lag: Winning Against Fortnite's PC Freezes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/digital-dynamo-recording-on-a-mac-for-2024/"><u>Digital Dynamo Recording on a Mac for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/epic-games-launcher-clearing-up-the-mystery-behind-the-opaque-interface-problems/"><u>Epic Games Launcher: Clearing Up the Mystery Behind the Opaque Interface Problems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/essential-metaverse-tools-top-7-devices-for-virtual-readiness/"><u>Essential Metaverse Tools Top 7 Devices for Virtual Readiness</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-leave-a-life360-group-on-xiaomi-redmi-note-12t-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Xiaomi Redmi Note 12T Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-unhandled-exception-error-0xc0000005-in-activisions-cold-war/"><u>How to Resolve the Unhandled Exception Error 0xC0000005 in Activision's Cold War</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-itel-a05s-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Itel A05s phone? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/in-depth-strategies-for-overcoming-packet-transfer-challenges-on-discord-platforms/"><u>In-Depth Strategies for Overcoming Packet Transfer Challenges on Discord Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-among-us-stability-expert-solutions-to-persistent-crashes/"><u>Mastering Among Us Stability: Expert Solutions to Persistent Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-monitor-mayhem-a-guide-to-correcting-screen-shimmer-woes/"><u>Mastering Monitor Mayhem: A Guide to Correcting Screen Shimmer Woes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fixes-for-low-frame-rates-elevate-your-war-thunder-gameplay-now/"><u>The Ultimate Fixes for Low Frame Rates: Elevate Your War Thunder Gameplay Now</u></a></li>
 </ul></div>
 

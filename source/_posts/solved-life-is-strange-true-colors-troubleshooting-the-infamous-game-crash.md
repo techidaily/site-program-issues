@@ -1,7 +1,7 @@
 ---
 title: "Solved: Life Is Strange: True Colors - Troubleshooting the Infamous Game Crash"
-date: 2025-01-04T18:11:27.052Z
-updated: 2025-01-05T16:51:34.913Z
+date: 2025-01-08T16:03:43.226Z
+updated: 2025-01-12T16:20:28.725Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 6. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 7. [**Disable your X-Fi sound card (If you have an X-Fi sound card)**](https://www.drivereasy.com/knowledge/how-to-fix-gears-of-war-5-crash/#F7)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  This problem may occur if you are using the wrong graphicsdriver or it’s out of date. So you should update your graphicsdriver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -51,6 +55,10 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -75,7 +83,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-136.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click Captures, then toggle **off** the switch for **Record in the background while I’m playing a game** .
@@ -94,10 +102,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3:   **Reset the Microsoft Store cache**
 
  Overtime, Windows caches downloads made through Windows Store. This can take up a lot of space and cause problems when downloads come to a halt. So you can reset the Microsoft Store cache to fix problems like this and see if it solves the Gear 5 crashes issue.
@@ -106,10 +110,14 @@ Here is how to reset the Microsoft Store cache:
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and type **R** at the same time, then type **wsreset.exe** and press **Enter** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Wait until the whole Windows store cache reset process finishes.
@@ -120,15 +128,15 @@ Here is how to reset the Microsoft Store cache:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-129-1024x796.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if the Gears of War 4 crashes issues have been fixed. If yes, then great! If it still persists, please try **Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: **Check for Windows Updates**
 
@@ -151,10 +159,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Update DirectX
 
  DirectX is a suite of components in Windows that allows heavy multimedia apps such as games to interact with your video and audio cards. If you’re running an old version of DirectX, it’s possible that it won’t be able to handle the graphics rendering and processing task, which might cause the Gears of War to crash. So you should update DirectX to the latest version to see if it fixes the issue.
@@ -168,7 +172,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall the game
@@ -178,10 +182,6 @@ Here is how to do it:
  Once you’ve reinstalled Gears of War 5 on your PC, run it to see if it still crashes.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Disable your X-Fi sound card (If you have an X-Fi sound card)
 
@@ -208,16 +208,22 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ecure-and-simple-grab-your-desired-youtube-cover-at-no-charge/"><u>[New] Secure & Simple Grab Your Desired YouTube Cover at No Charge</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-twitter-sharing-guide-for-tiktok-content/"><u>[Updated] Twitter Sharing Guide for TikTok Content</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-visioncutting-software/"><u>[Updated] VisionCutting Software</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-installation-access-the-ultimate-downloaded-instructions-for-behringers-usb-sound-device/"><u>Effortless Installation: Access the Ultimate Downloaded Instructions for Behringer's USB Sound Device!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enshrouded-game-error-resolved-play-uninterrupted-on-your-desktop/"><u>Enshrouded Game Error Resolved: Play Uninterrupted on Your Desktop</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-apex-legends-playtime-mastering-connection-troubleshooting-techniques/"><u>Fix Your Apex Legends Playtime: Mastering Connection Troubleshooting Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fortnite-wont-start-fix-the-you-dont-have-permission-problem-easily/"><u>Fortnite Won’t Start? Fix the ‘You Don't Have Permission’ Problem Easily</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-sonic-sleuths-den-acquire-and-scrutinize-audio-files/"><u>In 2024, Sonic Sleuths' Den Acquire & Scrutinize Audio Files</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-game-playback-problems-steam-games-wont-start-on-windows-10-computers/"><u>Resolve Game Playback Problems: Steam Games Won't Start on Windows 10 Computers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-review-of-minecraft-a-timeless-fun-for-everyone/"><u>The Definitive Review of Minecraft: A Timeless Fun for Everyone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlock-and-install-hyper-v-feature-on-windows-10-a-simple-walkthrough/"><u>Unlock and Install Hyper-V Feature on Windows 10 - A Simple Walkthrough</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-10-secret-tips-to-better-use-canva-photo-editor/"><u>[New] 10 Secret Tips to Better Use Canva Photo Editor</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-close-up-control-zooming-into-team-meetings-with-msteams/"><u>2024 Approved Close-Up Control Zooming Into Team Meetings with MSTEAMS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-blackout-effective-fixes-to-kickstart-your-overwatch-adventure-without-a-hitch/"><u>Beat the Blackout: Effective Fixes to Kickstart Your Overwatch Adventure Without a Hitch</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/stream-tech-innovative-hardware-and-software-guide-for-youtubers/"><u>Best Stream Tech Innovative Hardware & Software Guide for Youtubers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rints-for-making-youtube-intro-videos-that-stick/"><u>Blueprints for Making YouTube Intro Videos that Stick</u></a></li>
+<li><a href="https://program-issues.techidaily.com/break-free-from-teardown-crash-woes-an-extensive-problem-solving-guide/"><u>Break Free From Teardown Crash Woes: An Extensive Problem-Solving Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bypass-the-access-denied-hurdle-in-your-usb-setup-process-essential-tips-and-tricks/"><u>Bypass the 'Access Denied' Hurdle in Your USB Setup Process: Essential Tips and Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-solutions-for-steelseries-gg-mouse-engine-malfunctioning-under-windows-os/"><u>Comprehensive Solutions for SteelSeries GG Mouse Engine Malfunctioning Under Windows OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077s-latest-glitch-understanding-the-impact-of-error-2024/"><u>Cyberpunk 2077'S Latest Glitch: Understanding the Impact of Error 2024!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-correcting-and-rebooting-your-discord-webcam-issues/"><u>Expert Advice: Correcting and Rebooting Your Discord Webcam Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-why-god-of-war-continuously-crashes-on-your-pc/"><u>Fixing the Issue: Why God of War Continuously Crashes on Your PC</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-elevate-your-film-experience-integrating-subtitles-in-wmp/"><u>In 2024, Elevate Your Film Experience Integrating Subtitles in WMP</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-transform-your-content-to-stardom-studio-guide/"><u>In 2024, Transform Your Content to Stardom Studio Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-listings-for-melodic-mobile-alerts-for-2024/"><u>Master Listings for Melodic Mobile Alerts for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-with-corsair-icue-on-windows-1011-a-step-by-step-guide/"><u>Resolving Issues with Corsair iCUE on Windows 10/11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-fixing-discord-not-starting-up/"><u>Troubleshooting Steps for Fixing 'Discord Not Starting Up'</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-hints-to-reveal-invisible-seagate-hd/"><u>Windows 11 Hints to Reveal Invisible Seagate HD</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Overcome The Persistent Black Screen in Your Persona Nova Gameplay
-date: 2025-01-04T23:50:41.833Z
-updated: 2025-01-05T21:41:52.792Z
+date: 2025-01-05T16:01:27.245Z
+updated: 2025-01-12T16:26:11.066Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 Bothered by Enlisted black screen issue? Don’t worry, you’re not alone. This post shows you how to fix black screen issues step-by-step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Before trying…
@@ -28,10 +28,6 @@ There’re things you can do before trying complicated fixes:
 * Make sure you’ve closed unnecessary background programs
 * Make sure Enlisted are not blocked from your firewall
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -39,6 +35,10 @@ There’re things you can do before trying complicated fixes:
 1. [Run as administrator](https://tools.techidaily.com/drivereasy/download/)
 2. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 3. [Update graphic driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Run as administrator
 
@@ -50,14 +50,14 @@ There’re things you can do before trying complicated fixes:
 3. In the Compatibility tab, click **Run as administrator** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If it’s not working, move to the next fix.
@@ -76,7 +76,7 @@ If it’s not working, move to the next fix.
  If this didn’t solve your problems, read on for further troubleshooting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update graphic driver
@@ -124,21 +124,17 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-optimize-your-online-presence-youtube-to-dailymotion-video-migration/"><u>[Updated] In 2024, Optimize Your Online Presence YouTube to Dailymotion Video Migration</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-future-awaits-equipping-yourself-for-metaverse-life-top-7/"><u>2024 Approved The Future Awaits Equipping Yourself for Metaverse Life (Top 7)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-resident-evil-villages-pc-lags-a-complete-troubleshooting-and-solution-tutorial/"><u>Beat Resident Evil Village's PC Lags: A Complete Troubleshooting and Solution Tutorial</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassed-obstacles-how-gamers-can-enjoy-fix-driven-play-of-fnaf-amid-pc-compatibility-concerns-post-security-breach-patches/"><u>Bypassed Obstacles! How Gamers Can Enjoy Fix-Driven Play of FNAF Amid PC Compatibility Concerns Post-Security Breach Patches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/defeat-disconnection-the-six-key-techniques-to-restore-terraria-connectivity/"><u>Defeat Disconnection: The Six Key Techniques to Restore Terraria Connectivity</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-11-pro-max-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 11 Pro Max Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-motorola-moto-e13-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Motorola Moto E13 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-creating-a-narrative-structure-in-online-video-tutorials/"><u>In 2024, Creating a Narrative Structure in Online Video Tutorials</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-tecno-spark-20-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Tecno Spark 20 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/legal-dispute-civ-6-innovative-approaches-to-tackling-2024s-privileged-access-error/"><u>Legal Dispute CIV-6: Innovative Approaches to Tackling 2024'S Privileged Access Error</u></a></li>
-<li><a href="https://win-able.techidaily.com/mp4quicktimeqt/"><u>MP4形式へのQuickTime動画とQT動画の効率的な変換方法</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005134870-no-more-crashes-in-terraria-top-fixes-for-players-to-try-now/"><u>No More Crashes in Terraria – Top Fixes for Players to Try Now</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-startup-difficulties-with-valheim-expert-tips-and-tricks/"><u>Overcoming Startup Difficulties with Valheim : Expert Tips & Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/participate-actively-in-continuous-learning-activities-including-webinars-workshops-training-sessions-to-improve-product-knowledge-and-stay-up-to-date-on-in402/"><u>Participate Actively in Continuous Learning Activities, Including Webinars, Workshops, Training Sessions to Improve Product Knowledge and Stay Up-to-Date on Industry Trends Relevant to Customer Support Best Practices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solutions-for-silencing-subwoofer-noise-a-comprehensive-guide/"><u>Solutions for Silencing Subwoofer Noise: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-certain-data-tasks-are-best-handled-by-excel-not-chatgpt-find-out-how/"><u>Why Certain Data Tasks Are Best Handled by Excel, Not ChatGPT – Find Out How!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-mobile-audio-enhancers-for-swift-soundplay/"><u>[New] 2024 Approved Mobile Audio Enhancers for Swift Soundplay</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-ipad-users-create-professional-time-lapse-videos/"><u>2024 Approved IPad Users Create Professional Time-Lapse Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722990953983-cyberpunk-2077-not-utilizing-graphics-card-in-windows-10-heres-how-to-fix-it/"><u>Cyberpunk 2077 Not Utilizing Graphics Card in Windows 10? Here’s How to Fix It!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-strategies-to-repair-launch-issues-with-avatar-frontiers-of-pandora/"><u>Effective Strategies to Repair Launch Issues with 'Avatar: Frontiers of Pandora'</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/enhanced-performance-through-advanced-cookiebot-solutions/"><u>Enhanced Performance Through Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-z-fold-5-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy Z Fold 5 by Name | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/investigating-unmodified-audio-from-ffmpeg-output-for-2024/"><u>Investigating Unmodified Audio From FFmpeg Output for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-undetected-hard-drive-issue/"><u>Resolving Undetected Hard Drive Issue</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/restoring-correct-self-image-amidst-message-distortion-for-2024/"><u>Restoring Correct Self-Image Amidst Message Distortion for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-for-persistent-crashes-in-back-4-blood-game-on-windows/"><u>Solution Guide for Persistent Crashes in 'Back 4 Blood' Game on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-performance-issues-smooth-gameplay-for-assassins-creed-valhalla-on-pc/"><u>Solving Performance Issues: Smooth Gameplay for Assassin's Creed Valhalla on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-for-a-stable-assassins-creed-odyssey-experience-on-your-computer/"><u>Ultimate Troubleshooting Guide for a Stable Assassin's Creed Odyssey Experience on Your Computer</u></a></li>
 </ul></div>
 

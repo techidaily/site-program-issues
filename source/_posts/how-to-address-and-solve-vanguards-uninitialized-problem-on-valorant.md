@@ -1,7 +1,7 @@
 ---
 title: How to Address and Solve Vanguard's Uninitialized Problem on Valorant
-date: 2024-12-29T19:13:17.487Z
-updated: 2025-01-05T21:31:29.788Z
+date: 2025-01-07T16:05:17.801Z
+updated: 2025-01-12T16:18:36.478Z
 tags:
   - win11
   - win10
@@ -52,6 +52,10 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1\. Allow your game to run through Windows Firewall
 
  Check for any firewall and antivirus restrictions that may hinder your connection. As reported by some gamers, turning off firewall restrictions and uninstalling antivirus software worked for them immediately.
@@ -66,14 +70,14 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 3. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you know Public network is an unsafe territory, do not allow any third-party application of unknown origin on any public network in your computer settings.
@@ -83,10 +87,6 @@ If your game isn’t on the list, follow these steps:
 1. Click on **Change settings > Allow another app…**  
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/07/add-program.gif)
 2. Click**Browse** to locate your game (**BlackOpsColdWar.exe** ) and click**Add** once selected.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Once added, tick both the**Private** and**Public** boxes for the application.
 4. Restart your Battle.net and play the game again the test the issue.
@@ -111,7 +111,7 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3\. Change your DNS server
@@ -121,22 +121,14 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
@@ -144,6 +136,14 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click **OK** to apply.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
 
@@ -204,24 +204,22 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-safeguarding-your-music-three-recording-approaches-for-2024/"><u>[New] Safeguarding Your Music Three Recording Approaches for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unlocking-hdr-potential-with-photo-hdr-techniques/"><u>[New] Unlocking HDR Potential with Photo-HDR Techniques</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-heads-up-on-high-tech-the-best-motorcycle-cam-gear-guide-in-23/"><u>[Updated] 2024 Approved Heads Up on High-Tech - The Best Motorcycle Cam Gear Guide in '23</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-easy-guide-screen-snapshots-in-windows-free-tutorials/"><u>[Updated] Easy Guide Screen Snapshots in Windows (Free Tutorials)</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-the-ultimate-angle-arsenal-samsung-vs-lg-comparison/"><u>[Updated] The Ultimate Angle Arsenal Samsung Vs LG Comparison</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-quick-guide-to-alter-username-in-google-meet-sessions/"><u>2024 Approved Quick Guide to Alter Username in Google Meet Sessions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/black-screen-woes-no-more-successful-fix-for-common-display-issues-explained/"><u>Black Screen Woes No More: Successful Fix for Common Display Issues Explained</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-fix-for-cod-warzones-dev-error-6634-updated-tips-and-tricks/"><u>Comprehensive Fix for COD Warzone's Dev Error 6634 - Updated Tips & Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-stabilizing-samurai-warriors-5-gameplay-on-your-computer-system/"><u>Effective Solutions for Stabilizing Samurai Warriors 5 Gameplay on Your Computer System</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-lag-issues-and-improve-frame-rate-in-call-of-duty-warzone-expert-tips-inside/"><u>Fix Lag Issues & Improve Frame Rate in Call of Duty Warzone - Expert Tips Inside!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-motorola-edge-2023-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Motorola Edge 2023 by Name | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-realme-10t-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Realme 10T 5G Phones</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-technical-hurdles-in-bloodhunt-how-to-stop-it-from-freezing-or-crashing-on-windows/"><u>Overcoming Technical Hurdles in BloodHunt: How to Stop It From Freezing or Crashing on Windows</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-ultimate-guide-to-eliminating-fortnites-latency-problems/"><u>Resolved: Ultimate Guide to Eliminating Fortnite's Latency Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-startup-hurdles-for-mass-effect-legendary-edition-gamers/"><u>Resolving Startup Hurdles for Mass Effect Legendary Edition Gamers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723000981836-step-by-step-fixes-for-warzones-notorious-dev-error-5573-pc-edition-and-console-tips-included/"><u>Step-by-Step Fixes for Warzone's Notorious Dev Error #5573: PC Edition & Console Tips Included!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-fast-track-to-faster-download-speeds-on-steams-origin-platform-2024-insights/"><u>The Fast Track to Faster Download Speeds on Steam's Origin Platform - 2024 Insights</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722991454756-troubleshooting-euro-truck-simulator-2-for-optimal-performance-and-no-more-pc-crashes/"><u>Troubleshooting Euro Truck Simulator 2 for Optimal Performance & No More PC Crashes!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unboxing-the-polaroid-camplus-cube-action-video-analysis/"><u>[Updated] In 2024, Unboxing the Polaroid Cam+ Cube Action Video Analysis</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-essential-tools-for-perfect-images/"><u>2024 Approved Essential Tools for Perfect Images</u></a></li>
+<li><a href="https://program-issues.techidaily.com/anno-1800-update-addressing-and-correcting-directx-trouble-shooting-steps/"><u>Anno 1800 Update: Addressing and Correcting DirectX Trouble-Shooting Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/arma-3-optimization-top-solutions-for-a-crash-free-experience/"><u>Arma 3 Optimization - Top Solutions for a Crash-Free Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004229142-cant-get-utorrent-to-work-try-out-these-7-reliable-repairs/"><u>Can't Get Utorrent to Work? Try Out These 7 Reliable Repairs!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-uniden-r3-top-quality-design-for-long-distance-radar-alerts/"><u>Comprehensive Review of the Uniden R3 - Top-Quality Design for Long Distance Radar Alerts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquer-fortnite-lag-and-crash-issues-on-your-pc-top-fixes-for-a-seamless-experience/"><u>Conquer Fortnite Lag & Crash Issues on Your PC – Top Fixes for a Seamless Experience</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/ensure-your-windows-10-security-mastering-the-use-of-backup-and-restore-from-windows-7/"><u>Ensure Your Windows 10 Security: Mastering the Use of Backup & Restore (From Windows 7)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-honor-70-lite-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Honor 70 Lite 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maplestory-game-launch-fixed-enjoy-uninterrupted-playtime/"><u>MapleStory Game Launch Fixed - Enjoy Uninterrupted Playtime</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1125904-9781609254674-modern-shamanic-living/"><u>Modern Shamanic Living | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-your-experience-overcome-common-crashing-challenges-in-football-manager-2021-on-windows-computers/"><u>Optimize Your Experience - Overcome Common Crashing Challenges in Football Manager 2021 on Windows Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revitalize-your-warfare-experience-with-these-strategies-to-overcome-game-boot-failures/"><u>Revitalize Your Warfare Experience with These Strategies to Overcome Game Boot Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stability-secrets-avoiding-daily-driven-game-crashes-this-year-2024/"><u>Stability Secrets: Avoiding Daily Driven Game Crashes This Year, 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-net-core-installation-directive-on-pcs/"><u>Tackling .NET Core Installation Directive on PCs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-cyber-week-pc-bargains-your-ultimate-guide-to-savings-in-oct-2024-insights/"><u>Top Cyber Week PC Bargains: Your Ultimate Guide to Savings in Oct. 2024 Insights</u></a></li>
 </ul></div>
 

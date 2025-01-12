@@ -1,7 +1,7 @@
 ---
 title: Ultimate Troubleshooting Tips for Fixing Mordhau's Crash Errors
-date: 2024-12-30T16:28:56.919Z
-updated: 2025-01-05T20:01:04.852Z
+date: 2025-01-11T16:28:18.856Z
+updated: 2025-01-12T16:16:20.150Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 5. **[Stop overclocking / turbo boosting](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Update or reinstall DirectX files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify the game files
 
  It Takes Two may crash if some game files are corrupted or broken. If this is the case, you can follow the steps below to verify the game files and repair the game:
@@ -44,10 +48,14 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch It Takes Two to see if it crashes or not. If the game still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
 
@@ -75,10 +83,6 @@ There are mainly two ways you can update your graphics drivers:
 
 **Or**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -100,7 +104,7 @@ There are mainly two ways you can update your graphics drivers:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You need to restart your PC after you finish updating your graphics driver.
@@ -117,10 +121,6 @@ There are mainly two ways you can update your graphics drivers:
 
  Launch It Takes Two to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Add the game as an exception to your 3rd party antivirus software
 
  If you have 3rd party antivirus software installed on your computer, make sure you’ve added It Takes Two as an exception to your antivirus software, because those third-party antivirus software hooks very deep into your system, and it may interfere with the game.
@@ -132,7 +132,7 @@ There are mainly two ways you can update your graphics drivers:
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Stop overclocking / turbo boosting
@@ -179,18 +179,15 @@ There are mainly two ways you can update your graphics drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-transform-your-screen-pip-tutorials-for-macos-enthusiasts/"><u>[New] Transform Your Screen PIP Tutorials for macOS Enthusiasts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-tailored-obs-tweaks-for-affordable-systems/"><u>[Updated] 2024 Approved Tailored OBS Tweaks for Affordable Systems</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-your-essential-top-10-playlist/"><u>[Updated] 2024 Approved Your Essential Top 10 Playlist</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-best-talker-alteration-apps-for-video-content-makers-for-2024/"><u>[Updated] Best Talker Alteration Apps for Video Content Makers for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-combining-skypes-ease-with-zooms-advanced-features/"><u>[Updated] Combining Skype's Ease with Zoom's Advanced Features</u></a></li>
-<li><a href="https://program-issues.techidaily.com/clearing-up-confusion-a-comprehensive-guide-to-overcoming-finals-error-tfl-a002/"><u>Clearing Up Confusion: A Comprehensive Guide to Overcoming Finals Error TFL-A00#2</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cod-modern-warfare-3-update-fixed-app-no-longer-crashes/"><u>COD Modern Warfare 3 Update Fixed - App No Longer Crashes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-ultimate-password-managers-beyond-lastpass-zdnet/"><u>Discover the Ultimate Password Managers (Beyond LastPass) - ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-for-when-your-discord-camera-stops-responding/"><u>Effective Fixes for When Your Discord Camera Stops Responding</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-lcd-wobbling-issues-computers/"><u>Fix LCD Wobbling Issues (Computers)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-from-iphone-11-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even From iPhone 11 If Youve Tried Everything</u></a></li>
-<li><a href="https://program-issues.techidaily.com/simple-solutions-stop-the-constant-crashes-in-deathloop-game-on-your-pc/"><u>Simple Solutions: Stop the Constant Crashes in Deathloop Game on Your PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unstuck-the-action-effective-fixes-for-borderlands-3-stalling-problems/"><u>Unstuck the Action! Effective Fixes for Borderlands 3 Stalling Problems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-into-other-worlds-androids-cutting-edge-15-simulation-list/"><u>[Updated] Into Other Worlds Android's Cutting-Edge 15 Simulation List</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-proven-youtube-seo-tricks-boosting-video-reach-and-visibility/"><u>[Updated] Proven YouTube SEO Tricks Boosting Video Reach and Visibility</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unlocking-the-full-potential-of-googles-podcast-tools-for-2024/"><u>[Updated] Unlocking the Full Potential of Google's Podcast Tools for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-video-size-and-seconds-deciphering-20mb-duration-for-2024/"><u>[Updated] Video Size & Seconds Deciphering 20MB Duration for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/critical-bug-fixes-for-call-of-duty-gamers-addressing-modern-warfare-and-warzone-errors/"><u>Critical Bug Fixes for Call of Duty Gamers - Addressing Modern Warfare and Warzone Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-fixes-for-users-unable-to-access-discord-application/"><u>Essential Fixes for Users Unable to Access Discord Application</u></a></li>
+<li><a href="https://program-issues.techidaily.com/jurassic-world-evolution-crashing-solved/"><u>Jurassic World Evolution Crashing [Solved]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-opening-issues-with-razer-synapse-software/"><u>Troubleshooting Steps for Opening Issues with Razer Synapse Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-similarities-and-contrasts-an-in-depth-look-into-gpt-and-bert/"><u>Unveiling Similarities and Contrasts: An In-Depth Look Into GPT and BERT</u></a></li>
 </ul></div>
 

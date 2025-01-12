@@ -1,7 +1,7 @@
 ---
 title: Conquer Fortnite Lag & Crash Issues on Your PC – Top Fixes for a Seamless Experience
-date: 2025-01-01T16:16:12.060Z
-updated: 2025-01-05T17:53:02.376Z
+date: 2025-01-11T16:18:42.439Z
+updated: 2025-01-12T16:13:27.695Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/4da3de972356b3a0046491847cf09381445449045
 6. **[Run your game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: **Restart your computer**
 
  Sometimes a game can crash or stop responding because of a temporary issue that you can fix by restarting your device.
@@ -53,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/4da3de972356b3a0046491847cf09381445449045
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
 If this didn’t help in resolving your problem, try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: **Run your game as an administrator**
 
@@ -75,7 +67,7 @@ If this didn’t help in resolving your problem, try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Relaunch Steam and_Terraria_ to test your issue.
@@ -83,7 +75,7 @@ If this didn’t help in resolving your problem, try the fix below.
  You can hopefully run the game without crashing now. If the problem still exists, then go ahead with the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: **Update your graphics driver**
@@ -115,10 +107,6 @@ If this didn’t help in resolving your problem, try the fix below.
 
  If_Terraria_ still crashes, then go ahead with the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Verify the integrity of your game files
 
 _Terraria_ may crash when one or more certain game file is damaged or missing. To fix it, try verifying the integrity of your game files on the Steam client. Here is how to do it:
@@ -128,6 +116,10 @@ _Terraria_ may crash when one or more certain game file is damaged or missing. T
 **2)**  Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Right-click**Terraria** and select **Properties.**
 
@@ -141,6 +133,10 @@ _Terraria_ may crash when one or more certain game file is damaged or missing. T
 
 If not, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Run your game in compatibility mode
 
  Some Windows updates may not be compatible with_Terraria_ , keeping it from function properly. Try running your game in compatibility mode to see if it can fix your issue. Here is how to do it:
@@ -148,10 +144,6 @@ If not, try the next fix.
 **1)** Right-click the **Terraria icon** , then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-253.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
@@ -161,15 +153,15 @@ If not, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-255.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Relaunch your game to check if your issue had been resolved.
 
  If your game crashes again under Windows 8 mode, repeat **steps 1 – 3** and select **Windows 7**  from the list box.
 
 If this didn’t work for you, check the fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall your game and/or Steam
 
@@ -188,17 +180,9 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-250.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Click**DELETE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-257.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Download and install _Terraria_  again.
 
@@ -210,25 +194,37 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
@@ -249,6 +245,10 @@ If this didn’t work for you, check the fix, below.
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **12)**  Relaunch Steam and your game.
 
@@ -275,22 +275,19 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-optimal-techniques-to-record-your-snapchat-stories/"><u>[Updated] In 2024, Optimal Techniques to Record Your Snapchat Stories</u></a></li>
-<li><a href="https://facebook.techidaily.com/diversifying-outreach-with-deft-multi-group-social-media-techniques/"><u>Diversifying Outreach with Deft Multi-Group Social Media Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/easy-to-use-no-cost-b2b-presentation-tools/"><u>Easy-to-Use, No-Cost B2B Presentation Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhancing-performance-expert-advice-on-solving-pc-instability-for-guardians-of-the-galaxy-fans/"><u>Enhancing Performance: Expert Advice on Solving PC Instability for Guardians of the Galaxy Fans</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723001539471-fifa-21-initialization-error-solved-ready-to-play-now/"><u>FIFA 21 Initialization Error Solved – Ready to Play Now!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/football-manager-202-update-fixes-crashing-problems-for-players-worldwide/"><u>Football Manager 202# Update Fixes Crashing Problems for Players Worldwide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-your-maplestory-game-crashing-on-windows-11-latest-fixes-and-tips/"><u>How to Stop Your MapleStory Game Crashing on Windows 11 - Latest Fixes and Tips</u></a></li>
-<li><a href="https://extra-information.techidaily.com/installation-guide-for-movie-maker-6-version-6/"><u>Installation Guide for Movie Maker 6 Version 6</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723006108350-login-limbo-no-more-the-unavailable-online-login-glitch-corrected/"><u>Login Limbo No More: The 'Unavailable Online Login' Glitch Corrected!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723001777688-master-smooth-drives-eliminate-your-forza-horizon-4-pc-gaming-crash-problems-today/"><u>Master Smooth Drives: Eliminate Your Forza Horizon 4 PC Gaming Crash Problems Today!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-11x-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme 11X 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-overcoming-the-issue-of-far-cry-6-failing-to-start-on-windows/"><u>Resolved: Overcoming the Issue of Far Cry 6 Failing to Start on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-rainbow-six-sieges-pc-boot-issues-a-complete-guide/"><u>Resolving Rainbow Six Siege's PC Boot Issues: A Complete Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/hat-to-subscribers-how-jake-crafted-youtube-magic-for-2024/"><u>Snapchat to Subscribers How Jake Crafted YouTube Magic for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-sea-of-thieves-crash-problems/"><u>Troubleshooting and Solving Sea of Thieves Crash Problems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-infinix-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Infinix Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unstuck-from-startup-effective-ways-to-get-past-minecrafts-stalling-launch-phase/"><u>Unstuck From Startup: Effective Ways to Get Past Minecraft's Stalling Launch Phase</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-effective-techniques-for-securely-storing-itunes-videos/"><u>[New] 2024 Approved Effective Techniques for Securely Storing iTunes Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-techniques-for-downloading-converting-and-saving-vids-on-twitter-as-mp3s/"><u>[New] Techniques for Downloading, Converting, and Saving Vids on Twitter as MP3s</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-borderlands-3-freezing/"><u>[Solved] How to Fix Borderlands 3 Freezing?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-building-your-influencer-empire-on-instagram-practical-5-step-guide/"><u>[Updated] Building Your Influencer Empire on Instagram Practical 5-Step Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-gratuitous-screen-snap-for-macos-for-2024/"><u>[Updated] Gratuitous Screen Snap for MacOS for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-final-showdown-is-obs-studio-superior-to-bandicam/"><u>[Updated] In 2024, The Final Showdown Is OBS Studio Superior to Bandicam?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-rapid-routines-sending-photos-from-iphone-to-computer/"><u>[Updated] Rapid Routines Sending Photos From iPhone to Computer</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-expert-voice-memo-solutions-for-ipads-3-picks/"><u>2024 Approved Expert Voice Memo Solutions for iPads, #3 Picks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/a-step-by-step-guide-to-fixing-the-notorious-error-5-how-to-deal-with-the-frustrating-error-3-0x0001000b-while-playing-rainbow-six-siege/"><u>A Step-by-Step Guide to Fixing the Notorious Error 5: How to Deal with the Frustrating Error 3-0X0001000B While Playing Rainbow Six Siege</u></a></li>
+<li><a href="https://program-issues.techidaily.com/five-effective-solutions-to-bypass-eos-login-errors-in-palworld-platform/"><u>Five Effective Solutions to Bypass EOS Login Errors in Palworld Platform</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721456779893-fixing-iphone-not-detected-overcoming-issues-with-itunesfinder-recognition/"><u>Fixing 'iPhone Not Detected': Overcoming Issues with iTunes/Finder Recognition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-6-key-solutions-for-uninterrupted-street-fighter-6-gameplay-on-pc-2024/"><u>Mastering Stability: 6 Key Solutions for Uninterrupted Street Fighter 6 Gameplay on PC, 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/navigating-aspers-methodology-for-sleep-success/"><u>Navigating Asper's Methodology for Sleep Success</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-addressing-davinci-resolve-not-responding-error-on-windows-pcs/"><u>Solution Guide: Addressing 'DaVinci Resolve Not Responding' Error on Windows PCs</u></a></li>
 </ul></div>
 

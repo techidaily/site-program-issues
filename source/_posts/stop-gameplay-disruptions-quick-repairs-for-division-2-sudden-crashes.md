@@ -1,7 +1,7 @@
 ---
 title: "Stop Gameplay Disruptions: Quick Repairs for Division 2 Sudden Crashes"
-date: 2024-09-10T15:42:45.767Z
-updated: 2024-09-11T15:42:45.767Z
+date: 2025-01-07T16:05:28.443Z
+updated: 2025-01-12T16:08:46.376Z
 tags:
   - win11
   - win10
@@ -23,19 +23,9 @@ thumbnail: https://thmb.techidaily.com/13fc80b5d967307ffa59212655cd04104762f09d1
 
  When you’re troubleshooting, be careful NOT to download third-party “patches” unless you know what you’re doing.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -49,20 +39,6 @@ thumbnail: https://thmb.techidaily.com/13fc80b5d967307ffa59212655cd04104762f09d1
 6. [**Change in-game graphics settings**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Check if your system is corrupted](https://tools.techidaily.com/drivereasy/download/)**
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 1:**Verify the integrity of game files**
 
  Before you do anything else, first**check if there’re any new patches** . It could be the cheapest and safest fix to begin with, and you can do that by verifying the game files.
@@ -73,38 +49,15 @@ Here’s how to verify game files on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-verify-1.jpg)
 2. In the left pane, select**LOCAL FILES** . Then click**Verify integrity of game files** … and wait for the process to complete.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-verify-2.jpg)
 
 Once done, start God of War and check if the game crashes again.
 
 If this doesn’t give you luck, take a look at the next fix.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 2:**Disable in-game overlays**
 
@@ -115,20 +68,6 @@ If you don’t know how, use these steps to disable Steam Overlay:
  After disabling all the overlays, restart your game and test the gameplay.
 
 If this doesn’t fix the issue, check out the next fix below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 3:**Update your graphics driver**
 
@@ -143,35 +82,12 @@ If this doesn’t fix the issue, check out the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -188,25 +104,16 @@ Here’s how:
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
  Once you’ve installed all the updates, restart your system and check if the problem persists.
 
  If this trick doesn’t do the trick for you, take a look at the next one.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Increase the virtual memory of your PC
 
@@ -220,45 +127,26 @@ Here’s how to increase the virtual memory of Windows:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the**Advanced** tab. Under the**Virtual memory** section, click**Change…** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select**Customize size** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
 5. Enter**Initial size** and**Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the**Initial size** for me here is**8 x 1024 x 1.5 = 12288 MB** , and the**Maximum size** should be**8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click**Set** , then click**OK** to save the changes.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can check if you can make it through the crash location.
 
@@ -273,22 +161,13 @@ If God of War crashes at the same spot, you can try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-settings-1.jpg)
 3. You can also lower the graphics settings according to your specs. Remember the point here is to check if the crash is graphics related.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-settings-2.jpg)
 
  If these tunings don’t seem to help, take a look at the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Check if your system is corrupted
 
@@ -314,8 +193,6 @@ If God of War crashes at the same spot, you can try the next method.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -323,12 +200,24 @@ If God of War crashes at the same spot, you can try the next method.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-comprehensive-blueprint-for-youtube-earnings-enhancement/"><u>[New] The Comprehensive Blueprint for YouTube Earnings Enhancement</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-imovie-for-beginners-building-intriguing-openers-for-youtube-for-2024/"><u>[Updated] IMovie for Beginners Building Intriguing Openers for YouTube for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-record-video-directly-from-webcam-using-vlc-media-player/"><u>[Updated] Record Video Directly From Webcam Using VLC Media Player</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-iphone-markers-choosing-the-best-image-watermarks/"><u>[Updated] Top iPhone Markers Choosing the Best Image Watermarks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/can-you-submerge-an-iphone-13-in-water-complete-guide/"><u>Can You Submerge an iPhone 13 in Water? - Complete Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixed-prevailing-issues-with-hyper-scape-gameplay-stability-on-windows-and-linux-systems/"><u>Fixed: Prevailing Issues with Hyper Scape Gameplay Stability on Windows and Linux Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-mp4-to-ogg-conversion-service-moveavees-seamless-online-tool/"><u>Free MP4 to Ogg Conversion Service - Moveavee's Seamless Online Tool</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-successfully-hook-up-your-ps4-controller/"><u>How-To: Successfully Hook Up Your PS4 Controller</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-se-2020-how-to-unlock-a-disabled-iphone-se-2020-by-drfone-ios/"><u>In 2024, Disabled iPhone SE (2020) How to Unlock a Disabled iPhone SE (2020)?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997231521-minecraft-dungeon-pc-performance-issues-heres-how-to-stop-the-unwanted-interruptions/"><u>Minecraft Dungeon PC Performance Issues? Here's How to Stop the Unwanted Interruptions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/secure-uninterrupted-gameplay-essential-strategies-to-fix-rocket-league-crashing-issues-year-2024/"><u>Secure Uninterrupted Gameplay: Essential Strategies to Fix Rocket League Crashing Issues (Year 2024)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/speedy-solutions-overcome-lag-issues-with-spotifys-web-player-update-tips/"><u>Speedy Solutions: Overcome Lag Issues with Spotify's Web Player Update - Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-incorporating-your-drivers-license-into-iphone-wallet-instructions-vary-by-state-tips-and-tricks/"><u>Step-by-Step Guide: Incorporating Your Driver's License Into iPhone Wallet (Instructions Vary by State) - Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-guide-to-fix-launch-issues-with-overwatch-2-top-7-tips/"><u>The Ultimate Guide to Fix Launch Issues with Overwatch 2 - Top 7 Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-metro-exodus-on-pc-crashes-continuously/"><u>Troubleshooting Steps When 'Metro Exodus' On PC Crashes Continuously</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-cant-i-launch-modern-warfare-on-my-computer-troubleshooting-steps-for-a-flawless-2024-gaming-experience/"><u>Why Can't I Launch Modern Warfare on My Computer? Troubleshooting Steps for a Flawless 2024 Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/yakuza-3-remastered-pc-version-fixes-and-solutions-for-common-crash-issues/"><u>Yakuza 3 Remastered PC Version - Fixes and Solutions for Common Crash Issues</u></a></li>
+</ul></div>
 

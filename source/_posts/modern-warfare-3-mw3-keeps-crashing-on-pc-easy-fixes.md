@@ -1,7 +1,7 @@
 ---
 title: Modern Warfare 3 (MW3) Keeps Crashing on PC - Easy Fixes
-date: 2024-12-31T20:46:42.812Z
-updated: 2025-01-05T22:23:13.231Z
+date: 2025-01-05T16:06:16.148Z
+updated: 2025-01-12T16:20:37.991Z
 tags:
   - win11
   - win10
@@ -71,16 +71,12 @@ thumbnail: https://thmb.techidaily.com/110fb399f984d23daa9e38ab73955fe742594ebb4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-system-requirements.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  _The system requirements information is captured from Epic Games Launcher_
@@ -88,6 +84,10 @@ Here are the system requirements for Control:
  If you’re currently running Control with DirectX 12, it’s recommended that you run Control**with DirectX 11** to avoid the game crash issues.
 
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Modify your graphics card settings
 
@@ -122,6 +122,10 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
@@ -131,16 +135,8 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by Large icons.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
@@ -149,25 +145,25 @@ Here are the system requirements for Control:
 5. Click Scan to add the game to the application list.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Delete the “render.ini” file
@@ -181,6 +177,10 @@ Here are the system requirements for Control:
 
  See if the game will crash or not. Normally this issue should be resolved. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Perform a Windows Update
 
  According to the game developers, if MS Visual C++ is missing or corrupted, you may also run into the Control crash issue. To resolve this problem, you need to reinstall Official Microsoft Visual C++ 2013 and .NET Framework.
@@ -192,10 +192,14 @@ Here are the system requirements for Control:
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
 
@@ -232,10 +236,6 @@ Here are the system requirements for Control:
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 10: Run Program Compatibility Troubleshooter
 
  If Control often crashes on your Windows 10 PC, you can try running Windows Program Compatibility Troubleshooter to run the game in Windows 7 mode. Here’s how to do it:
@@ -244,12 +244,12 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_12-24-18.png)
 2. In the Properties Window, navigate to**the Compatibility tab** , check the box next to**Run this program in compatibility mode for:** and select**Windows 7** from the drop-down list. Check the box next to**Run as an administrator** and then click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_14-25-41.png)
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 See if this fix works for you. If not, try the next fix, below.
 
@@ -279,22 +279,17 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-how-to-stream-google-meet-to-youtube-step-by-step-guide/"><u>[New] In 2024, How To Stream Google Meet to YouTube [Step-by-Step Guide]</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-cross-platform-content-transfer-youtube-meets-facebook/"><u>[Updated] 2024 Approved Cross-Platform Content Transfer YouTube Meets Facebook</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-chatcam-downloader-high-quality-for-2024/"><u>[Updated] ChatCam Downloader, High Quality for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-crafting-clicks-top-tags-for-gamers-content/"><u>[Updated] Crafting Clicks Top Tags for Gamers' Content</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-essential-guide-to-forming-powerful-content-partnerships-on-youtube-for-2024/"><u>[Updated] Essential Guide to Forming Powerful Content Partnerships on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harness-freedom-with-top-rated-android-editing-apps/"><u>[Updated] In 2024, Harness Freedom with Top-Rated Android Editing Apps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/deciphering-the-unable-to-join-a-party-dilemma-resolving-fortnite-error-84/"><u>Deciphering the 'Unable to Join a Party' Dilemma: Resolving Fortnite Error 84</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/fixing-blank-sequences-during-obs-recording-for-2024/"><u>Fixing Blank Sequences During OBS Recording for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-toolwiz-app-reviewed-the-ultimate-photo-editor/"><u>In 2024, Toolwiz App Reviewed The Ultimate Photo Editor?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/logitech-g-hub-malfunction-fixes-resolving-windows-compatibility-problems/"><u>Logitech G Hub Malfunction Fixes - Resolving Windows Compatibility Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-frequent-crashes-in-stardew-valley-for-windows-users/"><u>Overcoming Frequent Crashes in Stardew Valley for Windows Users</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/simplified-mac-solution-audioplusscreen-capture/"><u>Simplified Mac Solution Audio+Screen Capture</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solutions-for-stable-play-addressing-the-call-of-duty-mobile-warzone-20-pc-edition-freezing-issues/"><u>Solutions for Stable Play: Addressing the Call of Duty Mobile Warzone 2.0 PC Edition Freezing Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solutions-for-visual-problems-in-rust-development/"><u>Troubleshooting and Solutions for Visual Problems in Rust Development</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-the-notorious-atomic-heart-crash-on-system-start/"><u>Troubleshooting and Solving the Notorious 'Atomic Heart' Crash on System Start</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-lag-in-avatar-the-game-for-ps4-tips-and-fixes/"><u>Troubleshooting Lag in 'Avatar: The Game for PS4 – Tips and Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-fortnite-startup-delays-with-quick-tips/"><u>Ultimate Guide: Solving Fortnite Startup Delays with Quick Tips</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ailoring-your-youtube-video-introduction-perfectly/"><u>[New] Tailoring Your YouTube Video Introduction Perfectly</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-vibration-victory-clearer-cinematography/"><u>[Updated] 2024 Approved Vibration Victory Clearer Cinematography</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-essential-screen-capture-best-mac-apps-reviewed-and-rated/"><u>[Updated] In 2024, Essential Screen Capture Best Mac Apps Reviewed & Rated</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-tips-for-swapping-video-direction-in-snapchat/"><u>[Updated] In 2024, Tips for Swapping Video Direction in Snapchat</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tricks-to-increase-viewership-on-your-tiktok-unboxing-sessions/"><u>2024 Approved Tricks to Increase Viewership on Your TikTok Unboxing Sessions</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1728490743472-windows-11ssd/"><u>如何在Windows 11系统上安全高效地升级到更大的SSD固态硬碟</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-garrys-mod-ultimate-guide-to-preventing-game-crashes-in-22024/"><u>Fixing Garry's Mod: Ultimate Guide to Preventing Game Crashes in 2^2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95885077-9781459742147-ghosts-of-niagara-on-the-lake-2nd-ed/"><u>Ghosts of Niagara-on-the-Lake (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-free-video-trimming-tools-2023-edition/"><u>New 2024 Approved Top Free Video Trimming Tools 2023 Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-fixing-dev-error-6634-in-cod-warzone-updated-tips/"><u>Step-by-Step Solutions for Fixing Dev Error 6634 in COD Warzone - Updated Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-fixing-lego-star-wars-the-skywalker-saga-pc-game-freezes-in-202/"><u>Troubleshooting Steps for Fixing Lego Star Wars: The Skywalker Saga PC Game Freezes in 202^</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-stop-rocket-league-from-freezing-tips-and-solutions/"><u>Ultimate Guide: Stop Rocket League From Freezing (Tips & Solutions)</u></a></li>
 </ul></div>
 

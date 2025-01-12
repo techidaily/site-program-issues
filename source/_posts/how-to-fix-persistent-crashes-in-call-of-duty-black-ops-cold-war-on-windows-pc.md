@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Persistent Crashes in Call of Duty: Black Ops Cold War on Windows PC"
-date: 2024-12-31T20:04:01.111Z
-updated: 2025-01-05T23:54:58.246Z
+date: 2025-01-08T16:04:01.566Z
+updated: 2025-01-12T16:02:34.798Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/b958a593c95d29eeb474585a5be149c96a0df966a
 
 See a black screen when playing CoD: WWII? Although this is an annoying issue, you’re definitely not the only person to experience it. And more importantly, this is fixable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -33,7 +29,7 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Switch out of your game, then switch back in
@@ -55,7 +51,7 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
  This should fix your black screen issue. But if not, then you should try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
@@ -89,13 +85,21 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-424.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-425.png)  
  You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Reinstall your game
@@ -106,10 +110,6 @@ OR
 2. Type**appwiz.cpl** , then press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Delete Call of Duty: World War II (right click this game in the list and select**Uninstall** ).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Download the game from where you purchased it.
 5. Try playing CoD: WWII and see if this fixes your black screen issue.
@@ -134,15 +134,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-engaging-stories-expanding-audiences-top-three-methods/"><u>[New] 2024 Approved Engaging Stories, Expanding Audiences Top Three Methods</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-mastery-essential-tech-to-enhance-your-streams/"><u>[New] YouTube Mastery Essential Tech to Enhance Your Streams</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-optimize-your-playstation-10-best-ssds-hdds/"><u>[Updated] Optimize Your PlayStation 10 Best SSDs, HDDs</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-mp4-file-editing-removing-sound-tracks/"><u>2024 Approved MP4 File Editing Removing Sound Tracks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-problems-when-internet-explorer-freezes-or-crashes/"><u>Fixing Problems When Internet Explorer Freezes or Crashes</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-boosting-view-speed-for-instagram-media-content/"><u>In 2024, Boosting View Speed for Instagram Media Content</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-graphics-for-a-smoother-experience-fix-low-fps-problems-now/"><u>Optimizing Graphics for a Smoother Experience: Fix Low FPS Problems Now</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-fortnite-access-issues-uncovering-hidden-entry-points/"><u>Resolving Fortnite Access Issues: Uncovering Hidden Entry Points</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-madden-nfl-20-pc-game-crash-issues-a-comprehensive-guide/"><u>Solving Madden NFL 20 PC Game Crash Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/unlocking-the-secrets-of-accessing-windows-control-panel-a-step-by-step-guide-yl-software-experts/"><u>Unlocking the Secrets of Accessing Windows Control Panel: A Step-by-Step Guide - YL Software Experts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-content-visibility-on-youtube-your-guide-to-effective-featured-channels/"><u>[New] Mastering Content Visibility on YouTube Your Guide to Effective Featured Channels</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-convert-and-share-optimal-tools-for-youtube-to-avi-transfers/"><u>[Updated] In 2024, Convert & Share Optimal Tools for YouTube-to-AVI Transfers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/australian-slang-decoded-101-must-know-terms/"><u>Australian Slang Decoded: 101 Must-Know Terms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-solutions-for-thaumaturge-stability-issues-on-pcs/"><u>Comprehensive Solutions for Thaumaturge Stability Issues on PCs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-your-photos-advanced-techniques-for-shape-alterations/"><u>Elevating Your Photos Advanced Techniques for Shape Alterations</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620212476-how-to-effortlessly-change-wmv-video-format-to-flv-discover-the-best-6-strategies/"><u>How To Effortlessly Change WMV Video Format to FLV: Discover The Best 6 Strategies!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-amplifying-photos-through-acoustics-internet-based/"><u>In 2024, Amplifying Photos Through Acoustics, Internet-Based</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-nubia-red-magic-9-pro-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Nubia Red Magic 9 Pro Device</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximize-content-experience-with-these-top-6-youtube-shorts-downloader-apps-for-2024/"><u>Maximize Content Experience with These Top 6 YouTube Shorts Downloader Apps for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-tips-to-overcome-compatibility-issues-in-the-latest-version-of-resident-evil-4/"><u>Quick Tips to Overcome Compatibility Issues in the Latest Version of Resident Evil 4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-stop-oxygen-not-included-from-crashing/"><u>Troubleshooting Guide: Stop Oxygen Not Included From Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-wont-my-steam-games-launch-on-windows-11/"><u>Troubleshooting Guide: Why Won't My Steam Games Launch on Windows 11?</u></a></li>
 </ul></div>
 

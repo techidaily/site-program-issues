@@ -1,7 +1,7 @@
 ---
 title: "PC Players Rejoice: 'New World' Now Runs Smoothly without Unexpected Shutdowns"
-date: 2025-01-01T16:32:25.038Z
-updated: 2025-01-05T21:52:32.919Z
+date: 2025-01-10T16:13:37.664Z
+updated: 2025-01-12T16:07:57.231Z
 tags:
   - win11
   - win10
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/d54fa6180dfbcf214df4f9458a0e28f5138815530
 8. **[Roll back your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check your specs
@@ -80,12 +80,16 @@ Here’s an example of how to check the game integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/detroit-become-human-verify-game-02.jpg)
 3. Wait until the checking to finish.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can then launch Detroit: Become Human and see if it crashes again.
 
  If this solution doesn’t work for you, please continue to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3:**Close all** background**applications**
@@ -93,10 +97,6 @@ You can then launch Detroit: Become Human and see if it crashes again.
  Detroit: Become Human is a demanding game, and the crash can occur when you have some other large programs eating up your CPU resources and RAM. So if you’re running big programs like**Chrome** ,**Discord** or**Windows Update** , be sure to close them before launching your game.
 
 If this fix failed to solve your issue, please move on to the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -126,7 +126,7 @@ If this fix failed to solve your issue, please move on to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -154,7 +154,7 @@ Here’s how:
  If this solution doesn’t work for you, simply try the next one below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Disable in-game overlays
@@ -167,14 +167,14 @@ For example, you can follow these steps to disable Steam overlay:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-disable-overlay.jpg)
 2. From the left menu, select**In-Game** . Under**The Steam Overlay** section, uncheck these boxes. Then click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch Detroit: Become Human and test your gameplay.
 
 If the crashing reappears, please check out the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Disable your controller
 
@@ -205,24 +205,22 @@ If the crashing reappears, please check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-troubleshooting-when-youtube-shorts-images-fail-to-display/"><u>[New] 2024 Approved Troubleshooting When YouTube Shorts Images Fail To Display</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-farming-fiesta-fun-pack-the-ultimate-agritainment-guide-for-2024/"><u>[New] Farming Fiesta Fun-Pack The Ultimate Agritainment Guide for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-perfect-upside-down-and-sideways-iphone-images/"><u>[New] Perfect Upside-Down & Sideways iPhone Images</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-capture-and-preserve-windows-11-screens/"><u>[Updated] Capture & Preserve Windows 11 Screens</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/easy-video-editor-for-mac-mkvtoolnix-review-and-tutorial-2023-for-2024/"><u>Easy Video Editor for Mac MKVtoolnix Review and Tutorial 2023 for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/escaping-the-deadlock-expert-tips-to-get-out-of-minecrafts-loading-loop/"><u>Escaping the Deadlock: Expert Tips to Get Out of Minecraft's Loading Loop</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-samsung-galaxy-a05s-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Samsung Galaxy A05s to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-msi-afterburner-failure-to-recognize-gpu-in-windows-11/"><u>How to Fix MSI Afterburner Failure to Recognize GPU in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-successfully-reopen-discord-if-it-gets-stuck-on-startup/"><u>How to Successfully Reopen Discord if It Gets Stuck on Startup</u></a></li>
-<li><a href="https://some-tips.techidaily.com/improved-durability-and-repairability-of-apples-new-iphone-16-model-revealed-by-tech-reviewers-zdnet/"><u>Improved Durability and Repairability of Apple's New iPhone 16 Model Revealed by Tech Reviewers | Zdnet</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/izing-video-content-with-powerful-hashtags-on-youtube/"><u>Optimizing Video Content with Powerful Hashtags on YouTube</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722995789012-organophosphates-inhibit-acetylcholinesterase-leading-to-an-accumulation-of-acetylcholine-causing-muscarinic-symptoms-but-not-primarily-cardiotoxicity/"><u>Organophosphates Inhibit Acetylcholinesterase Leading to an Accumulation of Acetylcholine, Causing Muscarinic Symptoms but Not Primarily Cardiotoxicity</u></a></li>
-<li><a href="https://program-issues.techidaily.com/r-type-final-2-stability-issues-how-to-prevent-pc-game-crashes/"><u>R-Type Final 2 Stability Issues: How to Prevent PC Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-persistent-runescape-crash-problems-for-smooth-gaming/"><u>Resolving Persistent RuneScape Crash Problems for Smooth Gaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/speedy-troubleshooting-guide-for-shader-problems-in-star-wars-battlefront-ii/"><u>Speedy Troubleshooting Guide for Shader Problems in Star Wars Battlefront II</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/stunning-video-capture-best-youtube-cameras-reviewed-for-2024/"><u>Stunning Video Capture Best YouTube Cameras Reviewed for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-fixing-persistent-crashes-in-remnant-from-the-ashes/"><u>Troubleshooting and Fixing Persistent Crashes in 'Remnant: From The Ashes'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-tekken-8-wont-boot-on-your-computer/"><u>Troubleshooting Steps When Tekken 8 Won't Boot on Your Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-these-6-quick-tips-for-locating-users-on-facebook/"><u>Unlock These 6 Quick Tips for Locating Users on Facebook</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-premium-data-recorder-compatible-with-sony-a7s-for-2024/"><u>[New] Premium Data Recorder Compatible with Sony A7S for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-echoes-of-sound-how-to-enhance-tweeted-visuals/"><u>[Updated] Echoes of Sound How to Enhance Tweeted Visuals</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-mac-visual-seize-methods-reviewed-limit-156-chars/"><u>[Updated] Top Mac Visual Seize Methods Reviewed (Limit 156 Chars)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/battle-of-the-brains-llama-vs-gpt-4-unveiling-top-ai-contender/"><u>Battle of the Brains: Llama Vs. GPT-4 – Unveiling Top AI Contender</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-modern-warfare-fps-issues-addressed-with-recent-game-update/"><u>Call of Duty: Modern Warfare - FPS Issues Addressed with Recent Game Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-glitched-graphics-a-guide-for-warzone-players-dealing-with-screen-flares/"><u>Eliminating Glitched Graphics: A Guide for Warzone Players Dealing with Screen Flares</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-honor-play-8t-by-fonelab-android-recover-video/"><u>How to recover old videos from your Honor Play 8T</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-restore-voice-chat-functionality-in-among-us-on-your-pc-quick-fix-guide/"><u>How To Restore Voice Chat Functionality In Among Us On Your PC - Quick Fix Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-a-step-by-step-process-to-upgrade-and-update-video-covers-on-social-media/"><u>In 2024, A Step-by-Step Process to Upgrade and Update Video Covers on Social Media</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pacific-battlefront-issues-in-cod-warzone-solved-crashing-problems/"><u>Pacific Battlefront Issues in COD: Warzone - Solved Crashing Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993013472-resolving-rainbow-six-sieges-error-code-3-0x0001000b-a-comprehensive-guide/"><u>Resolving Rainbow Six Siege's Error Code 3-0X0001000B: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-gaming-resolving-the-e84-error-in-steam/"><u>Seamless Gaming: Resolving the E84 Error in Steam</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-restoring-functionality-of-the-steelseries-gg-gamepad-engine-on-windows/"><u>Step-by-Step Guide to Restoring Functionality of the SteelSeries GG Gamepad Engine on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-for-content-file-blocked-error-in-your-steam-library/"><u>The Ultimate Fix for 'Content File Blocked' Error in Your Steam Library</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/two-models-of-cyberpower-uninterruptible-power-supplies-linked-to-potential-fire-danger-by-consumers/"><u>Two Models of CyberPower Uninterruptible Power Supplies Linked to Potential Fire Danger by Consumers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uncover-the-secret-to-an-ad-free-no-subs-experience-on-amazon-prime/"><u>Uncover the Secret to an Ad-Free, No-Subs Experience on Amazon Prime</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993098360-update-trouble-heres-how-you-can-fix-minecraft-launcher-issues-easily/"><u>Update Trouble? Here's How You Can Fix Minecraft Launcher Issues Easily</u></a></li>
 </ul></div>
 

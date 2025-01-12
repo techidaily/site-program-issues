@@ -1,7 +1,7 @@
 ---
 title: Diablo II Resurrected Failed to Start – What Are Your Options?
-date: 2025-01-02T19:02:57.117Z
-updated: 2025-01-05T18:09:36.962Z
+date: 2025-01-05T16:21:59.349Z
+updated: 2025-01-12T16:11:16.603Z
 tags:
   - win11
   - win10
@@ -63,16 +63,20 @@ If you don’t know how to find your PC specs, take the steps below.
 3. In the left navigation menu, click**System Summary** and review the information displayed on the right-hand side.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-check-your-system-specs.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your game still isn’t launching even though your computer meets the system requirements, follow the troubleshooting steps below to identify and resolve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -86,7 +90,7 @@ If you don’t know how to find your PC specs, take the steps below.
 * **[Uninstall and reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Update graphics drivers
@@ -94,6 +98,10 @@ If you don’t know how to find your PC specs, take the steps below.
 **Graphics drivers** act as a bridge that allows your operating system and applications, such as Starfield, to interact effectively with your graphics hardware.
 
  When Starfield or any other game fails to launch, outdated or incompatible graphics drivers can often be a leading cause of the problem. To ensure that your system is equipped with the latest software to support your game’s requirements, enhance performance, and maintain compatibility, you should**update your graphics drivers** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update graphics drivers
 
@@ -111,11 +119,11 @@ If you have no idea what kind of graphics card your PC is packing,
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-open-task-manager.png)
 3. Select the**Performance** tab. In the left sidebar, select**GPU** to view GPU-related information. Then you’ll see information about your graphics card, including its name and model. The name displayed here corresponds to your graphics card.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-identify-your-graphics-card.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-identify-your-graphics-card.png)
 
 ### Option 2: Automatically update graphics drivers (recommended)
 
@@ -145,6 +153,10 @@ After driver updates, it’s a good practice to reboot your device.
 
 To download and install the latest Windows updates, take these steps:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### On Windows 11
 
  Press the**Windows logo + I keys** simultaneously to open Settings. Then go to**Windows Update** and follow the on-screen instructions to download and install the latest updates.
@@ -158,7 +170,7 @@ To download and install the latest Windows updates, take these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/windows-update-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disable antivirus and firewall
@@ -175,14 +187,14 @@ To temporarily disable the Windows Firewall:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-disable-windows-firewall.png)
 3. Click **Turn Windows Defender Firewall on or off** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
 4. Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network, and Public network. Then click **OK** .  
 
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To temporarily turn off your antivirus software:
 
@@ -204,10 +216,6 @@ To temporarily turn off your antivirus software:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-verify-the-integrity-of-game-files-on-Starfield.png)
 5. Steam will verify the game’s files – this process may take several minutes. When the process is complete, try to launch Starfield and see if it works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Update the Xbox and Gaming Services apps
 
  Keeping your Xbox and Gaming Services apps updated should significantly enhance your overall gaming experience.
@@ -225,10 +233,6 @@ Follow the steps below to do this.
  To do this, simply[go to this page](https://support.xbox.com/en-US/xbox-live-status) . If it says**Limited** or**Major outage** , maybe you need to patiently wait for the repair.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/Xbox-status.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Uninstall and reinstall the game
 
@@ -253,10 +257,6 @@ Follow the steps below to do this.
  When you see a message that says “Verification 100% complete”, type**exit** and press Enter.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/use-System-File-Checker-to-repair-corrupted-files.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  However, this tool may not help you with a 100% guarantee. Sometimes it fails to fix an underlying problem. If that’s your case, you can try **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , a powerful tool that specializes in Windows repair.
 
@@ -289,20 +289,20 @@ Below is how you can benefit from the use of Fortect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-remote-classroom-video-archive/"><u>[New] 2024 Approved Remote Classroom Video Archive</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-deciphering-intermittent-stoppages-in-photobooth-videos/"><u>[New] Deciphering Intermittent Stoppages in Photobooth Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-game-stuttering-with-high-fps-2024/"><u>[SOLVED] How to Fix Game Stuttering with High FPS 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-prime-10-youtube-historians-top-picks-for-learning/"><u>[Updated] 2024 Approved Prime 10 YouTube Historians’ Top Picks for Learning</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-acclaimed-tools-the-finest-ps1-emulators-for-pc-gaming/"><u>[Updated] Acclaimed Tools The Finest PS1 Emulators for PC Gaming</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-vivo-y36-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Vivo Y36 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/master-the-meter-elevate-your-instagram-metrics-by-1kmnth/"><u>Master the Meter Elevate Your Instagram Metrics by 1K/Mnth</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-launch-of-warzone-20-essential-pc-fixes-and-tweaks/"><u>Mastering the Launch of Warzone 2.0: Essential PC Fixes and Tweaks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-performance-for-a-smoother-rainbow-six-extraction-experience/"><u>Optimizing Performance for a Smoother Rainbow Six Extraction Experience</u></a></li>
-<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo X90S? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/prevent-your-game-nightmares-defeating-garrys-mod-crashes-with-these-pro-tips/"><u>Prevent Your Game Nightmares: Defeating Garry's Mod Crashes with These Pro Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/rogue-company-pc-stability-fixes-for-a-smooth-gaming-experience/"><u>Rogue Company PC Stability Fixes for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/screencast-essentials-the-ultimate-beginners-tutorial/"><u>Screencast Essentials The Ultimate Beginner's Tutorial</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ascent-software-fixed-and-ready-for-use-past-setbacks-addressed/"><u>The Ascent Software Fixed and Ready for Use – Past Setbacks Addressed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-windows-10s-persistent-0x800705b4-update-issue-a-step-by-step-fix/"><u>Winning the Battle Against Windows 10'S Persistent 0X800705b4 Update Issue – A Step-by-Step Fix</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-cam-protection-the-ultimate-10-guide-for-2024/"><u>[New] Cam Protection The Ultimate 10 Guide for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-utilizing-snap-camera-feature-on-microsoft-teams/"><u>[New] In 2024, Utilizing Snap Camera Feature on Microsoft Teams</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boosting-pc-gaming-experience-by-resolving-frame-per-second-fluctuations-in-f1-2021/"><u>Boosting PC Gaming Experience by Resolving Frame Per Second Fluctuations in F1 2021</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-guide-how-to-prevent-battlefield-5-from-crashing-during-playtime-on-windows-or-macos/"><u>Complete Guide: How to Prevent Battlefield 5 From Crashing During Playtime on Windows or MacOS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/divine-warriors-convergence-ragnarok-epoch-for-2024/"><u>Divine Warriors Convergence Ragnarok Epoch for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-the-wobbly-sound-in-your-airpods-deactivate-head-tracking-feature/"><u>Fix the Wobbly Sound in Your AirPods – Deactivate Head Tracking Feature</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-continuous-crashes-in-genshin-impact-for-your-computer/"><u>How to Resolve Continuous Crashes in Genshin Impact for Your Computer</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722998836343-no-more-gaming-interruptions-solving-steamvrs-error-code-308-once-and-for-all/"><u>No More Gaming Interruptions - Solving SteamVR's Error Code 308 Once and For All</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-crashing-problems-in-yakuza-6-the-song-of-life-on-windowspc/"><u>Resolving Crashing Problems in Yakuza 6: The Song of Life on Windows/PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-assassins-creed-odyssey-stalling-issues-ultimate-guide-and-fixes-pc-march-2o24/"><u>Solve Assassin's Creed Odyssey Stalling Issues: Ultimate Guide & Fixes (PC) - March 2O24</u></a></li>
+<li><a href="https://discover-community.techidaily.com/solved-missing-folders-on-windows-11-discover-the-top-10-fixes/"><u>Solved: Missing Folders on Windows 11 - Discover the Top 10 Fixes!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-pubg-mobiles-lag-and-unresponsiveness-on-desktop/"><u>Ultimate Guide: Resolving PUBG Mobile's Lag and Unresponsiveness on Desktop</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlocking-your-phone-without-fbs-app-browser/"><u>Unlocking Your Phone Without FB's App Browser</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/goodbye-to-high-costs-enjoy-over-50-free-online-ad-options-today/"><u>Wave Goodbye To High Costs – Enjoy Over 50 Free Online Ad Options Today</u></a></li>
 </ul></div>
 

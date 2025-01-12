@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] How to Fix Persistent Crashing Issues on Your PC While Playing Call of Dute: Black Ops Cold War"
-date: 2025-01-03T18:38:18.296Z
-updated: 2025-01-05T20:41:38.327Z
+date: 2025-01-10T16:16:10.468Z
+updated: 2025-01-12T16:04:14.257Z
 tags:
   - win11
   - win10
@@ -44,6 +44,10 @@ System requirements of WRC 10 from Steam
 
  WRC 10 still keeps crashing on your PC even though your PC meets the system requirements? Just read on and try the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Although the causes of WRC 10 crashing issue vary, here we’ve put together the latest fixes that solved this issue for many PC gamers. Whether WRC 10 crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
@@ -53,10 +57,6 @@ System requirements of WRC 10 from Steam
 3. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 5. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Verify integrity of game files
 
@@ -76,6 +76,10 @@ System requirements of WRC 10 from Steam
 1. Launch **Epic Games Launcher** and go to your **Library** .
 2. Click on the **three dots** under the **WRC 10 FIA World Rally Championship** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
@@ -111,10 +115,6 @@ System requirements of WRC 10 from Steam
 
  Launch WRC 10 again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Temporarily disable anti-virus software
 
  Some 3rd party antivirus software would interfere with the game files, which may also crash the game.
@@ -126,7 +126,7 @@ System requirements of WRC 10 from Steam
  If the game crashing issue persists, try the next fix to perform a clean boot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Perform a clean boot
@@ -137,22 +137,22 @@ System requirements of WRC 10 from Steam
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
@@ -197,20 +197,15 @@ System requirements of WRC 10 from Steam
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-straightforwardsnapper-w10s-easy-tool/"><u>[New] 2024 Approved StraightforwardSnapper W10's Easy Tool</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-quick-tunes-on-your-phone-top-speed-up-apps/"><u>[New] Quick Tunes on Your Phone Top Speed-Up Apps</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-comprehensive-review-transform-your-images-with-facetune/"><u>[Updated] Comprehensive Review Transform Your Images with Facetune</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-decoding-digital-dazzle-an-initial-journey-into-video-standards/"><u>[Updated] Decoding Digital Dazzle An Initial Journey Into Video Standards</u></a></li>
-<li><a href="https://program-issues.techidaily.com/b4b-gobi-crash-troubleshooting-on-udk-fixing-ue4-game-issues-easily/"><u>B4B Gobi Crash Troubleshooting on UDK - Fixing UE4 Game Issues Easily!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diablo-cual-es-la-respuesta-de-dos-resurrected-update-solves-crashing-problems/"><u>Diablo Cuál Es La Respuesta De Dos: Resurrected Update Solves Crashing Problems!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-game-solutions-for-battling-battlefield-2042s-pc-crashes/"><u>Fix Your Game: Solutions for Battling Battlefield 2042'S PC Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-hitman-3-solutions-for-resolving-connection-failed-issues/"><u>Fixing Hitman 3: Solutions for Resolving 'Connection Failed' Issues</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/hero5-black-meets-hero5-session-a-visual-verdict/"><u>Hero5 Black Meets Hero5 Session – A Visual Verdict</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-prestigious-music-archives-for-vfx-artists/"><u>In 2024, Prestigious Music Archives for VFX Artists</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-restore-lost-sounds-to-twitter-vids/"><u>In 2024, Restore Lost Sounds to Twitter Vids</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-logitech-configuration-challenges-effective-fixes-for-windows-users/"><u>Overcoming Logitech Configuration Challenges: Effective Fixes for Windows Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/smart-shopping-for-dash-cams-unpacking-the-top-9-features-and-specifications-you-need-to-know-about/"><u>Smart Shopping for Dash Cams - Unpacking the Top 9 Features and Specifications You Need to Know About</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-showdown-how-facebook-twitter-instagram-stack-up-against-youtube/"><u>Social Media Showdown: How Facebook, Twitter, Instagram Stack Up Against YouTube</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-why-are-webpages-unloading-in-google-chrome/"><u>Troubleshooting: Why Are Webpages Unloading in Google Chrome?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-most-reliable-external-hdds-for-xbox-users-for-2024/"><u>[New] Most Reliable External HDDs for Xbox Users for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-confirming-youtube-ad-revenue-accrual/"><u>2024 Approved Confirming YouTube Ad Revenue Accrual</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeating-darkness-top-strategies-to-fix-call-of-duty-warzones-black-screen-problem-tips-and-tricks/"><u>Defeating Darkness: Top Strategies to Fix Call of Duty Warzone's Black Screen Problem (Tips & Tricks)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-to-stop-continuous-freezing-and-crashes-on-cod-modern-warfare/"><u>Effective Fixes to Stop Continuous Freezing & Crashes on COD: Modern Warfare</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-snooze-mode-in-windows-devices/"><u>Guide to Snooze Mode in Windows Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hitman-3-and-the-infamous-connection-failure-problem-solutions-inside/"><u>Hitman 3 and the Infamous Connection Failure Problem - Solutions Inside</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/ignite-engagement-top-3-youtube-live-stream-tips-for-understaffed-viewership/"><u>Ignite Engagement Top 3 YouTube Live Stream Tips for Understaffed Viewership</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-tweaks-to-fix-and-optimize-elite-dangerous-on-your-personal-computer/"><u>Mastering Stability Tweaks to Fix and Optimize Elite Dangerous on Your Personal Computer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/pro-level-mac-photo-tips-unveiling-five-expert-techniques-for-2024/"><u>Pro-Level Mac Photo Tips Unveiling Five Expert Techniques for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-successful-microsoft-store-app-setup/"><u>Steps for Successful Microsoft Store App Setup</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Your Age of Empires IV Setup - Overcome Stubborn Download Failures with Our Tips!
-date: 2024-09-10T15:40:58.271Z
-updated: 2024-09-11T15:40:58.271Z
+date: 2025-01-08T16:14:28.780Z
+updated: 2025-01-12T16:13:42.346Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f
 
  It’s very fascinating that you can play over two million mobile games on your PC with this FREE Android emulator. However, many of us may have experienced game crashes in Bluestacks. If you’re getting random BlueStacks crashes and don’t know how to deal with it, don’t worry. In this post, you will learn how to fix it easily and quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Adjust the game setting](https://tools.techidaily.com/drivereasy/download/) [s](https://tools.techidaily.com/drivereasy/download/)**
@@ -26,26 +30,6 @@ thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f
 3. **[Close other unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Turn off antivirus](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Enable Virtualization for BlueStacks](https://tools.techidaily.com/drivereasy/download/)**
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Adjust the game settings
 
@@ -55,34 +39,8 @@ thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/settings.jpg)
 2. The **Settings**  page will appear with the **Engine** tab highlighted, as shown below.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/settings-engine.jpg)
 3. Please match the following settings to see if this works for you.  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
    * **CPU** : 4 Cores  
    * **RAM** : 4 GB (this will require a restart, so you can leave it to the last step)  
@@ -92,20 +50,6 @@ thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f
    * **ASTC** : Hardware decoding
 4. Click the**Save** button to preserve all changes made.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/save-changes.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Your Bluestacks will be restarted, and your game won’t be crashing again now. But if it does, please try the next fix below.
 
@@ -137,44 +81,18 @@ There are mainly two ways for you to update the graphics driver:
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once the graphics driver is updated, you can restart your PC and launch your BlueStacks to check if the crashing issue has been resolved successfully.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Close other unnecessary programs
 
@@ -184,19 +102,9 @@ There are mainly two ways for you to update the graphics driver:
 2. Select the program you want to close and click**End Task** . Also, force close BlueStacks 5 and relaunch the program. Check to see if it’s working now.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/end-task.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
  Now other programs stop consuming a high amount of RAM, you can launch BlueStacks again to check if the crashing problem is fixed.
 
@@ -208,6 +116,11 @@ There are mainly two ways for you to update the graphics driver:
 2. Type**appwiz.cpl** and hit**Enter** .  
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 3. Right-click your antivirus and choose**Uninstall** , and follow the on-screen instructions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Reboot your computer and launch BlueStacks to check if the issue persists.
 
 ### Fix 5: Enable Virtualization for BlueStacks
@@ -231,8 +144,6 @@ There are mainly two ways for you to update the graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -240,12 +151,24 @@ There are mainly two ways for you to update the graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-key-concepts-in-image-manipulation/"><u>[New] In 2024, Key Concepts in Image Manipulation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993760887-solved-red-dead-redemption-2-wont-launch/"><u>[SOLVED] Red Dead Redemption 2 Won’t Launch</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-effortless-crossposting-youtube-links-to-ig-stories/"><u>[Updated] 2024 Approved Effortless Crossposting YouTube Links to IG Stories</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-affordable-screen-recorders-with-extra-features-for-2024/"><u>[Updated] Affordable Screen Recorders with Extra Features for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-diving-deep-into-viva-video-functionality-for-2024/"><u>[Updated] Diving Deep Into Viva Video Functionality for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-captivating-startups-discovering-the-best-15-video-intros/"><u>[Updated] In 2024, Captivating Startups Discovering the Best 15 Video Intros</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-back-4-blood-gobi-glitch-on-unreal-engine-4/"><u>Fixing Back 4 Blood Gobi Glitch on Unreal Engine 4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013692194-fortnite-login-woes-discover-fast-and-simple-fixes-now/"><u>Fortnite Login Woes? Discover Fast and Simple Fixes Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/in-depth-strategies-to-repair-software-collapse-a-full-guide/"><u>In-Depth Strategies to Repair Software Collapse - A Full Guide</u></a></li>
+<li><a href="https://win-superb.techidaily.com/navigating-the-world-of-digital-assets-insights-into-pros-and-cons-of-cryptocurrencies-yl-software/"><u>Navigating the World of Digital Assets: Insights Into Pros and Cons of Cryptocurrencies - YL Software</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fix-how-to-perform-a-hard-reset-and-boot-into-iphone-recovery-mode/"><u>Quick Fix: How to Perform a Hard Reset & Boot Into iPhone Recovery Mode</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-clearing-up-the-fuzzy-graphics-in-outriders/"><u>Resolved: Clearing Up the Fuzzy Graphics in Outriders</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/supreme-choices-a-comprehensive-guide-to-best-ceiling-speaker-systems/"><u>Supreme Choices: A Comprehensive Guide to Best Ceiling Speaker Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-free-pc-gaming-fixing-continuous-crashes-in-guilty-gear-strive/"><u>Trouble-Free PC Gaming: Fixing Continuous Crashes in Guilty Gear Strive</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-escape-from-tarkov-connection-drops/"><u>Troubleshooting Steps for Escape From Tarkov Connection Drops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-warzone-cant-locate-games-issue-on-windows/"><u>Troubleshooting Steps: Resolving 'Warzone Can't Locate Games' Issue on Windows</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-avidemux-sound-repair-expert-solutions-for-2024/"><u>Updated Avidemux Sound Repair Expert Solutions for 2024</u></a></li>
+</ul></div>
 
