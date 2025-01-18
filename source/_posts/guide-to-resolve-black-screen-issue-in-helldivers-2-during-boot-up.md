@@ -1,7 +1,7 @@
 ---
 title: Guide to Resolve 'Black Screen' Issue in Helldivers 2 During Boot Up
-date: 2024-09-09T17:30:45.313Z
-updated: 2024-09-16T18:29:13.946Z
+date: 2025-01-16T20:38:23.363Z
+updated: 2025-01-18T03:00:24.719Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Fallout 4 as Compatibility mode
 
  Run Fallout 4 in compatibility mode is a way to solve many problems. This Fallout 4 black screen error may be caused by the incompatibility with the system. So change the compatibility mode may help you solve the issue.
@@ -39,7 +43,15 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 2. In the Compatibility tab, click**Run this program in compatibility mode for** . Then choose the system in the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fallout 4 to check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update Graphics Card Drivers
 
@@ -84,10 +96,7 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Run the game to check the problem will appear or not.
@@ -95,10 +104,7 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable antivirus software
@@ -126,5 +132,21 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-how-to-activate-auto-hdr-setting-in-windows-11/"><u>[New] In 2024, How to Activate Auto HDR Setting in Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-concealing-identity-select-8-highly-effective-photo-editors/"><u>[Updated] Concealing Identity Select 8 Highly Effective Photo Editors</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-professional-gopro-footage-in-3-simple-steps-for-2024/"><u>[Updated] Professional Gopro Footage in 3 Simple Steps for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-seamless-online-sound-conversion-ideal-tools-for-iphone-and-youtube-mp3s-for-2024/"><u>[Updated] Seamless Online Sound Conversion Ideal Tools for iPhone and YouTube MP3s for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029445114-pc/"><u>「PCやスマートフォンで行うビデオ通話の記録方法について詳しく解説」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/early-may-launch-predicted-for-new-ipad-pro-and-air-models-exclusive-sneak-peek-at-whats-to-come-zdnet-insider-news/"><u>Early May Launch Predicted for New iPad Pro and Air Models; Exclusive Sneak Peek at What's to Come | ZDNet Insider News</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-your-laptops-horizontal-boundaries-now/"><u>Fix Your Laptop's Horizontal Boundaries Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-issues-troubleshooting-your-nonfunctional-logitech-c920-camera/"><u>Fixing Issues: Troubleshooting Your Nonfunctional Logitech C920 Camera</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2021-fixing-the-endless-startup-loop/"><u>Football Manager 2021: Fixing the Endless Startup Loop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-battlefield-2042s-lagging-problems-and-improve-pc-performance/"><u>How to Overcome Battlefield 2042'S Lagging Problems & Improve PC Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-insights-ranking-the-best-21-hdmi-monitor-models/"><u>In 2024, Expert Insights Ranking the Best 2.1 HDMI Monitor Models</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007945700-jump-the-queue-handy-tips-to-resolve-loading-screen-deadlocks-in-forza-horizon-5/"><u>Jump the Queue: Handy Tips to Resolve Loading Screen Deadlocks in Forza Horizon 5</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lg-redefines-reality-with-its-latest-virtual-gaming-device-for-2024/"><u>LG Redefines Reality with Its Latest Virtual Gaming Device for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-frame-drops-and-jitter-in-fortnite-for-pc-users/"><u>Troubleshooting Frame Drops and Jitter in Fortnite for PC Users</u></a></li>
+</ul></div>
 

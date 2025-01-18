@@ -1,7 +1,7 @@
 ---
 title: "Instantaneous Guide: Effortless Shader Tuning for Star Wars Battlefront II"
-date: 2024-09-15T19:55:53.287Z
-updated: 2024-09-16T22:35:43.983Z
+date: 2025-01-15T20:29:41.732Z
+updated: 2025-01-17T21:26:31.137Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 [Re-enable DirectX 12 mode](https://tools.techidaily.com/drivereasy/download/)
 [Why disabling DirectX 12 works](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Disable DirectX 12 mode
 
  For most players getting stuck at the “Optimizing Shaders” screen, you won’t be able to get to your main menu and see the**OPTIONS** screen. But you can change the DirectX mode by editing the bootup file. Here’s how:
@@ -31,11 +35,19 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![STAR WARS Battlefront II installation file](https://images.drivereasy.com/wp-content/uploads/2021/01/game-installation-file.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Inside of it, open the folder**settings** .
 
  3) Now double-click**BootOptions** and select**Notepad** .  
   
 ![disable DirectX 12 mode in BootOptions](https://images.drivereasy.com/wp-content/uploads/2021/01/bootoptions.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Locate the line**GstRender.EnableDx12** . Change the value to**0** .  
   
@@ -55,6 +67,10 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![re-enable DirectX 12 mode in STAR WARS Battfront II](https://images.drivereasy.com/wp-content/uploads/2021/01/reenable-DirectX-12-mode-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the GRAPHICS SETTINGS section, locate**ENABLE DIRECTX 12** . If it’s**OFF** , click**ON** . If it’s already ON, take the steps below to enable it in the bootup file.
 
  3) Press the**Windows logo key** and**R** at the same time to open the File Explorer. Then click**Documents** . And open the file**STAR WARS Battlefront II** . Double-click**BootOptions** and open it with**Notepad** .
@@ -64,6 +80,10 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 ![re-enable DirectX 12 mode in the bootup file STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/re-enable-DirectX-12-mode.png)
 
  5) Click**File > Save** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why disabling DirectX 12 works
 
@@ -84,12 +104,21 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-free-mindset-tunes-no-copyrights/"><u>[Updated] Free Mindset Tunes - No Copyrights</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-the-fb-algorithm-maximizing-page-visibility-for-2024/"><u>[Updated] Navigating the FB Algorithm Maximizing Page Visibility for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-strategic-synergy-in-streams-dissecting-your-videos-from-rivals/"><u>[Updated] Strategic Synergy in Streams Dissecting Your Videos From Rivals'</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-showcasing-8-online-marvels-3d-and-luxurious-text-visuals/"><u>2024 Approved Showcasing 8 Online Marvels 3D & Luxurious Text Visuals</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battlefield-4-wont-boot-on-pc-discover-these-essential-fixes/"><u>Battlefield 4 Won't Boot on PC? Discover These Essential Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-fixing-oculus-detected-graphics-driver-issues/"><u>Guide to Fixing Oculus' Detected Graphics Driver Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/lost-access-steps-to-retrieve-your-facebook-account-without-using-an-email-or-mobile/"><u>Lost Access: Steps to Retrieve Your Facebook Account Without Using an Email or Mobile</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/mastering-xbox-one-step-by-step-screen-capture-guide-for-2024/"><u>Mastering Xbox One Step-by-Step Screen Capture Guide for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/rust-graphics-glitch-patched-what-you-need-to-know/"><u>Rust Graphics Glitch Patched – What You Need to Know</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-how-to-stop-assassins-creed-odyssey-from-crashing-on-pc-easily/"><u>Say Goodbye: How to Stop Assassin's Creed Odyssey From Crashing on PC Easily</u></a></li>
+<li><a href="https://win-trending.techidaily.com/step-by-step-guide-how-to-recover-lost-health-information-on-your-iphone/"><u>Step-by-Step Guide: How to Recover Lost Health Information on Your iPhone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-correcting-the-nwstoreexe-system-crashes/"><u>Step-by-Step Solutions for Correcting the nw_store.exe System Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-resolve-your-halo-infinite-audio-glitches/"><u>Step-by-Step Troubleshooting: Resolve Your Halo Infinite Audio Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722995396716-troubleshooting-directx-issues-in-battlefield-2042-a-step-by-step-guide/"><u>Troubleshooting DirectX Issues in Battlefield 2042: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

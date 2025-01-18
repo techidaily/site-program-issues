@@ -1,7 +1,7 @@
 ---
 title: "Fixes for the Persistent Issue: Halting Halo Infinite's PC Crashes"
-date: 2024-12-19T02:02:28.893Z
-updated: 2024-12-20T03:46:57.002Z
+date: 2025-01-11T04:05:44.831Z
+updated: 2025-01-17T21:03:43.206Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
  New World, one of the most anticipated blockbusters, is finally out. But when gamers try to get lost in this brand new MMO, they find themselves facing**constant crashes at startup or in-game** . Sometimes it prompts a Fatal Error, but in most cases there wasn’t any warning at all.
 
  If you happen to be one of them, don’t worry. Here’re some working fixes that could bring back your game without frying your graphics card.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -44,10 +40,18 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-3.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it crashes again.
 
 If the problem persists, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -63,15 +67,11 @@ If the problem persists, take a look at the next fix below.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -80,7 +80,7 @@ If the problem persists, take a look at the next fix below.
  If the latest graphics driver doesn’t give you luck, go ahead and try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Make sure your system is up to date
@@ -92,6 +92,10 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
@@ -108,7 +112,7 @@ Here’s how you can check for updates manually:
 If your system is already up to date, you can try the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Change in-game graphics settings
@@ -122,7 +126,7 @@ If your system is already up to date, you can try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now you can play and check if the crash stops.
@@ -141,7 +145,7 @@ Now you can play and check if the crash stops.
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
@@ -152,10 +156,6 @@ Now you can play and check if the crash stops.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer and check if New World crashes again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this trick doesn’t do the trick for you, take a look at the next solution.
 
@@ -192,16 +192,24 @@ Now you can play and check if the crash stops.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-unleashing-creativity-full-scale-review-of-toolwizs-photography-app/"><u>[New] 2024 Approved Unleashing Creativity Full-Scale Review of Toolwiz's Photography App</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-navigating-live-tiktok-broadcasting-on-your-computer/"><u>[New] Navigating Live TikTok Broadcasting on Your Computer</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-crafting-chorus-in-a-click-essential-insights-into-shortform-song-videos/"><u>[Updated] Crafting Chorus in a Click Essential Insights Into Shortform Song Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/activating-virtualization-a-detailed-walkthrough-of-hyper-v-on-windows-10/"><u>Activating Virtualization: A Detailed Walkthrough of Hyper-V on Windows 10</u></a></li>
-<li><a href="https://win-updates.techidaily.com/effective-strategies-to-declutter-your-hard-drive-and-boost-system-efficiency-tips-from-yl-computing/"><u>Effective Strategies to Declutter Your Hard Drive & Boost System Efficiency - Tips From YL Computing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-batman-arkham-knight-crashing-and-critical-bugs/"><u>Fixes for Batman: Arkham Knight Crashing and Critical Bugs</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-motorola-moto-g04-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Motorola Moto G04? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-alan-wake-2-stability-issues-expert-guidance/"><u>Resolving Alan Wake 2 Stability Issues – Expert Guidance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/this-title-indicates-that-it-is-a-step-by-step-guide-to-fixing-startup-issues-and-includes-the-current-year-for-freshness/"><u>This Title Indicates that It Is a Step-by-Step Guide to Fixing Startup Issues and Includes the Current Year for Freshness</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/0-companion-apps-for-seamless-video-to-mp3-conversions/"><u>Top 10 Companion Apps for Seamless Video to Mp3 Conversions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-error-code-0xc0000185-definition-and-troubleshooting-steps/"><u>Understanding Error Code 0xC0000185: Definition & Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-key-strategies-to-craft-persuasive-testimonials-that-resonate/"><u>[New] 2024 Approved Key Strategies to Craft Persuasive Testimonials That Resonate</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-ultimate-university-sound-snatchers/"><u>[Updated] 2024 Approved Ultimate University Sound Snatchers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-secrets-of-the-social-elite-6-actionable-tips-for-growing-instagram-followers/"><u>[Updated] Secrets of the Social Elite 6 Actionable Tips for Growing Instagram Followers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-digital-deck-changes-predicting-the-future-of-fb-ads-for-2024/"><u>[Updated] The Digital Deck Changes Predicting the Future of FB Ads for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-3-techniques-for-capturing-sports-spectacles-for-2024/"><u>[Updated] Top 3 Techniques for Capturing Sports Spectacles for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/analyzing-ownership-rights-in-youtube-vs-freedom-of-use-in-cc-for-2024/"><u>Analyzing Ownership Rights in Youtube Vs. Freedom Of Use In CC for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-glitches-effective-fixes-for-cod-vanguards-freezing-problems/"><u>Bypassing Glitches: Effective Fixes for COD Vanguard's Freezing Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-overcoming-frame-drops-and-lag-in-warframe-gaming/"><u>Comprehensive Guide to Overcoming Frame Drops and Lag in Warframe Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/critical-fix-for-ntdlldll-failures-enhance-stability-in-windows-11-and-windows-10/"><u>Critical Fix for ntdll.dll Failures: Enhance Stability in Windows 11 & Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dauntless-desktop-crash-solved-tips-and-fixes-for-smooth-gaming/"><u>Dauntless Desktop Crash Solved: Tips and Fixes for Smooth Gaming</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/dominating-instagrams-social-scene-5-proven-tips-and-success-stories-for-2024/"><u>Dominating Instagram's Social Scene 5 Proven Tips & Success Stories for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-guide-to-prevent-dayz-game-from-continuously-crashing/"><u>Easy Guide to Prevent DayZ Game From Continuously Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ffxiv-version-check-errors-solutions-and-workarounds-for-players/"><u>FFXIV Version Check Errors: Solutions and Workarounds for Players</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Motorola G54 5G? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-phoenix-point-from-crashing-proven-fixes-that-work/"><u>How to Stop Phoenix Point From Crashing: Proven Fixes That Work!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/initiate-dialogue-with-ai-using-bash-and-shellgpt-for-chatgpt/"><u>Initiate Dialogue with AI: Using Bash and ShellGPT for ChatGPT</u></a></li>
+<li><a href="https://program-issues.techidaily.com/masterclass-tutorial-for-smooth-hitman-3-playback-on-pc-avoiding-crashes/"><u>Masterclass Tutorial for Smooth Hitman 3 Playback on PC - Avoiding Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-stability-keeping-hell-let-loose-playable-on-your-computer/"><u>Optimizing Stability: Keeping Hell Let Loose Playable on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-lag-issues-ultimate-guide-to-enhance-your-minecraft-performance/"><u>Resolve Your Lag Issues: Ultimate Guide to Enhance Your Minecraft Performance</u></a></li>
 </ul></div>
 

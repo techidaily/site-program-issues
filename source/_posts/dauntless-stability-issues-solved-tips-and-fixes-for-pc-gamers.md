@@ -1,7 +1,7 @@
 ---
 title: "Dauntless Stability Issues Solved: Tips & Fixes for PC Gamers"
-date: 2024-12-15T20:08:08.903Z
-updated: 2024-12-20T02:16:54.126Z
+date: 2025-01-10T20:10:03.064Z
+updated: 2025-01-18T00:50:32.350Z
 tags:
   - win11
   - win10
@@ -46,12 +46,20 @@ By checking your system specs, just follow the instructions below:
 
 ![bring up DirectX Diagnostic Tool](https://images.drivereasy.com/wp-content/uploads/2020/09/dxdiag.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Now you can check your system specs.
 
 ![check system specs
 ](https://images.drivereasy.com/wp-content/uploads/2020/09/system-requiemnts-1.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Stop overclocking your GPU
 
@@ -64,7 +72,7 @@ By checking your system specs, just follow the instructions below:
  There are mainly two options you can take to update your graphics drivers:[manually](https://tools.techidaily.com/drivereasy/download/) or[automatically](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics drivers
@@ -78,7 +86,7 @@ By checking your system specs, just follow the instructions below:
 [Intel](https://downloadcenter.intel.com/download/29804/Intel-Graphics-Driver-for-Windows-15-40-?product=80939)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics drivers (recommended)
@@ -91,10 +99,6 @@ By checking your system specs, just follow the instructions below:
 
 ![update drivers; scan now](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to _your graphics driver_ to automatically download the correct driver for your computer, then you can manually install it.
 
 OR
@@ -103,10 +107,6 @@ OR
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  with **full support**  and a 30-day **money-back guarantee** – you’ll be prompted to upgrade when you click Update All).
 
 ![update graphics drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/update-all-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -121,10 +121,6 @@ OR
  1) Right-click on the Steam icon on your desktop and select**Open file location** .
 
 ![run the game in compatibility mode; Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Open the**steamapps** folder.
 
@@ -141,11 +137,11 @@ OR
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-as-an-administrator.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Verify the integrity of game files
@@ -155,6 +151,10 @@ OR
  1) Run Steam. Under the**LIBRARY** tab, right-click on**Team Fortress 2** and select**Properties** .
 
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-1-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Select the**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES…** .
 
@@ -173,7 +173,7 @@ OR
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Under the**GENERAL** tab, click**SET LAUNCH OPTIONS** .
@@ -216,18 +216,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-experts-selection-top-10-social-media-viewers/"><u>[New] 2024 Approved Expert's Selection Top 10 Social Media Viewers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-free-top-10-best-drawing-software-for-mac/"><u>[New] 2024 Approved FREE Top 10 Best Drawing Software for Mac</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-silent-strategies-learning-without-edge-videos-for-2024/"><u>[New] Silent Strategies Learning Without EDGE Videos for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-for-a-smooth-hell-let-loose-gaming-experience-crash-no-more/"><u>Expert Advice for a Smooth Hell Let Loose Gaming Experience: Crash No More</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-sims-4-graphics-issue-with-your-video-card/"><u>Fixing The Sims #4 Graphics Issue with Your Video Card</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-tag-your-way-to-the-top-youtubes-viral-power-players/"><u>In 2024, Tag Your Way to the Top YouTube's Viral Power Players</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-troubleshooting-the-livekernelevent-117-mistake/"><u>Step-by-Step Guide: Troubleshooting the LiveKernelEvent 117 Mistake</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-last-of-us-part-ii-tackling-and-resolving-puzzling-performance-bugs/"><u>The Last of Us Part II - Tackling and Resolving Puzzling Performance Bugs</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitters-required-video-aspect-ratios-explained/"><u>Twitter's Required Video Aspect Ratios Explained</u></a></li>
-<li><a href="https://program-issues.techidaily.com/understanding-the-postponement-of-assassins-creed-valhalla/"><u>Understanding the Postponement of Assassin's Creed Valhalla</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/vs-video-edition-is-gopro-writes-better-stories-than-cube/"><u>Vs. Video Edition Is GoPro' Writes Better Stories Than Cube?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/wolcen-mayhem-effective-fix-for-frequent-computer-game-crashes-unveiled/"><u>Wolcen Mayhem: Effective Fix for Frequent Computer Game Crashes Unveiled</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-a15-4g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-discover-poi-delights-in-instant-from-coffee-shops-to-concert-venues/"><u>[New] 2024 Approved Discover POI Delights in Instant, From Coffee Shops to Concert Venues</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-eminence-of-online-influence-top-10-by-subs/"><u>[Updated] 2024 Approved The Eminence of Online Influence Top 10 by Subs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-revolutionize-your-video-content-with-vce-22-mastery/"><u>[Updated] Revolutionize Your Video Content with VCE 2.2 Mastery</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cs2-gameplay-interrupted-learn-how-to-enhance-frame-rate-stability-on-pc/"><u>CS2 Gameplay Interrupted? Learn How to Enhance Frame Rate Stability on PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/driven-by-digital-wizardry-explore-how-cookiebot-empowers-your-online-presence/"><u>Driven By Digital Wizardry: Explore How Cookiebot Empowers Your Online Presence</u></a></li>
+<li><a href="https://fox-within.techidaily.com/elevate-your-parties-with-our-fresh-karaoke-collection-join-now-and-keep-the-good-times-rolling-all-month-long/"><u>Elevate Your Parties with Our Fresh Karaoke Collection – Join Now & Keep the Good Times Rolling All Month Long!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-gta-5-online-connection-problems-and-enjoy-seamless-gameplay/"><u>How to Fix GTA 5 Online Connection Problems and Enjoy Seamless Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-errors-in-the-alienware-command-center-setup/"><u>How to Resolve Errors in the Alienware Command Center Setup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-tips-on-how-to-address-and-solve-game-freezes-in-persona-4-golden/"><u>Master Tips on How to Address and Solve Game Freezes in Persona 4 Golden</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-the-ui-glitch-number-27711-in-call-of-duty-black-ops-cold-war/"><u>Resolved: Fixing the UI Glitch Number 27711 in Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-game-downtime-stop-dead-by-daylight-from-crashing-this-year/"><u>Say Goodbye to Game Downtime: Stop Dead by Daylight From Crashing This Year!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-display-problems-on-your-favorite-sites/"><u>Troubleshooting Display Problems on Your Favorite Sites</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-cant-teredo-meet-qualification-standards/"><u>Why Can't Teredo Meet Qualification Standards?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix NieR: Automata Freezing Issues"
-date: 2024-12-13T01:10:36.464Z
-updated: 2024-12-19T23:51:28.020Z
+date: 2025-01-17T01:34:21.054Z
+updated: 2025-01-17T23:28:05.821Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 | Graphics  | AMD Radeon R9 270X or NVIDIA GeForce GTX 960 |
 | Storage   | 42 GB available space                        |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -38,10 +42,6 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 4. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 5. [Disable your antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Edit username
 
  It may sound ridiculous, but some players have reported that their usernames are solely composed of characters in your platform’s text language can fix the NieR Replicant crash at startup.
@@ -49,6 +49,10 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
  That means, if your platform language is English, you can’t use not-standard-English characters in your username. After removing these marks or characters, the problem is solved.
 
 If this fix doesn’t work, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run as administrator
 
@@ -58,18 +62,10 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 2. In the**Compatibility** tab, check**Run this program as administrator** and hit**OK > Apply** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
 
  If this doesn’t work for you, then try to verify game files in Steam.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
 
@@ -84,13 +80,13 @@ If this fix doesn’t work, move to the next fix.
 4. When the process is completed, relaunch NieR Replicant.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this fix doesn’t bring luck, take a look at the next one below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your drivers
@@ -111,16 +107,16 @@ There are mainly two ways you can update the graphics driver:
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC after drivers are updated, then relaunch the game to check.
 
  If the latest drivers doesn’t solve the issue, move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus software
 
@@ -137,6 +133,10 @@ Here’s how to disable Windows Security temporarily.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
 
@@ -163,24 +163,20 @@ Relaunch NieR Replicant and check if it’s running properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-beyond-imagination-the-real-world-significance-of-snapchat-emojis/"><u>[New] 2024 Approved Beyond Imagination The Real-World Significance of Snapchat Emojis</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-social-media-video-trends-for-smbs/"><u>[New] 2024 Approved Social Media Video Trends for SMBs</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/uiding-you-through-youtubes-security-settings/"><u>[New] Guiding You Through YouTube's Security Settings</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-iphone-and-ipads-best-video-player-compilation-top-10/"><u>[New] IPhone & iPad's Best Video Player Compilation (Top 10)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-behind-the-scenes-recording-your-facebook-live-stream-for-2024/"><u>[Updated] Behind the Scenes Recording Your Facebook Live Stream for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-elevate-your-filming-flair-with-free-green-screen-insights-from-4-youtube-authorities/"><u>[Updated] Elevate Your Filming Flair with Free Green Screen Insights From 4 YouTube Authorities</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-streamlining-monetization-strategies-on-youtube/"><u>[Updated] Streamlining Monetization Strategies on YouTube</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723000685753-geforce-experience-crashes-heres-your-step-by-step-fix/"><u>GeForce Experience Crashes? Here’s Your Step-by-Step Fix!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-the-detected-game-integrity-compromise-notification/"><u>How to Fix the Detected Game Integrity Compromise Notification</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-galaxy-z-fold-5-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Galaxy Z Fold 5.</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-11-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 11 Pro Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Realme 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-your-email-woes-how-to-get-outlook-connected-again/"><u>Overcome Your Email Woes: How to Get Outlook Connected Again</u></a></li>
-<li><a href="https://program-issues.techidaily.com/patch-notes-update-how-to-fix-crashing-glitches-on-your-horizon-zero-dawn-pc-experience/"><u>Patch Notes Update: How to Fix Crashing Glitches on Your Horizon Zero Dawn PC Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-solutions-for-getting-steamvr-back-on-track/"><u>Quick Solutions for Getting SteamVR Back on Track</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-multiversus-stability-issues-learn-how-with-our-8-proven-strategies/"><u>Solving MultiVersus Stability Issues: Learn How with Our 8 Proven Strategies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-fifa-21-wont-start-up/"><u>Troubleshooting Guide: Why FIFA 21 Won't Start Up</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-your-nvidia-shadowplay-isnt-responding/"><u>Troubleshooting Steps When Your Nvidia ShadowPlay Isn’t Responding</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-stop-dead-by-daylight-game-crashes-now/"><u>Troubleshooting Tips: Stop Dead By Daylight Game Crashes Now</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fading-sounds-gently-a-guide-to-softening-audibility-in-lumafusion/"><u>[New] Fading Sounds Gently A Guide to Softening Audibility in Lumafusion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-leading-speed-change-audio-utilities-list/"><u>[New] In 2024, Leading Speed-Change Audio Utilities List</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-virtual-horizons-redefining-the-movie-experience/"><u>[New] Virtual Horizons Redefining the Movie Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-your-ultimate-roadmap-for-optimal-youtube-video-resolution-width-and-height/"><u>[New] Your Ultimate Roadmap for Optimal YouTube Video Resolution, Width & Height</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-choosing-5-chrome-extensions-for-facebook-videos/"><u>[Updated] 2024 Approved The Ultimate Guide to Choosing 5 Chrome Extensions for Facebook Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-craft-clearer-crisper-youtube-videos-with-quality-tools/"><u>[Updated] Craft Clearer, Crisper YouTube Videos with Quality Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-expert-tips-for-effortless-youtube-video-uploads-via-ios-for-2024/"><u>[Updated] Expert Tips for Effortless YouTube Video Uploads via iOS for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-top-8-youtube-rank-tracker-tools-unveiled/"><u>[Updated] In 2024, Top 8 YouTube Rank Tracker Tools Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-time-taken-to-watch-an-example-of-a-20mb-video/"><u>[Updated] Time Taken to Watch An Example of a 20MB Video</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquering-zoom-resource-hogging-discover-these-efficiencies-to-cut-down-cpu-drain/"><u>Conquering Zoom Resource Hogging: Discover These Efficiencies to Cut Down CPU Drain</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-nk-2077s-fps-challenge-past-problem-present-solution/"><u>Cyberpunk Nk 2077'S FPS Challenge: Past Problem, Present Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-solutions-to-resolve-world-of-warcraft-stability-issues-and-game-crashes/"><u>Easy Solutions to Resolve 'World of Warcraft' Stability Issues & Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-back-4-blood-ue4-gobi-error-expert-tips-and-solutions/"><u>How to Overcome 'Back 4 Blood - UE4 Gobi Error': Expert Tips and Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/multiversus-crash-solved-top-8-methods-to-stabilize-your-game/"><u>MultiVersus Crash Solved: Top 8 Methods to Stabilize Your Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/phasmophobia-crash-troubles-heres-your-ultimate-guide-to-2ebarriers-2024-resolutions/"><u>Phasmophobia Crash Troubles? Here's Your Ultimate Guide to 2Ebarriers 2024 Resolutions</u></a></li>
 </ul></div>
 

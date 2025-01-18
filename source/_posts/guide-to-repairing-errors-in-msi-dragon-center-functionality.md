@@ -1,7 +1,7 @@
 ---
 title: Guide to Repairing Errors in MSI Dragon Center Functionality
-date: 2024-09-13T19:59:33.961Z
-updated: 2024-09-16T16:38:20.378Z
+date: 2025-01-15T04:45:47.227Z
+updated: 2025-01-18T04:48:05.496Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 2. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Set launch options](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Stop overclocking
 
@@ -51,7 +55,15 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 2. Click the**settings icon** next to the Play button. Then, click**Manage installation** \>**Verify / Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait until the process completes and launch the game to see if crashes are still there. If yes, keep reading the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -82,17 +94,14 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
  Or click**Update All** to automatically download and install the correct version of_all the drivers_ that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/amd-5700-xt-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  How does your game work now? If it crashes again, head to the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Set launch options
 
@@ -107,20 +116,10 @@ Here are the steps:
 3. On the**General** tab, type**\-dx11** in the text field under Launch Options.  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-launch-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Close the window and restart Everspace 2 to check if the crashing got fixed. If none of the steps above do the trick, wait patiently for the upcoming patches. Since the game is still in Early Access, it should be further optimized before long.
 
@@ -144,5 +143,22 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-craft-eye-catching-youtubes-end-titles-for-2024/"><u>[Updated] How to Craft Eye-Catching YouTubes End Titles for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-refining-audio-in-obs-high-quality-mode-for-2024/"><u>[Updated] Refining Audio in OBS High-Quality Mode for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/6-quick-tricks-to-revive-your-blacked-out-oculum-link-connection/"><u>6 Quick Tricks to Revive Your Blacked-Out Oculum Link Connection</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/broadcasting-fb-movies-on-whatsapp-for-2024/"><u>Broadcasting FB Movies on WhatsApp for 2024</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/como-hacer-backup-de-todos-los-programas-instalados-en-windows-11-para-salvaguardar-tu-sistema-sin-necesidad-de-reinstalacion/"><u>Cómo Hacer Backup De Todos Los Programas Instalados en Windows 11 Para Salvaguardar Tu Sistema Sin Necesidad De Reinstalación</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/comprehensive-aomei-disk-management-software-instructions/"><u>Comprehensive AOMEI Disk Management Software Instructions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-remedies-for-persistent-valheim-crashes-on-windows-and-mac-systems/"><u>Effective Remedies for Persistent Valheim Crashes on Windows and Mac Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ensuring-smooth-gameplay-strategies-for-addressing-overwatch-2s-pc-stability-problems/"><u>Ensuring Smooth Gameplay: Strategies for Addressing Overwatch 2'S PC Stability Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-valorant-continuously-freezing-and-closing-on-your-computer/"><u>Fixes for 'Valorant Continuously Freezing and Closing on Your Computer'</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Plus Without Passcode?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-spotting-blocked-contacts-in-snapchat/"><u>In 2024, Spotting Blocked Contacts in Snapchat</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overwatch-wont-launch-fixed/"><u>Overwatch Won't Launch [FIXED]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rekindling-the-audio-effective-solutions-to-silence-problems-in-evil-genius-2/"><u>Rekindling the Audio: Effective Solutions to Silence Problems in Evil Genius 2</u></a></li>
+<li><a href="https://fox-access.techidaily.com/renewed-set-of-interview-starters-for-attractive-listenership-for-2024/"><u>Renewed Set of Interview Starters for Attractive Listenership for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/sandisk-ssd-mastery-a-step-by-step-guide-to-downloading-and-applying-essential-drivers/"><u>SanDisk SSD Mastery: A Step-by-Step Guide to Downloading and Applying Essential Drivers</u></a></li>
+</ul></div>
 

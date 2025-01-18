@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing Lego Star Wars: The Skywalker Saga's PC Malfunction"
-date: 2024-09-10T15:47:23.373Z
-updated: 2024-09-11T15:47:23.373Z
+date: 2025-01-16T07:57:02.668Z
+updated: 2025-01-18T02:44:47.122Z
 tags:
   - win11
   - win10
@@ -19,20 +19,6 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 
 **Netflix not working** is one of the very common issues on Xbox One. So if you’re experiencing this problem, rest assured, you’re not alone. Quite a lot of Xbox One users have the same problem with you. More importantly, that’s an easy problem to fix by yourself. Here are 3 simple but effective methods you can try to fix this problem. You may not have to try them all; just work your way down the list until you get Netflix to work fine again on your Xbox One.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Try one at a time
 
 1. **[Restart your Netflix](https://tools.techidaily.com/drivereasy/download/)**
@@ -47,20 +33,6 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9bc0594322.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 2) Press the**menu button**on your Xbox One controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9b7d5cf405.png)
@@ -71,23 +43,17 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 
 4) Re-launch Netflix on Xbox One to see if it works.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
 ## Method 2: Restart your Xbox One Console and Xbox One
 
 1) Turn off your Xbox One. 2) Unplug the power cable of your Xbox One console, then press and hold the home button on the console for around 5 seconds to discharge it. 3) Wait for around 1 minute. 4) Plug the power cable back into your Xbox One console. 5) Turn on your Xbox One. 6) Re-launch Netflix on Xbox One to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Reinstall your Netflix
 
@@ -95,87 +61,37 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9d2f1b0153.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 2) Select **Apps**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9d39a96109.png)
 
 3) Highlight **Netflix** from Apps. Then press the menu button on your controller.![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9b7d5cf405.png)4) Select **Manage app**.
 
-![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9d4de65636.png)
-
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-
-
+![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9d4de65636.png)
 
 5) Select **Uninstall all**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9d5c6d7c9b.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 6) Back to Home of your Xbox One and select**Store**. Then select **Netflix** in **Apps**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9d67dec46f.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
 7) Select **Install**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9d6d32cef6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8) Run Netflix to see if it works.
 
@@ -188,8 +104,6 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,12 +111,26 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-hands-free-tips-saving-instagram-stories-as-videos/"><u>[New] In 2024, Hands-Free Tips Saving Instagram Stories as Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-optimize-tv-viewership-via-facebook-live-streaming/"><u>2024 Approved Optimize TV Viewership via Facebook Live Streaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/banish-email-clutter-with-one-clever-hack-say-goodbye-to-complex-filters-and-multiple-accounts-tips/"><u>Banish Email Clutter with One Clever Hack - Say Goodbye to Complex Filters and Multiple Accounts | Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/canon-cameras-vividness-with-free-and-paid-lut-sets/"><u>Canon Cameras' Vividness with Free & Paid LUT Sets</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722995145159-conquer-call-of-duty-warzone-glitches-mastering-error-6328-hacks-for-players/"><u>Conquer Call of Duty Warzone Glitches: Mastering Error 6328 Hacks for Players!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-methods-to-enable-hyper-v-on-your-windows/"><u>Easy Methods to Enable Hyper-V on Your Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-gaming-experience-by-fixing-high-network-delay-in-back-4-bloods/"><u>Enhance Gaming Experience by Fixing High Network Delay in Back 4 Bloods</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-far-cry-6-wont-start-on-your-pc/"><u>Fixing the Issue: Far Cry 6 Won't Start on Your PC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-complete-razer-kiyo-webcam-overview/"><u>In 2024, Complete Razer Kiyo Webcam Overview</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oppo-reno-11-pro-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Oppo Reno 11 Pro 5G FRP Locks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/losing-no-quality-the-ultimate-guide-to-shrinking-avi-files-in-windows-10/"><u>Losing No Quality: The Ultimate Guide to Shrinking AVI Files in Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-fix-overcoming-launch-errors-in-days-gone-for-pc-users/"><u>Master The Fix: Overcoming Launch Errors In Days Gone For PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/national-pesticide-information-center-2016-glyphosate-retrieved-from-httpsnpicorsteduhazardspestfactsgpshtml/"><u>National Pesticide Information Center (2016). Glyphosate. Retrieved From https://npic.orst.edu/hazards/pestfacts/gps.html</u></a></li>
+<li><a href="https://article-tips.techidaily.com/next-gen-video-technology-review-2024-edition/"><u>Next-Gen Video Technology Review, 2024 Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-freezes-mastering-the-fixes-for-stable-total-war-warhammer-iii-gameplay/"><u>No More Freezes! Mastering the Fixes for Stable Total War: Warhammer III Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-addressing-fortnites-out-of-memory-situation/"><u>Troubleshooting Tips: Addressing Fortnite’s Out-of-Memory Situation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/uninterrupted-gaming-bliss-how-to-prevent-among-us-from-crashing/"><u>Uninterrupted Gaming Bliss: How to Prevent 'Among Us' From Crashing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winerror-woes-installing-oculus-app-without-fails-on-ws11wc10/"><u>WinError Woes: Installing Oculus App Without Fails on WS11/WC10</u></a></li>
+</ul></div>
 

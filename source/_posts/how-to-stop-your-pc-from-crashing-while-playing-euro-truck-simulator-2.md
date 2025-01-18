@@ -1,7 +1,7 @@
 ---
 title: How to Stop Your PC From Crashing While Playing Euro Truck Simulator 2
-date: 2024-12-15T16:22:45.830Z
-updated: 2024-12-19T21:45:55.757Z
+date: 2025-01-17T08:11:01.599Z
+updated: 2025-01-17T19:47:26.920Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 1: Disable your microphone for your Forza Horizon 3**
@@ -49,17 +49,21 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 2. **Toggle off** the microphone for Forza Horizon 3.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap14-1.png)
 3. Reboot your Windows system and run the game again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this fix works, your Forza Horizon 3 won’t crash. If not, please try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 2: Reset your Forza Horizon 3**
 
@@ -71,8 +75,16 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap15-1.png)
 2. Select **Forza Horizon 3**  and click **Advanced options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap18.png)
 3. Click **Reset**  to reset your **Forza Horizon 3** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap20.png)
 4. Launch the game and play it again.
@@ -90,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap22.png)
 3. Click **Temporary files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap23.png)
 4. Make sure you’ve checked **Temporary files, Temporary Internet Files**  and **Delivery Optimization Files** . Then click **Remove files** .  
 
@@ -101,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 5. Restart your Windows system. Launch and play the game to see if it still keeps crash.
 
  If not, congratulations! You’ve resolve this issue. If this annoying issue persists, just try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 4: Add your Forza Horizon 3 as an exception to your third-party antivirus application**
 
@@ -127,10 +139,6 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap3-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you have any issue with**Driver Easy** , please contact Driver Easy’s support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) for advice. You should attach the URL of this article so they can help you better.
 
 ### **Fix 6: Perform a clean boot**
@@ -147,29 +155,21 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8-4.jpg)
 4. On the **Startup**  tab in **Task Manager** , for **each**  startup item, select the item and then click   **Disabled**  .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap9.jpg)
 5. Go back to the **System Configuration**  window and click   **OK**  .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap10.jpg)
 6. Click **Restart**  to restart your PC.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11.jpg)
 
 **Restart** your PC and run your Forza Horizon 3 to check whether the problem reappears. If not, you need to open the **System Configuration**  window again to enable services and applications **one by one**  until you find the problematic software. After enabling each services, you need to  restart your PC to apply the changes.
   
  Once you find out the problematic software that make the game keep crashing, you need to **uninstall**  it in order to resolve this  issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 7: Update your Windows system to the latest version**
 
@@ -182,11 +182,11 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap2q.png)
 3. Restart your PC when the Windows update process is completed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this fix works, your game won’t keep crashing again. If not, you may need to reinstall the game to resolve the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 8: Reinstall your Forza Horizon 3**
 
@@ -196,15 +196,15 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap33.png)
 2. Click **Uninstall** to uninstall your Forza Horizon 3.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap29.png)
 3. Open the**Store** app. In the search bar, type**Forza Horizon 3**  and click the**Search** button.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap32.png)
 4. Select the game you purchased before to start installing the game. Launch the game to see if it will still keep crashing. Hopefully, you will be able to resolve this annoying issue by reinstalling the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now, you can enjoy the game! Please leave your comment below if you have any questions!
 
@@ -226,22 +226,21 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-banishing-bogus-followers-from-instagram-landscape/"><u>[New] Banishing Bogus Followers From Instagram Landscape</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-scheduling-zoom-conferences-for-android-users/"><u>[New] Scheduling Zoom Conferences for Android Users</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-chorus-of-creators-guidelines-for-sharing-sounds-online/"><u>[Updated] Chorus of Creators Guidelines for Sharing Sounds Online</u></a></li>
-<li><a href="https://program-issues.techidaily.com/code-vein-optimization-tips-how-to-overcome-in-game-lag-and-freezing-episodes/"><u>Code Vein Optimization Tips: How to Overcome In-Game Lag and Freezing Episodes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquer-arma-3-crashes-with-these-easy-fixes-boost-your-gaming-experience/"><u>Conquer Arma 3 Crashes with These Easy Fixes - Boost Your Gaming Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/educate-yourself-with-these-essential-technology-items-every-learner-needs/"><u>Educate Yourself with These Essential Technology Items Every Learner Needs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elevating-the-gaming-experience-fix-stutter-issues-and-increase-fps-on-the-ascent-platform/"><u>Elevating the Gaming Experience: Fix Stutter Issues & Increase FPS on 'The Ascent' Platform</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-getting-your-logitech-c920-webcam-back-to-functioning-order/"><u>Expert Advice: Getting Your Logitech C920 Webcam Back to Functioning Order</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-the-msvcr110dll-error-for-helldivers-2-essential-solutions-to-try/"><u>Fix the 'MSVCR110.dll' Error for Helldivers 2: Essential Solutions to Try</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-how-to-make-your-iphone-detectable-by-itunes-on-a-windows-10-pc/"><u>Fix: How to Make Your iPhone Detectable by iTunes on a Windows 10 PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-repairing-silent-stereo-systems-and-boosting-audio-output/"><u>Guide to Repairing Silent Stereo Systems and Boosting Audio Output</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-the-division-2-game-crashing-issue-simple-solutions/"><u>How to Fix the Division 2 Game Crashing Issue - Simple Solutions</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210355826-9781644113998-love-in-the-time-of-impermanence/"><u>Love in the Time of Impermanence | Free Book</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-starfield-playability-fixes-for-pc-faulty-performance-freezes-and-crashes/"><u>Optimizing Starfield Playability: Fixes for PC Faulty Performance, Freezes, and Crashes</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/0-freefire-game-hacks-for-youtube-gamers-for-2024/"><u>Top 10 FreeFire Game Hacks for YouTube Gamers for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/unlocking-the-potential-of-your-online-persona-on-facebook-for-2024/"><u>Unlocking the Potential of Your Online Persona on Facebook for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-tech-secrets-with-tom-the-ultimate-resource-for-hardware-enthusiasts/"><u>Unveiling Tech Secrets with Tom - The Ultimate Resource for Hardware Enthusiasts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-creative-ways-to-insert-youtube-content-in-presentations/"><u>[New] 4 Creative Ways to Insert YouTube Content in Presentations</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-screencapture-pro-tips-record-your-television-easily/"><u>[Updated] In 2024, ScreenCapture Pro-Tips Record Your Television Easily</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-optimizing-group-chats-with-google-meets-filtering-options-for-2024/"><u>[Updated] Optimizing Group Chats with Google Meet's Filtering Options for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-from-struggle-to-success-a-collection-of-best-practices-for-fb-profiles/"><u>2024 Approved From Struggle to Success A Collection of Best Practices for FB Profiles</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-honor-100-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Honor 100</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeat-the-glitches-expert-strategies-to-keep-sfvi-stable-on-your-computer-this-year/"><u>Defeat the Glitches: Expert Strategies to Keep SFVI Stable on Your Computer This Year</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-ending-the-microsoft-edge-crash-dilemma-in-windows-10-once-and-for-all/"><u>Expert Guide: Ending the Microsoft Edge Crash Dilemma in Windows 10 Once and For All</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-why-your-iphone-wont-connect-to-itunes-on-windows-10/"><u>Fixing the Issue: Why Your iPhone Won't Connect to iTunes on Windows 10</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-breaking-into-the-tiktok-livestream-realm/"><u>In 2024, Breaking Into the TikTok Livestream Realm</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-motorola-moto-g24-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Motorola Moto G24 FRP Locks</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-unleashing-powerful-features-of-onetastic-plugin-in-ms-onenote/"><u>In-Depth Analysis: Unleashing Powerful Features of Onetastic Plugin in MS OneNote</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-saved-solutions-to-avoid-final-fantasy-xv-pc-malfunctions-and-closes-unexpectedly/"><u>PC Gaming Saved: Solutions to Avoid Final Fantasy XV PC Malfunctions and Closes Unexpectedly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-dying-lights-volume-problem-expert-tips-and-tricks/"><u>Resolving Dying Light's Volume Problem: Expert Tips and Tricks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/significant-temperature-reduction-with-the-direct-die-aio-cooler-from-ek-solutions-for-intel-139/"><u>Significant Temperature Reduction with the Direct Die AIO Cooler From EK Solutions for Intel 139</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-audio-disruptions-your-guide-to-a-smooth-soundscape-in-dying-light/"><u>Solving Audio Disruptions: Your Guide to a Smooth Soundscape in Dying Light</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-the-secrets-eliminate-vrchat-loading-difficulties-with-these-easy-steps/"><u>Unlock the Secrets: Eliminate VRChat Loading Difficulties with These Easy Steps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Black Ops: Cold War Game Patch for UI Problem 27711 Correction"
-date: 2025-01-06T16:23:20.405Z
-updated: 2025-01-12T16:01:05.890Z
+date: 2025-01-10T16:35:09.786Z
+updated: 2025-01-18T02:15:12.147Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your PC
 
  Some gamers on[Reddit](https://www.reddit.com/r/blackopscoldwar/comments/kia139/get%5Fui%5Ferror%5F27711%5Fand%5Falso%5Fsomething%5Felse/) reported that the game went back to normal after a system restart. So before you try anything more complicated,**exit your game and do a normal reboot** . You’d be surprised how often this trick works.
@@ -40,15 +44,19 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** . Then wait until the checking is completed.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can launch the game and see if it loads this time.
 
  If this method doesn’t give you luck, simply take a look at the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -79,11 +87,11 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -105,21 +113,13 @@ Here’s how you can check for updates manually:
 3. Click**Windows Update** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -144,22 +144,22 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-professional-mac-strategies-for-classroom-audio-recording/"><u>[Updated] 2024 Approved Professional Mac Strategies for Classroom Audio Recording</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-apples-affordable-marvel-ranking-of-cost-free-image-arrangement-apps/"><u>[Updated] Apple's Affordable Marvel Ranking of Cost-Free Image Arrangement Apps</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-fixing-windows-11-photo-app-glitches-quickly-for-2024/"><u>[Updated] Fixing Windows 11 Photo App Glitches Quickly for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-vanguards-choice-of-top-12-high-tech-action-cams-with-locators-for-2024/"><u>[Updated] Vanguard's Choice of Top 12 High-Tech Action Cams With Locators for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/6-pure-android-screen-recorder-selections-no-ads-for-2024/"><u>6 Pure Android Screen Recorder Selections (No Ads) for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008550624-boost-your-playtime-instantly-address-apex-legends-loading-errors/"><u>Boost Your Playtime: Instantly Address Apex Legends Loading Errors!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013104182-bypassing-launch-errors-in-borderlands-3-effective-strategies-you-can-apply-now/"><u>Bypassing Launch Errors in Borderlands 3: Effective Strategies You Can Apply Now!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/clogs-and-backups/"><u>Clogs And Backups:</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/discover-the-a-list-of-excellent-ios-video-apps/"><u>Discover the A-List of Excellent iOS Video Apps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-that-frustrating-microsoft-word-error-in-just-five-steps/"><u>Fix That Frustrating Microsoft Word Error in Just Five Steps!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-cyberpunk-2077-install-problems-on-steam-solutions/"><u>Fixing the Cyberpunk 2077 Install Problems on Steam - Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-your-gameplay-eliminating-lags-and-boosting-fps-on-cod-black-ops-4/"><u>Fixing Your Gameplay: Eliminating Lags and Boosting FPS on COD Black Ops 4</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/inside-track-understanding-sound-rights-on-instagram/"><u>Inside Track Understanding Sound Rights on Instagram</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-find-n3-flip-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo Find N3 Flip Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-game-crashes-stable-playthrough-of-r-type-final-2-on-pc/"><u>Say Goodbye to Game Crashes: Stable Playthrough of R-Type Final 2 on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlock-the-secrets-of-free-rainbow-six-siege-gameplay/"><u>Unlock the Secrets of FREE Rainbow Six Siege Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlocking-better-gameplay-a-2023-playbook-to-fix-fallout-76s-fps-lag-problem/"><u>Unlocking Better Gameplay: A 2023 Playbook to Fix Fallout 76'S FPS Lag Problem</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-financial-impact-of-viewership-on-content-makers/"><u>[New] The Financial Impact of Viewership on Content Makers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-reality-of-youtubes-fast-subscribe-technique/"><u>[New] The Reality of YouTube's Fast Subscribe Technique</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-sites-bridging-you-with-googles-advertising-on-youtube/"><u>[Updated] Sites Bridging You with Google's Advertising on Youtube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/achieving-seamless-gameplay-tips-for-fixing-lags-and-boosting-frames-in-valorant/"><u>Achieving Seamless Gameplay - Tips for Fixing Lags & Boosting Frames in Valorant</u></a></li>
+<li><a href="https://program-issues.techidaily.com/advanced-fixes-for-reducing-lag-in-rainbow-six-siege-gameplay/"><u>Advanced Fixes for Reducing Lag in Rainbow Six Siege Gameplay</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-faults-getting-roblox-to-launch-expert-advice/"><u>Common Faults: Getting Roblox to Launch - Expert Advice</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-fixing-excessive-cpu-load-during-phasmophobia-gameplay/"><u>Diagnosing and Fixing Excessive CPU Load During Phasmophobia Gameplay</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-scoop-save-big-with-july-2e24s-ultimate-laptop-deals-insider-tips/"><u>Exclusive Scoop: Save Big with July 2E24's Ultimate Laptop Deals Insider Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-overcoming-the-challenge-of-a-stubbornly-non-launchable-rocket-league/"><u>Guide To Overcoming The Challenge Of A Stubbornly Non-Launchable Rocket League</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/optimize-youtube-watch-experience-boostslow-down-feature-usage/"><u>Optimize YouTube Watch Experience Boost/Slow Down Feature Usage</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/resolving-device-connection-issues-how-to-make-your-scanner-acknowledge-your-computer-expert-advice-by-yl-software/"><u>Resolving Device Connection Issues: How to Make Your Scanner Acknowledge Your Computer - Expert Advice by YL Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-strategy-for-resolving-lols-persistent-black-screen-problem/"><u>Step-by-Step Strategy for Resolving LoL's Persistent Black Screen Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-for-grand-theft-auto-5-stuttering-problems-fixed/"><u>Troubleshooting Guide for Grand Theft Auto 5 Stuttering Problems, Fixed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-launch-problems-with-division-2-essential-tips-and-tricks/"><u>Troubleshooting Launch Problems with Division 2 - Essential Tips and Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-utorrents-connection-and-download-issues/"><u>Ultimate Guide: Resolving uTorrent's Connection and Download Issues</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ling-the-world-through-your-lens-how-to-become-a-professional-travel-vlogger/"><u>Unveiling the World Through Your Lens How To Become A Professional Travel Vlogger</u></a></li>
 </ul></div>
 

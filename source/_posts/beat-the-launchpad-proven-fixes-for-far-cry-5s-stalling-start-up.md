@@ -1,7 +1,7 @@
 ---
 title: "Beat the Launchpad: Proven Fixes for Far Cry 5'S Stalling Start-Up"
-date: 2024-12-20T07:13:18.454Z
-updated: 2024-12-27T02:44:53.365Z
+date: 2025-01-17T00:38:43.832Z
+updated: 2025-01-18T00:32:22.201Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/815fea7976911214190dec2e4ce8ef31c5b56fc35
 Bothered by Enlisted black screen issue? Don’t worry, you’re not alone. This post shows you how to fix black screen issues step-by-step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Before trying…
@@ -45,14 +45,14 @@ There’re things you can do before trying complicated fixes:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. In the Compatibility tab, click **Run as administrator** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
 
 If it’s not working, move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Install Windows updates
 
@@ -63,21 +63,13 @@ If it’s not working, move to the next fix.
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Enlisted and check.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this didn’t solve your problems, read on for further troubleshooting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update graphic driver
 
@@ -98,8 +90,16 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -124,24 +124,16 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-synchronized-screenscapes-youtube-clips-in-tv-loops/"><u>[Updated] Synchronized Screenscapes YouTube Clips in TV Loops</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-selections-economical-4k-home-theater-systems/"><u>2024 Approved Ideal Selections Economical 4K Home Theater Systems</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-multitasking-ideas-with-podcasts/"><u>2024 Approved Mastering Multitasking Ideas with Podcasts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/anonymity-in-action-insta-stories-guide/"><u>Anonymity in Action Insta Stories Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-fixes-for-origin-not-working-on-newest-windows-platforms-10-and-11/"><u>Comprehensive Fixes for 'Origin Not Working' On Newest Windows Platforms (10 & 11)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-remedies-to-prevent-the-frequent-crashing-of-ghostwire-tokyo-on-your-pc-gaming-setup/"><u>Effective Remedies to Prevent the Frequent Crashing of Ghostwire: Tokyo on Your PC Gaming Setup</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-overcoming-pc-lag-and-stuttering-in-call-of-dutys-modern-warfare/"><u>Expert Advice: Overcoming PC Lag & Stuttering in Call of Duty's Modern Warfare</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-back-into-azeroth-how-to-resolve-playback-problems-in-wow-on-your-desktop-computer/"><u>Get Back Into Azeroth: How to Resolve Playback Problems in WoW on Your Desktop Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-master-destiny-2s-remarkable-broccoli-glitch-fix-update/"><u>How to Master Destiny 2'S Remarkable Broccoli Glitch Fix Update</u></a></li>
-<li><a href="https://windows11.techidaily.com/hush-the-hum-fixing-faulty-spacebar-audio-on-windows-systems/"><u>Hush the Hum: Fixing Faulty Spacebar Audio on Windows Systems</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-leveraging-visuals-snap-camera-for-team-discussions/"><u>In 2024, Leveraging Visuals Snap Camera for Team Discussions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-oneplus-nord-ce-3-lite-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 OnePlus Nord CE 3 Lite 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimized-installation-guide-play-tiny-tinas-strikers-of-fate-seamlessly-on-your-pc/"><u>Optimized Installation Guide: Play Tiny Tina's Strikers of Fate Seamlessly on Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/removing-ms-edge-steps-for-w11-os/"><u>Removing MS Edge: Steps for W11 OS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/streamline-win7-performance-integrating-latest-intel-drivers/"><u>Streamline Win7 Performance: Integrating Latest Intel Drivers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-made-easy-overcoming-the-steam-corrupt-disk-issue-quickly/"><u>Troubleshooting Made Easy: Overcoming the 'Steam Corrupt Disk' Issue Quickly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-genshin-impact-launch-issues-in-minutes/"><u>Troubleshooting Tips: Resolving Genshin Impact Launch Issues in Minutes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-amidst-the-constant-crashes-in-among-us/"><u>Ultimate Guide: Resolving Amidst the Constant Crashes in Among Us</u></a></li>
-<li><a href="https://article-helps.techidaily.com/ultimate-online-seminar-creation-assistant/"><u>Ultimate Online Seminar Creation Assistant</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-become-a-headline-hero-proven-strategies-in-focus/"><u>[Updated] Become a Headline Hero Proven Strategies in Focus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-essential-solutions-for-troubleshooting-missing-wireless-connections-in-windows-10/"><u>10 Essential Solutions for Troubleshooting Missing Wireless Connections in Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/adobe-after-effects-troubleshooting-guide-how-to-fix-crashes-in-windows-11-and-10/"><u>Adobe After Effects Troubleshooting Guide: How to Fix Crashes in Windows 11 & 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-troubleshooting-of-missing-msvcr110dll-in-helldivers-2/"><u>Comprehensive Troubleshooting of Missing MSVCR110.DLL in Helldivers 2</u></a></li>
+<li><a href="https://extra-information.techidaily.com/delving-into-hidden-discussions-among-viewers/"><u>Delving Into Hidden Discussions Among Viewers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-tecno-pova-5-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Tecno Pova 5</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-a2withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi A2with/without a PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persistent-problem-getting-hitman-3-up-and-running-on-your-computer/"><u>Persistent Problem: Getting Hitman 3 Up and Running on Your Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-apple-iphone-14-pro-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your Apple iPhone 14 Pro Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972846272-updated-msi-z370-a-pro-motherboard-drivers-download-today/"><u>Updated MSI Z370-A Pro Motherboard Drivers: Download Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/upgrade-your-outriders-view-effective-fixes-for-blurred-graphics/"><u>Upgrade Your Outriders View: Effective Fixes for Blurred Graphics</u></a></li>
 </ul></div>
 

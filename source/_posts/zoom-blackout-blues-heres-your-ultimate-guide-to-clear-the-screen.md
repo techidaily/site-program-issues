@@ -1,7 +1,7 @@
 ---
 title: Zoom Blackout Blues? Here’s Your Ultimate Guide to Clear the Screen
-date: 2024-12-23T01:50:34.285Z
-updated: 2024-12-26T21:38:48.190Z
+date: 2025-01-17T03:51:52.067Z
+updated: 2025-01-17T21:18:59.581Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
  If you haven’t tried this yet, give it a shot. A simple reboot almost always works when it comes to software glitches.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Turn off automatic GPU switching
@@ -43,10 +43,6 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
  1) Right-click an empty space on your desktop and select**Nvidia Control Panel**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Select**Manage 3D Settings** .
 
@@ -60,16 +56,12 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/10-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Find**Cpthost.exe** from the Zoom bin directory (located at C:/>Users>YOURUSERNAME>AppData>Roaming>Zoom>bin).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Under Select the preferred graphics processor for this program, select**Integrated graphics**
@@ -77,7 +69,7 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Click**Apply** .
@@ -102,6 +94,10 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 
 ![update graphics driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/01/de-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update button** next to the video driver to automatically download the correct version of that driver, then you can manually install it.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -116,10 +112,6 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 4) Restart your computer and Zoom to test the issue.
 
 If you still have the problem, then try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Turn on/off Hardware Acceleration
 
@@ -142,7 +134,7 @@ If you still have the problem, then try the next fix below.
  Try screen sharing again with Zoom. If the black screen issue happens again, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Exit full-screen mode
@@ -157,6 +149,10 @@ If you still have the problem, then try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-full-screen.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the issue still exists, then move on to the next fix below.
 
 ## Fix 6: Reinstall Zoom
@@ -168,6 +164,10 @@ If the issue still exists, then move on to the next fix below.
  2) Type**appwiz.cpl** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/unstall-roblox-1-.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click Zoom and click**Uninstall** .
 
@@ -193,24 +193,22 @@ If the issue still exists, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-how-to-do-screen-recording-on-ipad/"><u>[New] 2024 Approved How to Do Screen Recording on iPad?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-making-classroom-content-video-editing-insights-for-2024/"><u>[New] Making Classroom Content Video Editing Insights for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-fallout-3-not-launching-2024-tips/"><u>[Solved] Fallout 3 Not Launching | 2024 Tips</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-comprehensive-analysis-of-frozen-treat-screen-capture/"><u>[Updated] In 2024, Comprehensive Analysis of Frozen Treat Screen Capture</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-golden-5-premier-macsierra-dvd-makers/"><u>2024 Approved Golden 5 Premier MacSierra Dvd Makers</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-11-pro-max-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 11 Pro Max to iPhone With/Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discovering-value-with-the-apple-watch-se-a-detailed-assessment/"><u>Discovering Value with the Apple Watch SE - A Detailed Assessment</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-everyday-living-utilizing-chatgpt-for-a-better-you/"><u>Elevate Everyday Living: Utilizing ChatGPT for a Better You</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enjoy-uninterrupted-gaming-addressed-and-fixed-total-war-saga-troy-pc-errors/"><u>Enjoy Uninterrupted Gaming: Addressed and Fixed Total War Saga - Troy PC Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-mastering-roller-champions-crossplay-on-pc-in-202er4-comprehensive-strategies-unveiled/"><u>Expert Tips for Mastering Roller Champions CrossPlay on PC in 202Er4 - Comprehensive Strategies Unveiled</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-connection-failed-issue-in-hitman-3-troubleshooting-guide/"><u>Fixing the 'Connection Failed' Issue in Hitman 3 - Troubleshooting Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722990311009-how-to-fix-football-manager-2amo-crashes-for-pc-gamers-solutions-explored/"><u>How to Fix Football Manager 2Amo Crashes for PC Gamers - Solutions Explored!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-moto-g-5g-2023-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Moto G 5G (2023) to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-unleashing-visual-treasures-a-pexels-search-guide/"><u>In 2024, Unleashing Visual Treasures A Pexels Search Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-samsung-galaxy-xcover-7-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Samsung Galaxy XCover 7 Phones</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-left-4-dead-2-fixes-game-crashing-issue/"><u>Resolved: Left 4 Dead 2 Fixes Game-Crashing Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-crashes-in-call-of-duty-modern-warfare-3-app-no-longer-responding/"><u>Resolving Crashes in Call of Duty Modern Warfare 3: App No Longer Responding?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-your-days-over-game-issues-expert-tips-for-stability/"><u>Solve Your Day's Over Game Issues: Expert Tips for Stability</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-your-age-of-empires-iv-setup-overcome-stubborn-download-failures-with-our-tips/"><u>Troubleshoot Your Age of Empires IV Setup - Overcome Stubborn Download Failures with Our Tips!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zero-to-cool-video-star-your-mac-youtube-journey-starts-here/"><u>[New] 2024 Approved From Zero to Cool Video Star Your Mac Youtube Journey Starts Here</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-pioneering-techniques-to-enhance-fb-video-ads-for-2024/"><u>[New] Pioneering Techniques to Enhance Fb Video Ads for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nlock-immersive-worlds-with-youtubes-top-10-vr-videos/"><u>[New] Unlock Immersive Worlds with YouTube's Top 10 VR Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-generating-income-with-every-swipe-up/"><u>[Updated] 2024 Approved Generating Income with Every Swipe Up</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-master-recording-techniques-for-your-logitech-webcam-installation/"><u>[Updated] In 2024, Master Recording Techniques for Your Logitech Webcam Installation</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-spotlight-secrets-perfecting-vlogger-lights/"><u>[Updated] Spotlight Secrets Perfecting Vlogger Lights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-iphone-jpegpng-to-pdf-file-processing/"><u>2024 Approved Streamline Your iPhone JPEG/PNG to PDF File Processing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/5-proven-methods-for-fixing-the-no-user-can-log-on-error-in-csgo/"><u>5 Proven Methods for Fixing the 'No User Can Log On' Error in CSGO</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battle-through-blockade-unlocking-lords-of-mayhem-post-launch-problems/"><u>Battle Through Blockade: Unlocking 'Lords of Mayhem' Post-Launch Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/definitive-tips-to-repair-the-game-crashing-issue-error-code-5573-in-warzone-on-console-and-desktop/"><u>Definitive Tips to Repair the Game Crashing Issue (Error Code 5573) in Warzone on Console and Desktop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/destiny-2-graphics-failed-to-initialize-solved/"><u>Destiny 2 Graphics Failed to Initialize [SOLVED]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-connect-to-chatgpt-via-virtual-private-network-vpn/"><u>How To Connect To ChatGPT Via Virtual Private Network (VPN)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011122696-immerse-yourself-in-open-world-adventure-play-yakuza-like-a-dragon-on-pc/"><u>Immerse Yourself in Open-World Adventure – Play Yakuza: Like A Dragon on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-dota-2-gameplay-on-windows-11-to-prevent-frames-per-second-fps-decline/"><u>Optimizing Dota 2 Gameplay on Windows 11 to Prevent Frames Per Second (FPS) Decline</u></a></li>
+<li><a href="https://program-issues.techidaily.com/outriders-ue4-glitch-solved-stop-unreal-process-has-crashed-errors/"><u>Outriders UE4 Glitch Solved: Stop 'Unreal Process Has Crashed' Errors!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stay-ahead-of-the-curve-without-moving-to-win11/"><u>Stay Ahead of The Curve without Moving to Win11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722990708433-troubleshooting-complete-blackout-on-your-far-cry-6-gameplay/"><u>Troubleshooting Complete Blackout on Your Far Cry 6 Gameplay!</u></a></li>
 </ul></div>
 

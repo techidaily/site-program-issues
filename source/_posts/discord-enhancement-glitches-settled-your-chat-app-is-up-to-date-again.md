@@ -1,7 +1,7 @@
 ---
 title: "Discord Enhancement Glitches Settled: Your Chat App Is Up-to-Date Again!"
-date: 2025-01-06T16:19:50.606Z
-updated: 2025-01-12T16:12:37.999Z
+date: 2025-01-12T17:42:48.238Z
+updated: 2025-01-18T03:19:52.983Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 
  If you’re also one of them, you’re no doubt very frustrated. But don’t worry. This issue is fixable. The following are the fixes you can try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -30,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 3. **[Completely reinstall Discord](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Run Discord as administrator
@@ -40,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-802.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now check to see if this fixed your Discord update issue. Hopefully it did, but if not there are still other fixes you can try.
@@ -52,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
  If this resolves your problem, You can contact the vendor of your firewall and ask them for advice. Or you can install a different antivirus solution.
 
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when you have disabled your firewall.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Completely reinstall Discord
 
@@ -69,14 +69,14 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-807.png)
 4. Follow the on-screen instructions to complete the uninstall process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. On your keyboard, press the**Windows logo key** and**R** on your keyboard at the same time to invoke the Run box.
 6. Type “%appdata%” and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-808.png)
 7. **Delete** the**Discord** folder there. (Right click the folder and select**Delete** .)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-810.png)
 8. Type “%localappdata%” and press**Enter** on your keyboard.  
@@ -84,12 +84,12 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-809.png)
 9. **Delete** the**Discord** folder there. (Right click the folder and select**Delete** .)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-810.png)
 10. Go to the **[Discord website](https://discordapp.com/)**  , then download the latest version of Discord.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 11. Run the downloaded file, then follow the on-screen instructions to install Discord.
 
@@ -114,20 +114,24 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-exhilarating-circuit-trials-selecting-the-top-5-titles/"><u>[New] Exhilarating Circuit Trials Selecting the Top 5 Titles</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-unique-soundscapes-for-your-one-person-show-for-2024/"><u>[New] Unique Soundscapes for Your One-Person Show for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-from-raw-files-to-stunning-artwork-mastering-polarrs-editing/"><u>[Updated] 2024 Approved From Raw Files to Stunning Artwork Mastering Polarr's Editing</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-essential-tips-for-adding-text-to-instagram-videos/"><u>[Updated] Essential Tips for Adding Text to Instagram Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-sj4000-stylish-essentials-a-comprehensive-list/"><u>[Updated] SJ4000 Stylish Essentials A Comprehensive List</u></a></li>
-<li><a href="https://program-issues.techidaily.com/discord-and-javascript-woes-heres-how-to-fix-them/"><u>Discord and JavaScript Woes? Here’s How to Fix Them!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-ways-to-resolve-freezing-issues-between-chrome-and-windows-10/"><u>Easy Ways to Resolve Freezing Issues Between Chrome and Windows 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-guide-resolving-cve-2024-6-exception-access-errors/"><u>Expert Guide: Resolving CVE-2024-6 Exception Access Errors</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-new-era-of-visual-search-how-iphone-16-integrates-ai-capabilities-akin-to-google-lens-in-depth-analysis-for-zdnet-readers/"><u>Exploring the New Era of Visual Search: How iPhone 16 Integrates AI Capabilities Akin to Google Lens | In-Depth Analysis for ZDNet Readers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-far-cry-6-no-longer-fails-to-start-on-windows/"><u>Resolved: Far Cry 6 No Longer Fails to Start on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-how-to-enable-gpu-usage-for-cyberpunk-2077-in-windows-10/"><u>Resolved: How to Enable GPU Usage for Cyberpunk 2077 in Windows 10</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/resolving-color-desaturation-issues-in-windows-10-and-11-a-step-by-step-solution/"><u>Resolving Color Desaturation Issues in Windows 10 and 11 - A Step-by-Step Solution</u></a></li>
-<li><a href="https://program-issues.techidaily.com/speed-up-chrome-now-efficient-ways-to-optimize-your-browser-performance/"><u>Speed Up Chrome Now: Efficient Ways to Optimize Your Browser Performance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/subnautica-beneath-the-ice-crash-error-fixes-and-tweaks-for-gaming-laptopspcs/"><u>Subnautica Beneath the Ice Crash Error Fixes & Tweaks for Gaming Laptops/PCs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-life-is-strange-true-colors-solutions-for-persistent-game-crashes/"><u>Troubleshooting Life Is Strange: True Colors - Solutions for Persistent Game Crashes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zero-to-cool-video-star-your-mac-youtube-journey-starts-here/"><u>[New] 2024 Approved From Zero to Cool Video Star Your Mac Youtube Journey Starts Here</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-vlc-vs-mpc-which-is-the-best-free-video-player/"><u>[New] VLC vs MPC Which Is the Best Free Video Player</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-tecno-spark-10c-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Tecno Spark 10C is off? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-diagnose-and-repair-freezing-errors-in-borderlands-3/"><u>Comprehensive Guide to Diagnose and Repair Freezing Errors in Borderlands 3</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-stuttering-issues-in-mass-effect-trilogy-legendary-edition/"><u>Fixes for Stuttering Issues in Mass Effect Trilogy - Legendary Edition</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-15-pro-max-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 15 Pro Max With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-6-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone 6 Apple ID on MacBook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-common-apex-legends-engine-errors-effortlessly/"><u>How to Fix Common Apex Legends Engine Errors Effortlessly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-continuous-crashing-in-aliens-fireteam-elite-for-pc-users/"><u>How to Resolve Continuous Crashing in Aliens: Fireteam Elite for PC Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-bridge-the-gap-between-skype-and-zoom-with-simple-steps/"><u>In 2024, Bridge the Gap Between Skype & Zoom with Simple Steps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-syncing-visuals-and-soundtracks-in-video-magic/"><u>In 2024, Syncing Visuals & Soundtracks in Video Magic</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-restoring-broken-game-data-on-windows-tips-and-tricks/"><u>Master the Art of Restoring Broken Game Data on Windows - Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximizing-graphics-stability-tips-to-resolve-frame-rate-dips-on-computers/"><u>Maximizing Graphics Stability: Tips to Resolve Frame Rate Dips on Computers</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/solve-no-useful-drives-detected-in-win-10-sync-speedy-troubleshooting-tips/"><u>Solve 'No Useful Drives Detected' In Win 10 Sync - Speedy Troubleshooting Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fix-for-acrocefexe-errors-on-windows-expert-tips/"><u>Step-by-Step Fix for AcroCEF.exe Errors on Windows – Expert Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-guide-to-assembling-a-summer-ready-everyday-carry-list-top-7-picks/"><u>The Complete Guide to Assembling a Summer-Ready Everyday Carry List (Top 7 Picks)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-your-clownfish-voice-modifier-a-step-by-step-guide/"><u>Troubleshooting Your Clownfish Voice Modifier: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warcraft-3-reforged-winning-the-battle-against-pc-game-crashes-expert-advice/"><u>Warcraft 3 Reforged: Winning the Battle Against PC Game Crashes - Expert Advice</u></a></li>
 </ul></div>
 

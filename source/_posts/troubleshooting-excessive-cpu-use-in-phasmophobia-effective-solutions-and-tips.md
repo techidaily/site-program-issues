@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Excessive CPU Use in Phasmophobia: Effective Solutions and Tips"
-date: 2024-12-13T00:04:27.972Z
-updated: 2024-12-19T20:58:40.175Z
+date: 2025-01-16T07:39:12.719Z
+updated: 2025-01-18T06:36:04.068Z
 tags:
   - win11
   - win10
@@ -37,15 +37,15 @@ thumbnail: https://thmb.techidaily.com/b2db5fedee40970035cb3002dc7dfcbc1c0c6f7d7
 4. [**Lower in-game graphics settings**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Turn off unnecessary programs**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Check your home network
 
  A bad network connection can often cause your game to freeze, lag or even crash, so you may want to**restart your network** by turning off your modem and router for at least 20 seconds then turning them back on.
 
  If you’re using a Wi-Fi connection, try using an ethernet cable. An ethernet cable can provide a more stable internet connection. If that’s not an option, you can instead, move your computer closer to your router as the distance between your PC and the Router could also affect your Wi-Fi connection and your gaming performance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/b2db5fedee40970035cb3002dc7dfcbc1c0c6f7d7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-35-03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  After the process is complete, click**Optimize** .
@@ -96,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/b2db5fedee40970035cb3002dc7dfcbc1c0c6f7d7
 **4)** Launch the game to test your issue.
 
 Your game still freezes? Try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Lower in-game graphics settings
 
@@ -112,22 +108,26 @@ Your game still freezes? Try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-39-18.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Under the DISPLAY tab, go to**Graphics Quality > Preset** to **Medium** or **Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-31-55.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Click**Confirm** on the bottom-right corner of your screen to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-41-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If your issue persists, then move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Turn off unnecessary programs
 
@@ -166,18 +166,21 @@ If your issue persists, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/error-overcome-implementing-easy-anti-cheat-to-solve-eac-problems/"><u>'Error Overcome: Implementing Easy Anti-Cheat to Solve EAC Problems</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-why-av1-matters-enabling-it-for-youtube-videos/"><u>[New] Why AV1 Matters Enabling It for YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-best-choices-8-edits-suites-for-linux-users-for-2024/"><u>[Updated] Best Choices 8 Edits Suites for Linux Users for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/utube-time-savers-that-will-skyrocket-engagement-rates/"><u>20 YouTube Time Savers That Will Skyrocket Engagement Rates</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unraveling-untethered-art-top-public-domain-gems/"><u>2024 Approved Unraveling Untethered Art Top Public Domain Gems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/easily-restore-audio-on-your-logitech-g933-mouse-with-our-proven-fixes/"><u>Easily Restore Audio on Your Logitech G933 Mouse with Our Proven Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-solution-to-fix-battlefield-5-wont-open-comprehensive-steps/"><u>Effortless Solution to Fix Battlefield 5 Won't Open - Comprehensive Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fresh-strategies-to-combat-constant-pauses-and-hiccups-in-minecraft-for-pc-expert-advice/"><u>Fresh Strategies to Combat Constant Pauses and Hiccups in Minecraft for PC - Expert Advice</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/hochskalieren-sie-ihre-videos-auf-hd4k-eine-anleitung-fur-windows-und-mac/"><u>Hochskalieren Sie Ihre Videos Auf HD/4K - Eine Anleitung Für Windows Und Mac</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-iphone-se-2020-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your iPhone SE (2020) From Your Apple ID</u></a></li>
-<li><a href="https://program-issues.techidaily.com/modern-warfare-2024-pc-launch-problem-solved-start-gaming-today/"><u>Modern Warfare 2024 PC Launch Problem Solved: Start Gaming Today!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revive-your-rainbow-six-siege-experience-fixing-launch-failures-easily/"><u>Revive Your Rainbow Six Siege Experience: Fixing Launch Failures Easily</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/top-strategies-for-effortlessly-downloading-your-favorite-music-lists/"><u>Top Strategies for Effortlessly Downloading Your Favorite Music Lists</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-examining-various-windows-movie-maker-product-types/"><u>[New] 2024 Approved Examining Various Windows Movie Maker Product Types</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-diversify-referrals-tactics-for-effective-youtube-backlinks-for-2024/"><u>[Updated] Diversify Referrals Tactics for Effective YouTube Backlinks for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-low-end-devices-high-outputs-streamline-with-obs/"><u>[Updated] In 2024, Low-End Devices, High Outputs Streamline with OBS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-guide-to-setting-up-a-group-conversation-that-caters-to-all-systems-in-skype/"><u>[Updated] The Ultimate Guide to Setting up a Group Conversation that Caters to All Systems in Skype</u></a></li>
+<li><a href="https://program-issues.techidaily.com/clearing-up-confusion-a-comprehensive-guide-to-overcoming-finals-error-tfl-a002/"><u>Clearing Up Confusion: A Comprehensive Guide to Overcoming Finals Error TFL-A00#2</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/compact-guide-to-macs-screen-recording-shortcuts-for-2024/"><u>Compact Guide to Mac's Screen Recording Shortcuts for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/destiny-2-update-2024-say-goodbye-to-the-notorious-broccoli-bug/"><u>Destiny 2 Update 2024: Say Goodbye to the Notorious Broccoli Bug</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/get-your-no-cost-dvd-codec-software-compatible-with-windows-1011-systems/"><u>Get Your No-Cost DVD Codec Software Compatible with Windows 10/11 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hoi4-crashes-no-more-expert-strategies-to-ensure-uninterrupted-gameplay/"><u>HoI4 Crashes No More! Expert Strategies to Ensure Uninterrupted Gameplay</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/instructions-detaillees-pour-utiliser-et-configurer-le-codec-nvenc-en-integrant-handbrake/"><u>Instructions Détaillées Pour Utiliser Et Configurer Le Codec NVENC en Intégrant HandBrake.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-fix-eliminate-your-halo-3-crash-problems-on-windows-machines/"><u>Master the Fix: Eliminate Your Halo 3 Crash Problems on Windows Machines</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-mw3-comprehensive-troubleshooting-for-dev-error-6068/"><u>Mastering MW3: Comprehensive Troubleshooting for Dev Error 6068</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/reel-in-the-future-top-5-ps-vr-games-on-the-brink-of-launch-for-2024/"><u>Reel in the Future Top 5 PS VR Games on The Brink of Launch for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/revised-question-series-to-connect-with-podcast-audience/"><u>Revised Question Series to Connect with Podcast Audience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/simple-solutions-stop-the-constant-crashes-in-deathloop-game-on-your-pc/"><u>Simple Solutions: Stop the Constant Crashes in Deathloop Game on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-solving-modern-warfares-error-code-6034-on-pc-and-xbox-consoles/"><u>Troubleshooting Steps for Solving Modern Warfare's Error Code 6034 on PC and Xbox Consoles</u></a></li>
 </ul></div>
 

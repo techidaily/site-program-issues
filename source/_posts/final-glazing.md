@@ -1,7 +1,7 @@
 ---
 title: Final Glazing
-date: 2025-01-10T16:23:25.271Z
-updated: 2025-01-12T16:05:46.081Z
+date: 2025-01-11T20:04:24.092Z
+updated: 2025-01-17T19:56:16.088Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ FIFA 20 DirectX Error
 4. **[Update DirectX](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check if your PC meets the system requirements for FIFA 20](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your graphics driver
 
  Perhaps one of the most common causes of a DirectX error on FIFA is an outdated or corrupt graphics driver. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -66,10 +62,6 @@ FIFA 20 DirectX Error
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Unplug ccontrollers
 
  According to users’ report, unplugging controllers is also helpful in resolving the DirectX error in FIFA 20.
@@ -79,7 +71,7 @@ FIFA 20 DirectX Error
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3:**Modify fifasetup.ini**
@@ -90,7 +82,15 @@ Here is how to do it:
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and**R** at the same time, then type_**C: \\ Users \\% Username% \\ Documents \\ FIFA 20 Demo**_ and press**Enter** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-129.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Double-click on the**fifasetup.ini** file.
 
@@ -118,7 +118,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Check if your PC meets the system requirements for FIFA 20
@@ -151,13 +151,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
@@ -186,17 +186,20 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-webcampro-recordingstepssimplified/"><u>[New] In 2024, WebCamPro RecordingStepsSimplified</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-god-of-war-keeps-crashing-on-pc/"><u>[SOLVED] God of War Keeps Crashing on PC</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-exclusive-free-mcb-banner-designs/"><u>[Updated] 2024 Approved Exclusive Free MCB Banner Designs</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/alles-wissenswerte-uber-atlas-betriebssystem-os-unter-windows-11-eine-umfassende-leitfadenutzungshilfe/"><u>Alles Wissenswerte Über Atlas-Betriebssystem (OS) Unter Windows 11 - Eine Umfassende Leitfädenutzungshilfe</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722995422570-fix-terraria-game-stability-best-troubleshooting-tips/"><u>Fix Terraria Game Stability - Best Troubleshooting Tips!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-black-ops-cold-war-game-error-understanding-0xc0000005-issue/"><u>How to Fix Black Ops Cold War Game Error: Understanding 0Xc0000005 Issue</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-infinix-smart-8-hd-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Infinix Smart 8 HD for Parents | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/j5s-pro-model-flashlight-version-1-unleashed-a-detailed-assessment-on-its-sturdy-small-sized-radiance/"><u>J5's Pro Model Flashlight Version 1 Unleashed - A Detailed Assessment on Its Sturdy, Small-Sized Radiance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pubg-performance-boosted-eradicate-stuttering-instantly-and-effortlessly/"><u>PUBG Performance Boosted: Eradicate Stuttering Instantly & Effortlessly</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211224357-9781529439007-spells-for-prosperity/"><u>Spells for Prosperity | Free Book</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/visualizing-chronoscopic-imagery-in-media/"><u>Visualizing Chronoscopic Imagery in Media</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-isnt-my-cortana-responding-and-how-to-resolve-it/"><u>Why Isn't My Cortana Responding and How to Resolve It?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-direct-download-of-video-to-mp3-from-vimeo/"><u>[New] Direct Download of Video to MP3 From Vimeo</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-cultivate-chuckle-inducing-visuals-on-giphy/"><u>[New] In 2024, Cultivate Chuckle-Inducing Visuals on Giphy</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-meet-your-new-record-keeping-companion-the-mycam-cam/"><u>[New] Meet Your New Record-Keeping Companion The MyCam Cam</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-pinnaclepix-z7-pro-elevate-your-photos-dimensions-for-2024/"><u>[New] PinnaclePix Z7 Pro Elevate Your Photo's Dimensions for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-rocket-league-wont-launch/"><u>[Solved] Rocket League Won’t Launch</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-10-moments-that-made-a-mark-on-twitter-and-tiktok-for-2024/"><u>[Updated] 10 Moments That Made a Mark on Twitter and TikTok for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-pushing-the-boundaries-animated-fb-ads-that-increase-return-on-investment/"><u>[Updated] 2024 Approved Pushing the Boundaries Animated FB Ads That Increase Return on Investment</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-scoop-on-the-best-speed-a-top-ranked-list-of-racing-games/"><u>2024 Approved Scoop on the Best Speed A Top-Ranked List of Racing Games</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011811690-apex-legends-online-connection-guide-expert-advice-on-getting-you-back-in-the-game/"><u>Apex Legends Online Connection Guide - Expert Advice on Getting You Back in the Game!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-issues-with-call-of-duty-warzone-why-it-might-not-be-loading-and-how-to-fix-it/"><u>Fix Issues with Call of Duty Warzone: Why It Might Not Be Loading & How to Fix It</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-huawei-nova-y91-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Huawei Nova Y91 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improving-your-gameplay-experience-in-valheim-by-solving-stutter-and-lag-on-pc/"><u>Improving Your Gameplay Experience in Valheim by Solving Stutter and Lag on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-preventing-and-repairing-gray-zone-warfare-gzw-disruptions-on-your-computer/"><u>Master the Art of Preventing and Repairing Gray Zone Warfare (GZW) Disruptions on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723006711780-mir4-crashes-on-pc-heres-what-you-need-to-know-for-a-quick-fix/"><u>Mir4 Crashes on PC? Here's What You Need to Know for a Quick Fix</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-ensure-uninterrupted-play-in-outriders/"><u>Troubleshooting Guide: How to Ensure Uninterrupted Play in Outriders</u></a></li>
 </ul></div>
 

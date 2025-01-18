@@ -1,7 +1,7 @@
 ---
 title: Discord Version Update Complete – All Known Errors Corrected
-date: 2024-09-15T21:51:19.367Z
-updated: 2024-09-16T17:39:56.029Z
+date: 2025-01-13T22:18:39.792Z
+updated: 2025-01-18T03:19:50.359Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Disable Discord in Task Manager
 
  Before getting started, you’ll need to end tasks running Discord in your computer, so you can delete Discord’s folders in your computer in Step 2.
@@ -41,9 +45,18 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 3. In the**Process** tab, select any process related with**Discord** , and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14c2e4d7a7.jpg)  
  You’ll need to repeat this several times to end Discord task if there are more than one processes for Discord.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Then close**Task Manager** .
 
  Then you’ll be able to delete Discord folders. Continue with the steps below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Delete Discord folders
 
@@ -53,6 +66,11 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 3. Your File Explorer will open a window. Right click the**discord folder** and click**Delete** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14f2686712.jpg)
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Type_**%LocalAppData%**_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fe227d9a.jpg)
 6. Your File Explorer will open a new window. Right click the**Discord** **folder** and click**Delete** .  
@@ -61,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 8. You’ll be able to reinstall Discord in your computer. Just download the Discord application, run the Discord setup file and it should be installed properly.
 
  Hope the steps above helps you with the Discord installation failed issue.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus Tip: Update available device drivers
 
@@ -94,16 +105,7 @@ OR
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -121,5 +123,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-kingdom-the-path-to-youtube-mastery/"><u>[New] 2024 Approved Crafting Kingdom The Path to YouTube Mastery</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-androids-ultimate-fix-for-frustratingly-slow-vids/"><u>[Updated] Android's Ultimate Fix for Frustratingly Slow Vids</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-techniques-for-iphones-in-virtual-space/"><u>[Updated] Comprehensive Techniques for iPhones in Virtual Space</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-leading-online-repositories-for-text-effect-graphics/"><u>2024 Approved Leading Online Repositories for Text Effect Graphics</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-multimedia-hub-get-your-hands-on-the-13-in-1-docking-station-with-two-4k-hdmi-ports-for-only-49-explore-more-at-zdnet/"><u>Affordable Multimedia Hub: Get Your Hands on the 13-in-1 Docking Station with Two 4K HDMI Ports for Only $49 - Explore More at ZDNet!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battle-against-warzone-20-high-pings-expert-tips-for-stable-gameplay-in-202n/"><u>Battle Against Warzone 2.0 High Pings: Expert Tips for Stable Gameplay in 202N</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battling-launch-errors-in-diablo-ii-reborn-tips-and-tricks/"><u>Battling Launch Errors in Diablo II Reborn - Tips & Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/calculate-and-track-power-consumption-for-your-pc-windows-edition/"><u>Calculate and Track Power Consumption for Your PC: Windows Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/counter-strike-2-stability-fixes-for-windows-computers/"><u>Counter-Strike 2 Stability Fixes for Windows Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-fixed-resolution-steps-for-the-games-initial-startup-issues/"><u>Cyberpunk 2077 Fixed! Resolution Steps For The Game's Initial Startup Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-google-meet-camera-issues-expert-solutions-unveiled/"><u>Fix Your Google Meet Camera Issues – Expert Solutions Unveiled</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/iphones-and-the-art-of-complete-circle-videos/"><u>IPhones and the Art of Complete Circle Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-fix-a-step-by-step-guide-to-overcoming-directdraw-problems/"><u>Mastering the Fix: A Step-by-Step Guide to Overcoming DirectDraw Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722990841883-quick-fixes-stop-borderlands-3-from-crashing-instantly/"><u>Quick Fixes: Stop Borderlands 3 From Crashing Instantly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-fixing-frequent-warno-pc-game-crashes/"><u>Troubleshooting Tips for Fixing Frequent Warno PC Game Crashes</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-exploring-the-sound-emission-from-button-activation/"><u>Updated In 2024, Exploring the Sound Emission From Button Activation</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcome Destiny Ebserver Disconnects: A Complete Guide to Troubleshooting and Fixing the Issue"
-date: 2024-12-12T23:29:09.376Z
-updated: 2024-12-19T18:16:41.532Z
+date: 2025-01-11T21:59:49.058Z
+updated: 2025-01-17T22:22:01.276Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 
  Here’re some working tips for your**constant crashes** with**Detroit: Become Human** , try them out and get your game fixed right away!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not have to try all of them. Simply work down the list until you find the one that works for you.
@@ -35,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 8. **[Roll back your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check your specs
@@ -73,11 +77,15 @@ Here’s an example of how to check the game integrity on Steam:
 2. In the pop-up window, navigate to the**LOCAL FILES** tab, then select**VERIFY INTEGRITY OF GAME FILES…** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/detroit-become-human-verify-game-02.jpg)
 3. Wait until the checking to finish.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can then launch Detroit: Become Human and see if it crashes again.
 
@@ -113,10 +121,6 @@ If this fix failed to solve your issue, please move on to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
@@ -136,10 +140,6 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will automatically search and install available system updates. This might take up to an hour.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click Check for updates.
@@ -147,10 +147,6 @@ Here’s how:
  After installing all system updates, restart your computer and check if Detroit: Become Human crashes again.
 
  If this solution doesn’t work for you, simply try the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Disable in-game overlays
 
@@ -162,18 +158,22 @@ For example, you can follow these steps to disable Steam overlay:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-disable-overlay.jpg)
 2. From the left menu, select**In-Game** . Under**The Steam Overlay** section, uncheck these boxes. Then click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch Detroit: Become Human and test your gameplay.
 
 If the crashing reappears, please check out the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Disable your controller
 
  Some gamers reported that they managed to stop the crash in Detroit: Become Human by**unplugging their controllers** . It’s true that a controller give you a better experience, but they would sometimes run into compatibility issues with new games. Given that, if you’re using controllers or joysticks, you can try to unplug them before starting the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Roll back your graphics driver
 
@@ -200,22 +200,21 @@ If the crashing reappears, please check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-precisionsync-analyst-perspectives/"><u>[New] PrecisionSync Analyst Perspectives</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/ai-assisted-the-ultimate-list-of-podcast-title-makers/"><u>AI-Assisted The Ultimate List of Podcast Title Makers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-productivity-navigating-through-4-time-strategies/"><u>ChatGPT for Productivity: Navigating Through 4 Time Strategies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diablo-3-stability-improvements-overcoming-recurring-game-shutdowns-and-restarts/"><u>Diablo 3 Stability Improvements: Overcoming Recurring Game Shutdowns and Restarts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-for-persistent-black-screen-during-live-screen-shares-on-discord/"><u>Effective Fixes for Persistent Black Screen During Live Screen Shares on Discord</u></a></li>
-<li><a href="https://program-issues.techidaily.com/finding-solutions-for-elite-dangerous-pc-malfunctions-and-crashes/"><u>Finding Solutions for Elite Dangerous PC Malfunctions and Crashes</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-11-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 11 System Issues? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-highest-quality-gag-editor/"><u>In 2024, Highest Quality Gag Editor</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maximize-efficiency-does-your-computer-align-with-vanguards-updated-minimum-cpu-criteria/"><u>Maximize Efficiency: Does Your Computer Align with Vanguard's Updated Minimum CPU Criteria?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-cyberpunk-angs-the-ultimate-guide-to-tackling-the-black-screen-glitch/"><u>Resolving Cyberpunk Angs - The Ultimate Guide to Tackling the Black Screen Glitch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/seamless-gaming-experience-eliminating-ps5-console-connectivity-and-performance-delays/"><u>Seamless Gaming Experience: Eliminating PS5 Console Connectivity and Performance Delays</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-getting-netflix-up-and-running-on-your-xbox-one-again/"><u>Step-by-Step Guide to Getting Netflix Up and Running on Your Xbox One Again</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-3-libre-dvd-extractors-para-convertir-peliculas-sin-coste-optimizados-para-windows-11-2020/"><u>Top 3 Libre DVD Extractors Para Convertir Películas Sin Coste: Optimizados Para Windows 11 (2020)</u></a></li>
-<li><a href="https://media-tips.techidaily.com/unlock-ultimate-media-value-for-10month-verizon-users-enjoy-netflix-and-max-extras/"><u>Unlock Ultimate Media Value: For $10/Month, Verizon Users Enjoy Netflix and Max Extras!</u></a></li>
-<li><a href="https://video-capture.techidaily.com/unveiling-the-new-era-of-screen-capture-with-apeaksoft/"><u>Unveiling the New Era of Screen Capture with Apeaksoft</u></a></li>
-<li><a href="https://program-issues.techidaily.com/what-to-do-when-your-alienware-command-center-wont-turn-on-a-step-by-step-guide/"><u>What to Do When Your Alienware Command Center Won't Turn On: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-making.techidaily.com/os-windows-111087/"><u>デスクトップOS Windows 11/10/8/7用:大容量ファイル複数コピー手順ガイド</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-how-to-make-money-on-youtube-without-ads/"><u>[New] 2024 Approved How to Make Money on YouTube Without Ads</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-pioneering-video-structuring-methods-on-youtube-for-2024/"><u>[Updated] Pioneering Video Structuring Methods on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-wipe-out-your-youtube-buffered-videos/"><u>2024 Approved How-To Wipe Out Your YouTube Buffered Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ensuring-uninterrupted-fun-with-the-mass-effect-trilogy-expert-fixes-to-prevent-game-crash-on-pc-and-xbox-devices/"><u>Ensuring Uninterrupted Fun with the Mass Effect Trilogy: Expert Fixes to Prevent Game Crash on PC & Xbox Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-xbox-and-pc-issues-resolving-call-of-duty-warzone-memory-error-code-0-1766/"><u>Fix Xbox and PC Issues: Resolving Call of Duty Warzone Memory Error Code 0-1766</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixes-and-solutions-successfully-installing-oculus-on-windows-11-and-10/"><u>Fixes & Solutions: Successfully Installing Oculus on Windows 11 and 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-corrupted-files-in-windows-11-with-the-powerful-sfc-and-dism-utilities/"><u>How to Fix Corrupted Files in Windows 11 with the Powerful SFC and DISM Utilities</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-social-media-collages-made-fast/"><u>Innovative Social Media Collages Made Fast</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993746834-join-deacon-st-john-for-an-unforgettable-post-apocalyptic-journey-days-gone-arrives-on-pc/"><u>Join Deacon St. John for an Unforgettable Post-Apocalyptic Journey - 'Days Gone' Arrives on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-in-bless-unleashed-strategies-for-overcoming-high-ping-on-pc-setups/"><u>Optimizing Performance in Bless Unleashed: Strategies for Overcoming High Ping on PC Setups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pathfinder-wrath-of-the-righteous-how-to-stop-game-crashes-for-good/"><u>Pathfinder: Wrath of the Righteous - How to Stop Game Crashes for Good</u></a></li>
+<li><a href="https://some-tips.techidaily.com/realigning-the-future-emerging-trends-in-data-science-and-artifice-intelligence-markets/"><u>Realigning the Future: Emerging Trends in Data Science and Artifice Intelligence Markets</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-steps-when-discord-fails-to-launch/"><u>Resolved: Troubleshooting Steps When Discord Fails to Launch</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-windows-fixing-unresponsive-usb-devices/"><u>Solutions for Windows: Fixing Unresponsive USB Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-connectivity-issues-in-kodi-restoring-directory-access-guide/"><u>Troubleshooting Steps for Connectivity Issues in Kodi - Restoring Directory Access [Guide]</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-tecno-camon-30-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 
