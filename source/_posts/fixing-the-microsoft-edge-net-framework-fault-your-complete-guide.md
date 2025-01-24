@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Microsoft Edge .NET Framework Fault: Your Complete Guide"
-date: 2025-01-17T02:32:07.871Z
-updated: 2025-01-18T07:11:16.424Z
+date: 2025-01-21T12:21:12.666Z
+updated: 2025-01-24T02:31:08.820Z
 tags:
   - win11
   - win10
@@ -46,10 +46,6 @@ _Image source: battle.net_
 
  After applying the changes, open Battle.net. When the UAC prompt shows up, simply click**Yes** . If it isn’t opening, don’t fret! Below are some other methods you can try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Allow Battle.net through Windows Firewall
 
  Windows Firewall is an important part of a layered security model that helps protect your computer from malicious attacks by blocking unauthorized network traffic flowing into or out of the local device. However, sometimes it may mistakenly identify your legitimate programs such as Battle.net as security threats and prevent them from launching. To verify if that’s your case, you should perform the steps as follows to manually add Battle.net to your Windows Firewall whitelist.
@@ -60,10 +56,6 @@ _Image source: battle.net_
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-1.jpg)
 3. From the left navigation pane, click**Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-2.jpg)
 4. Scroll down and check if Battle.net is on the list. If it isn’t, proceed to add it to the exception list.
 
@@ -73,7 +65,7 @@ _Image source: battle.net_
 6. Click**Allow another app…** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-4.jpg)
@@ -86,15 +78,11 @@ _Image source: battle.net_
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-find-out-where-Battle.net-is-installed.jpg)
 8. Find**Battle.net.exe** and click on it. Then click**Open** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-6.jpg)
 9. When it’s located, click**Add** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-7.jpg)
@@ -117,13 +105,13 @@ Now open Battle.net. If it isn’t opening, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you’re done, open the agent and check if your problem has been resolved. If it persists, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Download & install all Windows updates
@@ -134,6 +122,10 @@ Now open Battle.net. If it isn’t opening, try the next fix below.
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click**Check for updates** . Then it will start checking for updates. When updates are available, follow the on-screen instructions to download and install them for your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
@@ -155,9 +147,21 @@ You can update your drivers via the Device Manager:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/how-to-open-the-Device-Manager-Run-Command）.png)
 3. Click on the**arrow >** to expand the section. Then right-click on the device that you’re going to update the driver for and select**Update driver** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-update-drivers-via-the-Device-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then follow the on-screen instructions to get the updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your drivers (recommended)
 
@@ -173,13 +177,13 @@ Then follow the on-screen instructions to get the updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, reboot your PC and then try to open Battle.net. If your problem persists, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Repair corrupted system files
 
@@ -212,10 +216,6 @@ Then follow the on-screen instructions to get the updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The repair is available with the paid version of Fortect which comes with and full technical support. If you encounter any issues when using Fortect, do not hesitate to contact their support team.
 
  After the repair, try to launch Battle.net. If, unfortunately, it still fails to open, you’ll need to consider**uninstalling and reinstalling the Battle.net app** .
@@ -229,7 +229,7 @@ Then follow the on-screen instructions to get the updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/reinstall-Battle.net_.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you’re prompted for further confirmation, simply click Yes and proceed. After it’s successfully uninstalled. Go to the place where the Battle.net-Setup.exe file was installed and delete it. Then download and install it from the[official website](https://www.blizzard.com/en-us/download/confirmation?product=bnetdesk) .
@@ -253,22 +253,24 @@ Then follow the on-screen instructions to get the updates.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-alternate-escapades-where-the-gta-v-lives-are-missing/"><u>[New] 2024 Approved Alternate Escapades - Where the GTA V Lives Are Missing</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-preeminent-6-social-channels-for-commercial-expansion-for-2024/"><u>[Updated] Preeminent 6 Social Channels for Commercial Expansion for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-pixel-trembling-now-a-step-by-step-guide-to-fix-screeflickering-issue/"><u>Eliminate Pixel Trembling Now: A Step-by-Step Guide to Fix ScreeFlickering Issue</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-the-unprecedented-performance-of-the-2020-apple-macbook-air-with-m1-chip/"><u>Expert Analysis: The Unprecedented Performance of the 2020 Apple MacBook Air with M1 Chip</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-12-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Xiaomi Redmi 12 5G Phone without Google Account?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-nokia-g310-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Nokia G310 Data? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-bugs-updated-euro-truck-simulator-terrific-for-pc-with-improved-performance-and-stability/"><u>No More Bugs! Updated Euro Truck Simulator Terrific for PC with Improved Performance and Stability</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-last-epochs-pc-launch-challenges-a-step-by-step-guide-to-the-2024-patch/"><u>Overcoming The Last Epoch's PC Launch Challenges: A Step-by-Step Guide to the 2024 Patch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-bluestacks-instability-quickly-with-these-5-tips/"><u>Resolve BlueStacks Instability Quickly With These 5 Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-data-migration-strategies-for-upgrading-to-an-iphone-xs-maxxr-from-previous-devices/"><u>Seamless Data Migration Strategies for Upgrading to an iPhone XS Max/XR From Previous Devices</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/staying-legal-in-the-digital-space-youtubes-copyright-guide-for-2024/"><u>Staying Legal in the Digital Space YouTube's Copyright Guide for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-acrocefexe-from-crashing-effective-fixes-for-windows-users/"><u>Stop AcroCEF.exe From Crashing - Effective Fixes for Windows Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-msi-afterburner-not-recognizing-graphics-cards-in-windows-operating-systems/"><u>Troubleshooting Tips for MSI Afterburner Not Recognizing Graphics Cards in Windows Operating Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-solve-your-rainbow-six-siege-stuttering-issues-with-these-techniques/"><u>Ultimate Guide: Solve Your Rainbow Six Siege Stuttering Issues with These Techniques</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-in-2024-breakthrough-how-to-make-a-picture-speak/"><u>Updated In 2024, Breakthrough How to Make A Picture Speak</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008636285-winning-the-battle-against-adobe-premiere-pro-crashes-on-windows-11-and-10-systems-tips-included/"><u>Winning the Battle Against Adobe Premiere Pro Crashes on Windows 11 and 10 Systems - Tips Included!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/detective-in-la-uncovering-clues-now-playable-on-your-computer/"><u>'Detective in LA: Uncovering Clues' Now Playable on Your Computer</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-crafting-compelling-docu-scripts-a-step-by-step-guide-for-2024/"><u>[Updated] Crafting Compelling Docu-Scripts A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-chromebook-screenshots-made-easy-top-5-app-choices/"><u>[Updated] In 2024, Chromebook Screenshots Made Easy Top 5 App Choices</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-replay-movies-in-android-a-step-by-step-guide/"><u>[Updated] Replay Movies in Android A Step-by-Step Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-art-of-preservation-innovative-techniques-to-capture-the-magic-of-living-with-sims-for-2024/"><u>[Updated] The Art of Preservation Innovative Techniques to Capture the Magic of Living with Sims for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-most-streamed-hits-in-spotify-history/"><u>2024 Approved Most Streamed Hits in Spotify History</u></a></li>
+<li><a href="https://techtrends.techidaily.com/automate-your-selfies-using-iphone-camera-timer-functionality/"><u>Automate Your Selfies: Using iPhone Camera Timer Functionality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoid-game-crashes-8-must-know-fixes-for-a-flawless-playthrough-of-guardians-of-the-galaxy-pc-edition/"><u>Avoid Game Crashes: 8 Must-Know Fixes for a Flawless Playthrough of Guardians of the Galaxy (PC Edition)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-lag-winning-against-fortnites-pc-freezes/"><u>Beat the Lag: Winning Against Fortnite's PC Freezes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elevate-home-networking-with-the-robust-and-reliable-netgeer-nighthawk-x6s/"><u>Elevate Home Networking with the Robust and Reliable Netgeer Nighthawk X6S</u></a></li>
+<li><a href="https://program-issues.techidaily.com/epic-games-launcher-clearing-up-the-mystery-behind-the-opaque-interface-problems/"><u>Epic Games Launcher: Clearing Up the Mystery Behind the Opaque Interface Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-unhandled-exception-error-0xc0000005-in-activisions-cold-war/"><u>How to Resolve the Unhandled Exception Error 0xC0000005 in Activision's Cold War</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/in-depth-strategies-for-overcoming-packet-transfer-challenges-on-discord-platforms/"><u>In-Depth Strategies for Overcoming Packet Transfer Challenges on Discord Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-among-us-stability-expert-solutions-to-persistent-crashes/"><u>Mastering Among Us Stability: Expert Solutions to Persistent Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-monitor-mayhem-a-guide-to-correcting-screen-shimmer-woes/"><u>Mastering Monitor Mayhem: A Guide to Correcting Screen Shimmer Woes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fixes-for-low-frame-rates-elevate-your-war-thunder-gameplay-now/"><u>The Ultimate Fixes for Low Frame Rates: Elevate Your War Thunder Gameplay Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-kid-friendly-films-streaming-on-netflix-right-now/"><u>Top Kid-Friendly Films Streaming on Netflix Right Now</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/ultra-hd-audi-rs7-visuals-and-wallsavers-for-desktops-exclusive-images-from-yl-software-solutions/"><u>Ultra HD Audi RS7 Visuals & Wallsavers for Desktops - Exclusive Images From YL Software Solutions</u></a></li>
 </ul></div>
 

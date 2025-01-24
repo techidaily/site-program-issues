@@ -1,7 +1,7 @@
 ---
 title: "Crash Course Correction: How to Keep Manor Lords Running Smoothly on Windows"
-date: 2024-09-20T17:45:20.903Z
-updated: 2024-09-21T21:24:01.997Z
+date: 2025-01-22T19:31:47.291Z
+updated: 2025-01-24T13:49:25.320Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 3. **[Repair Madden 20](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Origin and Madden 20](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your device drivers
 
@@ -52,6 +56,10 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 5) Launch Madden 20 to see if the crashing problems have been resolved. If yes, then great! If the game still crashes, please move on to**Fix** 2, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Make sure your PC meets the system requirements of Madden 20
 
@@ -126,10 +134,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and Madden 20
@@ -142,15 +147,16 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the program list, locate **Origin** , then right-click on it and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Locate **Madden 20** and uninstall it too.
@@ -182,5 +188,21 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-taking-your-photos-and-videos-to-new-heights/"><u>[New] In 2024, Taking Your Photos and Videos to New Heights</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-how-to-convert-facebook-video-to-mp4-720p1080phd-online-and-free/"><u>[Updated] 2024 Approved How to Convert Facebook Video to MP4 720P/1080p/HD Online and Free?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-echovid-save-facebook-calls-for-2024/"><u>[Updated] EchoVid - Save Facebook Calls for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-step-by-step-approach-to-capturing-and-editing-in-adobe-connect/"><u>[Updated] In 2024, Step-by-Step Approach to Capturing and Editing in Adobe Connect</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-fundamentals-crafting-your-podcasts-rss-feed/"><u>[Updated] The Fundamentals Crafting Your Podcast's RSS Feed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808162820-a-beginners-tutorial-to-fresh-video-drivers-in-windows-11-no-hassle/"><u>A Beginner's Tutorial to Fresh Video Drivers in Windows 11 - No Hassle!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-watch-series-10-review-the-top-3-features-that-impressed-a-doubter-insights/"><u>Apple Watch Series 10 Review: The Top 3 Features That Impressed a Doubter Insights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/climbing-the-social-ladder-6-precise-methods-for-gaining-instagram-verification/"><u>Climbing the Social Ladder 6 Precise Methods for Gaining Instagram Verification</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-bug-resolved-game-now-running-smoothly/"><u>Cyberpunk 2077 Bug Resolved: Game Now Running Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-ways-to-address-starcraft-ii-crashing-problems-on-desktop-systems/"><u>Effective Ways to Address StarCraft II Crashing Problems on Desktop Systems</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/hassle-free-system-improvements-mastering-the-art-of-smoother-windows-updates/"><u>Hassle-Free System Improvements: Mastering the Art of Smoother Windows Updates.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-optimize-chromes-memory-usage-for-better-performance/"><u>How to Optimize Chrome's Memory Usage for Better Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-skype-message-delivery-failures-effective-strategies-for-seamless-communication/"><u>Overcoming Skype Message Delivery Failures: Effective Strategies for Seamless Communication</u></a></li>
+<li><a href="https://program-issues.techidaily.com/star-citizen-enhancement-patch-eliminates-windows-system-crashes/"><u>Star Citizen Enhancement Patch Eliminates Windows System Crashes</u></a></li>
+</ul></div>
 

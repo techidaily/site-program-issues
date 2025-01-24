@@ -1,7 +1,7 @@
 ---
 title: Quick Solutions for Opening Unresponsive Epic Games Launcher
-date: 2024-09-15T20:24:52.817Z
-updated: 2024-09-21T18:56:46.890Z
+date: 2025-01-16T19:41:07.768Z
+updated: 2025-01-24T08:27:39.911Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
 ## Fixing the Launch Problems of Hitman 3 for PC Gamers - Solutions Found
 
 After a long wait, the[new Hitman installment](https://www.epicgames.com/store/en-US/p/hitman-3?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=ed55aa5edc5941de92fd7f64de415793) is finally here. While being the first AAA title released in 2021, Hitman 3 is not immune from issues. Upon its arrival, many gamers start reporting a**game not launching** error. But don’t worry if you happen to be on the same boat. Down below we’ve put together some working fixes to help restore your assassin identity. Try them and get your game working right away.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -42,6 +46,10 @@ Now you can try to launch Hitman 3 using the Epic Games launcher.
 
  If verifying game files doesn’t help, you can take a look at the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run Epic Games as administrator
 
  If there’s nothing wrong with your game files, the next thing you should do is check for permission issues. Granting the Epic Games launcher the administrator access could be a potential fix in this regard.
@@ -54,7 +62,16 @@ Here’s how:
 3. On your desktop, right-click**Epic Game launcher** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-2.jpg)
 4. Navigate to the**Compatibility** tab. Under the**Settings** section, check the box next to**Run this program as an administrator** . Click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Launch Hitman 3 from game folder
 
@@ -89,14 +106,11 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -114,37 +128,20 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After getting all the system updates, restart your gaming rig and check if Hitman 3 works now.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Check if it’s a server issue
 
@@ -167,5 +164,24 @@ Here’s how you can check for updates manually:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-top-action-cam-battle-max-360-vs-hero-11-review/"><u>[New] Top Action Cam Battle Max 360 vs Hero 11 Review</u></a></li>
+<li><a href="https://article-helps.techidaily.com/15-ways-to-enhance-your-listening-pleasure-with-podcasts-for-2024/"><u>15 Ways to Enhance Your Listening Pleasure with Podcasts for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-fb-video-placement-which-way-wins/"><u>2024 Approved FB Video Placement - Which Way Wins?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cr2-bmp/"><u>無需花錢 CR2 到 BMP 自由變更 - 動力轉換器</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquer-multiversus-stability-issues-with-our-top-8-fixing-techniques/"><u>Conquer MultiVersus Stability Issues with Our Top 8 Fixing Techniques</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-the-anker-super-bright-tactical-flashlight-for-unmatched-adventure-illumination/"><u>Expert Analysis of the Anker Super Bright Tactical Flashlight for Unmatched Adventure Illumination</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/experts-recommendations-for-image-watermarking/"><u>Expert's Recommendations for Image Watermarking</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hassle-free-gaming-with-the-fixed-assassins-creed-odyssey-on-your-pc/"><u>Hassle-Free Gaming with the Fixed Assassin's Creed Odyssey on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-guide-fixing-non-responsive-logitech-options-on-your-pc/"><u>Resolved Guide: Fixing Non-Responsive Logitech Options on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-acrocefexe-malfunction-effective-troubleshooting-steps/"><u>Resolving Acrocef.exe Malfunction – Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-starcraft-ii-hiccups-expert-tips-on-resolving-computer-system-conflicts-and-stabilizing-your-playtime/"><u>Say Goodbye to StarCraft II Hiccups: Expert Tips on Resolving Computer System Conflicts & Stabilizing Your Playtime</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-to-terminate-your-paramountplus-account-easily/"><u>Steps to Terminate Your Paramount+ Account Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-to-securely-reconnect-a-fallen-off-key-from-your-notebook/"><u>The Ultimate Trick to Securely Reconnect a Fallen-Off Key From Your Notebook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-2024-strategies-to-eliminate-pc-gaming-lags-and-enhance-performance/"><u>Top 2024 Strategies to Eliminate PC Gaming Lags and Enhance Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-fix-ubisoft-connect-issues/"><u>Troubleshooting Guide: How to Fix Ubisoft Connect Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steep-cpu-usage-for-optimal-performance-in-new-world/"><u>Troubleshooting Steep CPU Usage for Optimal Performance in New World</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Ways to trade pokemon go from far away On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+</ul></div>
 

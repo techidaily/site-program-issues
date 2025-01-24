@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Preventing Crashes in Mass Effect Legendary Edition for Gamers"
-date: 2024-09-17T21:40:33.045Z
-updated: 2024-09-21T16:45:02.993Z
+date: 2025-01-19T19:53:14.141Z
+updated: 2025-01-23T20:38:11.145Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ The Outriders is finally out! However, many players encountered Outriders crashi
 4. **[Enforce DX12](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Run Outriders as an administrator
 
  When Outriders fails to obtain the necessary permissions to function properly, it will crash. In this case, you should run the game in the administrator mode. This method also works for the_Outriders-win64-shipping.exe system error_ that many players reported.
@@ -36,8 +40,18 @@ Here are the steps:
 1. Launch your Steam client and click the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. In the game list, right-click**Outriders** and click**Manage** \>**Browse local files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/fix-1.jpg)
 3. Right-click the**OUTRIDERS-Win64-Shipping.exe file** and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 4. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-outriders.jpg)
@@ -72,6 +86,10 @@ There are mainly two ways you can update the graphics driver:
 
  After the process finishes, restart your computer. If all the drivers are up-to-date but the gameplay is still buggy, try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3 – Adjust the in-game settings
 
  According to Square Enix support, Outriders crashing occurs mostly on the -60 class GPUs, and tweaking the in-game graphics settings would make it run more smoothly. You can try this setup and see how things go.
@@ -82,10 +100,7 @@ There are mainly two ways you can update the graphics driver:
 3. Under the**Display** tab, set the parameters as follows:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Windows Mode** :_Borderless_ or_Windowed_  
@@ -104,10 +119,7 @@ There are mainly two ways you can update the graphics driver:
 2. Right-click**Outriders** in the left pane and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
@@ -127,22 +139,12 @@ Still no luck with DX12? Then check out the next method below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. Right-click**Outriders** and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Select**Local Files** from the left pane and click**Verify Integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam-verify-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once done, start Outriders and test the game.
@@ -168,5 +170,26 @@ Once done, start Outriders and test the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-a-comprehensive-examination-of-webcamflex-pro/"><u>[New] In 2024, A Comprehensive Examination of WebcamFlex Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-navigating-screen-customization-a-google-meet-essentials-guide/"><u>[Updated] 2024 Approved Navigating Screen Customization A Google Meet Essentials Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-transforming-youtube-descriptions-leveraging-template-power/"><u>2024 Approved Transforming YouTube Descriptions Leveraging Template Power</u></a></li>
+<li><a href="https://program-issues.techidaily.com/advanced-tips-for-stable-play-in-jurassic-world-evolution/"><u>Advanced Tips for Stable Play in Jurassic World Evolution</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-lgbtq-movies-currently-available-on-netflix-for-july-2nand24/"><u>Best LGBTQ Movies Currently Available on Netflix for July 2Nand24</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009338389-coding-solved-why-does-call-of-duty-modern-warfare-keep-crashing-tips-to-resolve/"><u>Coding Solved: Why Does Call of Duty: Modern Warfare Keep Crashing? Tips to Resolve</u></a></li>
+<li><a href="https://program-issues.techidaily.com/configuring-hyper-v-in-windows-11-the-ultimate-enablement-guide/"><u>Configuring Hyper-V in Windows 11: The Ultimate Enablement Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-call-of-duty-black-ops-cold-wars-temperature-troubles-for-smoother-gameplay/"><u>Diagnosing & Repairing Call of Duty: Black Ops Cold War's Temperature Troubles for Smoother Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-on-overcoming-latency-the-top-10-ways-for-a-seamless-battlefield-5-experience/"><u>Expert Advice on Overcoming Latency: The Top 10 Ways for a Seamless Battlefield 5 Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-issues-with-yakuza-6-the-song-of-life-troubleshooting-guide-for-pc/"><u>Fixing Issues with Yakuza 6: The Song of Life - Troubleshooting Guide for PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-disable-auto-recommended-podcast-features-in-spotify/"><u>How to Disable Auto-Recommended Podcast Features in Spotify</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-smart-tv-purchases-7-tips-to-make-an-informed-decision/"><u>Navigating Smart TV Purchases: 7 Tips to Make an Informed Decision</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-safaris-image-loading-hurdles-on-iphone-discover-these-diverse-fixes-9/"><u>Overcome Safari's Image-Loading Hurdles on iPhone: Discover These ^Diverse Fixes (9)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/seamless-soundscapes-youtube-music-integration-tips/"><u>Seamless Soundscapes YouTube Music Integration Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-overcoming-issues-with-call-of-duty-black-ops-4-initialization/"><u>Solution Found: Overcoming Issues with Call of Duty Black Ops 4 Initialization</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-non-responsive-aoc-usb-monitors-in-windows-11-effective-solutions/"><u>Troubleshoot Non-Responsive AOC USB Monitors in Windows 11: Effective Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/update-itunes-reports-an-audio-misconfiguration-error/"><u>Update: ITunes Reports an Audio Misconfiguration Error</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-nubia-z50-ultra-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Nubia Z50 Ultra Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-wont-my-game-of-valheim-start-diagnosing-and-fixing-common-launch-failures/"><u>Why Won't My Game of Valheim Start? Diagnosing and Fixing Common Launch Failures</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix When Your PC's Framerate Drops by Two Frames per Second
-date: 2024-09-16T19:01:29.781Z
-updated: 2024-09-21T16:46:17.897Z
+date: 2025-01-17T04:49:01.226Z
+updated: 2025-01-23T22:55:48.943Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/3bea074e02c00367c73eda64c4dc35b2b7531a175
 
  Pathfinder: Wrath of the Righteous has been the most hyped RPG game lately. But as a new release, it’s far from error-free. Many players have been reporting their**keyboard would randomly stop working in-game** . If you’re on the same boat, we’ve got a few working fixes for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down until you find the one that does the trick!
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/3bea074e02c00367c73eda64c4dc35b2b7531a175
 
 [4: Update your keyboard driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check for hardware issues
 
  When your keyboard stops working in-game, the first thing you can do is to rule out the possibility of a faulty device. Here are some general troubleshooting steps you can try:
@@ -42,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/3bea074e02c00367c73eda64c4dc35b2b7531a175
 
 If you didn’t find any hardware issues, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Make sure no other devices are interfering
 
  This fix is specifically for wireless or Bluetooth keyboard users. If you have a wired keyboard, jump to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
@@ -51,13 +63,6 @@ If you didn’t find any hardware issues, try the next fix.
  In fact, anything that may block the signal between your keyboard and your PC could cause problems, so make sure you check your desk carefully. For example, try moving your**wireless mouse, Wi-Fi router, or speaker** away from your keyboard then test the issue.
 
  You may also like:[How to fix wireless keyboard lag?](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Delete Rewired\_DirectInput.dll file
 
@@ -73,6 +78,10 @@ If you didn’t find any hardware issues, try the next fix.
 6. Relaunch the game and test the issue.
 
  If this fix doesn’t solve your problem, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your keyboard driver
 
@@ -90,10 +99,7 @@ If you didn’t find any hardware issues, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-19.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged keyboard driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
@@ -123,5 +129,24 @@ If you didn’t find any hardware issues, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-streamline-your-classic-gaming-with-optimal-ps2-android-emulators/"><u>[New] Streamline Your Classic Gaming with Optimal PS2 Android Emulators</u></a></li>
+<li><a href="https://program-issues.techidaily.com/7-effective-troubleshooting-steps-to-resolve-stuck-loading-in-forza-horizon-5/"><u>7 Effective Troubleshooting Steps to Resolve Stuck Loading in Forza Horizon 5</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-recurring-shutdowns-in-ms-flight-simulator-2020-for-pc-users/"><u>Diagnosing and Repairing Recurring Shutdowns in MS Flight Simulator 2020 for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fps-drops-in-borderlands-3-try-these-fixes-on-pc-2021/"><u>FPS Drops in Borderlands 3? Try These Fixes on PC | 2021</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-your-nvidia-geforce-overlay-back-on-track-solutions-and-tips/"><u>Getting Your Nvidia GeForce Overlay Back on Track - Solutions & Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-enable-gpu-usage-for-cyberpunk-2077-on-windows-11-systems/"><u>How to Enable GPU Usage for Cyberpunk 2077 on Windows 11 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-and-tips-for-stable-play-in-call-of-duty-black-ops-cold-war-on-pc/"><u>Resolved: Fixes & Tips for Stable Play in Call of Duty Black Ops Cold War on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-no-available-camera-input-error-in-snap-application/"><u>Resolving 'No Available Camera Input' Error in Snap Application</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-stalled-ios-upgrades-on-apple-devices-a-guide-with-6-key-fixes/"><u>Resolving Stalled iOS Upgrades on Apple Devices: A Guide With 6 Key Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalize-invisible-windows-your-guide-to-regaining-lost-panes-in-windows/"><u>Revitalize Invisible Windows: Your Guide to Regaining Lost Panes in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-big-on-gaming-in-october-prime-day-specials-score-up-to-50-discounts-before-it-ends-zdnet/"><u>Save Big on Gaming in October Prime Day Specials: Score Up to 50% Discounts Before It Ends | ZDNET</u></a></li>
+<li><a href="https://win-news.techidaily.com/sincronizza-rapidamente-i-tuoi-file-e-le-cartelle-tra-due-computer-con-windows-utilizzando-tre-metodi-secure/"><u>Sincronizza Rapidamente I Tuoi File E Le Cartelle Tra Due Computer Con Windows Utilizzando Tre Metodi SECURE</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/l-media-showdown-youtubes-shorts-versus-tiktoks-short-forms/"><u>Social Media Showdown YouTubes Shorts Versus TikToks Short Forms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-preventing-biomutant-from-crashing-on-pcs-latest-tips-for-2e24/"><u>Ultimate Guide to Preventing Biomutant From Crashing on PCs - Latest Tips for 2E24</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/ultimate-insights-assessing-lgs-widescreen-monitor-capabilities/"><u>Ultimate Insights Assessing LG's Widescreen Monitor Capabilities</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-top-8-live-selling-platforms-beginners-tool-tip/"><u>Updated In 2024, Top 8 Live Selling Platforms Beginners Tool Tip</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Oppo Find N3 | Dr.fone</u></a></li>
+</ul></div>
 

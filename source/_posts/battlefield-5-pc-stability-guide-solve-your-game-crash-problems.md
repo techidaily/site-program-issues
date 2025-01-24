@@ -1,7 +1,7 @@
 ---
 title: Battlefield 5 PC Stability Guide - Solve Your Game Crash Problems!
-date: 2025-01-17T01:55:52.652Z
-updated: 2025-01-17T19:11:27.893Z
+date: 2025-01-20T06:18:53.776Z
+updated: 2025-01-24T00:57:15.424Z
 tags:
   - win11
   - win10
@@ -60,7 +60,7 @@ _**War Thunder**_ keeps crashing on startup, or it constantly closes to desktop 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Check your **Operating System, Processor, Memory** and**DirectX Version** .
@@ -71,10 +71,14 @@ _**War Thunder**_ keeps crashing on startup, or it constantly closes to desktop 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your computer meets the minimum requirements, read on and check the fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: **Restart your computer**
@@ -92,6 +96,10 @@ _**War Thunder**_ or Steam sometimes can’t access certain game files on your c
 **2)**  Right-click the **Steam icon** on your desktop and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
@@ -117,10 +125,6 @@ _**War Thunder**_ or Steam sometimes can’t access certain game files on your c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Right-click **War Thunder** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-79.png)
@@ -128,6 +132,10 @@ _**War Thunder**_ or Steam sometimes can’t access certain game files on your c
 **4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for the scans to be complete, then relaunch your game to see if your problem has been resolved. If not, try the next fix.
 
@@ -164,7 +172,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -172,10 +180,6 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -186,6 +190,10 @@ OR
 
 If your issue persists, then try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Change your PC’s Power Settings
 
  The power plan on all computers is set to Balanced by default to save more energy, so your computer sometimes will slow down to save energy, which could cause War Thunder to crash. Follow the instructions below to see how to fix it:
@@ -194,21 +202,21 @@ If your issue persists, then try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Select **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Select **High Performance** .
 
@@ -230,21 +238,17 @@ If your issue persists, then try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-77.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click **DELETE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-78.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Right-click the**Steam icon** on the taskbar, and select**Exit** to exit Steam.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/WAR-THUNDER-CRASH.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** On your keyboard, press the **Windows logo**  key and **E**  at the same time to open File Explorer.
 
@@ -253,10 +257,6 @@ If your issue persists, then try the next fix below.
 **7)** Paste**C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/WAR-THUNDER-CRASH-23.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **8)** Highlight the **War Thunder folder** , and then press the **Del** key on your keyboard to delete the folder.
 
@@ -287,21 +287,21 @@ If your issue persists, then try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/among-us-online-teamwork-and-strategy-pc-troubleshooting-after-recent-patch/"><u>'Among Us: Online Teamwork and Strategy' PC Troubleshooting After Recent Patch</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unseen-streamer-how-to-live-stream-privately-on-instagram/"><u>[New] 2024 Approved Unseen Streamer How to Live-Stream Privately on Instagram</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-streamlining-your-monetization-mastering-youtube-adsense/"><u>[New] Streamlining Your Monetization Mastering YouTube AdSense</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-visual-storytelling-on-social-media-crafting-an-effective-plan/"><u>[Updated] 2024 Approved Visual Storytelling on Social Media Crafting an Effective Plan</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-action-camera-faceoff-gopro-hero-vs-sony-dslr-for-adventure-seekers/"><u>[Updated] Action Camera Faceoff GoPro Hero Vs. Sony DSLR for Adventure Seekers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-pc-screenshot-wizardry-unveiling-apowersoft-screen-recorder-for-2024/"><u>[Updated] PC Screenshot Wizardry Unveiling Apowersoft Screen Recorder for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/achieve-uninterrupted-flow-in-naraka-bladepoint-by-resolving-stuttering-and-low-frame-rates/"><u>Achieve Uninterrupted Flow in Naraka: Bladepoint by Resolving Stuttering and Low Frame Rates</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/capture-video-like-a-pro-on-modern-laptops-for-2024/"><u>Capture Video Like a Pro on Modern Laptops for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-craft-clever-comical-content/"><u>In 2024, Craft Clever, Comical Content</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Itel P40? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-battle-arena-solutions-to-fix-intermittent-freezes-in-naraka-quest/"><u>Mastering the Battle Arena: Solutions to Fix Intermittent Freezes in Naraka Quest</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-performance-tips-to-increase-fps-on-rainbow-six-extraction/"><u>Optimizing Performance: Tips to Increase FPS on Rainbow Six Extraction</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-common-errors-in-logitech-settings-on-windows-computers/"><u>Overcoming Common Errors in Logitech Settings on Windows Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-for-division-amoknuckles-stalled-startup-problems-latest-fixes-2024/"><u>Step-by-Step Troubleshooting for Division amoKnuckle's Stalled Startup Problems - Latest Fixes 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fix-for-driver-failed-error-when-setting-up-your-ds4-controller-on-a-windows-machine/"><u>Ultimate Fix for 'Driver Failed' Error when Setting Up Your DS4 Controller on a Windows Machine</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722987820014-why-is-my-origin-not-starting-in-windows-11-find-out-why-and-how-to-fix-it/"><u>Why Is My Origin Not Starting in Windows 11? Find Out Why and How to Fix It!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-securing-continuous-frame-playback-in-live-broadcasts/"><u>[New] Securing Continuous Frame Playback in Live Broadcasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-steps-for-turning-pin-videos-into-music-files/"><u>[Updated] Ultimate Steps for Turning Pin Videos Into Music Files</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-winters-chill-and-your-videos-selecting-heated-backdrops/"><u>[Updated] Winter's Chill & Your Videos Selecting Heated Backdrops</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-bringing-your-vision-alive-transferring-vids-from-premiere/"><u>2024 Approved Bringing Your Vision Alive Transferring Vids From Premiere</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-elevate-engagement-4-steps-to-add-fb-story-link/"><u>2024 Approved Elevate Engagement 4 Steps to Add FB Story Link</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/clarifying-distorted-audio-problems-in-windows-117-comprehensive-fix-guide/"><u>Clarifying Distorted Audio Problems in Windows 11/7 – Comprehensive Fix Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/does-the-iphone-13-offer-built-in-waterproof-features-for-accidental-dips/"><u>Does the iPhone 13 Offer Built-In Waterproof Features for Accidental Dips?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elden-ring-optimization-guide-6-rapid-remedies-to-resolve-fps-fluctuations-and-hitches/"><u>Elden Ring Optimization Guide: 6 Rapid Remedies to Resolve FPS Fluctuations & Hitches!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-crashing-in-helldivers-2-on-windows-expert-advice/"><u>How to Fix Crashing in Helldivers 2 on Windows: Expert Advice</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-connection-fixes-in-terraria-top-n-proven-strategies/"><u>Mastering Connection Fixes in Terraria - Top N Proven Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-wont-see-my-controller-heres-the-quick-fix-for-windows-users/"><u>Steam Won't See My Controller? Here's the Quick Fix for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-overcome-league-of-legends-crashes-with-ease/"><u>Troubleshoot and Overcome League of Legends Crashes with Ease</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-how-to-stop-madden-nfl-21-from-exiting-unexpectedly-on-pc/"><u>Troubleshooting Tips: How to Stop Madden NFL 21 From Exiting Unexpectedly on PC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitter-jokes-unveiled-3-pc-based-methods/"><u>Twitter Jokes Unveiled 3 PC-Based Methods</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warcraft-iii-reforged-crashes-fixed-comprehensive-guide-to-fixing-issues-on-pc/"><u>Warcraft III: Reforged Crashes Fixed – Comprehensive Guide to Fixing Issues on PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-nubia-red-magic-9-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Nubia Red Magic 9 Pro? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Victory over Overwatch Errors: Tackling the Graphics Driver Problem Once and For All"
-date: 2025-01-17T05:06:05.293Z
-updated: 2025-01-17T22:13:37.964Z
+date: 2025-01-21T14:46:38.862Z
+updated: 2025-01-23T23:07:21.335Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why am I getting this error message?
@@ -41,10 +41,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 * Outdated device drivers
 * Software confliction
 * etc.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix ‘ **_Connection to the Battle.net game server has been lost_**  ‘?
 
@@ -72,10 +68,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 2. Type in**firewall.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 3. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
@@ -111,7 +103,7 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3\. Change your DNS server
@@ -121,25 +113,29 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select **Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
 **Alternate DNS server: 8.8.4.4**  
 
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click **OK** to apply.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
 
@@ -157,13 +153,17 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed.jpg)
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
@@ -204,18 +204,20 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-virtual-reality-streaming-who-to-watch/"><u>[New] 2024 Approved Virtual Reality Streaming Who to Watch</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-channel-elevation-strategy-quickly-reach-your-10k-view-quota-for-2024/"><u>[New] Channel Elevation Strategy – Quickly Reach Your 10K View Quota for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-speakers-guide-to-captivating-visual-storytelling/"><u>[New] In 2024, The Speaker's Guide to Captivating Visual Storytelling</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-oculus-top-grossing-virtual-reality-titles-list/"><u>[New] Oculus Top Grossing Virtual Reality Titles List</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-image-illumination-choose-best-websites-with-photo-framing-features-for-2024/"><u>[Updated] Image Illumination Choose Best Websites with Photo Framing Features for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-mastering-the-art-of-youtube-video-submissions-for-maximum-reach-for-2024/"><u>[Updated] Mastering the Art of YouTube Video Submissions for Maximum Reach for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-financial-rewards-top-priorities-for-open-source-professionals-seeking-new-opportunities/"><u>Beyond Financial Rewards: Top Priorities for Open-Source Professionals Seeking New Opportunities</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-overcoming-dead-by-daylights-error-8014-problem/"><u>Effective Solutions for Overcoming Dead by Daylight's Error 8014 Problem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-preventing-pc-malfunctions-when-playing-battlefront-ii/"><u>Effective Solutions for Preventing PC Malfunctions When Playing 'Battlefront II'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-game-performance-addressing-modern-warfare-stutters-and-freezes-on-desktop-systems/"><u>Optimizing Game Performance: Addressing 'Modern Warfare' Stutters and Freezes on Desktop Systems</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-techniques-for-removing-windows-graphic-drivers/"><u>Quick Techniques for Removing Windows Graphic Drivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-network-adapter-failures-on-windows-117-pcs/"><u>Step-by-Step Guide: Resolving Network Adapter Failures on Windows 11/7 PCs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-the-fifa-19-directx-issue-in-a-jiffy-expert-tips-inside/"><u>Troubleshoot the FIFA 19 DirectX Issue in a Jiffy - Expert Tips Inside!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-final-cut-pros-top-10-must-have-plug-ins-for-professionals/"><u>[Updated] Final Cut Pro’s Top 10 Must-Have Plug-Ins for Professionals</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-fake-following-fiasco-avoiding-illusory-supporters-in-social-media-space/"><u>2024 Approved Fake Following Fiasco Avoiding Illusory Supporters in Social Media Space</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-professional-rapid-thumbnail-artistry-for-valorant-games/"><u>2024 Approved Professional Rapid Thumbnail Artistry for Valorant Games</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-free-study-apps-and-resources-for-students-returning-this-year/"><u>Best Free Study Apps & Resources for Students Returning This Year</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723014147465-diablo-immortal-stability-issues-on-pc-heres-the-ultimate-fix/"><u>Diablo Immortal Stability Issues on PC? Here's the Ultimate Fix !</u></a></li>
+<li><a href="https://program-issues.techidaily.com/game-not-starting-step-by-step-steps-to-confirm-integrity-of-your-gaming-files/"><u>Game Not Starting? Step-by-Step Steps to Confirm Integrity of Your Gaming Files</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-overcoming-startup-problems-for-saints-row-on-personal-computers/"><u>Guide to Overcoming Startup Problems for Saints Row on Personal Computers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/identifying-chameleon-ais-via-strategic-mentions-in-dialogue/"><u>Identifying Chameleon AIs via Strategic Mentions in Dialogue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/imessage-communication-guide-sending-and-receiving-texts-on-your-pc-with-windows/"><u>IMessage Communication Guide: Sending & Receiving Texts on Your PC with Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improving-performance-and-increasing-fps-in-the-world-of-tainted-grail-conquest/"><u>Improving Performance & Increasing FPS in the World of Tainted Grail: Conquest</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-nokia-130-music-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Nokia 130 Music FRP Locks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-valheim-wont-launch-at-startup-glitches-in-the-newest-update-of-2024/"><u>Resolving 'Valheim Won't Launch at Startup' Glitches in the Newest Update of 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/swift-shuffling-strategies-efficiently-send-data-home-for-2024/"><u>Swift Shuffling Strategies Efficiently Send Data Home for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-ranked-widescreen-displays-ultimate-choices/"><u>Top-Ranked Widescreen Displays: Ultimate Choices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009161830-why-was-there-a-delay-in-releasing-immortals-fenyx-rising-resolved/"><u>Why Was There a Delay in Releasing Immortals: Fenyx Rising? Resolved!</u></a></li>
 </ul></div>
 

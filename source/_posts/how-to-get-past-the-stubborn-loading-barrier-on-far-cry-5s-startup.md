@@ -1,7 +1,7 @@
 ---
 title: How To Get Past the Stubborn Loading Barrier on Far Cry 5'S Startup
-date: 2025-01-12T00:46:26.282Z
-updated: 2025-01-17T22:29:03.416Z
+date: 2025-01-23T10:13:00.346Z
+updated: 2025-01-24T14:48:29.960Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Some players are reporting that they can’t get past the Mojang screen. It look
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -37,10 +37,6 @@ Some players are reporting that they can’t get past the Mojang screen. It look
 5. **[End the runtime broker](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Minecraft Launcher in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean reinstall](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Uninstall your antivirus software
 
@@ -64,6 +60,10 @@ The known problematic software are:
 
  Mojang has blocked most VPN users from logging into Minecraft as these free VPNs are often used by malicious users to hack into accounts. This can cause login/loading issues. Some VPNs such as[Express VPN](https://tools.techidaily.com/drivereasy/download/) and[NordVPN](https://tools.techidaily.com/drivereasy/download/) (get an[80% off coupon](https://tools.techidaily.com/drivereasy/download/) ) get Minecraft unblocked, giving you access to all of the latest features no matter where you live.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your device drivers
 
  Just in case, make sure all your drivers are up to date. Outdated or corrupted device drivers are outdated or corrupted (especially your graphics driver) can lead to a lot of issues such as Minecraft being stuck on the loading screen.
@@ -81,17 +81,21 @@ There are mainly two ways to update your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 3. Click **Update** next to your graphics card to download the latest driver, and then install it manually (you can do this in the Free version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once the driver is updated, you’d better restart your computer and try launching your Minecraft again to check if it can load normally. If unfortunately not, you can try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Remove the adware
 
@@ -127,6 +131,10 @@ There are mainly two ways to update your device drivers:
 
 If this method doesn’t work for you, then try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Run Minecraft Launcher in compatibility mode
 
  Many find running Minecraft launcher in compatibility mode helped solve the Minecraft stuck on the loading screen issue. This method has varying success, but it’s worth trying. Here’s how to do it:
@@ -136,10 +144,6 @@ If this method doesn’t work for you, then try the next fix, below.
 3. Go to the**Compatibility** tab, and select**Windows 7** for the**Compatibility mode** . Also, remember to check the**Disable fullscreen optimizations** box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/save-all.jpg)
 4. Click**Apply** \>**OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you can launch your Minecraft again to see if this issue has been resolved by now.
 
@@ -154,10 +158,6 @@ If this method doesn’t work for you, then try the next fix, below.
 3. Once complete, type**%appdata%** in the Windows Search bar, and select the**%appdata%** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/appdata.jpg)
 4. In case your system’s uninstallation removes all your worlds, you can create a backup of your worlds.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Once done, delete the**.Minecraft** folder.
 6. Download the most recent version of Minecraft Java[here](https://www.minecraft.net/en-us/download/) .
@@ -185,22 +185,20 @@ If this method doesn’t work for you, then try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-understanding-facebooks-video-privacy-settings/"><u>[New] 2024 Approved Understanding Facebook's Video Privacy Settings</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/5yaz55yf/"><u>写真</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/aac/"><u>AAC音声ファイルの高品質維持中編集技術</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008060276-beat-saber-malfunctions-heres-your-guide-to-prevent-recurring-game-shutdowns/"><u>Beat Saber Malfunctions? Here's Your Guide to Prevent Recurring Game Shutdowns!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dealing-with-gta-5-lag-and-stutters-fixes-that-work/"><u>Dealing with GTA 5 Lag and Stutters – Fixes That Work</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-live-stream-glitches-on-discord/"><u>Diagnosing and Repairing Live Stream Glitches on Discord</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/facebook-people-lookup-6-quick-techniques-to-easily-find-someone/"><u>Facebook People Lookup: 6 Quick Techniques to Easily Find Someone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a14-4g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A14 4G To Phone | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/obs-or-streamlabs-determining-the-superior-livestream-software/"><u>OBS or Streamlabs? Determining the Superior Livestream Software</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-launch-errors-how-to-get-valheim-running-smoothly-on-your-system-updated-for-2am/"><u>Overcoming Launch Errors: How to Get Valheim Running Smoothly on Your System (Updated for 2Am)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/proven-mac-imaging-comprerante-and-comparing-5-efficient-techniques/"><u>Proven Mac Imaging Comprerante & Comparing 5 Efficient Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-forza-horizon-3-stability-issues-pc-optimization-tips/"><u>Resolving Forza Horizon 3 Stability Issues - PC Optimization Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-issues-with-cortanas-unresponsiveness-a-step-by-step-guide/"><u>Solving Issues with Cortana's Unresponsiveness: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-problem-cant-launch-battlefield-4-on-windows-heres-how/"><u>Solving the Problem - Can’t Launch Battlefield 4 on Windows? Here’s How</u></a></li>
-<li><a href="https://program-issues.techidaily.com/speeding-up-chrome-in-seconds-a-step-by-step-guide-for-a-smooth-experience/"><u>Speeding Up Chrome in Seconds – A Step-by-Step Guide for a Smooth Experience</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/top-10-free-emoji-websites-to-download-emojis-online/"><u>Top 10 Free Emoji Websites to Download Emojis Online</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-reducing-latency-in-bless-unleashed-gameplay/"><u>Troubleshooting Steps: Reducing Latency in Bless Unleashed Gameplay</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-experts-picks-the-best-10-photography-lenses/"><u>[New] 2024 Approved Expert's Picks The Best 10 Photography Lenses</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-enhancing-iphone-x-usability-fixing-face-id-issues/"><u>[New] Enhancing iPhone X Usability Fixing Face ID Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-lag-and-hitching-proven-methods-to-optimize-grand-theft-auto-5-performance/"><u>Banish Lag and Hitching: Proven Methods to Optimize Grand Theft Auto 5 Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-lag-in-depth-techniques-to-fix-high-ping-challenges-in-back-4-blood/"><u>Beat the Lag: In-Depth Techniques to Fix High Ping Challenges in 'Back 4 Blood'</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-ultimate-picks-for-smart-plug-gadgets-2023-edition-insights-from-zdnet/"><u>Explore the Ultimate Picks for Smart Plug Gadgets - 2023 Edition, Insights From ZDNET</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-error-code-0xc19001e1-when-upgradinginstalling-windows-10/"><u>How to Overcome Error Code 0Xc19001e1 When Upgrading/Installing Windows 10</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-13-pro-max-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone 13 Pro Max without Password?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-note-30-vip-racing-edition-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Note 30 VIP Racing Edition to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/random-system-crashes-could-it-be-the-cpu-at-fault-expertise-by-yl-software/"><u>Random System Crashes: Could It Be the CPU at Fault? Expertise by YL Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-guide-for-fixing-wow-not-launching-on-desktop/"><u>Resolved: Troubleshooting Guide for Fixing WoW Not Launching on Desktop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revamp-your-gameplay-experience-expert-tips-for-war-thunder-lag-fix-and-enhanced-frame-rates/"><u>Revamp Your Gameplay Experience: Expert Tips for War Thunder Lag Fix & Enhanced Frame Rates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-making-the-rockstar-games-launcher-work-again/"><u>Step-by-Step Troubleshooting: Making the Rockstar Games Launcher Work Again</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/storytelling-methodologies-for-the-documentarian/"><u>Storytelling Methodologies for the Documentarian</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-elite-selection-of-wireless-routers-perfect-for-traveling/"><u>The Elite Selection of Wireless Routers Perfect for Traveling</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-isnt-assassins-creed-valhalla-out-yet-answered/"><u>Why Isn't Assassin's Creed: Valhalla Out Yet? [Answered]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solving Performance Lags: Elevate Your Gameplay with Optimized FPS in Forza Horizon 5 (PC)"
-date: 2024-09-09T22:53:49.510Z
-updated: 2024-09-16T18:08:47.730Z
+date: 2025-01-21T08:34:36.728Z
+updated: 2025-01-23T18:46:46.700Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 ## Maximize Performance: Increase Frames per Second (FPS) for a Better Experience in Ring of Elysium
 
 Want to increase FPS in Ring of Elysium? You’ve come to the right place! This article is going to show you how to optimize your computer and boost FPS for a better gaming experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 methods to try
 
@@ -86,15 +90,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Change the power option
@@ -106,21 +111,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select **Power Options.**
 
@@ -133,10 +133,7 @@ OR
  Restart your computer, and then relaunch your game to see if this worked for you.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Configure your graphics settings
@@ -160,9 +157,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-37.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Select**Ring of Elysium** , and then click**Add Selected Program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-38.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Modify the settings following the screenshot below.
 
@@ -178,23 +183,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-45.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Modify the settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-42-1024x459.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Overclock your GPU
 
@@ -223,5 +214,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-cutting-through-the-noise-top-15-non-gopro-cameras-for-2024/"><u>[New] Cutting Through the Noise Top 15 Non-GoPro Cameras for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-pursuit-for-perfection-exploring-4k-with-hps-z32x-for-2024/"><u>[New] Pursuit for Perfection Exploring 4K with HP's Z32X for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/2024-guide-troubleshooting-steps-when-division-2-wont-start/"><u>2024 Guide: Troubleshooting Steps When Division 2 Won't Start</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/correcting-faulty-network-setups-on-windows-a-step-by-step-guide/"><u>Correcting Faulty Network Setups on Windows - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/efficient-fixes-when-your-iphones-home-touchpad-fails-you/"><u>Efficient Fixes When Your iPhone's Home Touchpad Fails You</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-no-more-successfully-handling-and-repairing-apex-legends-error-code-23-problems/"><u>Error No More: Successfully Handling and Repairing Apex Legends' Error Code 23 Problems</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-7-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-dying-light-game-lag-problems-a-comprehensive-guide/"><u>How to Fix Dying Light Game Lag Problems – A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-tecno-pova-5-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Tecno Pova 5?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-optimizing-screencapture-techniques-for-maximum-results/"><u>In 2024, Optimizing ScreenCapture Techniques for Maximum Results</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-complications-with-the-clownfish-voice-alteration-device/"><u>Resolving Complications with the Clownfish Voice Alteration Device</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-pc-issues-troubleshooting-constant-minecraft-dungeons-crashes/"><u>Solving PC Issues: Troubleshooting Constant Minecraft Dungeons Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-eliminating-nioh-2-complete-edition-game-crashes-for-good/"><u>Troubleshooting Guide: Eliminating Nioh 2 Complete Edition Game Crashes for Good</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-techniques-for-unfreezing-call-of-duty-black-ops-cold-war-a-step-by-step-approach/"><u>Troubleshooting Techniques for Unfreezing Call of Duty: Black Ops Cold War - A Step-by-Step Approach</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-stable-gameplay-in-black-desert-online-on-your-computer/"><u>Ultimate Fixes for Stable Gameplay in Black Desert Online on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-solution-resolving-discords-excessive-cpu-consumption/"><u>Ultimate Solution: Resolving Discord's Excessive CPU Consumption</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultra-portable-orlink-usb-631-superior-wi-fi-connectivity-compact-design/"><u>Ultra-Portable ORLINK USB 631: Superior Wi-Fi Connectivity, Compact Design</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-which-way-to-go-a-comparison-of-adobe-premiere-and-after-effects-for-video-creators/"><u>Updated Which Way to Go? A Comparison of Adobe Premiere and After Effects for Video Creators</u></a></li>
+</ul></div>
 

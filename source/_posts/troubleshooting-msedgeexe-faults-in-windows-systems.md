@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting MSEdge.exe Faults in Windows Systems
-date: 2025-01-15T21:47:19.746Z
-updated: 2025-01-18T00:22:47.971Z
+date: 2025-01-17T03:20:02.945Z
+updated: 2025-01-23T23:57:41.743Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/c58560aeeed11adb8f42f4b9530bfd82fdd84e9fa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try all of them, simply work your way down until you find the one that does the trick.
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/c58560aeeed11adb8f42f4b9530bfd82fdd84e9fa
 3. [**Change settings in your graphics control panel**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Set graphics preference to High performance**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Run Warzone in Windowed mode](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -71,16 +71,8 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
@@ -93,6 +85,10 @@ Once done, restart your PC and see if Warzone is using your GPU.
 
  If updating your system doesn’t help, you can take a look at the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Change settings in your graphics control panel
 
  You can also force Warzone to run on your graphics card by changing settings in the graphics control panel. If you don’t know how, here’re the steps for NVIDIA GPUs:
@@ -104,14 +100,14 @@ Once done, restart your PC and see if Warzone is using your GPU.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-1.jpg)
 3. In the left pane, select**Set PhysX Configuration** . Under**Select a PhysX processor** , click to expand the drop down list and**select your GPU** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-2.jpg)
 4. Now start your game and check if it’s running properly.
 
  If this trick doesn’t work for you, simply move on to the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Set graphics preference to High performance
 
@@ -125,28 +121,28 @@ Once done, restart your PC and see if Warzone is using your GPU.
 3. Click **Browse**  to specify the file location of Warzone. Choose**ModernWarfare.exe** in the game folder.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (By default it’s_%USERPROFILE%\\Documents\\Call of Duty Modern Warfare_ )  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings-warzone-browse.jpg)
 4. Click**Options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-1.jpg)
 5. In the pop-up window, select**High performance** and click**OK** to apply the settings.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-2.jpg)
 6. You can do the same for**Modern Warfare Launcher.exe** . Once done, start Warzone and compare the GPU utilization with the gameplay.
 
  If this setting doesn’t help, take a look at the next solution below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Run Warzone in Windowed mode
 
@@ -156,6 +152,10 @@ Once done, restart your PC and see if Warzone is using your GPU.
 2. Navigate to the**GRAPHICS** tab. Under the**Display** section, set**Display Mode** to**Windowed** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-windowed.jpg)
 3. Now check if the game runs as expected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -176,22 +176,22 @@ Once done, restart your PC and see if Warzone is using your GPU.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-audio-aesthetics-weaving-tunes-into-snapchat/"><u>[New] Audio Aesthetics Weaving Tunes Into Snapchat</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-explore-ingenious-ways-to-modify-voices-for-free/"><u>[New] In 2024, Explore Ingenious Ways to Modify Voices for FREE</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-stabilizing-shaky-images-a-realistic-benefit-or-hype/"><u>[Updated] 2024 Approved Stabilizing Shaky Images A Realistic Benefit or Hype?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-high-view-counts-using-savvy-hashtag-use/"><u>2024 Approved Unlock High View Counts Using Savvy #Hashtag Use</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banish-disconnection-errors-in-destiny-2-expert-tips-and-tricks-fixed/"><u>Banish Disconnection Errors in Destiny 2: Expert Tips & Tricks [FIXED]</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevate-video-quality-with-pro-tools-selection/"><u>Elevate Video Quality with Pro Tools Selection</u></a></li>
-<li><a href="https://program-issues.techidaily.com/error-resolved-handling-unauthorized-access-warnings-in-gaming-platforms/"><u>Error Resolved: Handling Unauthorized Access Warnings in Gaming Platforms</u></a></li>
-<li><a href="https://program-issues.techidaily.com/essential-tips-to-overcome-phasmophobia-vr-performance-issues/"><u>Essential Tips to Overcome Phasmophobia VR Performance Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-runescape-game-crashes-with-these-proven-tips/"><u>Fix Your RuneScape Game Crashes with These Proven Tips</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-content-top-15-download-apps-unveiled/"><u>In 2024, Instagram Content Top 15 Download Apps Unveiled</u></a></li>
-<li><a href="https://program-issues.techidaily.com/initiating-successfully-effective-solutions-to-prevent-dead-space-remake-from-crashing-on-startup-updated-guide/"><u>Initiating Successfully: Effective Solutions to Prevent Dead Space Remake From Crashing on Startup (Updated Guide)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maximizing-visuals-and-minimizing-lag-tricks-for-optimizing-the-ascents-fps/"><u>Maximizing Visuals & Minimizing Lag: Tricks for Optimizing The Ascent's FPS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/new-ios-175-beta-feature-unveiled-now-eu-users-can-download-apps-online-with-iphoneipad-in-depth-explanation/"><u>New iOS 17.5 Beta Feature Unveiled! Now EU Users Can Download Apps Online with iPhone/iPad – In-Depth Explanation</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-pc-settings-for-enhanced-fps-on-counter-strike-2/"><u>Optimizing PC Settings for Enhanced FPS on Counter-Strike 2</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/update-problems-solved-revamping-the-minecraft-native-installer-on-any-pc/"><u>Update Problems Solved - Revamping the Minecraft Native Installer on Any PC</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-art-of-revision-efficient-erasing-techniques-in-psx/"><u>[New] 2024 Approved The Art of Revision Efficient Erasing Techniques in PSX</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-budget-friendly-sites-for-stunning-fx-on-videos/"><u>[New] 2024 Approved Top Budget-Friendly Sites For Stunning FX on Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-closer-conversations-mastering-in-camera-precision/"><u>[Updated] Closer Conversations Mastering In-Camera Precision</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-free-picture-quality-enhancement-techniques/"><u>2024 Approved Mastering Free Picture Quality Enhancement Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-right-approach-to-uploading-photos-from-your-device-to-snapchat/"><u>2024 Approved The Right Approach to Uploading Photos From Your Device to Snapchat</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-the-issue-of-your-pacific-vehicle-not-starting-here/"><u>Fix the Issue of Your Pacific Vehicle Not Starting Here!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-the-persistent-issue-halting-halo-infinites-pc-crashes/"><u>Fixes for the Persistent Issue: Halting Halo Infinite's PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-needed-overcoming-launch-issues-in-age-of-empires-4/"><u>Fixes Needed: Overcoming Launch Issues in Age of Empires 4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-obs-studio-crashes-on-windows-10-and-11-updated-guide-2024/"><u>Fixing Obs Studio Crashes on Windows 10 & 11 (Updated Guide, 2024)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-game-stability-enhanced-no-more-unexpected-shutdowns-in-version/"><u>Football Manager Game Stability Enhanced - No More Unexpected Shutdowns in Version #</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-itel-a05s-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Itel A05s? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-content-creators-preferences-vimeo-or-youtube/"><u>In 2024, Content Creators' Preferences Vimeo or YouTube?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 8 Plus Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-google-pixel-7a-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Google Pixel 7a to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-issue-regain-your-login-privileges-on-origin-today/"><u>Resolved Issue: Regain Your Login Privileges on Origin Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-guide-to-solving-latency-issues-and-enhancing-your-rainbow-six-siege-experience/"><u>The Ultimate Guide to Solving Latency Issues & Enhancing Your Rainbow Six Siege Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-phasmophobia-tackling-high-processor-usage/"><u>Troubleshooting Phasmophobia: Tackling High Processor Usage</u></a></li>
 </ul></div>
 

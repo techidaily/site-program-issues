@@ -1,7 +1,7 @@
 ---
 title: "Get Back in Control of the FIA World Rally Championship: Resolve WRC S PC Crashing Issues Now!"
-date: 2024-09-18T17:18:01.155Z
-updated: 2024-09-21T17:59:50.835Z
+date: 2025-01-22T21:39:26.312Z
+updated: 2025-01-24T01:23:25.682Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 2. [Lower the graphics settings in the game](https://tools.techidaily.com/drivereasy/download/)
 3. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Add Sea of Thieves into your antivirus file exclusions
 
  One reason for the Sea of Thieves crashing problem is that your antivirus software is scanning the game. To solve it, you can set file exclusions to prevent it happen again. We take Trend Micro as an example, you can follow the same steps for your antivirus software.
@@ -39,6 +43,11 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 1. Press the**Windows logo key + X** together and click the**Windows PowerShell** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/wp.jpg)
 2. Run the below command.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **`Get-AppxPackage *SeaOfThieves* | ForEach{$_.InstallLocation}`**
 3. Copy the content which looks like this:  
 **`C:\Program Files\WindowsApps\Microsoft.SeaofThieves_2.78.5523.2_x64__8wekyb3d8bbwe`**
@@ -50,15 +59,16 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 9. Select the **Open** button. This will add the path to your Exception List.
 10. Select **OK** to save your changes and close the Exception List window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try to lower the graphics setting in the game to fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Update your driver
@@ -76,16 +86,13 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Restart your computer and check the Anthem has sound or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We hope you find these techniques useful. You’re welcome to leave comments and questions below.
 
@@ -104,5 +111,24 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-2023-play-facebook-videos-on-tv/"><u>[New] 2024 Approved 2023 | Play Facebook Videos on TV?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-desktop-recording-head-to-head-obs-vs-shadowplay/"><u>[New] Desktop Recording Head-to-Head OBS Vs. ShadowPlay</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-ultimate-rankings-top-budget-friendly-photo-editors-online/"><u>[New] In 2024, The Ultimate Rankings Top Budget-Friendly Photo Editors Online</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nveiling-distinctions-a-look-at-youtube-and-dailymention/"><u>[New] Unveiling Distinctions A Look at YouTube and DailyMention</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-instagrams-musical-licensing-landscape/"><u>[Updated] 2024 Approved Mastering Instagram's Musical Licensing Landscape</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-unleash-the-full-potential-of-your-images-with-snapchat/"><u>[Updated] 2024 Approved Unleash the Full Potential of Your Images with Snapchat</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-top-sandbox-games-for-aspiring-explorers/"><u>2024 Approved Top Sandbox Games for Aspiring Explorers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/destiny-2-and-broccoli-collision-the-ultimate-game-changer-patch-of-2024/"><u>Destiny 2 & Broccoli Collision: The Ultimate Game-Changer Patch of 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-steps-mastering-hunter-mode-in-revo-uninstaller/"><u>Easy Steps: Mastering Hunter Mode in Revo Uninstaller</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-and-prevent-the-constant-freezing-issue-in-f1-202amoor-a-guide/"><u>Fix & Prevent the Constant Freezing Issue in F1 202Amoor: A Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003395508-how-to-fix-server-connection-lost-in-escape-from-tarkov/"><u>How to Fix ‘Server Connection Lost’ in Escape From Tarkov</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-crashing-bug-in-total-war-three-kingdoms-for-a-smooth-gaming-experience/"><u>How to Fix the Crashing Bug in Total War: Three Kingdoms for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximizing-loot-strategies-for-optimal-frame-skips-in-mass-effect-le/"><u>Maximizing Loot: Strategies for Optimal Frame Skips in Mass Effect LE</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-for-common-javascript-errors-encountered-in-discord-chat-app/"><u>Quick Fixes for Common JavaScript Errors Encountered in Discord Chat App</u></a></li>
+<li><a href="https://program-issues.techidaily.com/star-wars-battlefront-2-hacked-beat-error-code-327-with-this-ultimate-fix-tutorial/"><u>Star Wars Battlefront 2 Hacked? Beat Error Code 327 with This Ultimate Fix Tutorial</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-realme-gt-neo-5-se-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-tips-for-a-smooth-playthrough-addressing-fortnites-visual-hitches-on-pc/"><u>Top Tips for a Smooth Playthrough: Addressing Fortnite's Visual Hitches on PC</u></a></li>
+</ul></div>
 

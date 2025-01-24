@@ -1,7 +1,7 @@
 ---
 title: Solution Guide for Cyberpunk 2077 Not Leveraging GPU on Win11 Systems
-date: 2024-09-17T21:15:51.277Z
-updated: 2024-09-21T18:48:55.133Z
+date: 2025-01-17T07:11:24.323Z
+updated: 2025-01-24T09:52:56.938Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/b707c0511382e78c7bbc2631c8c2ac749bfdb8b7d
 ## Optimizing Graphics Performance in Cyberpunk 2077 on New Windows 11 - Issue Resolved
 
 It seems that strings of bugs come along with the release of[Cyberpunk 2077](https://www.epicgames.com/store/en-US/p/cyberpunk-2077?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=77f2b98e2cef40c8a7437518bf420e47) , as many players are reporting**a game not using GPU issue** . While this problem might seem weird, it’s not hard to fix at all. Here we’ll wake you through the fixes and get your GPU working right away.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -62,6 +66,11 @@ To do so, first visit the website of your graphics card manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -80,28 +89,28 @@ Here’s how:
 1. At the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this trick doesn’t solve your problem, you can continue to the next one.
 
@@ -114,13 +123,6 @@ And it’s quite easy to check for updates:
 1. On your keyboard, press **Win+I**  (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -145,5 +147,26 @@ And it’s quite easy to check for updates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-strategies-to-avoid-copyright-strikes-on-youtube-videos/"><u>[New] 2024 Approved Strategies to Avoid Copyright Strikes on YouTube Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-complete-srt-file-makers-handbook/"><u>[Updated] In 2024, The Complete SRT File Maker's Handbook</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-visual-virtuosos-top-free-afx-samples-collection/"><u>[Updated] Visual Virtuosos Top Free AFX Samples Collection</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-e-lecture-documentation/"><u>2024 Approved E-Lecture Documentation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-outriders-unreal-engine-4-error-mastering-the-fix-for-a-smooth-gaming-experience/"><u>Banish Outriders' Unreal Engine 4 Error - Mastering the Fix for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/behind-the-scenes-the-reason-for-immortals-of-heroes-never-ending-storys-late-arrival/"><u>Behind the Scenes: The Reason for Immortals of Heroes Never-Ending Story's Late Arrival</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-gameplay-disruptions-solving-nioh-ns-stability-issues-on-multiple-platforms/"><u>Eliminate Gameplay Disruptions: Solving Nioh N's Stability Issues on Multiple Platforms</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhanced-e-commerce-success-with-next-level-conversion-tools/"><u>Enhanced E-Commerce Success with Next-Level Conversion Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-problems-when-content-warning-doesnt-work-in-your-voice-chats/"><u>Fixing Problems When 'Content Warning' Doesn’t Work in Your Voice Chats</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-honor-x50-gt-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Honor X50 GT Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/key-compliance-strategies-for-crypto-investments-insights-from-yl-computing-and-yl-software/"><u>Key Compliance Strategies for Crypto Investments: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-epson-wf-3520-software-fresh-driver-downloads-and-compatibility-with-windows-os/"><u>Latest Epson WF-3520 Software: Fresh Driver Downloads and Compatibility with Windows OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-rockstar-games-launcher-issues-with-these-top-fixes/"><u>Resolve Rockstar Games Launcher Issues with These Top Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-star-wars-jedi-fallen-order-not-working-problem-with-these-proven-fixes-and-advice/"><u>Solve Your Star Wars Jedi: Fallen Order Not Working Problem with These Proven Fixes and Advice</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-to-debugging-discords-javascript-gaffes/"><u>Step-by-Step Solution to Debugging Discord's JavaScript Gaffes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-complete-solution-guide-ensuring-seamless-game-finale-deployment/"><u>The Complete Solution Guide: Ensuring Seamless Game Finale Deployment</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-overcome-pubg-crashes-and-stalling-in-windows-or-mac/"><u>Troubleshooting Steps to Overcome PUBG Crashes & Stalling in Windows or Mac</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-audience-analysis-the-art-of-finding-your-market/"><u>Youtube Audience Analysis The Art of Finding Your Market</u></a></li>
+</ul></div>
 

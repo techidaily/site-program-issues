@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Gaming Experience: Fixing Battlefield 2042'S FPS Drops on PC"
-date: 2024-09-16T17:16:21.726Z
-updated: 2024-09-21T19:34:45.941Z
+date: 2025-01-19T05:27:24.023Z
+updated: 2025-01-23T22:53:02.980Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/843a2530bd30cf31b24741cc2e56b474bee5d065d
 
  Launch F1 2021 to see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patches available, move on to the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because outdated or faulty graphics drivers may be causing the F1 2021 FPS dropping issue.
@@ -67,13 +71,6 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Set the Power Plan of your PC for high performance
 
  In Windows 10, you can customize the power plan on your PC. In most cases, the power plan on PCs are configured to **Balanced** by default, which may limit the operating capacity of your graphics card and CPU.
@@ -84,23 +81,13 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
- Launch F1 2021 and check if you get a better PFS. If this issue persists, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Launch F1 2021 and check if you get a better PFS. If this issue persists, try the next fix, below.
 
 ## Optimize in-game graphics settings
 
@@ -138,6 +125,10 @@ There are mainly two methods for you to update the graphics driver:
 
 If the FPS in F1 2021 still drops, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Modify graphics card settings
 
  Some players fix this issue after modifying their graphics card settings. If you haven’t tried this fix, just tweak your graphics card settings in Nvidia or AMD control panel to see if the in-game FPS boosts.
@@ -162,13 +153,6 @@ If the FPS in F1 2021 still drops, try the next fix, below.
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run F1 2021 to check if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Disable overlays
@@ -182,6 +166,11 @@ If the FPS in F1 2021 still drops, try the next fix, below.
 1. Launch **Steam** and go to your **LIBRARY** , then right-click on F1 2021 game title and click **Properties…** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
@@ -201,13 +190,14 @@ If the FPS in F1 2021 still drops, try the next fix, below.
 3. Click **Captures** on the left, then **turn off** the toggle under **Background recording** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Run F1 2021 to see if you can play it smoothly.
 
@@ -231,5 +221,26 @@ Run F1 2021 to see if you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-achieve-seamless-transitions-premiere-videos-on-youtube/"><u>[Updated] In 2024, Achieve Seamless Transitions Premiere Videos on YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-unlocking-10plus-top-free-subtitle-converter-websites/"><u>[Updated] In 2024, Unlocking 10+ Top Free Subtitle Converter Websites</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-reigning-in-your-digital-domain-with-a-precision-plan-for-smm-excellence/"><u>[Updated] Reigning in Your Digital Domain with a Precision Plan for SMM Excellence</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-ultimate-budget-headphones-to-enhance-game-sounds/"><u>2024 Approved Ultimate Budget Headphones to Enhance Game Sounds</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/achieving-silence-on-tiktok-strategies-to-mute-unwanted-sound-effects-for-2024/"><u>Achieving Silence on TikTok Strategies to Mute Unwanted Sound Effects for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-hurdles-of-non-responsive-logitech-gaming-applications-expert-fixes-inside/"><u>Beat the Hurdles of Non-Responsive Logitech Gaming Applications – Expert Fixes Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-rainbow-six-siege-online-play-errors/"><u>Diagnosing & Repairing Rainbow Six Siege Online Play Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/division-2-wont-start-top-strategies-for-launch-troubleshooting/"><u>Division 2 Won't Start? Top Strategies for Launch Troubleshooting</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-sea-of-thieves-how-to-get-past-a-persistent-load-screen/"><u>Fixing Sea of Thieves: How to Get Past a Persistent Load Screen</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-logitech-g29-steering-wheel-setup-download-drivers-for-win-10117/"><u>Get Your Logitech G29 Steering Wheel Setup: Download Drivers for Win 10/11/7</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-discovering-cost-free-fcp-access/"><u>In 2024, Discovering Cost-Free FCP Access</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-safe-6-cybersecurity-risks-of-openais-chatbot/"><u>Is ChatGPT Safe? 6 Cybersecurity Risks of OpenAI's Chatbot</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722900866193-make-sure-you-dont-miss-calls-how-to-get-iphones-ringing-properly-again/"><u>Make Sure You Don’t Miss Calls: How to Get iPhones Ringing Properly Again!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/minecraft-dungeon-stability-hacks-for-a-smooth-gaming-experience-on-pc/"><u>Minecraft Dungeon Stability Hacks for a Smooth Gaming Experience on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-dragon-age-origins-performance-in-windows-11-environments/"><u>Optimizing Dragon Age: Origins Performance in Windows 11 Environments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-tricks-to-stop-kernelbasedll-from-crashing-your-system/"><u>Quick Tricks to Stop KernelBase.dll From Crashing Your System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-overcoming-mute-challenges-restoring-sound-for-a-flawless-twitch-stream/"><u>Solved: Overcoming Mute Challenges - Restoring Sound for a Flawless Twitch Stream</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steps-to-optimize-call-of-duty-mw2-running-addressing-frame-rate-fluctuations-and-stutter/"><u>Steps to Optimize Call of Duty: MW2 Running – Addressing Frame Rate Fluctuations & Stutter</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-solve-shadowplays-recording-issues-on-your-windows-pc/"><u>Troubleshooting: Solve ShadowPlay's Recording Issues on Your Windows PC</u></a></li>
+</ul></div>
 

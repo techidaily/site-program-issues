@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Full GPU Power for Call of Duty: Warzone on Your PC"
-date: 2025-01-13T01:23:58.100Z
-updated: 2025-01-18T07:57:09.528Z
+date: 2025-01-17T07:42:48.899Z
+updated: 2025-01-23T18:39:22.053Z
 tags:
   - win11
   - win10
@@ -43,16 +43,12 @@ thumbnail: https://thmb.techidaily.com/38e4000e96c33206bb992b3f696967e164e1f69dc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 wireless router
@@ -75,13 +71,17 @@ wireless router
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Check how Warzone works. If the driver update doesn’t give you luck, move on to the third solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Run Warzone on DirectX 11
@@ -95,10 +95,6 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
 
@@ -114,7 +110,7 @@ wireless router
 3. Select the**Advanced** tab and click**Change** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
@@ -123,8 +119,16 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
@@ -148,14 +152,10 @@ wireless router
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
 
@@ -181,20 +181,21 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-browse-backwards-a-guide-to-facebook-archives/"><u>[Updated] Browse Backwards A Guide to Facebook Archives</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-election-excursions-best-gamified-democracy-sites/"><u>[Updated] In 2024, Election Excursions Best Gamified Democracy Sites</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-high-definition-spectacle-top-ten-4ks/"><u>2024 Approved High Definition Spectacle – Top Ten 4Ks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/breaking-free-from-far-cry-5s-stuck-loading-screen-expert-advice-and-troubleshooting-tips/"><u>Breaking Free From Far Cry 5'S Stuck Loading Screen – Expert Advice and Troubleshooting Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723007174158-call-of-duty-wwii-troubleshooting-navigating-past-error-code-4128-easily/"><u>Call of Duty WWII Troubleshooting - Navigating Past Error Code 지 4128 Easily</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-infinix-note-30-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Infinix Note 30 is off? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-your-gaming-experience-solving-low-fps-issues-in-the-division-2-players/"><u>Enhance Your Gaming Experience: Solving Low FPS Issues in The Division 2 Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-it-fast-tips-to-stop-grand-theft-auto-5-from-crashing-down/"><u>Fix It Fast: Tips to Stop Grand Theft Auto 5 From Crashing Down</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-why-steam-cant-sync-with-your-cloud-storage/"><u>Fixing the Issue: Why Steam Can't Sync with Your Cloud Storage</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/four-effective-methods-to-restore-data-from-an-unresponsive-iphone/"><u>Four Effective Methods to Restore Data From an Unresponsive iPhone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-make-a-no-cost-windows-11-installation-media-3-easy-methods/"><u>How to Make a No-Cost Windows 11 Installation Media: 3 Easy Methods</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-techniques-correcting-critical-errors-in-ark-platform-stability/"><u>Master the Techniques: Correcting Critical Errors in ARK Platform Stability</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/mp4-screen-grabber-free-easy-access-for-2024/"><u>MP4 Screen Grabber Free, Easy Access for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-hazardous-system-errors-in-ghostrunner-for-windows-11-users-tips-and-tricks/"><u>Overcoming Hazardous System Errors in Ghostrunner for Windows 11 Users - Tips & Tricks</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-overcoming-virtual-reality-discomfort/"><u>[New] In 2024, Overcoming Virtual Reality Discomfort</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-complete-guide-to-uploading-virtual-realities-editing-and-publishing-360-degree-vids/"><u>[New] In 2024, The Complete Guide to Uploading Virtual Realities Editing & Publishing 360-Degree Vids</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-borderlands-3-freezing/"><u>[Solved] How to Fix Borderlands 3 Freezing?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-flawless-footage-with-best-stabilizer-brands-for-2024/"><u>[Updated] Flawless Footage with Best Stabilizer Brands for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-laughing-lineup-step-by-step-guide-to-funny-memes/"><u>[Updated] Laughing Lineup Step-by-Step Guide to Funny Memes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-pioneers-guide-to-vr-terminology/"><u>[Updated] The Pioneer's Guide to VR Terminology</u></a></li>
+<li><a href="https://program-issues.techidaily.com/a-step-by-step-guide-to-fixing-the-notorious-error-5-how-to-deal-with-the-frustrating-error-3-0x0001000b-while-playing-rainbow-six-siege/"><u>A Step-by-Step Guide to Fixing the Notorious Error 5: How to Deal with the Frustrating Error 3-0X0001000B While Playing Rainbow Six Siege</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cortana-stuck-steps-to-restore-the-ai-personal-assistant-on-your-pcphone/"><u>Cortana Stuck? Steps to Restore the AI Personal Assistant on Your PC/Phone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-solutions-to-stop-your-chrome-from-stalling-on-windows-10-systems/"><u>Effortless Solutions to Stop Your Chrome From Stalling on Windows 10 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-re5-launch-problem-on-your-windows-machine-solutions-inside/"><u>Fixing the RE5 Launch Problem on Your Windows Machine - Solutions Inside</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/identifying-and-resolving-issues-with-your-computers-hardware-tips-from-yl-software/"><u>Identifying & Resolving Issues with Your Computer's Hardware - Tips From YL Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-music-migration-from-one-service-to-another/"><u>In 2024, Harmonizing Music Migration From One Service to Another</u></a></li>
+<li><a href="https://program-issues.techidaily.com/polycyclic-aromatic-hydrocarbons-pahs-are-formed-by-fused-benzene-rings-and-can-exhibit-different-chemical-properties-than-monocyclic-aromatics/"><u>Polycyclic Aromatic Hydrocarbons (PAHs) Are Formed by Fused Benzene Rings and Can Exhibit Different Chemical Properties than Monocyclic Aromatics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streaming-vs-cable-tv-understanding-the-key-distinctions/"><u>Streaming vs Cable TV: Understanding the Key Distinctions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-game-crashes-on-pc-tips-and-solutions-to-play-no-rest-for-the-wicked/"><u>Troubleshooting Game Crashes on PC: Tips and Solutions to Play 'No Rest for the Wicked'</u></a></li>
+<li><a href="https://article-files.techidaily.com/zoomed-success-on-set-harnessing-kinemasters-viewer-focus-for-2024/"><u>Zoomed Success on Set Harnessing Kinemaster’s Viewer Focus for 2024</u></a></li>
 </ul></div>
 

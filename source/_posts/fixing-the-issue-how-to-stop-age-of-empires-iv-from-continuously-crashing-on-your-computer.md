@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Stop Age of Empires IV From Continuously Crashing on Your Computer"
-date: 2024-09-15T17:33:54.869Z
-updated: 2024-09-21T20:46:51.168Z
+date: 2025-01-20T18:57:12.394Z
+updated: 2025-01-24T11:45:58.806Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/300ab8d5976ccf31b0d2970939ae583f50bd954e8
 
 [Rogue Company](https://www.epicgames.com/store/en-US/p/rogue-company?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=933ada2ec45e4184ae840d64c99e0ba9) has been out for a while now, and there’re still many players complaining about a**constant crashing issue** with this new shooter. But don’t worry if you happen to be on the same boat — below we’ve gathered some working fixes for your crashing issue, try them and get back to your team right away.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that solves your problem.
@@ -25,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/300ab8d5976ccf31b0d2970939ae583f50bd954e8
 2. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Disable in-game overlays](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Verify the integrity of game files
 
@@ -72,13 +80,6 @@ Follow these steps:
 
  If the latest GPU driver doesn’t stop the game crash, you can check out the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Install all Windows updates
 
  Windows 10 receives continuous support in the form of updates. These patches and feature updates address major compatibility issues and could be a potential fix to your crashing issue. Usually Windows will schedule updates for you, but you can make it happen manually:
@@ -86,13 +87,15 @@ Follow these steps:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -100,6 +103,10 @@ Follow these steps:
 Once completed, restart your PC and check if Rogue Company crashes again.
 
  If updating your system doesn’t help, you can check out the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable in-game overlays
 
@@ -124,5 +131,24 @@ Once completed, restart your PC and check if Rogue Company crashes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-masterworks-of-screenwriting-by-thematic-quarters/"><u>[New] In 2024, Masterworks of Screenwriting by Thematic Quarters</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-prohero-gopro-vs-nikkor-keymission-camera-faceoff/"><u>[New] In 2024, ProHero GoPro VS Nikkor Keymission Camera Faceoff</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-transforming-igtv-with-multi-language-captioning/"><u>[Updated] 2024 Approved Transforming IGTV with Multi-Language Captioning</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-clicks-to-cash-the-journey-of-youtubes-ajay-nagar/"><u>[Updated] In 2024, From Clicks to Cash The Journey of YouTube's Ajay Nagar</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-basics-of-narrative-crafting/"><u>2024 Approved Basics of Narrative Crafting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-simple-methods-for-optimizing-your-videos-preparing-content-for-instagram-with-movavi/"><u>3 Simple Methods for Optimizing Your Videos: Preparing Content for Instagram with Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/advanced-tips-for-fixing-sluggish-rust-software-stay-ahead-of-the-curve/"><u>Advanced Tips for Fixing Sluggish Rust Software: Stay Ahead of the Curve</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-bug-eliminate-error-code-0x803f8001-from-your-minecraft-launcher-in-windows-11-and-10/"><u>Beat the Bug: Eliminate Error Code 0X803f8001 From Your Minecraft Launcher in Windows 11 and 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-blackout-blues-ended-key-steps-for-a-smooth-gameplay-experience/"><u>Cyberpunk 2077 Blackout Blues Ended - Key Steps for a Smooth Gameplay Experience</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/discovering-crypto-insights-a-guide-by-yl-computing/"><u>Discovering Crypto Insights: A Guide by YL Computing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dragon-quest-xis-endgame-bug-fix-a-step-by-step-solution-to-prevent-game-crashes/"><u>Dragon Quest XI's Endgame Bug Fix - A Step-by-Step Solution to Prevent Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/left-4-dead-2-stability-fixed-understanding-the-game-update/"><u>Left 4 Dead 2 Stability Fixed: Understanding the Game Update</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/navigating-instagram-trends-with-key-tags-for-2024/"><u>Navigating #Instagram Trends with Key Tags for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-to-prevent-total-war-saga-troy-from-crashing/"><u>Optimizing Your PC to Prevent Total War Saga: Troy From Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-rescued-beat-ark-survival-evolveds-persistent-crashes-using-these-9-fixes/"><u>PC Gaming Rescued: Beat ARK: Survival Evolved's Persistent Crashes Using These 9 Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-multiple-versus-from-crashing-discover-the-8-most-effective-solutions/"><u>Stop Multiple Versus From Crashing! Discover the 8 Most Effective Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-fixing-century-age-of-ashes-pc-game-crashes/"><u>Troubleshooting Tips: Fixing Century: Age of Ashes PC Game Crashes</u></a></li>
+</ul></div>
 

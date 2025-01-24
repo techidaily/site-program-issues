@@ -1,7 +1,7 @@
 ---
 title: Fixing the Thaumaturge Malfunction – Solutions for Your PC Problems
-date: 2025-01-16T01:54:37.149Z
-updated: 2025-01-17T22:41:34.685Z
+date: 2025-01-23T15:10:02.510Z
+updated: 2025-01-24T04:19:03.573Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Check your region and language settings
 
  If your region and language settings is mistaken or changed by accident, your Cortana can’t work.
@@ -51,26 +47,30 @@ Check your region and language settings on your computer:
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Time** **& language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Make sure the region and language settings is matched with yours.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
 5) Try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
@@ -80,13 +80,13 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Install the available updates.
 
@@ -119,7 +119,7 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
@@ -137,7 +137,7 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
@@ -164,19 +164,24 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-fine-tune-your-cinematography-mastering-kinemaster-zoom-features/"><u>[Updated] 2024 Approved Fine-Tune Your Cinematography Mastering Kinemaster Zoom Features</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-broadcasting-to-the-household-watching-facebook-videos/"><u>[Updated] In 2024, Broadcasting to the Household Watching Facebook Videos?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-cultivating-a-distinctive-presence-in-the-marketplace/"><u>[Updated] In 2024, Cultivating a Distinctive Presence in the Marketplace</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-effortless-creativity-premier-pro-free-2023-guide/"><u>[Updated] In 2024, Effortless Creativity - Premier Pro FREE 2023 Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-the-black-solutions-for-nba-2k21-stalling-during-load-up/"><u>Bypassing the Black: Solutions for NBA 2K21 Stalling During Load-Up</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cut-the-noise-get-smooth-beats-with-our-free-analyzers-today/"><u>Cut the Noise - Get Smooth Beats with Our FREE Analyzers Today</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-strategies-to-resolve-pre-launch-issues-with-your-business/"><u>Effective Strategies to Resolve Pre-Launch Issues with Your Business</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Infinix Note 30i? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-league-of-legends-solutions-for-eliminating-black-screens/"><u>Mastering League of Legends: Solutions for Eliminating Black Screens</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/izing-your-channels-earnings-a-guide-to-creating-impactful-trailers/"><u>Maximizing Your Channel's Earnings A Guide to Creating Impactful Trailers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722993904935-microsoft-edge-windows-11-update-say-goodbye-to-unwanted-crashes/"><u>Microsoft Edge Windows 11 Update - Say Goodbye to Unwanted Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-technical-hurdles-in-baldurs-gate-iii-for-a-seamless-pc-gaming-experience/"><u>Overcoming Technical Hurdles in Baldur’s Gate III for a Seamless PC Gaming Experience</u></a></li>
-<li><a href="https://win-web.techidaily.com/restoring-defaults-a-step-by-step-guide-to-reverting-your-windows-control-panel-yl-computing-solutions/"><u>Restoring Defaults: A Step-by-Step Guide to Reverting Your Windows Control Panel - YL Computing Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-intersection-of-vector-data-and-advanced-ai-technologies/"><u>The Intersection of Vector Data & Advanced AI Technologies</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-top-5-gaming-chairs-on-a-shoestring-budget/"><u>[New] 2024 Approved Top 5 Gaming Chairs on a Shoestring Budget</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-youtube-revenue-streams-cross-device-studio-strategies/"><u>[New] 2024 Approved YouTube Revenue Streams Cross-Device Studio Strategies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-comparing-tiktok-and-youtube-shorts-for-personal-content-creation-for-2024/"><u>[New] Comparing TikTok & YouTube Shorts for Personal Content Creation for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-how-to-find-the-good-iphone-photography-angles/"><u>[New] How to Find the Good iPhone Photography Angles</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-20-top-free-cloud-storage-options-maximize-your-upload-limit-1tbplus/"><u>[Updated] 20 Top Free Cloud Storage Options, Maximize Your Upload Limit (1TB+)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-maximizing-engagement-from-tiktok-to-twitter/"><u>[Updated] 2024 Approved Maximizing Engagement From TikTok to Twitter</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-revolutionize-your-mind-best-15-online-science-hubs/"><u>[Updated] Revolutionize Your Mind Best 15 Online Science Hubs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-learn-to-bring-text-alive-free-animation-for-vids/"><u>2024 Approved Learn to Bring Text Alive Free Animation for Vids</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-warzone-fixes-the-infamous-ocean-crash-on-pacific-map/"><u>Call of Duty: Warzone Fixes the Infamous Ocean Crash on Pacific Map</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-correcting-the-nvidia-access-denied-mistake/"><u>Expert Advice: Correcting the NVIDIA Access Denied Mistake</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-to-resolving-apex-legends-technical-snags-and-crashes/"><u>Expert Guide to Resolving Apex Legends Technical Snags and Crashes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210166525-9781645842521-facing-the-problems-of-humanity/"><u>Facing the Problems of Humanity | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-fatal-launch-stalls-expert-tips-for-a-smooth-company-debut/"><u>Fixing Fatal Launch Stalls - Expert Tips for a Smooth Company Debut</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-i-solved-my-problem-with-non-responsive-razer-synapse-software/"><u>How I Solved My Problem with Non-Responsive Razer Synapse Software</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigating-through-chaos-understanding-black-survival-in-an-endless-cycle/"><u>Navigating Through Chaos: Understanding 'Black Survival' In an Endless Cycle</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-lag-and-drops-a-comprehensive-fix-for-modern-warfare-2-stuttering-on-pcs/"><u>Say Goodbye to Lag and Drops - A Comprehensive Fix for Modern Warfare 2 Stuttering on PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/turbocharge-your-gameplay-techniques-for-smoother-play-and-higher-fps-in-valorant/"><u>Turbocharge Your Gameplay: Techniques for Smoother Play & Higher FPS in Valorant</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ubuntu-installation-guide-ensure-system-compatibility-and-avoid-crashes/"><u>Ubuntu Installation Guide: Ensure System Compatibility & Avoid Crashes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Graphics Hurdles: Addressing the 'DirectX' Problem on FIFA 20 Console Game"
-date: 2025-01-11T22:12:29.715Z
-updated: 2025-01-18T01:02:40.677Z
+date: 2025-01-22T16:27:07.801Z
+updated: 2025-01-24T13:02:24.962Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Try these fixes**
 
  Here’s a list of fixes that have resolved this problem for other FH 4 players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -41,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 11. **[Reinstall Forza Horizon 4](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 1: Check If your PC meets the minimum system requirements for Forza Horizon 4**
 
@@ -78,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 
 **You may need to upgrade your hardware** if your PC fails to meet the minimum system requirements for Forza Horizon 4.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 2: Install the latest game patch**
 
  The developers of Forza Horizon 4 release regular game patches to fix bugs.   **It’s possible that a recent patch has triggered this issue, and that a new patch is required to fix it** .
@@ -103,20 +107,16 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Driver-Easy-Scan-screen.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Update-drivers.jpg)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 4: Clear your standby memory before playing**
 
@@ -128,20 +128,16 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 3. Extract the downloaded .zip file.**Right-click RAMMap.exe** and select**Run as administrator** . You’ll be prompted for permission. Click**Yes** to continue.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap831.png)
 4. In RAMMap, click**Empty** and select**Empty Standby List** to clear your standby memory. This action would instantly restore free memory.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap832.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Forza Horizon 4 after you clear your standby memory. If the game doesn’t crash, congratulations! You’ve fixed this problem. If this issue persists, try the next fix, below.
@@ -157,6 +153,10 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap834-1.png)
 3. Restart your Windows system and launch Forza Horizon 4 again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  See if you resolved this problem. If it still keeps crashing, try the next fix, below.
 
 ### **Fix 6: Reset Forza Horizon 4**
@@ -169,14 +169,14 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap835.png)
 2. Select **Forza Horizon 4**  and click **Advanced options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap836.png)
 3. Click **Reset** to reset **Forza Horizon 4**  .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap837.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Forza Horizon 4 to see if you fixed this issue. If this issue reappears, try the next fix, below.
 
@@ -189,10 +189,6 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
  See if this issue works. If not, don’t worry. Try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 8: Stop overclocking
 
@@ -214,6 +210,10 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap839.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your PC and launch Forza Horizon 4 again. See if you fixed this issue. If not, try the next fix, below.
 
 ### **Fix 10: Perform a clean boot**
@@ -225,7 +225,7 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 2. Navigate to the **Services**  tab, check   **Hide all Microsoft services**  and then click **Disable all**  .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap841.png)
@@ -233,10 +233,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap843.png)
 4. On the **Startup**  tab in **Task Manager** , for **each**  startup item, select the item and then click   **Disabled**  .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap844.png)
 5. Go back to the **System Configuration**  window and click   **OK**  .  
@@ -257,6 +253,10 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 1. On your keyboard, press **the Windows logo key**  and type **Forza Horizon 4** . When you see **Forza Horizon 4**  in the list of results,**right-click** it and then select **Uninstall**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap847-1.png)
 2. Click **Uninstall**  to uninstall Forza Horizon 4.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap848.png)
 3. Open the**Microsoft** **Store**  app. In the search bar, type **f** **orza horizon 4** and click the **Search**  button.  
@@ -287,18 +287,19 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-visual-vaults-expert-tips-on-capturing-and-storing-twitter-video/"><u>[New] 2024 Approved Visual Vaults Expert Tips on Capturing and Storing Twitter Video</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unique-visuals-foreground-only-background-out/"><u>[New] In 2024, Unique Visuals Foreground Only, Background Out</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-comprehensive-look-at-the-best-nixplay-seed-frame/"><u>A Comprehensive Look at the Best Nixplay Seed Frame</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722995890358-deciphering-silent-dungeons-solutions-for-sound-problems-in-skyrim/"><u>Deciphering Silent Dungeons: Solutions for Sound Problems in Skyrim.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-fixes-to-tackle-discord-javascripter-bugs/"><u>Effortless Fixes to Tackle Discord JavaScripter Bugs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-access-chatgpt-now-functional-on-android-devices/"><u>Get Access: ChatGPT Now Functional on Android Devices</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-community-shared-music-collections-copyright-free/"><u>In 2024, Community-Shared Music Collections (Copyright-Free)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-house-flipper-2-pc-crash-issues-a-comprehensive-guide/"><u>Solving 'House Flipper 2' PC Crash Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-repairing-dota-2-game-crashes-a-comprehensive-guide/"><u>Troubleshooting and Repairing Dota 2 Game Crashes: A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-no-launch-for-football-manager-2022-your-ultimate-fix-guide/"><u>Troubleshooting No Launch for Football Manager 2022 - Your Ultimate Fix Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/uncluttered-program-w10-screenshot-maker-for-2024/"><u>Uncluttered Program W10 Screenshot Maker for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/which-is-better-a-review-of-google-nest-audio-against-the-apple-homepod/"><u>Which Is Better? A Review of Google Nest Audio Against the Apple HomePod</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wmamp3mp3wma/"><u>WMAとMP3ファイル形式の明確な比較：それぞれの特徴とMP3からWMAへ変換する手順を深く掘り下げて解説</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-master-video-cutting-and-splicing-with-vimeo-for-free/"><u>[New] In 2024, Master Video Cutting & Splicing with Vimeo, for Free</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-god-of-war-keeps-crashing-on-pc/"><u>[SOLVED] God of War Keeps Crashing on PC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ideal-choice-best-free-reliable-mac-screenshot-tools/"><u>[Updated] 2024 Approved Ideal Choice Best Free, Reliable Mac Screenshot Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-shoot-and-score-top-techniques-for-great-youtube-cinematography/"><u>[Updated] Shoot and Score Top Techniques for Great YouTube Cinematography</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-simplify-passport-photography-with-these-top-10-low-cost-solutions-for-2024/"><u>[Updated] Simplify Passport Photography with These Top 10 Low-Cost Solutions for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-dissemination-techniques-sharing-your-podcast-on-instagram/"><u>2024 Approved Dissemination Techniques Sharing Your Podcast on Instagram</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-contrasts-between-gpt-4-and-gpt-c35-a-deep-dive-into-their-key-variances/"><u>Exploring the Contrasts Between GPT-4 and GPT-C3.5: A Deep Dive Into Their Key Variances</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphical-gone-wrong-monster-hunts-fix-successful/"><u>Graphical Gone Wrong? Monster Hunt's Fix Successful!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-smooth-gaming-eliminating-lags-in-serious-sam-4-for-pc-users/"><u>Mastering the Art of Smooth Gaming: Eliminating Lags in Serious Sam 4 for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-the-fifa-2020-game-crash-issue/"><u>Resolved: How to Fix the FIFA 2020 Game Crash Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-guide-dealing-with-frequent-frontier-crashes-on-windows/"><u>The Ultimate Fix Guide: Dealing with Frequent Frontier Crashes on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-modifications-enhancing-chatgpts-performance/"><u>Top 10 Modifications: Enhancing ChatGPT's Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-repairing-the-persistent-problem-of-metro-exodus-pc-crashes/"><u>Troubleshooting and Repairing the Persistent Problem of Metro Exodus PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-isnt-my-cortana-responding-and-how-to-resolve-it/"><u>Why Isn't My Cortana Responding and How to Resolve It?</u></a></li>
 </ul></div>
 

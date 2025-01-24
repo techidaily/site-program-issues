@@ -1,7 +1,7 @@
 ---
 title: "No More Glitches: Effective Solutions for Stabilizing 'Age of Wonders: Planetfall' On Your Computer"
-date: 2025-01-10T22:11:43.083Z
-updated: 2025-01-17T20:46:18.343Z
+date: 2025-01-22T18:07:20.813Z
+updated: 2025-01-24T09:20:27.697Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other LoL players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -33,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -69,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -95,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -104,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -137,23 +133,23 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -166,6 +162,10 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
@@ -193,14 +193,21 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unleashing-online-music-potential-with-imovie-and-youtube/"><u>[Updated] 2024 Approved Unleashing Online Music Potential with iMovie & YouTube</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-clearsnapzoommax-7-professional-photo-scaling/"><u>2024 Approved ClearSnapZoomMax 7 Professional Photo Scaling</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypass-the-barrier-effective-remedies-for-error-code-a00f4292-on-windows-devices/"><u>Bypass the Barrier: Effective Remedies for Error Code #a00f4292 on Windows Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723004227064-cyberpunk-2077-gpu-error-on-windows-10-heres-how-to-correctly-utilize-your-graphics-card/"><u>Cyberpunk 2077 GPU Error on Windows 10? Here's How to Correctly Utilize Your Graphics Card!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-11-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone 11 and iPad</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-naraka-bladepoint-solve-common-gaming-glitches-here/"><u>Mastering Naraka: Bladepoint? Solve Common Gaming Glitches Here!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/modern-warfare-ii-bypassing-the-initial-failure-to-launch-problems-for-players/"><u>Modern Warfare II - Bypassing the Initial Failure to Launch Problems for Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-preventing-and-fixing-stardew-valley-pc-instability-issues/"><u>Ultimate Guide: Preventing and Fixing Stardew Valley PC Instability Issues</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/video-translator-wondershare-virbo-online-for-2024/"><u>Video Translator | Wondershare Virbo Online for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-common-launch-issues-for-pc-gamers-in-robocop-rogue-city/"><u>'Solved!' Common Launch Issues for PC Gamers in RoboCop: Rogue City</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-memetic-mayhem-the-20-most-shared-gems/"><u>[Updated] 2024 Approved Memetic Mayhem The 20 Most Shared Gems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-itel-a60-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Itel A60 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/2024s-expert-advice-on-fixing-persistent-stutters-during-your-minecraft-adventures/"><u>2024'S Expert Advice on Fixing Persistent Stutters During Your Minecraft Adventures!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoid-game-interruptions-expert-tips-to-resolve-arma-3-crash-issues/"><u>Avoid Game Interruptions: Expert Tips to Resolve Arma 3 Crash Issues</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-lava-yuva-2-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Lava Yuva 2 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-zte-nubia-z60-ultra-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-6s-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 6s With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-video-mastery-seizing-the-seo-opportunity/"><u>In 2024, YouTube Video Mastery Seizing the SEO Opportunity</u></a></li>
+<li><a href="https://techtrends.techidaily.com/metodo-facil-y-libre-de-convertir-archivos-gif-a-formato-wmv-online-con-herramientas-web/"><u>Método Fácil Y Libre De Convertir Archivos GIF a Formato WMV Online Con Herramientas Web</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-load-fixing-far-cry-5-endless-boot-loop/"><u>Overcoming the Load: Fixing 'Far Cry 5' Endless Boot Loop!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ring-of-elysium-optimization-guide-raise-your-fps-for-a-better-experience/"><u>Ring of Elysium Optimization Guide: Raise Your FPS for a Better Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rocket-league-troubleshooting-solving-game-freeze-problems/"><u>Rocket League Troubleshooting - Solving Game Freeze Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-puzzle-fixing-the-leaf-error-code-on-apex-legends/"><u>Solving the Puzzle: Fixing the Leaf Error Code on Apex Legends</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-list-of-ios-tools-for-erasing-intrusive-images/"><u>The Ultimate List of iOS Tools for Erasing Intrusive Images</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-keyboard-delay-issues-in-windows-10-effective-solutions-applied/"><u>Troubleshooting Keyboard Delay Issues in Windows 10: Effective Solutions Applied</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Optimize Your Experience - Overcome Common Crashing Challenges in Football Manager 2021 on Windows Computers
-date: 2025-01-11T23:32:25.576Z
-updated: 2025-01-17T23:16:25.893Z
+date: 2025-01-21T03:56:25.250Z
+updated: 2025-01-24T00:40:21.092Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 5. **[Check your firewall and antivirus settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Psychonauts 2](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your PC meets the minimum requirements
 
  Before we begin to troubleshoot Psychonauts 2 crashing issues, you need to make sure your PC meets the minimum system requirements to run the game properly.
@@ -61,11 +65,15 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -81,10 +89,6 @@ If the issue persists, go ahead with the next fix.
 2. Right-click Psychonauts 2, select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/psychonauts2-properties.jpg)
 3. Select the LOCAL FILES tab and click**Verify integrity of game files…** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
@@ -102,11 +106,11 @@ If the crashing issue remains, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/psychonauts2-properties-1.jpg)
 3. In the GENERAL section, enter**\-dx11** under LAUNCH OPTIONS.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-launch-options-dx11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This will force the game to run in DX11\. Then you can launch Psychonauts 2 again to see if the error still occurs.
 
@@ -123,14 +127,14 @@ Allow Psychonauts 2 through Windows Firewall:
 2. Click**Allow an app through firewall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-an-app-through-firewall.jpg)
 3. In the new window, click**Change settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/change-settings.jpg)
@@ -142,10 +146,6 @@ Allow Psychonauts 2 through Windows Firewall:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-an-app.jpg)
 6. Click**OK** to save changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/ok.jpg)
 
  The way to add Psychonauts 2 as an exception to your antivirus software will vary depending on the antivirus software you’re using.
@@ -153,7 +153,7 @@ Allow Psychonauts 2 through Windows Firewall:
  See if the game crashes after you allow the game through the firewall and add it as an exception to your antivirus software. If it persists, check out the last fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Psychonauts 2
@@ -181,22 +181,24 @@ Allow Psychonauts 2 through Windows Firewall:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-preventing-total-loss-of-image-in-streaming-videos-on-youtube/"><u>[New] In 2024, Preventing Total Loss of Image in Streaming Videos on YouTube</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/5-fastest-indie-film-tips-for-at-home-creators-for-2024/"><u>5 Fastest Indie Film Tips for At-Home Creators for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/che-cose-un-file-webm-scopri-le-basi-per-lapertura-ed-uso-dei-formati-multimediale/"><u>Che Cos'è Un File WebM? Scopri Le Basi per L'Apertura Ed Uso Dei Formati Multimediale</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-install-latest-samsung-printer-drivers-on-your-windows-pc-free-downloads-available/"><u>How to Install Latest Samsung Printer Drivers on Your Windows PC - Free Downloads Available!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/immortal-fixes-addressing-and-rectifying-recurring-breakdowns-of-immortals-fenyx-rising/"><u>Immortal Fixes: Addressing and Rectifying Recurring Breakdowns of Immortals Fenyx Rising</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-entry-level-landing-low-cost-profitable-youtube-platforms/"><u>In 2024, Entry Level Landing Low-Cost, Profitable YouTube Platforms</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-fix-what-to-do-when-you-encounter-a-missing-start-location-in-fortnite/"><u>Mastering the Fix: What to Do When You Encounter a Missing Start Location in Fortnite</u></a></li>
-<li><a href="https://program-issues.techidaily.com/netflix-not-working-as-usual-a-guide-to-finding-out-if-theres-a-widespread-issue-today/"><u>Netflix Not Working as Usual? A Guide to Finding Out if There's a Widespread Issue Today</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-audio-assets-almanac-unveiling-the-best-online-sources-for-video-clip-melodies-for-2024/"><u>New Audio Assets Almanac Unveiling the Best Online Sources for Video Clip Melodies for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-the-ultimate-guide-to-stop-motion-animation-software-for-mac-and-pc/"><u>New The Ultimate Guide to Stop Motion Animation Software for Mac and PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-black-screens-repairing-fallout-4-graphics-glitches-easily/"><u>No More Black Screens: Repairing Fallout 4 Graphics Glitches Easily</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-constant-team-fortress-2-game-crashes/"><u>Resolved: Fixes for Constant Team Fortress 2 Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-stop-resident-evil-village-from-freezing-on-your-computer/"><u>Step-by-Step Guide to Stop Resident Evil Village From Freezing on Your Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/taming-unrealistic-ai-generations-through-proper-phrasing/"><u>Taming Unrealistic AI Generations Through Proper Phrasing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-new-era-for-portables-unveiling-features-of-the-revamped-dell-xps-13-9345-with-snapdragon-x-elite-processor/"><u>The New Era for Portables: Unveiling Features of the Revamped Dell XPS 13 (9345) with Snapdragon X Elite Processor</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-why-the-ascent-app-wont-start/"><u>Troubleshooting Steps: Why 'The Ascent' App Won't Start</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-how-to-resolve-teso-game-launch-issues/"><u>Troubleshooting: How to Resolve TESO Game Launch Issues</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-decrease-environmental-noise-in-video-recordings-for-2024/"><u>[New] Decrease Environmental Noise in Video Recordings for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-snappy-sharing-uploading-and-publishing-short-videos-online/"><u>[New] In 2024, Snappy Sharing Uploading and Publishing Short Videos Online</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-streaming-mastery-zoom-plus-fb-live-tactics/"><u>[Updated] 2024 Approved Streaming Mastery ZOOM + FB Live Tactics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capture-perfection-optimal-use-of-zoom-feature-for-photos-and-videos/"><u>[Updated] Capture Perfection Optimal Use of Zoom Feature for Photos & Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-enrich-meeting-experience-a-compilation-of-the-top-10-free-apps/"><u>[Updated] Enrich Meeting Experience A Compilation of the Top 10 Free Apps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-beat-boosting-elevate-your-ig-videos-with-the-right-tune/"><u>2024 Approved Beat Boosting Elevate Your IG Videos with the Right Tune</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-brief-overview-understanding-vr-jargon/"><u>A Brief Overview Understanding VR Jargon</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bugged-hardware-students-encounter-pest-problems-with-chromebook-devices-a-persistent-issue-explored/"><u>Bugged Hardware? Students Encounter Pest Problems with Chromebook Devices - A Persistent Issue Explored</u></a></li>
+<li><a href="https://program-issues.techidaily.com/evaluating-the-oneplus-9-pros-aesthetics-processing-power-and-camera-capabilities/"><u>Evaluating the OnePlus 9 Pro's Aesthetics, Processing Power and Camera Capabilities</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-endless-load-resolving-anthems-infinity-loop-issue/"><u>Fixing the Endless Load: Resolving Anthem's Infinity Loop Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-prevent-madden-nfl-21-from-frequently-crashing-on-your-pc/"><u>Fixing the Issue: How to Prevent Madden NFL 21 From Frequently Crashing on Your PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-google-pixel-fold-to-mac-drfone-by-drfone-android/"><u>How to Mirror Google Pixel Fold to Mac? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-constant-freezing-and-crashing-of-beat-saber-on-your-pcconsole/"><u>How to Stop Constant Freezing and Crashing of Beat Saber on Your PC/Console</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-swift-transformations-top-5-no-download-online-gif-to-video-tools/"><u>In 2024, Swift Transformations Top 5 No-Download, Online GIF to Video Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-common-issues-with-utorrents-peer-network-and-download-process/"><u>Overcoming Common Issues with uTorrent's Peer Network & Download Process</u></a></li>
+<li><a href="https://program-issues.techidaily.com/six-essential-tricks-to-optimize-frame-rates-and-eliminate-lag-in-elden-ring/"><u>Six Essential Tricks to Optimize Frame Rates and Eliminate Lag in Elden Ring</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997971307-speedy-success-navigating-the-nuances-of-star-wars-bf2-shader-improvement/"><u>Speedy Success: Navigating the Nuances of Star Wars BF2 Shader Improvement.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722985364808-troubleshooting-mlb-the-show-21-network-issues-now-fixed/"><u>Troubleshooting MLB The Show 21 Network Issues – Now Fixed!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-is-my-outlook-not-opening-expert-fixes-and-tips-for-users/"><u>Why Is My Outlook Not Opening? Expert Fixes & Tips for Users</u></a></li>
 </ul></div>
 

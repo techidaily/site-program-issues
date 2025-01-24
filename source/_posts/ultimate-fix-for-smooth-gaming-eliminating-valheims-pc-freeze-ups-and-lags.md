@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Fix for Smooth Gaming: Eliminating Valheim's PC Freeze-Ups and Lags"
-date: 2025-01-12T01:35:18.269Z
-updated: 2025-01-17T22:13:54.315Z
+date: 2025-01-22T02:18:36.959Z
+updated: 2025-01-24T07:05:37.032Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/00e6694a6e8523368549c14f60a0299171aaa2659
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## OBS lags when streaming
 
  When you’re streaming with OBS, network latency is no stranger to live streamers. In order to deliver a smoother watching experience, it’s quite necessary to reduce lag spikes while streaming.
@@ -38,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/00e6694a6e8523368549c14f60a0299171aaa2659
 3. **[Restart modem & router](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update network adapter drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Swap Wifi to Ethernet connection](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Stop other bandwidth-intensive activities
 
@@ -64,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/00e6694a6e8523368549c14f60a0299171aaa2659
  4) When Windows asks you to confirm, click **End process** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-622.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** Make sure you know what sort of applications you’re closing. **DO NOT** stop any programs that you’re not familiar with in case you mistakenly end the crucial ones (often related to your system) such as sychost.exe.
 
@@ -113,6 +109,10 @@ ipconfig /flushdns
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Restart modem & router
 
  You should restart your modem and router especially if they haven’t been switched off for a long time. Just give them some time to cool off and clear up the cache. Here’s how to do it:
@@ -120,6 +120,10 @@ ipconfig /flushdns
 1) Unplug both your router and modem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-597.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 modem
 
@@ -138,10 +142,6 @@ wireless router
  In case this fix is to little or no avail, read on and check out the next one.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Update network adapter drivers
 
@@ -173,7 +173,7 @@ wireless router
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Swap Wifi to Ethernet connection
@@ -186,10 +186,6 @@ wireless router
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## OBS lags when recording
 
  Overloaded GPU is the main cause reason for the lag issue. Luckily, below you will find some solutions that do work for many OBS users:
@@ -198,10 +194,6 @@ wireless router
 2. **[Update graphics card drivers](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Shut down unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Lower in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Adjust OBS settings
 
@@ -216,6 +208,10 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/image-15.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that settings optimized for different streaming services (Twitch, Youtube, etc.) may vary, and you can probably find the recommended settings on their official websites (e.g., **[OBS settings for Twitch](https://stream.twitch.tv/)**  ).
 
 ---
@@ -228,6 +224,10 @@ wireless router
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Shut down unnecessary programs
 
  If you have too many GPU-intensive programs running in the background, that will definitely slow down the processing speed of your computer and lead to graphics lag. It’s not hard to shut down unnecessary programs, but have you noticed a Windows 10 feature called “Game Bar” that may render poor performance in OBS? If you haven’t, it’s about time you turned it off.
@@ -237,16 +237,12 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-450.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the pop-up window, toggle off **Game Mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-451.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Go to the **Game bar** tab and turn off the toggle button below **Record game clips, screenshots, and broadcast using Game bar** .
 
@@ -255,6 +251,10 @@ wireless router
  Now check to see whether your lag issue with OBS has been mitigated or resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Lower in-game graphics settings
 
@@ -283,17 +283,22 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-cinema-for-all-a-comparative-look-at-vimeo-and-youtube/"><u>[New] In 2024, Cinema for All? A Comparative Look at Vimeo & YouTube</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-simplified-guide-to-using-virtual-whiteboards-in-zoom-platforms/"><u>[Updated] Simplified Guide to Using Virtual Whiteboards in Zoom Platforms</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-ios-and-android-tips-for-silent-youtube-viewing/"><u>2024 Approved IOS & Android Tips for Silent YouTube Viewing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/breaking-through-barriers-steps-to-propel-human-advancement-forward/"><u>Breaking Through Barriers: Steps to Propel Human Advancement Forward</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-startup-problems-with-persona-5-strikers-a-comprehensive-fix-it-up/"><u>Bypassing Startup Problems with Persona 5 Strikers - A Comprehensive Fix It Up!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-gaming-experience-resolving-repeated-wwe-2k22-crashes-on-desktop/"><u>Fix Your Gaming Experience: Resolving Repeated WWE ^2K22 Crashes on Desktop</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-13-proplus-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 13 Pro+ 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/keep-your-lenovo-thunderbolt-3-dock-up-to-date-latest-software-drivers-released/"><u>Keep Your Lenovo Thunderbolt 3 Dock Up-to-Date: Latest Software Drivers Released</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-the-problem-unstuck-and-get-your-windows-pressentational-bar-working-again/"><u>Solve the Problem: Unstuck and Get Your Windows Pressentational Bar Working Again</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-non-responsive-farming-simulator-22-game/"><u>Troubleshooting Steps for Non-Responsive Farming Simulator 22 Game</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-compilation-ringtone-renaissance-sites/"><u>Ultimate Compilation Ringtone Renaissance Sites</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-complete-kinetic-review-2023/"><u>[New] In 2024, Complete Kinetic Review 2023</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-transcending-visual-limits-with-hdr-technology/"><u>[New] Transcending Visual Limits with HDR Technology</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-microsoft-store-crashes-error-code-0x80072f17-guide/"><u>Correcting Microsoft Store Crashes: Error Code 0X80072f17 Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722995422570-fix-terraria-game-stability-best-troubleshooting-tips/"><u>Fix Terraria Game Stability - Best Troubleshooting Tips!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-black-ops-cold-war-game-error-understanding-0xc0000005-issue/"><u>How to Fix Black Ops Cold War Game Error: Understanding 0Xc0000005 Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-google-chrome-continuously-crashing-simple-solutions/"><u>How to Fix Google Chrome Continuously Crashing: Simple Solutions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-samsung-galaxy-m54-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Samsung Galaxy M54 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/pinnacle-of-image-capture-highlighting-the-best-10-4k-phone-cameras-for-2024/"><u>Pinnacle of Image Capture Highlighting the Best 10 4K Phone Cameras for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pubg-performance-boosted-eradicate-stuttering-instantly-and-effortlessly/"><u>PUBG Performance Boosted: Eradicate Stuttering Instantly & Effortlessly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/public-bathrooms-meet-modern-medicine-a-step-towards-innovative-health-screenings-at-zdnet/"><u>Public Bathrooms Meet Modern Medicine: A Step Towards Innovative Health Screenings at ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/reddit-introduces-sponsored-content-resembling-user-submissions-zdnet-insight/"><u>Reddit Introduces Sponsored Content Resembling User Submissions | ZDNet Insight</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-your-kodi-connectivity-woes-finding-the-missing-directory-data/"><u>Resolve Your Kodi Connectivity Woes: Finding the Missing Directory Data</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-performance-issues-optimizing-black-desert-online-to-stop-pc-crashes/"><u>Resolving Performance Issues: Optimizing Black Desert Online to Stop PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-critical-game-crashes-gobiv-fix-guide-for-ue4-based-borderlands-3-mods/"><u>Solving Critical Game Crashes: GOBIV Fix Guide for UE4-Based Borderlands 3 Mods</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-step-by-step-guide-to-stop-fifa-21-from-crashing-on-windows/"><u>Ultimate Step-by-Step Guide to Stop FIFA 21 From Crashing on Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winx-mediatrans-iphone-and-pc/"><u>WinX MediaTrans - プロ厳選のデバイス間データ移行・バックアップツール。iPhone & PC組み合わせでシームレス!</u></a></li>
 </ul></div>
 

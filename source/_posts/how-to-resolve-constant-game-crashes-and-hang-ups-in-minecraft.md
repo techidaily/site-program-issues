@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Constant Game Crashes and Hang-Ups in Minecraft
-date: 2025-01-15T07:39:41.173Z
-updated: 2025-01-18T00:58:15.441Z
+date: 2025-01-23T07:35:07.460Z
+updated: 2025-01-24T07:27:34.288Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
  You might not need to try all of them; simply work your way down until you find the one that gives you luck.
@@ -40,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
 6. [**Disable peripherals**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Check the launcher log](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall Assassin’s Creed Valhalla](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
 
@@ -78,17 +78,9 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
 
  If verifying game files didn’t help your case, simply check out the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -103,7 +95,7 @@ You can use these steps to check for Windows updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In some cases, you might need to check several times to get all the updates. Simply repeat these steps until it prompts**You’re up to date** when you click**Check for updates** .
@@ -139,11 +131,15 @@ If the crash happens again, you can take a look at the next fix.
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -164,6 +160,10 @@ If the crash happens again, you can take a look at the next fix.
 
  If this trick failed to solve your problem, you can move on to the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Disable peripherals
 
  To some pro-gamers, a controller can be a whole lot more comfortable than a mouse and keyboard. While peripherals surely add more fun to games, there have been reports that they can also have compatibility issues with new titles. So if you’re using peripherals (e.g. controllers) in Assassin’s Creed Valhalla, try**returning to the classic mouse and keyboard bundle** and see if it helps.
@@ -175,7 +175,7 @@ If the crash happens again, you can take a look at the next fix.
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
@@ -201,18 +201,20 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unseen-sides-novel-strategies-for-inverting-your-youtube-views/"><u>[New] Unseen Sides Novel Strategies for Inverting Your YouTube Views</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/3-metodos-confiables-para-borrar-completamente-el-disco-duro-como-alternativa-a-dban/"><u>3 Métodos Confiables Para Borrar Completamente El Disco Duro Como Alternativa a DBAN</u></a></li>
-<li><a href="https://program-issues.techidaily.com/breaking-news-mystery-solved-mafia-definitive-edition-hits-shelves-soon/"><u>Breaking News: Mystery Solved – Mafia: Definitive Edition Hits Shelves Soon</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-12-pro-max-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 12 Pro Max</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-successfully-overcome-the-problem-of-zoom-not-starting-your-video/"><u>How to Successfully Overcome the Problem of Zoom Not Starting Your Video</u></a></li>
-<li><a href="https://program-issues.techidaily.com/hyper-scape-stability-tips-for-preventing-game-crashes-on-windowsmac-os-x-pcs/"><u>Hyper Scape Stability: Tips for Preventing Game Crashes on Windows/Mac OS X PCs</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/score-big-savings-labor-day-sale-get-your-apple-pencil-gen-2-for-a-steal-at-95/"><u>Score Big Savings: Labor Day Sale! Get Your Apple Pencil (Gen 2) for a Steal at $95</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-temperature-drops-in-new-world-strategies-to-restore-gameplay-heat/"><u>Troubleshooting Temperature Drops in 'New World': Strategies to Restore Gameplay Heat</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-the-latest-compact-laptop-charger-brands/"><u>Ultimate Guide to the Latest Compact Laptop Charger Brands</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/uncover-hidden-gems-on-a-shoestring-a-detailed-look-at-the-incredible-library-offered-by-roku/"><u>Uncover Hidden Gems on a Shoestring: A Detailed Look at the Incredible Library Offered by Roku</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-unbiased-review-is-avs-video-editor-the-right-choice-for-you-in-2024/"><u>Updated Unbiased Review Is AVS Video Editor the Right Choice for You, In 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-samsung-galaxy-s24-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Samsung Galaxy S24 Phones</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-direct-youtube-tunes-to-mp3s-online-and-offline-options/"><u>[New] 2024 Approved Direct YouTube Tunes to MP3s Online & Offline Options!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-capturing-every-victory-pro-gaming-tips-for-w11-users/"><u>[New] In 2024, Capturing Every Victory Pro Gaming Tips for W11 Users</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/treamline-visual-marking-in-youtube-posts-with-watermarks-and-logos-for-2024/"><u>[New] Streamline Visual Marking in Youtube Posts with Watermarks & Logos for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-crafting-professional-content-on-youtube-via-enhancements/"><u>[Updated] In 2024, Crafting Professional Content on YouTube via Enhancements</u></a></li>
+<li><a href="https://discover-able.techidaily.com/yl-computing-and-yl-software/"><u>明朝时期令人瞩目的成就与创新 - YL Computing & YL Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007739300-banish-lag-and-crash-in-lol-easy-fix-guides-you-need-today/"><u>Banish Lag & Crash in LoL: Easy Fix Guides You Need Today!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-tutorial-on-restoring-access-to-your-snapchat-account/"><u>Complete Tutorial on Restoring Access to Your Snapchat Account</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722991326994-fixing-madden-22-stalling-issue-at-launch-proven-methods-to-get-playing-asap/"><u>Fixing Madden 22 Stalling Issue at Launch - Proven Methods to Get Playing ASAP!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/foolproof-method-for-adding-a-link-to-your-tiktok-bio/"><u>Foolproof Method for Adding a Link to Your TikTok Bio</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-track-your-videos-with-these-top-8-youtube-rank-trackers/"><u>In 2024, Track Your Videos With These Top 8 YouTube Rank Trackers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mordhau-crashes-no-more-expert-solutions-and-troubleshooting-guide/"><u>Mordhau Crashes No More: Expert Solutions & Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-armored-core-6-stability-and-play-experience-on-your-pc/"><u>Optimizing Armored Core 6 Stability and Play Experience on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/starfield-audio-fixed-say-goodbye-to-intermittent-sounds-and-freezing-tracks/"><u>Starfield Audio Fixed: Say Goodbye to Intermittent Sounds & Freezing Tracks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-resident-evil-village-pc-lag-issues-step-by-step-solution/"><u>Troubleshooting and Solving Resident Evil Village PC Lag Issues - Step by Step Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/utilizing-aero-shake-for-efficient-windowing/"><u>Utilizing Aero Shake for Efficient Windowing</u></a></li>
 </ul></div>
 

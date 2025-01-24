@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Halo Infinite PC Game Crashes: Complete Guide"
-date: 2025-01-16T23:50:54.411Z
-updated: 2025-01-18T00:35:30.667Z
+date: 2025-01-16T23:57:41.975Z
+updated: 2025-01-24T05:26:25.573Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ We understand how frustrating it can be to run into the freezing issue when play
 ![Halo Infinite freezing PC how to fix](https://cdn.akamai.steamstatic.com/steam/apps/1240440/ss_df472c9be04184fae305b8fee28fa384a2d18846.1920x1080.jpg?t=1639025793)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Download & install all Windows updates
@@ -67,6 +67,10 @@ We understand how frustrating it can be to run into the freezing issue when play
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
@@ -78,10 +82,6 @@ We understand how frustrating it can be to run into the freezing issue when play
 
 If updating drivers doesn’t help, try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Delete temp files
 
  Temp files are referred to temporary files, which are files that your operating system only needed to exist temporarily while in use. But they are now just wasting space. This can slow down your PC and significantly affects the performance. To fix it, you can delete the files and it won’t cause any problems. Below are the steps you can follow.
@@ -92,21 +92,21 @@ If updating drivers doesn’t help, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-temp-files-new-1.png)
 3. Press the**Ctrl + A keys** simultaneously to select all files. Then right-click and select**Delete** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 4. If you receive the following prompt, simply check the box next to**Do this for all current items** and click**Skip** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![delete temporary files](https://images.drivereasy.com/wp-content/uploads/2021/08/skip-for-all-current-items.png)
 5. When it finishes deleting all temp files, head to your desktop. Right-click**Recycling Bin** and select**Empty Recycling Bin** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now launch Halo Infinite. If your problem persists, move on to the next fix.
 
@@ -120,19 +120,15 @@ If updating drivers doesn’t help, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/Task-Manager-Memory.png)
 3. Locate the applications that are eating up a lot of memory. If you don’t need them while playing Halo Infinite, right-click each of them and select**End task** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-background-applications.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you use Razer Synapse, make sure you turn it off while playing Halo Infinite. Some players found that it affects your gameplay. It could be possible that Razer Synapse is in conflict with your game.
 
  If turning off background applications doesn’t do the trick, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Verify integrity of game files
 
@@ -160,17 +156,17 @@ To verify the integrity of your game files, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Select the**DLC** tab. Then uncheck**Multiplayer High-Res Textures** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-multiplayer-high-res-textures.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this doesn’t help, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Disable in-game overlay
 
@@ -183,10 +179,14 @@ If this doesn’t help, try the next fix below.
 3. Select the**GENERAL** tab. Then uncheck**Enable the Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-in-game-overlay.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now relaunch your game and you should be able to play in rows without having the annoying freezing issue.
 
@@ -223,18 +223,24 @@ When it’s completed, launch Halo Infinite and test the gameplay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-masterclass-in-visualization-perfectly-cropped-instagram-videos/"><u>[New] 2024 Approved Masterclass in Visualization Perfectly Cropped Instagram Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-precision-planning-the-guide-to-online-collaboration-for-2024/"><u>[New] Precision Planning The Guide to Online Collaboration for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nleashing-potential-strategic-hashtags-for-video-success/"><u>[New] Unleashing Potential Strategic Hashtags for Video Success</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/achetez-la-solution-dia-ultime-avec-winxvideo-accedez-a-une-version-amelioree-pour-zero/"><u>Achetez La Solution D'IA Ultime Avec WinxVideo: Accédez À Une Version Améliorée Pour Zéro!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-for-unreal-process-has-crashed-ue4-madness-glitch-in-outriders-gameplay/"><u>Effective Fixes for 'Unreal Process Has Crashed: UE4-Madness' Glitch in Outriders Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-guide-diagnosing-and-repairing-apex-legends-internet-issues/"><u>Expert Guide: Diagnosing and Repairing Apex Legends Internet Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-infamous-crash-glitch-in-dragon-quest-xi-gamers-relief/"><u>Fixing the Infamous Crash Glitch in Dragon Quest XI: Gamer's Relief</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-master-money-with-periscope-a-newcomers-manual/"><u>In 2024, Master Money with Periscope A Newcomer's Manual</u></a></li>
-<li><a href="https://win-web3.techidaily.com/los-mejores-programas-de-clonacion-gpt-compatibles-con-windows-11-10-8-y-7-tu-guia-para-iniciar-en-modo-seguro/"><u>Los Mejores Programas De Clonación GPT Compatibles Con Windows 11, 10, 8 Y 7: Tu Guía Para Iniciar en Modo Seguro</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211417725-9781523524075-mercury-magic/"><u>Mercury Magic | Free Book</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-troubleshooting-steps-for-when-multiversus-wont-start-on-your-computer/"><u>Solved: Troubleshooting Steps for When MultiVersus Won't Start on Your Computer</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/step-by-step-guide-to-adding-the-oddmate-plug-in-to-kodi-version-20/"><u>Step-by-Step Guide to Adding the OddMate Plug-In to Kodi Version 20</u></a></li>
-<li><a href="https://win-hot.techidaily.com/yl-software-solutions-addressing-your-printers-reduced-printing-velocity-issues/"><u>YL Software Solutions: Addressing Your Printer's Reduced Printing Velocity Issues</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-conceptualists-engineering-marvel-online-worlds/"><u>[New] Conceptualists Engineering Marvel Online Worlds</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/earching-comments-on-youtube-for-2024/"><u>[New] Searching Comments on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-prime-10-sound-enhancers-pc-mac-mobile-devices/"><u>[Updated] Prime 10 Sound Enhancers PC, Mac, Mobile Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-psglasses-delight-the-best-5-playstation-vr-titles-coming-soon/"><u>[Updated] PSGlasses Delight The Best 5 PlayStation VR Titles Coming Soon</u></a></li>
+<li><a href="https://program-issues.techidaily.com/break-free-from-apex-legends-permanent-loading-screen-expert-tips-and-tricks/"><u>Break Free From Apex Legends Permanent Loading Screen – Expert Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/closing-lols-recurring-connection-loop-insights-into-the-2024-game-patch-enhancements-and-error-corrections/"><u>Closing LoL's Recurring Connection Loop: Insights Into the 2024 Game Patch Enhancements and Error Corrections</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-prevent-stardew-valley-from-killing-your-gaming-experience-on-pc/"><u>Expert Advice: Prevent Stardew Valley From Killing Your Gaming Experience on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-avoid-crashes-while-playing-mass-effect-legendary-edition-solutions-for-both-pc-and-xbox-gamers/"><u>How to Avoid Crashes While Playing Mass Effect Legendary Edition: Solutions for Both PC and Xbox Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-failed-anti-cheat-link-issue-in-escape-from-tarkov/"><u>How To Overcome the 'Failed Anti-Cheat Link' Issue in Escape From Tarkov</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-successfully-overcome-installation-hurdles-for-minecraft-on-windows-11/"><u>How to Successfully Overcome Installation Hurdles for Minecraft on Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-freezes-how-to-fix-constant-crashes-in-watch-dogs-legion-for-pc-users/"><u>No More Freezes: How to Fix Constant Crashes in Watch Dogs: Legion for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-cyberpunk-2077-for-lower-cpu-consumption-fixed/"><u>Optimizing Cyberpunk 2077 for Lower CPU Consumption - Fixed!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/secure-stylish-and-smart-choose-from-these-5-recorders-for-2024/"><u>Secure, Stylish and Smart - Choose From These 5 Recorders for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/slimmed-down-ps5-whats-new/"><u>Slimmed-Down PS5: What's New?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-fallout-4s-sluggish-load-times-insider-tips-and-tricks-revealed/"><u>Solve Fallout 4'S Sluggish Load Times: Insider Tips & Tricks Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-no-frills-guide-to-basic-hdr-techniques/"><u>The No-Frills Guide to Basic HDR Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-repairing-your-kotion-g2000-microphone-issues/"><u>Troubleshooting Tips: Repairing Your Kotion G2000 Microphone Issues</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Realme 11 Pro+ | Dr.fone</u></a></li>
 </ul></div>
 

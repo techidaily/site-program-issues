@@ -1,7 +1,7 @@
 ---
 title: "GTFO - Fixes for Your Gaming Woes: Eliminating FPS Fluctuation & Glitchy Gameplay"
-date: 2024-09-20T16:54:07.788Z
-updated: 2024-09-21T21:40:35.798Z
+date: 2025-01-21T08:00:14.247Z
+updated: 2025-01-23T22:46:04.844Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ PlayerUnknown’s Battlegrounds (PUBG) is a famous online multiplayer battle roy
 4. **[Change Power Options](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Delete temp files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Turn off VSync](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before getting started
 
@@ -69,10 +73,7 @@ Recommended requirements for PUBG
  Once you’ve downloaded the drivers, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Automatically update your drivers (recommended)
@@ -87,6 +88,10 @@ Recommended requirements for PUBG
 
 ![automatically update drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to _your graphics driver_ to automatically download the correct driver for your computer, then you can manually install it.
 
 OR
@@ -95,25 +100,11 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/NVIDIA-RTX-2080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If you’ve had your drivers updated and the PUBG freezing problem persists, try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Disable overclocking
 
@@ -137,20 +128,6 @@ Here is how to enable this plan:
 
 ![change power options; ultimate performance Windows 10](https://images.drivereasy.com/wp-content/uploads/2020/09/change-power-options-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What to do if you don’t see the Ultimate Performance plan
 
  If you can’t see the**Ultimate Performance** plan on the settings, you can add it with the Command Prompt.
@@ -161,11 +138,19 @@ The steps are as follows:
 
 ![change power options; ultimate performance Windows 10](https://images.drivereasy.com/wp-content/uploads/2020/09/change-power-options-3-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the prompt, type the following command lines and hit**Enter** .
 
  **powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61**
 
 ![change power options; ultimate performance Windows 10](https://images.drivereasy.com/wp-content/uploads/2020/09/change-power-options-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you successfully add the Ultimate Performance plan, go to the[settings](https://tools.techidaily.com/drivereasy/download/) to enable it.
 
@@ -179,9 +164,17 @@ The steps are as follows:
 
 ![delete temp files; PUBG freezing](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-temp-files-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Select all the files in the folder and delete them.
 
 ![delete temp files; PUBG freezing](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-temp-files-3-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, relaunch PUBG and hopefully, the freezing issue should be resolved.
 
@@ -231,5 +224,24 @@ The steps are as follows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-street-fighter-6-lag-and-high-ping-on-pc/"><u>[Solved] How to Fix Street Fighter 6 Lag and High Ping on PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-macs-best-gif-maker-tool-for-2024/"><u>[Updated] Mac's Best Gif Maker Tool for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-colorize-your-flight-dji-miniair-drone-visuals-at-no-cost/"><u>2024 Approved Colorize Your Flight – DJI Mini/Air Drone Visuals at No Cost</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ultimate-10-yoga-channels-boosting-physical-wellbeing/"><u>2024 Approved Ultimate 10 Yoga Channels Boosting Physical Wellbeing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/color-coding-in-the-digital-world-srgb-vs-rgb/"><u>Color Coding in the Digital World Srgb vs Rgb</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-and-rectify-game-freezes-in-nier-replicat-now-fixed/"><u>How to Prevent and Rectify Game Freezes in NieR: ReplicaT - Now Fixed!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-solve-frame-drops-and-improve-performance-in-fortnite-on-windowspc/"><u>How to Solve Frame Drops and Improve Performance in Fortnite on Windows/PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-gas-station-simulator-from-keep-failing-on-your-computer/"><u>How to Stop Gas Station Simulator From Keep Failing on Your Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/one-tap-install-for-bavarder-linux-style/"><u>One-Tap Install for Bavarder, Linux Style</u></a></li>
+<li><a href="https://win-online.techidaily.com/professionelles-vollstandiges-backup-von-windows-n-tastatur-maus-und-servern-einfache-methoden-erklart/"><u>Professionelles Vollständiges Backup Von Windows N Tastatur, Maus Und Servern – Einfache Methoden Erklärt</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/record-your-webcam-with-vlc-for-2024/"><u>Record Your Webcam with VLC for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-stutter-steps-permanent-fixes-for-dying-lights-lag-problems/"><u>Say Goodbye to Stutter Steps: Permanent Fixes for Dying Light's Lag Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-of-excessive-cpu-consumption-in-new-world-game/"><u>Solving the Issue of Excessive CPU Consumption in 'New World' Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-bluestacks-crashes-in-just-five-simple-steps/"><u>Troubleshoot BlueStacks Crashes in Just Five Simple Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-helldivers-2-pc-crashes-reliable-methods-for-a-smooth-gaming-experience/"><u>Troubleshooting Helldivers 2 PC Crashes: Reliable Methods for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-resolving-btballoondll-file-doesnt-exist-problems/"><u>Understanding and Resolving 'BTBalloon.dll' File Doesn’t Exist Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveil-sd-card-windows-explorer-fix-guide/"><u>Unveil SD Card: Windows Explorer Fix Guide</u></a></li>
+</ul></div>
 

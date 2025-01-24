@@ -1,7 +1,7 @@
 ---
 title: "Yakuza: Like A Dragon Triumphs in Steam - Experience the Epic Journey!"
-date: 2025-01-11T05:25:38.182Z
-updated: 2025-01-17T18:57:03.718Z
+date: 2025-01-21T04:45:35.280Z
+updated: 2025-01-24T01:21:19.727Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 6. **[Adjust the in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Reboot your network
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
  Simply **turn off the router and modem and plug it back in after at least 30 seconds** . This is supposed to refresh your device and clear the clogged connection. And you’re also recommended to**use a wired connection** instead of Wi-Fi for more stable gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 modem
 
@@ -66,10 +70,6 @@ wireless router
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -85,17 +85,21 @@ wireless router
 3. Click the**Game Settings** tab. Then tick**Additional command line arguments** and enter**\-D3D11** in the text field.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Increase virtual memory
 
@@ -107,10 +111,6 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
@@ -125,7 +125,7 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
@@ -149,7 +149,7 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
@@ -176,19 +176,24 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-unlocking-the-potential-storing-insta-media-on-your-phone/"><u>[New] In 2024, Unlocking the Potential Storing Insta Media on Your Phone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-directly-sending-youtube-videos-to-facebook-networks/"><u>[Updated] Directly Sending YouTube Videos to Facebook Networks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-essential-mac-captures-compilation-under-156-chars/"><u>[Updated] Essential Mac Captures Compilation (Under 156 Chars)</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-integrating-zoom-and-fb-live-effortlessly/"><u>[Updated] Integrating ZOOM and FB Live Effortlessly</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-fundamentals-crafting-your-podcasts-rss-feed-for-2024/"><u>[Updated] The Fundamentals Crafting Your Podcast's RSS Feed for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-tiny-tranquil-houses-japanese-style-for-2024/"><u>[Updated] Tiny Tranquil Houses Japanese Style for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/common-fixes-for-issues-updating-the-official-minecraft-game-launcher/"><u>Common Fixes for Issues Updating the Official Minecraft Game Launcher</u></a></li>
-<li><a href="https://program-issues.techidaily.com/end-the-game-over-frustration-proven-strategies-to-resolve-state-of-decay-2-crashing-issues-2024-update/"><u>End the 'Game Over' Frustration: Proven Strategies to Resolve State of Decay 2 Crashing Issues - 2024 Update</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-overcoming-oculus-visual-disturbancies-by-upgrading-graphic-drivers/"><u>Guide to Overcoming Oculus Visual Disturbancies by Upgrading Graphic Drivers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/knowledge-kiosks-unveiling-top-trivia-channels-of-2024/"><u>Knowledge Kiosks Unveiling Top Trivia Channels of 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/league-of-legends-bug-fix-the-end-of-reconnect-woes-for-players/"><u>League of Legends Bug Fix - The End of Reconnect Woes for Players</u></a></li>
-<li><a href="https://win-blog.techidaily.com/online-m4a-to-aiff-file-converter-convert-your-podcasts-and-tracks-at-no-cost-using-movavis-service/"><u>Online M4A-to-AIFF File Converter - Convert Your Podcasts and Tracks at No Cost Using Movavi's Service</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-technical-difficulties-getting-cyberpunk-2077-to-start-up/"><u>Overcoming Technical Difficulties: Getting Cyberpunk 2077 to Start Up</u></a></li>
-<li><a href="https://program-issues.techidaily.com/terraria-2024-update-causing-crashes-heres-how-to-resolve-them-quickly/"><u>Terraria 2024 Update Causing Crashes? Here's How to Resolve Them Quickly</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-10-mobile-relaxation-renders-idle-games/"><u>[New] 2024 Approved Top 10 Mobile Relaxation Renders (Idle Games)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-noir-nights-transitioning-with-pro/"><u>[New] Noir Nights - Transitioning with Pro</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-capturing-moments-expert-tips-on-downloading-social-media-lives-for-2024/"><u>[Updated] Capturing Moments Expert Tips on Downloading Social Media Lives for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ai-in-retail-discover-the-1-innovative-approach-transforming-supermarket-shopping-according-to-zdnet/"><u>AI in Retail: Discover the #1 Innovative Approach Transforming Supermarket Shopping, According to ZDNET</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battle-against-frozen-screens-solving-the-stuck-on-loading-problem-in-cold-war-across-platforms/"><u>Battle Against Frozen Screens: Solving the 'Stuck On Loading' Problem in Cold War Across Platforms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/colorful-compositions-in-a-click-photoshops-guide/"><u>Colorful Compositions in a Click Photoshop's Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-rainbow-six-siege-debugging-eradicating-error-code-e-3-0x0001000b/"><u>Complete Rainbow Six Siege Debugging: Eradicating Error Code E 3-0X0001000B</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/to-navigate-top-10-youtube-downloader-tools/"><u>Easy-to-Navigate Top 10 YouTube Downloader Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-tips-for-digitizing-internet-radio-programming/"><u>Essential Tips for Digitizing Internet Radio Programming</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-waters-understanding-iphone-15s-resistance-levels/"><u>Exploring the Waters: Understanding iPhone 15'S Resistance Levels</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fifa-21-installation-issues-heres-how-you-can-fix-the-problem/"><u>FIFA 21 Installation Issues? Here’s How You Can Fix the Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-repair-your-pc-when-the-ds4-controller-fails-on-windows/"><u>Fixing the Issue: How to Repair Your PC When The DS4 Controller Fails on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-anno-1800s-troublesome-directx-error/"><u>How to Overcome Anno 1800'S Troublesome DirectX Error</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-samsung-galaxy-a05-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Samsung Galaxy A05 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002088972-mastering-stability-leaf-of-legends-crash-fixes-in-minutes/"><u>Mastering Stability: Leaf of Legends Crash Fixes in Minutes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-starfield-game-crash-issue-a-comprehensive-guide-for-windows-users/"><u>Resolving the Starfield Game Crash Issue: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-palworlds-session-search-issues-a-step-by-step-guide/"><u>Solving PalWorld's Session Search Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/terror-in-towns-selecting-the-best-8-zombie-gaming-titles/"><u>Terror in Towns Selecting the Best 8 Zombie Gaming Titles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-solving-alienware-command-center-issues/"><u>Troubleshooting Guide: Solving Alienware Command Center Issues</u></a></li>
 </ul></div>
 

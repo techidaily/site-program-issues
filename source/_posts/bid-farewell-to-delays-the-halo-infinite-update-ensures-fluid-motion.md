@@ -1,7 +1,7 @@
 ---
 title: "Bid Farewell to Delays: The Halo Infinite Update Ensures Fluid Motion"
-date: 2024-09-14T21:16:22.361Z
-updated: 2024-09-16T20:33:39.637Z
+date: 2025-01-18T10:37:24.688Z
+updated: 2025-01-23T23:34:30.396Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/ff8e499dfacbb3f8c53c52b2127d34f19a999ba4d
 ## Troubleshooting Tips for Smooth Play in Halo Infinite - No More Stutters
 
 Halo Infinite is available now and some gamers have noticed that the game has been stuttering, lagging, and having low frame rates. If you encounter this issue and want to get it fixed, you’ve come to the right place. This post has gathered fixes that would help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -56,6 +60,10 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
@@ -64,6 +72,10 @@ There are mainly two ways you can update the graphics driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Change in-game settings
 
@@ -81,16 +93,13 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
@@ -99,6 +108,10 @@ There are mainly two ways you can update the graphics driver:
 7) Run the game to check.
 
 If it’s not working, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Turn off background apps
 
@@ -110,21 +123,7 @@ If it’s not working, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Change NVIDIA resolution
 
@@ -149,5 +148,24 @@ If it’s not working, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-tiktoks-new-wave-popular-rap-songs-to-sync-with/"><u>[New] TikTok's New Wave Popular Rap Songs to Sync With</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-capturing-contentment-a-practical-guide-to-daily-vlogging/"><u>[Updated] In 2024, Capturing Contentment A Practical Guide to Daily Vlogging</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-end-steadicam-selections-for-superior-dslr-cinematography/"><u>2024 Approved High-End Steadicam Selections for Superior DSLR Cinematography</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-precision-and-power-top-5-text-plugins-for-after-effects-creativity/"><u>2024 Approved Precision and Power Top 5 Text Plugins for After Effects Creativity</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-6s-plus-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 6s Plus</u></a></li>
+<li><a href="https://program-issues.techidaily.com/helldivers-2-and-the-msvcr110dll-dilemma-a-step-by-step-fix-guide/"><u>Helldivers 2 and the MSVCR110.dll Dilemma: A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/how-to-diagnose-and-fix-malfunctioning-hardware-on-windows-expert-guide-by-yl-computing/"><u>How to Diagnose and Fix Malfunctioning Hardware on Windows: Expert Guide by YL Computing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improved-visuals-fix-unclear-screenshots-in-outriders-edition/"><u>Improved Visuals Fix Unclear Screenshots in Outriders Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-video-integration-with-apple-music-for-2024/"><u>Mastering Video Integration with Apple Music for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-for-when-your-steam-games-just-wont-run-smoothly/"><u>Quick Fixes for When Your Steam Games Just Won't Run Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-why-insurgency-sandstorm-frequently-experiences-game-crashes/"><u>Resolved: Why 'Insurgency: Sandstorm' Frequently Experiences Game Crashes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-bike-rides-using-adaptive-lenses-and-display-technology-insights-s-test-run/"><u>Revolutionizing Bike Rides Using Adaptive Lenses & Display Technology, Insights 'S Test Run</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-gamers-handbook-to-supercharged-ark-gameplay-unleashing-maximum-fps-potential-on-pc-setups/"><u>The Gamer's Handbook to Supercharged ARK Gameplay: Unleashing Maximum FPS Potential on PC Setups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-trick-for-launching-days-gone-on-pc-its-done/"><u>The Ultimate Trick for Launching Days Gone on PC - It's Done</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-techniques-resolving-bloodhunt-performance-issues-on-windows/"><u>Troubleshooting Techniques: Resolving BloodHunt Performance Issues on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unknown-usb-device-link-in-compliance-mode-solved/"><u>Unknown USB Device Link in Compliance Mode [SOLVED]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unraveling-the-mystery-why-does-ascent-keep-failing-on-your-windows-computer/"><u>Unraveling the Mystery: Why Does Ascent Keep Failing on Your Windows Computer?</u></a></li>
+</ul></div>
 

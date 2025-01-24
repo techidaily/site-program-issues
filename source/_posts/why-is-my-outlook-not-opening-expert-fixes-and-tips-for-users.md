@@ -1,7 +1,7 @@
 ---
 title: Why Is My Outlook Not Opening? Expert Fixes & Tips for Users
-date: 2025-01-13T06:01:40.167Z
-updated: 2025-01-17T22:11:53.685Z
+date: 2025-01-20T00:25:11.105Z
+updated: 2025-01-24T13:12:46.393Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 5. [Update your system](https://tools.techidaily.com/drivereasy/download/)
 6. [Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the privacy settings
 
  Make sure your camera was allowed to the Discord. Many people didn’t open the toggle and cause the camera not working issue.
@@ -37,7 +41,7 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 2. Click**Camera** in the left panel.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Make sure the toggle under**Allow apps to access your camera** is on.
@@ -71,7 +75,7 @@ If it doesn’t help, please move to the next fix.
 3. Launch Discord camera to check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update camera driver
@@ -106,12 +110,12 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Update your system
 
@@ -129,7 +133,7 @@ OR
 If your camera is still not working on Discord, move to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Discord
@@ -141,10 +145,6 @@ If your camera is still not working on Discord, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. Find Discord and click to expand it. Click the**Uninstall** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-40-47.jpg)
 4. Follow the on-screen instructions to finish the process.
 
@@ -152,21 +152,21 @@ If your camera is still not working on Discord, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-42-04.jpg)
 6. Find the Discord folder and delete it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-01.jpg)
 7. Open the Run box and type**%LocalAppData%** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-33.jpg)
 8. Find the Discord folder and delete it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-45-16.jpg)
 9. Restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 10. Go to the[Discord official website](https://discord.com/) and download the latest version of Discord.
@@ -193,16 +193,24 @@ If your camera is still not working on Discord, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-harmonious-audio-pathway-guidebook/"><u>[New] In 2024, Harmonious Audio Pathway Guidebook</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-expert-strategies-for-backdrop-displacement-in-photoshops-offspring-affinity-photo/"><u>[Updated] In 2024, Expert Strategies for Backdrop Displacement in Photoshop's Offspring, Affinity Photo</u></a></li>
-<li><a href="https://program-issues.techidaily.com/2-eggs-beaten/"><u>2 Eggs, Beaten</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/a-look-at-googles-ar-graphics-and-others-for-2024/"><u>A Look at Google's AR Graphics & Others for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-xr-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone XR How to Bypass?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banish-your-woes-with-these-proven-methods-to-correct-loading-glitches-in-teso/"><u>Banish Your Woes with These Proven Methods to Correct Loading Glitches in TESO</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210170099-9781643347110-instantes/"><u>INSTANTES | Free Book</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/new-marshall-vibe-for-anc-glamour-and-grooviness-combined/"><u>New Marshall Vibe for ANC - Glamour & Grooviness Combined</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-monster-hunter-rise-failed-to-initialize-problem-guide/"><u>Solving the 'Monster Hunter Rise Failed to Initialize' Problem - Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-when-cssource-wont-start-up/"><u>Step-by-Step Solutions for When CS:Source Won't Start Up</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-persistent-crashes-in-god-of-war-on-windows/"><u>Troubleshooting Tips for Persistent Crashes in God of War on Windows</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-learning-vector-artistry-an-overview-for-starters-and-software-picks/"><u>[New] 2024 Approved Learning Vector Artistry An Overview for Starters & Software Picks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-streamlining-color-correction-leveraging-look-up-tables-from-cg-central/"><u>[New] In 2024, Streamlining Color Correction Leveraging Look-Up Tables From CG Central</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-visual-vault-saving-windows-imagery/"><u>[New] In 2024, Visual Vault Saving Windows Imagery</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-correcting-gopros-fish-eye-distortion-techniques/"><u>[Updated] Correcting GoPro's Fish Eye Distortion Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-premium-timekeeping-for-your-nuptials-appleandroid-selection/"><u>[Updated] In 2024, Premium Timekeeping For Your Nuptials Apple/Android Selection</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-remove-a-background-in-affinity-photo/"><u>[Updated] Remove a Background in Affinity Photo</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-monetized-critique-videos-the-truth-unveiled/"><u>2024 Approved Monetized Critique Videos The Truth Unveiled</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002296969-comprehensive-fix-for-pc-players-stop-samurai-warriors-5-from-freezing-or-crashing-now/"><u>Comprehensive Fix for PC Players - Stop Samurai Warriors 5 From Freezing or Crashing Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dealing-with-frequent-breakdowns-of-orbital-client-on-pc/"><u>Dealing with Frequent Breakdowns of Orbital Client on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/escape-from-tarkov-hack-fixing-the-failed-anticheat-service-link-problem/"><u>Escape From Tarkov Hack: Fixing the 'Failed Anticheat Service Link' Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/gaming-glitch-guidance-fixing-warzone-disc-read-problems-in-versions-5-and-31-for-pc-players/"><u>Gaming Glitch Guidance: Fixing Warzone Disc Read Problems in Versions [5.#] & [3.1] for PC Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-latest-fix-for-fnaf-security-breach-a-comprehensive-walkthrough-for-pc-users/"><u>Mastering the Latest Fix for FNAF Security Breach – A Comprehensive Walkthrough for PC Users</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-and-rectify-common-errors-using-snip-and-sketch-on-windows/"><u>Navigate and Rectify Common Errors Using Snip & Sketch on Windows.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubleshooting-fixes-for-total-war-warhammer-iii-continuous-crashes/"><u>PC Troubleshooting: Fixes for Total War: Warhammer III Continuous Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-the-issue-of-constant-freezing-in-warframe/"><u>Resolved: Fixing the Issue of Constant Freezing in Warframe</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-civ-6-not-loading-issues-in-windows-10-environments/"><u>Resolving Civ 6 Not Loading Issues in Windows 10 Environments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-fortnite-ls-0013-launching-error/"><u>SOLVED: Fortnite LS-0013 Launching Error</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-changing-the-battery-in-your-ipad/"><u>Step-by-Step Guide: Changing the Battery in Your iPad</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-persistent-freezing-issues-in-samurai-warriors-5-for-pc/"><u>Troubleshooting Guide - Fixing Persistent Freezing Issues in Samurai Warriors 5 for PC</u></a></li>
 </ul></div>
 

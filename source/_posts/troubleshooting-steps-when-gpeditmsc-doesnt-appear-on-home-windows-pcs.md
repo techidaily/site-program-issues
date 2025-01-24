@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps When gpedit.msc Doesn't Appear on Home Windows PCs
-date: 2024-09-16T21:43:18.486Z
-updated: 2024-09-21T19:07:57.150Z
+date: 2025-01-22T07:40:09.057Z
+updated: 2025-01-24T13:51:40.954Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
 ## League of Legends Woes? Master Swift Troubleshooting Techniques Now
 
 **League of Legends keeps crashing?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -60,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -82,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -100,16 +112,13 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
@@ -131,18 +140,15 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -156,23 +162,9 @@ thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -194,5 +186,22 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-a-journey-through-chromatic-realms-editing-essentials/"><u>[New] A Journey Through Chromatic Realms Editing Essentials</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-wanderlust-chronicles-setting-up-for-success-as-a-travel-vlogger/"><u>[New] The Wanderlust Chronicles Setting Up for Success as a Travel Vlogger</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-insiders-guide-to-ultimate-audio-equipment/"><u>[Updated] 2024 Approved The Insider's Guide to Ultimate Audio Equipment</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/10-best-websites-to-discover-free-premiere-pro-video-templates-for-2024/"><u>10 Best Websites to Discover Free Premiere Pro Video Templates for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/boost-your-system-why-and-how-to-upgrade-your-pc-hardware-for-maximum-efficiency-with-yl-computing-solutions/"><u>Boost Your System: Why and How to Upgrade Your PC Hardware for Maximum Efficiency with YL Computing Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/downloads-gratuito-e-simples-metodo-veloz-de-converter-wmv-em-mp4-pela-web-tudo-sobre-o-site-do-movavi/"><u>Downloads Gratuito E Simples: Método Veloz De Converter WMV Em MP4 Pela Web - Tudo Sobre O Site Do Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-unavailable-frontiers-of-pandora-feature-in-avatar-video-game-series/"><u>Fixing the Unavailable Frontiers of Pandora Feature in Avatar Video Game Series</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-kodi-cant-connect-issue-solving-the-directory-retrieval-error/"><u>How to Fix Kodi Can't Connect Issue: Solving the Directory Retrieval Error</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/intuitive-method-for-adjusting-iphone-screen/"><u>Intuitive Method for Adjusting iPhone Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722999576816-league-of-legends-errors-fast-fixes-for-rapid-restart/"><u>League of Legends Errors: Fast Fixes for Rapid Restart!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-end-of-cycle-error-prevention-proven-techniques-to-fix-last-epoch-crashes-in-modern-computers/"><u>Mastering End of Cycle Error Prevention - Proven Techniques to Fix Last Epoch Crashes in Modern Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-launch-problems-a-guide-to-getting-origin-running-in-windows-10-and-11/"><u>Resolving Launch Problems: A Guide to Getting Origin Running in Windows 10 and 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/securely-grant-administrative-access-to-your-favorite-programs-on-windows-11/"><u>Securely Grant Administrative Access to Your Favorite Programs on Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sunbeam-effect-android-screen-brightening/"><u>Sunbeam Effect Android Screen Brightening</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-stop-wwe-2k22-from-shutting-down-unexpectedly-on-pc/"><u>Troubleshoot and Stop WWE 2K22 From Shutting Down Unexpectedly on PC</u></a></li>
+</ul></div>
 

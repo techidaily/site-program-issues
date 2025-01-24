@@ -1,7 +1,7 @@
 ---
 title: How To Overcome The Persistent Black Screen in Your Persona Nova Gameplay
-date: 2025-01-13T01:27:02.706Z
-updated: 2025-01-17T23:32:33.903Z
+date: 2025-01-18T15:32:20.665Z
+updated: 2025-01-24T15:32:29.705Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 Bothered by Enlisted black screen issue? Don’t worry, you’re not alone. This post shows you how to fix black screen issues step-by-step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Before trying…
@@ -37,7 +37,7 @@ There’re things you can do before trying complicated fixes:
 3. [Update graphic driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Run as administrator
@@ -52,10 +52,14 @@ There’re things you can do before trying complicated fixes:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If it’s not working, move to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Install Windows updates
@@ -65,10 +69,6 @@ If it’s not working, move to the next fix.
 1. In the Search box, type in **check for updates** . Click **Check for updates**  from results.  
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Enlisted and check.
@@ -94,12 +94,12 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -124,17 +124,24 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/eme-making-maven-the-tale-of-jake-pauls-youtube-triumph-for-2024/"><u>[New] Meme-Making Maven The Tale of Jake Paul's Youtube Triumph for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-dynamic-content-presentation-via-fb-slideshows/"><u>[Updated] In 2024, Dynamic Content Presentation via FB Slideshows</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-enhance-visual-narratives-with-story-remix-within-windows-10-photos/"><u>[Updated] In 2024, Enhance Visual Narratives with Story Remix Within Windows 10 Photos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-image-borders-in-instagram-photography/"><u>[Updated] In 2024, Mastering Image Borders in Instagram Photography</u></a></li>
-<li><a href="https://driver-install.techidaily.com/align-windows-11plus7plus81-drivers-to-optimized-intel-hardware/"><u>Align Windows 11+7+8.1 Drivers to Optimized Intel Hardware</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-blackout-essential-strategies-to-restore-your-steam-gameplay/"><u>Beat the Blackout: Essential Strategies to Restore Your Steam Gameplay</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/from-basic-to-spectaculr-the-best-cams-gear-guide/"><u>From Basic to Spectaculr The Best Cams' Gear Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-crashes-in-diablo-ii-resurrected-solutions-revealed/"><u>Say Goodbye to Crashes in Diablo II: Resurrected - Solutions Revealed!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/successfully-resolving-riot-games-lol-network-issues-a-step-by-step-tutorial/"><u>Successfully Resolving Riot Games' LoL Network Issues: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transforming-photos-into-videos-an-experts-complete-tutorial-series-for-2024/"><u>Transforming Photos Into Videos An Expert's Complete Tutorial Series for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/untangle-your-fifa-19-gameplay-with-easy-fixes-for-the-notorious-directx-error/"><u>Untangle Your FIFA 19 Gameplay with Easy Fixes for the Notorious DirectX Error</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/zest-up-social-feeds-create-meme-adobe-style-for-2024/"><u>Zest Up Social Feeds Create Meme Adobe-Style for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-explore-and-enjoy-locating-recently-liked-videos-on-facebook/"><u>[Updated] Explore & Enjoy Locating Recently Liked Videos on Facebook</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-your-pathway-to-perfect-igtv-footage-from-phone-to-dslr/"><u>[Updated] In 2024, Your Pathway to Perfect IGTV Footage From Phone to DSLR</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essential-checklist-for-selecting-the-best-hdr-cameras/"><u>[Updated] The Essential Checklist for Selecting the Best HDR Cameras</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehending-giant-language-processors-in-tech/"><u>Comprehending Giant Language Processors in Tech</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-stop-genshin-impact-from-continuously-crashing-on-your-pc/"><u>Fixing the Issue: How to Stop Genshin Impact From Continuously Crashing on Your PC</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/chat-room-to-global-stage-broadcast-google-meet-on-youtube-for-2024/"><u>From Chat Room to Global Stage Broadcast Google Meet on YouTube for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-back-into-the-game-solutions-for-launching-issues-in-rocket-league/"><u>Get Back Into the Game: Solutions for Launching Issues in Rocket League</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-resident-evil-village-wont-open-error-successfully/"><u>How to Fix 'Resident Evil Village Won't Open' Error Successfully</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-missing-spatial-sound-feature-in-windows-11-and-10/"><u>How to Fix Missing Spatial Sound Feature in Windows 11 & 10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-pixelated-persistence-selecting-the-ultimate-cam-for-extended-shots/"><u>In 2024, Pixelated Persistence Selecting the Ultimate Cam for Extended Shots</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/masters-building-marvels-virtual-horizons/"><u>Masters Building Marvel's Virtual Horizons</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimized-strategies-eliminating-significant-frames-per-second-fps-dips/"><u>Optimized Strategies: Eliminating Significant Frames Per Second (FPS) Dips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-players-rejoice-lost-ark-no-longer-crashes-update-notes-explained/"><u>PC Players Rejoice! Lost Ark No Longer Crashes – Update Notes Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/reducing-roblox-memory-demands-on-your-iphone/"><u>Reducing Roblox Memory Demands on Your iPhone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/revolutionary-reddit-techniques-for-aspiring-digital-wizards-for-2024/"><u>Revolutionary Reddit Techniques for Aspiring Digital Wizards for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fix-guide-for-windows-10-error-0xc19001e1-bottleneck/"><u>Step-by-Step Fix Guide for Windows 10 Error 0xC19001E1 Bottleneck</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-tactics-to-improve-your-fps-and-eliminate-lag-on-war-thunder-2024-expert-advice/"><u>Top Tactics to Improve Your FPS and Eliminate Lag on War Thunder: 2024 Expert Advice</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-steamvrs-persistent-error-308-issues/"><u>Troubleshooting Guide: Fixing SteamVR's Persistent Error 308 Issues</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-captivating-sound-design-essentials-review-of-premier-audio-editors-pros-and-cons/"><u>Updated In 2024, Captivating Sound Design Essentials Review of Premier Audio Editors, Pros & Cons</u></a></li>
 </ul></div>
 

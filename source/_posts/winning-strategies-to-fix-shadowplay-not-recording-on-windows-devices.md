@@ -1,7 +1,7 @@
 ---
 title: Winning Strategies to Fix ShadowPlay Not Recording on Windows Devices
-date: 2024-09-15T21:45:05.496Z
-updated: 2024-09-21T19:15:07.947Z
+date: 2025-01-18T16:09:07.577Z
+updated: 2025-01-24T08:46:51.310Z
 tags:
   - win11
   - win10
@@ -68,8 +68,18 @@ To check the specs of your PC:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Launch Scavenger and see if the crashing issue is resolved. If yes, then congrats! If it persists, please try**Fix 2** , below.
 
@@ -89,13 +99,6 @@ To check the specs of your PC:
 | Anti-Aliasing                  | Low                     |
 
  Has the Scavenger crashing issue been fixed? If yes, then great. If it’s no joy, please try**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update Unreal Engine 4 (if you’re on Epic Games Launcher)
 
@@ -119,6 +122,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/dxdiag.jpg)
 2. Check out your **DirectX version** in the first page of the report.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Currently, the most up-to-date version for DirectX is DirectX12\. If you’re presented with a lower version, follow the steps below to update it.
 
 1. On your keyboard, press **the Windows logo key** and type **check for updates** , then click on **Check for updates** as it pops up as a matching result.  
@@ -126,10 +133,7 @@ Here is how to do it:
 2. Click **Check for updates** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
@@ -138,10 +142,7 @@ Here is how to do it:
 With the latest DirectX, check to see if Scavengers still crashes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Close background apps
@@ -158,10 +159,7 @@ Here’s how to close background apps:
 3. Restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Run Scavengers on your PC to see if the issue is solved. If it still persists, please try**Fix 6** , below.
@@ -191,5 +189,21 @@ Here’s how to close background apps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-a-guide-to-the-avant-garde-of-the-internets-av-masters/"><u>[New] 2024 Approved A Guide to the Avant-Garde of the Internet's AV Masters</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-setting-up-your-vlog-fb-preferred-dimensions-for-2024/"><u>[New] Setting Up Your Vlog FB Preferred Dimensions for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/m4amp3/"><u>無料在線M4A/MP3重新編碼服務 - 動向維</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-techniques-for-360-video-editing-in-premiere/"><u>Advanced Techniques for 360° Video Editing in Premiere</u></a></li>
+<li><a href="https://win-web.techidaily.com/elevate-your-karaoke-session-with-cloud-pros-choicest-tracks-sweeping-singers-off-their-feet/"><u>Elevate Your Karaoke Session with Cloud Pro's Choicest Tracks, Sweeping Singers Off Their Feet!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fortnite-load-error-no-more-solve-your-loading-screen-problem-today/"><u>Fortnite Load Error No More - Solve Your Loading Screen Problem Today</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hitman-3-wont-start-fix-your-problems-and-play-as-the-worlds-deadliest-agent/"><u>Hitman 3 Won't Start? Fix Your Problems and Play as the World's Deadliest Agent</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-uncover-youtubes-preview-disabling-secret/"><u>In 2024, Uncover YouTube's Preview Disabling Secret</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-eliminating-frequent-disruptions-in-beat-saber-gameplay/"><u>Solution Found: Eliminating Frequent Disruptions in Beat Saber Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-minecrafts-persistent-black-screen-top-fixes-of-2ndryce-2024-edition/"><u>Troubleshoot Minecraft's Persistent Black Screen - Top Fixes of 2nDryce, 2024 Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-techniques-resolving-game-crashes-in-windows-computers/"><u>Troubleshooting Techniques: Resolving Game Crashes in Windows Computers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unleash-creativity-with-iphones-top-10-free-aesthetic-photo-composer-tools/"><u>Unleash Creativity with iPhone’s Top 10 Free, Aesthetic Photo Composer Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-fcp-audio-editing-made-easy-a-tutorial-for-creators/"><u>Updated In 2024, FCP Audio Editing Made Easy A Tutorial for Creators</u></a></li>
+</ul></div>
 

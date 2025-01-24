@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] How to Fix Persistent Crashing Issues on Your PC While Playing Call of Dute: Black Ops Cold War"
-date: 2025-01-17T05:21:05.796Z
-updated: 2025-01-18T03:08:18.212Z
+date: 2025-01-18T21:21:54.847Z
+updated: 2025-01-24T15:18:51.737Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/bd283f525b3e6f9ab0f82e7d532a7dcceb86337b9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The system requirements of WRC 10 FIA World Rally Championship
 
  Ensure that your PC meets the system requirements of WRC 10\. You can take a quick glance at the system requirements of WRC 10 if you don’t know the system requirements:
@@ -47,10 +43,6 @@ System requirements of WRC 10 from Steam
  If your PC fails to meet the system requirements of WRC 10, you may need to upgrade your PC first.
 
  WRC 10 still keeps crashing on your PC even though your PC meets the system requirements? Just read on and try the fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -75,19 +67,23 @@ System requirements of WRC 10 from Steam
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **To verify game files in Epic Games Launcher:**
 
 1. Launch **Epic Games Launcher** and go to your **Library** .
 2. Click on the **three dots** under the **WRC 10 FIA World Rally Championship** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch WRC 10 and check if this fix works. If the game still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -111,6 +107,10 @@ System requirements of WRC 10 from Steam
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  The developer of WRC 10 FIA World Rally Championship releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -118,6 +118,10 @@ System requirements of WRC 10 from Steam
  If a patch is available, it will be detected by Steam or Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch WRC 10 again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
 
@@ -137,10 +141,6 @@ System requirements of WRC 10 from Steam
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
@@ -148,20 +148,20 @@ System requirements of WRC 10 from Steam
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Restart** your PC and launch WRC 10 to check if the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -197,22 +197,15 @@ System requirements of WRC 10 from Steam
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-mycam-recorder-unveiled-an-expert-review-for-2024/"><u>[New] MyCam Recorder Unveiled An Expert Review for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-precision-editing-at-your-fingertips-canvas-boundary-eradication/"><u>[New] Precision Editing at Your Fingertips Canva's Boundary Eradication</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-premier-collection-of-ae-plugins-unveiled/"><u>[Updated] The Premier Collection of AE Plugins Unveiled</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-fusion-of-video-and-melody-adding-music-to-vimeo-projects/"><u>2024 Approved Fusion of Video & Melody Adding Music to Vimeo Projects</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-laughter-layouts-design-meme-magic-on-kapwing/"><u>2024 Approved Laughter Layouts Design Meme Magic on Kapwing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/age-of-empires-iv-installation-woes-heres-how-to-securely-download-from-microsoft-marketplace/"><u>Age of Empires IV Installation Woes? Here's How to Securely Download From Microsoft Marketplace</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/comprehensive-breakdown-using-googles-speech-recognition-tool/"><u>Comprehensive Breakdown Using Google's Speech Recognition Tool</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-solutions-fixing-your-google-chrome-crashes-instantly/"><u>Effortless Solutions: Fixing Your Google Chrome Crashes Instantly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-silent-minecraft-world-troubleshooting-audio-issues-on-your-pc/"><u>How to Fix Silent Minecraft World: Troubleshooting Audio Issues on Your PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-xperia-1-v-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Xperia 1 V?</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-propagate-your-content-with-vimeo-links/"><u>In 2024, Propagate Your Content with Vimeo Links</u></a></li>
-<li><a href="https://program-issues.techidaily.com/instantly-fix-your-recurring-control-crashes-a-simple-guide/"><u>Instantly Fix Your Recurring Control Crashes: A Simple Guide!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tips-to-boost-fps-and-eliminate-hitches-in-naraka-bladepoint-gameplay/"><u>Tips to Boost FPS and Eliminate Hitches in Naraka: Bladepoint Gameplay</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-14-free-substitutes-for-final-cut-pro-on-windows-comprehensive-download-guide/"><u>Top 14 Free Substitutes for Final Cut Pro on Windows: Comprehensive Download Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-tips-for-enhancing-your-ark-sanctuary-defense-pc-gameplay-with-an-fps-boost/"><u>Top Tips for Enhancing Your ARK: Sanctuary Defense PC Gameplay with an FPS Boost</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-fixing-the-slowdown-of-spotifys-online-player/"><u>Ultimate Guide: Fixing the Slowdown of Spotify's Online Player</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unstick-your-roblox-game-effective-ways-to-bypass-the-loading-screen-deadlock/"><u>Unstick Your Roblox Game: Effective Ways to Bypass the Loading Screen Deadlock</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-making-your-twitter-videos-dance-convert-them-into-expressive-animated-gifs-for-2024/"><u>[New] Making Your Twitter Videos Dance Convert Them Into Expressive Animated GIFs for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-faces-under-scrutiny-how-iphone-x-and-galaxy-unlock-tech-compare/"><u>[Updated] Faces Under Scrutiny How iPhone X and Galaxy Unlock Tech Compare</u></a></li>
+<li><a href="https://program-issues.techidaily.com/assassinn-crew-how-stability-issues-on-pc-have-been-successfully-addressed-for-assassins-creed-valhalla/"><u>Assassin'n Crew: How Stability Issues on PC Have Been Successfully Addressed for Assassin's Creed: Valhalla</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battlefield-2042-performance-optimized-say-goodbye-to-framerate-drops-and-glitchy-gameplay/"><u>Battlefield #2042 Performance Optimized - Say Goodbye to Framerate Drops and Glitchy Gameplay!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bid-goodbye-to-screenshake-learn-the-key-techniques-to-stop-that-annoying-flicker/"><u>Bid Goodbye to Screenshake – Learn the Key Techniques to Stop That Annoying Flicker!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/creating-your-own-tailored-gpt-powered-chatbot-on-windows-insights-and-step-by-step-guide/"><u>Creating Your Own Tailored GPT-Powered Chatbot on Windows: Insights & Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/discovering-the-ultimate-solution-showmores-recording-mastery/"><u>Discovering The Ultimate Solution ShowMore's Recording Mastery</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-sea-of-thieves-persistent-load-screen-issue/"><u>Fixes for 'Sea of Thieves' Persistent Load Screen Issue</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-online-converter-turn-ram-files-into-avi-format-with-movavi/"><u>Free Online Converter: Turn RAM Files Into AVI Format with Movavi</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/navigating-the-world-of-filmmaking-best-cameras-for-novices-for-2024/"><u>Navigating the World of Filmmaking Best Cameras for Novices for 2024</u></a></li>
 </ul></div>
 

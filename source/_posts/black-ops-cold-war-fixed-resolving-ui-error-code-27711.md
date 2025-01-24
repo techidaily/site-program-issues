@@ -1,7 +1,7 @@
 ---
 title: "Black Ops Cold War Fixed: Resolving UI Error Code 27711"
-date: 2024-09-13T18:25:49.155Z
-updated: 2024-09-16T19:54:20.720Z
+date: 2025-01-18T07:12:27.045Z
+updated: 2025-01-24T10:22:31.172Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/d825914cfbc46b59661d759915d177f1c0fb99c79
 
 In the past couple days, many Cold War gamers are reporting a**UI error 27711** , a glitch that usually occurs during game loading. But fret not if you’re seeing this error. Below we’ve gathered some easy fixes for you, try them and get your game working right away.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try all of them. Simply work your way down until you find the one that scores.
@@ -25,6 +29,10 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 2. **[Scan and repair your game](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Restart your PC
 
@@ -39,6 +47,11 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 1. First open your **Blizzard Battle.net** client. In the left menu, select **Call of Duty: BOCW** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** . Then wait until the checking is completed.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
 Now you can launch the game and see if it loads this time.
@@ -74,13 +87,6 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -88,13 +94,6 @@ To do so, first visit the website of your GPU manufacturer:
  Once you’ve updated your graphics driver, restart your PC and check if the error code reoccurs.
 
  If the new driver doesn’t do the charm, you can move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -109,13 +108,15 @@ Here’s how you can check for updates manually:
 3. Click**Windows Update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -139,5 +140,22 @@ Here’s how you can check for updates manually:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-living-virtually-tips-for-an-active-facebook-presence/"><u>[New] 2024 Approved Living Virtually Tips for an Active Facebook Presence</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-improve-your-channels-meta-description-powerfully-for-2024/"><u>[Updated] Improve Your Channel's Meta Description Powerfully for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-cutting-edge-tools-for-youtube-screen-capturing/"><u>2024 Approved Cutting-Edge Tools for YouTube Screen Capturing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/black-screen-issues-addressed-proven-strategies-to-get-back-online/"><u>Black Screen Issues Addressed: Proven Strategies to Get Back Online</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-fixes-for-stability-issues-with-sons-of-the-forest-pc-edition-malfunctions/"><u>Comprehensive Fixes for Stability Issues with 'Sons of the Forest': PC Edition Malfunctions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-collection-best-free-footage-websites-ranked-for-2024/"><u>Curated Collection Best Free Footage Websites Ranked for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-file-is-locked-issue-on-steam-a-comprehensive-guide/"><u>Fixing the 'File Is Locked' Issue on Steam: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-boost-your-steam-game-downloads-and-prevent-lag/"><u>How to Boost Your Steam Game Downloads and Prevent Lag</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-share-instagram-reels-to-facebook/"><u>How to Share Instagram Reels to Facebook</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-htc-u23-pro-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your HTC U23 Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-smooth-gameplay-eliminating-lag-in-outriders-adventure/"><u>Mastering Smooth Gameplay: Eliminating Lag in Outrider's Adventure</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubles-solving-subnautica-below-zero-stability-issues-once-and-for-all/"><u>PC Troubles? Solving Subnautica Below Zero Stability Issues Once and For All</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-how-to-fix-the-critical-steam-ui-component-failure-steamuidll/"><u>Solution Found! How to Fix the Critical Steam UI Component Failure (steamui.dll)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-nvidia-shield-tv-pro-for-gamers-and-stream-enthusiasts/"><u>The Ultimate Guide to Nvidia Shield TV Pro for Gamers and Stream Enthusiasts</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210475749-9781638445098-views-from-shenir-mount-of-light/"><u>Views From Shenir (Mount of Light) | Free Book</u></a></li>
+</ul></div>
 

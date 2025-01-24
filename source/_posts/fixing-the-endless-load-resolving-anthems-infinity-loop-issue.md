@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Endless Load: Resolving Anthem's Infinity Loop Issue"
-date: 2025-01-14T01:55:56.931Z
-updated: 2025-01-18T01:12:22.251Z
+date: 2025-01-17T12:48:02.538Z
+updated: 2025-01-24T14:01:20.946Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 5. **[perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Verify integrity of game files
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 **If you play FUSER in Epic Games Launcher** , you can follow the instructions below to verify the game files:
@@ -58,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Relaunch FUSER after the verifying process completed to see if this fix works. If not, don’t worry. Just move on and try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -75,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -92,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
  If a patch is available, it will be detected by Steam or Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run FUSER again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Turn off VSync
 
@@ -129,17 +121,25 @@ You can try turning off VSync and see if this issue persists.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Restart** your PC and launch FUSER to see if it crashes. If the game doesn’t crash, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
@@ -173,19 +173,18 @@ You can try turning off VSync and see if this issue persists.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-crafting-attention-grabbing-facebook-giveaways-for-2024/"><u>[New] Crafting Attention-Grabbing Facebook Giveaways for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-the-virtual-reality-archivists-handbook-for-game-recordings-for-2024/"><u>[New] The Virtual Reality Archivist's Handbook for Game Recordings for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/analysis-of-marvels-avengers-an-overview-of-average-excellence/"><u>Analysis of Marvel's Avengers: An Overview of Average Excellence</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ark-survival-ascended-debugging-the-persistent-pc-crash-issues-fix-1-9/"><u>ARK: Survival Ascended - Debugging the Persistent PC Crash Issues (Fix #1-9)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boost-your-frame-rate-in-valheim-top-strategies-to-achieve-smooth-gameplay/"><u>Boost Your Frame Rate in Valheim: Top Strategies to Achieve Smooth Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013885752-consider-keeping-a-food-diary-to-monitor-what-youre-eating-and-make-sure-its-nutritionally-balanced/"><u>Consider Keeping a Food Diary to Monitor What You're Eating and Make Sure It’s Nutritionally Balanced.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elevating-your-gaming-experience-solutions-for-smoothing-out-stuttering-and-boosting-fps-on-call-of-duty-warzone/"><u>Elevating Your Gaming Experience: Solutions for Smoothing Out Stuttering & Boosting Fps on Call of Duty: Warzone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-freezing-rogue-company-addresses-and-corrects-pc-stability-glitches/"><u>No More Freezing: Rogue Company Addresses and Corrects PC Stability Glitches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-cod-black-ops-fortress-fixing-lag-spikes-and-improving-frame-rate/"><u>Resolving Cod: Black Ops Fortress - Fixing Lag Spikes & Improving Frame Rate</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-amazon-bargains-of-september-2024-exclusive-offers-featured/"><u>Top Rated Amazon Bargains of September 2024 - Exclusive Offers Featured</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-recommendation-the-ipad-air-powered-by-m2-chip-outshines-competitors-find-your-perfect-tablet-with-expert-advice-from-zdnet/"><u>Top Recommendation: The iPad Air Powered by M2 Chip Outshines Competitors - Find Your Perfect Tablet with Expert Advice From ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unraveling-historys-fabric-with-open-source-canvases/"><u>Unraveling History's Fabric with Open-Source Canvases</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-systems-alert-dll-deficiency/"><u>Windows Systems Alert: DLL Deficiency</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-creating-impactful-youtube-thumbnails-and-ads/"><u>[Updated] 2024 Approved Creating Impactful YouTube Thumbnails & Ads</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-snappy-gaming-moments-with-these-top-5-recording-strategies-on-windows-11/"><u>[Updated] Snappy Gaming Moments with These Top 5 Recording Strategies on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-thwarting-vr-discomfort-tips-for-a-smooth-experience/"><u>[Updated] Thwarting VR Discomfort Tips for a Smooth Experience</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-unveiling-the-secrets-of-creative-commons-licensing-for-2024/"><u>[Updated] Unveiling the Secrets of Creative Commons Licensing for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Lava Yuva 3? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-infinix-smart-8-hd-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Infinix Smart 8 HD Phone Screen?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-quick-win-strategies-for-replying-on-discord-platforms/"><u>In 2024, Quick-Win Strategies for Replying on Discord Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-and-easy-fixes-for-fortnite-sign-in-failures-restart-your-gameplay-today/"><u>Quick and Easy Fixes for Fortnite Sign-In Failures: Restart Your Gameplay Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-to-tackle-counter-strike-global-offensive-startup-problems/"><u>Solutions to Tackle Counter-Strike: Global Offensive Startup Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-dragons-dogma-2-not-launching-on-your-pc-a-step-by-step-guide/"><u>Solving 'Dragon's Dogma 2 Not Launching on Your PC': A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-voip-problems-making-among-us-microphone-function-correctly-on-your-computer/"><u>Solving VoIP Problems: Making Among Us Microphone Function Correctly on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-low-fps-problems-in-rainbow-six-extraction-game/"><u>Troubleshooting Low FPS Problems in Rainbow Six Extraction Game</u></a></li>
 </ul></div>
 

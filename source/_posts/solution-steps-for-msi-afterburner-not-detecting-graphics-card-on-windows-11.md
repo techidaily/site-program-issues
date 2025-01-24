@@ -1,7 +1,7 @@
 ---
 title: Solution Steps for MSI Afterburner Not Detecting Graphics Card on Windows 11
-date: 2024-09-09T21:55:13.330Z
-updated: 2024-09-16T17:49:53.540Z
+date: 2025-01-23T13:55:14.472Z
+updated: 2025-01-23T23:44:05.013Z
 tags:
   - win11
   - win10
@@ -62,6 +62,11 @@ To do so, first visit the website of your graphics card manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -84,26 +89,25 @@ Here’s how:
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this trick doesn’t solve your problem, you can continue to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -117,16 +121,7 @@ And it’s quite easy to check for updates:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Cyberpunk 2077.
@@ -150,5 +145,21 @@ And it’s quite easy to check for updates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-leading-the-pack-in-multi-media-posting-on-instagram/"><u>[New] In 2024, Leading the Pack in Multi-Media Posting on Instagram</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-obs-vs-shadowplay-the-ultimate-showdown-for-gamers/"><u>[New] OBS vs ShadowPlay The Ultimate Showdown for Gamers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-leading-ipad-voice-recorders-1-2-3/"><u>[Updated] 2024 Approved Leading iPad Voice Recorders #1, #2, #3</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-future-proof-cameras-top-2024-choices/"><u>[Updated] Future-Proof Cameras Top 2024 Choices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-encounters-critical-error-2-the-year-game-status-explained/"><u>Cyberpunk 2077 Encounters Critical 'Error 2 the Year' - Game Status Explained</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-playability-in-counter-strike-2-proven-methods-to-address-fps-drops-and-stuttering-on-pc/"><u>Enhance Playability in Counter-Strike 2: Proven Methods to Address FPS Drops and Stuttering on PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-resolve-error-code-0x80ebbbb-on-windows-updates-proven-techniques-inside/"><u>How to Successfully Resolve Error Code 0X80ebbbb on Windows Updates - Proven Techniques Inside</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-image-transformation-hacks/"><u>Innovative Image Transformation Hacks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mass-effect-mastered-overcoming-freezing-glitches-on-the-ultimate-collection/"><u>Mass Effect Mastered: Overcoming Freezing Glitches on the Ultimate Collection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-windows-1011-bluetooth-audio-hiccups-complete-guide-to-smooth-listening/"><u>Overcome Windows 10/11 Bluetooth Audio Hiccups - Complete Guide to Smooth Listening</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-documentarians-guide-to-captivating-audience/"><u>The Documentarian's Guide to Captivating Audience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-latest-expansion-scoop-on-rainbow-six-siege-new-features-ahead/"><u>The Latest Expansion Scoop on Rainbow Six Siege - New Features Ahead!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-non-functioning-voice-chat-warnings/"><u>Troubleshooting Guide: Resolving Issues with Non-Functioning Voice Chat Warnings</u></a></li>
+</ul></div>
 

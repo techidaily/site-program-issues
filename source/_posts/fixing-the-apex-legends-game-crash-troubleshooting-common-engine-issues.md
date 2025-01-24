@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Apex Legends Game Crash: Troubleshooting Common Engine Issues"
-date: 2025-01-13T18:55:25.443Z
-updated: 2025-01-17T20:24:10.219Z
+date: 2025-01-17T14:12:23.745Z
+updated: 2025-01-23T19:05:22.514Z
 tags:
   - win11
   - win10
@@ -42,17 +42,9 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0209829f51.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0204fe6005.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also click Update to do it for free if you like, but it’s partly manual.
 
@@ -61,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 5) Check to see if the Engine Error on Apex Legends has been resolved. If yes, then great! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run Apex Legends as an administrator
 
@@ -75,10 +71,6 @@ Here is how to grant administrative privileges to Apex Legends:
  2) In File Explorer, right click on **Apex Legends .exe**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-565.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the **Compatibility**  tab. Then check the box next to **Run this program as an administrator** , and click **Apply** .
 
@@ -96,24 +88,32 @@ Here is how to verify game files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-439-1024x522.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-click on**Apex Legends** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-561.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Wait until the repair process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Once done, run Apex Legends and check if the engine error is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Edit Registry
@@ -140,13 +140,13 @@ Windows Registry Editor Version 5.00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-476.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Save the file name as**fix.reg** and select the type as**All files** . then click Save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-477.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Click**Yes** once you’re prompted about the message.
 
@@ -174,20 +174,21 @@ Windows Registry Editor Version 5.00
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-inspiring-video-concepts-for-impactful-presentations/"><u>[New] Inspiring Video Concepts for Impactful Presentations</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-a-peek-into-the-best-mac-applications-for-sniping-perfectly-for-2024/"><u>[Updated] A Peek Into the Best Mac Applications for Sniping Perfectly for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210635076-9781945642166-a-sacred-journey/"><u>A Sacred Journey | Free Book</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-on-demand-connecting-to-chatgpt-from-any-location-using-the-power-of-chatgpt-everywhere/"><u>AI on Demand: Connecting to ChatGPT From Any Location Using the Power of ChatGPT Everywhere</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-techniques-for-correcting-fatal-errors-in-infinity-siege-when-played-on-desktop-computers/"><u>Effective Techniques for Correcting Fatal Errors in Infinity Siege When Played on Desktop Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-deitch-loop-game-from-crashing-on-your-computer-easy-methods-unveiled/"><u>How to Stop Deitch Loop Game From Crashing on Your Computer: Easy Methods Unveiled</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-premiere-pro-from-crashing-on-your-windows-11-or-10-computer/"><u>How to Stop Premiere Pro From Crashing on Your Windows 11 or 10 Computer</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On Apple iPhone 7 Plus</u></a></li>
-<li><a href="https://program-issues.techidaily.com/phasmophobia-troubleshooting-conquering-the-unyielding-90-loading-screen-dilemma-of-2024/"><u>Phasmophobia Troubleshooting: Conquering the Unyielding 90% Loading Screen Dilemma of 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/rise-to-the-top-5-key-strategies-to-achieve-management-success/"><u>Rise to the Top: 5 Key Strategies to Achieve Management Success</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-guide-overcoming-crash-glitches-in-tales-of-arise/"><u>Troubleshooting Complete Guide - Overcoming Crash Glitches in Tales of Arise</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-overcome-stuttering-in-serious-sam-4-on-your-computer/"><u>Troubleshooting Guide: How To Overcome Stuttering in Serious Sam 4 on Your Computer</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unlocking-victory-over-shadows-defeating-nba-2k21s-endless-black-loading-phase-2c4/"><u>Unlocking Victory Over Shadows: Defeating NBA 2K21's Endless Black Loading Phase (2C4)</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-unleash-your-creativity-easy-video-editing-with-gopro-quik-for-macbook-for-2024/"><u>Updated Unleash Your Creativity Easy Video Editing with GoPro Quik for MacBook for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/valheim-pc-stability-guide-resolving-persistent-crashing-issues/"><u>Valheim PC Stability Guide: Resolving Persistent Crashing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-bug-effective-methods-to-stop-scavengers-from-crashing-on-pc/"><u>Beat the Bug: Effective Methods to Stop Scavengers From Crashing on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-lag-step-by-step-solutions-to-fix-stuttering-or-hanging-in-pubg-on-windows-computers/"><u>Beat the Lag: Step-by-Step Solutions to Fix Stuttering or Hanging in PUBG on Windows Computers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/disable-windows-defender-on-windows-11-3-ways/"><u>Disable Windows Defender on Windows 11 - 3 Ways</u></a></li>
+<li><a href="https://program-issues.techidaily.com/epic-games-launcher-trouble-heres-how-to-fix-it-fast/"><u>Epic Games Launcher Trouble? Here's How to Fix It Fast</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/explore-the-globe-in-one-frame-iphone-360-video-guide-for-2024/"><u>Explore the Globe in One Frame IPhone 360 Video Guide for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/half-life-alyx-pc-optimization-guide-fixes-for-tackling-frame-drops-and-jittery-playback/"><u>Half-Life: Alyx PC Optimization Guide – Fixes for Tackling Frame Drops and Jittery Playback</u></a></li>
+<li><a href="https://article-posts.techidaily.com/high-fidelity-on-the-big-screen-the-4k-monitor-tale-of-lgs-31mu97-b/"><u>High Fidelity on the Big Screen The 4K Monitor Tale of LG's 31MU97-B</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-far-cry-6-doesnt-start-error-on-windows-pc-step-by-step-guide/"><u>How to Fix 'Far Cry 6 Doesn't Start' Error on Windows PC - Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-to-insert-a-clickable-video-player-for-flv-movies-within-your-flipbook-pages-a-step-by-step-guide/"><u>How to Insert a Clickable Video Player for FLV Movies Within Your FlipBook Pages - A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-relink-issues-and-crashes-in-granblue-fantasy-on-your-computer/"><u>How to Prevent Relink Issues and Crashes in Granblue Fantasy on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-game-crashing-phasmophobia-updates-and-fixes-of-2024/"><u>How to Stop Game Crashing: Phasmophobia Updates and Fixes of 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-the-latest-driver-for-logitech-c920-cameras-on-pcs-running-windows-version-11108/"><u>Installing the Latest Driver for Logitech C920 Cameras on PCs Running Windows (Version 11/10/8)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maisto-rc-rock-crawler-a-detailed-look-at-your-next-quality-family-rc-car-purchase/"><u>Maisto RC Rock Crawler: A Detailed Look at Your Next Quality Family R/C Car Purchase</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-improved-zoom-video-quality/"><u>The Ultimate Guide to Improved Zoom Video Quality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-extracteurs-gratuits-et-complets-pour-les-dvd-sous-windows-11-en-202-groenwijze-titels-voor-google-search-engine-die-vergelijkbaar-zijn-met-les-meilleur132/"><u>Top Extracteurs Gratuits Et Complets Pour Les DVD Sous Windows 11 en 202 Groenwijze Titels Voor Google Search Engine Die Vergelijkbaar Zijn Met Les Meilleurs Extracteurs De DVD Gratuites Pour Windows 11 (Version Complète):</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-infinix-hot-40i-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Infinix Hot 40i Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

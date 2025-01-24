@@ -1,7 +1,7 @@
 ---
 title: "PC Users Struggle: Resolved - Dealing with Continuous 'New World' Game Crashes"
-date: 2025-01-10T17:26:12.768Z
-updated: 2025-01-18T03:22:17.805Z
+date: 2025-01-22T03:48:23.982Z
+updated: 2025-01-23T21:46:41.235Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 8. **[Run your game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall_Remnant_ and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
  Running multiple programs at the same time takes up a lot of resources, undermining your game performance. Apart from that, some programs may conflict with your game and cause the crashing error. So, you should close unwanted programs during gameplay by restarting your computer.
@@ -42,7 +46,7 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2:**Disable your antivirus temporarily**
@@ -55,6 +59,10 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Run your game as an administrator
 
  Some players experience the_Remnant_ crash when running_Remnant_ under a standard user account. In this case, the quickest fix is granting your game launcher with admin credentials. Follow the instructions below to see how:
@@ -65,13 +73,13 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Relaunch Steam and_Remnant_ to test your issue.
 
@@ -111,10 +119,6 @@ If your problem persists, then move on to the next fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5:**Install the latest game patch**
 
  The developers of_Remnant_ release regular game patches to resolve bugs. It’s possible that a recent patch has stopped_Remnant_ from launching correctly, and that a new patch is required to fix it.
@@ -134,7 +138,7 @@ If your problem persists, then move on to the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Right-click**Remnant: From the Ashes** and select **Properties.**
@@ -144,10 +148,6 @@ If your problem persists, then move on to the next fix below.
 **4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-86.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Relaunch_Remnant_ to see if this has fixed your problem. If not, move on to the fix below.
 
@@ -183,7 +183,7 @@ If your problem persists, then move on to the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Relaunch your game to test your issue.
@@ -202,17 +202,21 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-214.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-607.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the list box below to select **Windows 7** , then click **OK** . (If you’re on Windows 10, you can also try running your game in Windows 8 mode.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-608.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue had been resolved.
 
@@ -242,10 +246,6 @@ If the game is still unplayable, read on and try the fix below.
 **4)** Click**DELETE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-247.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Download and install**Remnant** again.
 
@@ -280,22 +280,22 @@ If the game is still unplayable, read on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **8)[](https://store.steampowered.com/about/) [Download](https://store.steampowered.com/about/) [](https://store.steampowered.com/about/)**  and install Steam.
 
 **9)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **10)**  Move the backup **steamapps folder** to your current directory location.
 
@@ -326,18 +326,22 @@ If the game is still unplayable, read on and try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-key-to-accumulating-a-huge-collection-of-tiktok-videos/"><u>[New] The Key to Accumulating a Huge Collection of TikTok Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-player-guide-to-live-recording/"><u>[New] The Ultimate Player Guide to Live Recording</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-selective-movie-tease-treasury/"><u>[Updated] Selective Movie Tease Treasury</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-beginners-approach-to-title-and-caption-integration-in-windows-10-photos/"><u>A Beginner's Approach to Title and Caption Integration in Windows 10 Photos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/a-look-at-huawei-p10-innovation-in-smartphone-technology-for-2024/"><u>A Look at Huawei P10 Innovation in Smartphone Technology for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/analyzing-performance-and-capabilities-of-the-midland-lxt500vp3-transceiver-a-detailed-review/"><u>Analyzing Performance & Capabilities of The Midland LXT500VP3 Transceiver: A Detailed Review</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-solutions-to-overcome-the-nwstoreexe-program-hiccups/"><u>Easy Solutions to Overcome the nw_store.exe Program Hiccups</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-retrieving-deleted-texts-across-all-mobile-devices/"><u>Guide: Retrieving Deleted Texts Across All Mobile Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-resident-evil-village-pc-game-crashes-solved/"><u>How to Fix Resident Evil Village PC Game Crashes - Solved</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-warzone-20-high-ping-2024-tips/"><u>How to Fix Warzone 2.0 High Ping - 2024 Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-graphics-initialization-issue-errgfxd3dinit-in-gta-v-gameplay/"><u>How to Resolve Graphics Initialization Issue (ERR_GFX_D3D_INIT) in GTA V Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722999426890-mastering-the-streets-in-yakuza-like-a-dragon-on-pc-top-tips-and-tricks/"><u>Mastering the Streets in Yakuza: Like a Dragon on PC – Top Tips and Tricks!</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/king-youtube-melodies-safe-free-extraction-methods/"><u>Unlocking YouTube Melodies Safe, Free Extraction Methods</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-audio-capture-system-testing-guide/"><u>[Updated] Audio Capture System Testing Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-basic-to-exceptional-a-step-by-step-thumbnail-guide/"><u>[Updated] From Basic to Exceptional A Step-by-Step Thumbnail Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unveiling-the-spectrum-of-hand-tracking-technologies-for-2024/"><u>[Updated] Unveiling the Spectrum of Hand Tracking Technologies for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211153901-9781454954453-a-little-bit-of-enneagram/"><u>A Little Bit of Enneagram | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bust-the-glitches-in-nba-2k23-on-pc-learn-about-our-7-key-fixes-for-an-optimal-gaming-experience/"><u>Bust the Glitches in NBA 2K23 on PC: Learn About Our 7 Key Fixes for an Optimal Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-techniques-to-eliminate-stuttering-in-csgo-a-step-by-step-guide/"><u>Effective Techniques to Eliminate Stuttering in CS:GO - A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/efficiency-in-advertising-post-facebook-algorithm-overhaul-for-2024/"><u>Efficiency in Advertising Post-Facebook Algorithm Overhaul for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-tips-overcome-pc-crashes-in-yakuza-3-remastered/"><u>Fixes and Tips: Overcome PC Crashes in Yakuza 3 Remastered</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-crash-problems-in-diablo-2-classic-remastered/"><u>How to Resolve Crash Problems in Diablo 2 Classic Remastered</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-laptop-techniques-for-instantaneous-video-communication-through-whatsapp-web/"><u>In 2024, Laptop Techniques for Instantaneous Video Communication Through WhatsApp Web</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-total-horizon-capture-versus-focused-dimensionality/"><u>In 2024, Total Horizon Capture Versus Focused Dimensionality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/issues-with-launching-robocop-rogue-city-game-on-windows-pcs/"><u>Issues with Launching RoboCop: Rogue City Game on Windows PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-visual-output-new-gpu/"><u>No Visual Output - New GPU?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/precision-in-motion-choose-from-top-6-macos-big-sur-editing-apps-for-2024/"><u>Precision in Motion Choose From Top 6 macOS Big Sur Editing Apps for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-fall-guys-overcoming-pc-game-freezing-issues/"><u>Solving Fall Guys: Overcoming PC Game Freezing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/team-fortress-2-no-more-crashing-a-step-by-step-fix-for-constant-breakdowns/"><u>Team Fortress 2 No More Crashing - A Step-by-Step Fix for Constant Breakdowns</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valorant-performance-boost-top-strategies-to-overcome-low-fps-issues/"><u>Valorant Performance Boost: Top Strategies to Overcome Low FPS Issues</u></a></li>
 </ul></div>
 

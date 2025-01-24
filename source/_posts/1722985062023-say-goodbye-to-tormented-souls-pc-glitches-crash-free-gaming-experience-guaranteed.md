@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Tormented Souls PC Glitches - Crash-Free Gaming Experience Guaranteed!
-date: 2025-01-13T21:40:13.550Z
-updated: 2025-01-18T02:28:35.100Z
+date: 2025-01-22T12:57:08.183Z
+updated: 2025-01-24T05:49:03.351Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
 6. [**Disable peripherals**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Check the launcher log](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall Assassin’s Creed Valhalla](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
 
@@ -75,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-1.jpg)
 3. Select **Verify files** . Then wait for the checking to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
 
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
@@ -91,21 +91,17 @@ You can use these steps to check for Windows updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . Windows will automatically download and install all the available updates. This might take up to an hour depending on your Internet speed.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  In some cases, you might need to check several times to get all the updates. Simply repeat these steps until it prompts**You’re up to date** when you click**Check for updates** .
 
  Once you’ve fully updated your system, restart your PC and check if Assassin’s Creed Valhalla becomes stable.
 
 If the crash happens again, you can take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -133,6 +129,10 @@ If the crash happens again, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -143,7 +143,7 @@ If the crash happens again, you can take a look at the next fix.
  If the driver update doesn’t do the trick for you, simply continue to the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Lower in-game graphics settings
@@ -165,13 +165,13 @@ If the crash happens again, you can take a look at the next fix.
 
  If disabling peripherals doesn’t work for you, or you’re not using any at the first place, you can take a look at the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Check the launcher log
 
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
 
@@ -196,20 +196,22 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-clear-images-made-easy-picart-backdrop-takedown-technique/"><u>[New] 2024 Approved Clear Images Made Easy PicArt Backdrop Takedown Technique</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-transformative-video-creation-harness-the-trio-of-windows-photos-and-storyremix/"><u>[New] In 2024, Transformative Video Creation Harness the Trio of Windows, Photos, and StoryRemix</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-dial-down-audio-slowly-and-steadily/"><u>[Updated] 2024 Approved Dial Down Audio, Slowly and Steadily</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-solo-stream-smoothness-hacks-for-seamless-live-broadcasts/"><u>[Updated] 2024 Approved Solo Stream Smoothness Hacks for Seamless Live Broadcasts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-list-of-teacher-friendly-screen-capture-apps/"><u>2024 Approved The Ultimate List of Teacher-Friendly Screen Capture Apps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/access-blockbuster-movies-and-tv-episodes-at-no-charge-discover-crackle-streaming/"><u>Access Blockbuster Movies & TV Episodes at No Charge - Discover Crackle Streaming!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008849014-apex-legends-wont-load-master-these-simple-fixes/"><u>Apex Legends Won't Load? Master These Simple Fixes!</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-techniques-for-minimizing-dvd-storage-footprint-using-premier-compression-programs/"><u>Effective Techniques for Minimizing DVD Storage Footprint Using Premier Compression Programs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-hacks-to-prevent-your-cities-skylines-game-from-crashing/"><u>Expert Hacks to Prevent Your Cities: Skylines Game From Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-to-fix-sons-of-the-forest-pc-crashes-optimize-gaming-experience/"><u>Expert Tips to Fix 'Sons of the Forest' PC Crashes - Optimize Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-your-pacific-drive-running-smoothly-again-essential-troubleshooting-steps/"><u>Get Your Pacific Drive Running Smoothly Again - Essential Troubleshooting Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/immediate-fixes-to-eliminate-stuttering-and-optimize-frame-rates-in-elden-ring/"><u>Immediate Fixes to Eliminate Stuttering and Optimize Frame Rates in Elden Ring</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/revolutionary-mohu-blade-television-dongle-assessed-stylish-appearance-and-solid-interior-signal-quality/"><u>Revolutionary Mohu Blade Television Dongle Assessed: Stylish Appearance and Solid Interior Signal Quality</u></a></li>
-<li><a href="https://program-issues.techidaily.com/taming-discords-resource-demand-comprehensive-fixes-for-elevated-cpu-use/"><u>Taming Discord's Resource Demand : Comprehensive Fixes for Elevated CPU Use</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-stop-youtube-buffering-and-freezing-easily/"><u>Troubleshooting Tips: Stop YouTube Buffering & Freezing Easily!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-from-mundane-to-memorable-transform-your-social-media-identity-with-these-tips-for-2024/"><u>[Updated] From Mundane to Memorable Transform Your Social Media Identity with These Tips for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-render-your-social-media-footage/"><u>[Updated] Render Your Social Media Footage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-277-stutter-and-stall-heres-how-you-can-get-the-game-running-smoothly-again/"><u>Cyberpunk 2#77 Stutter and Stall? Here's How You Can Get the Game Running Smoothly Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-cpu-only-play-in-cyberpunk-2077-on-windows-10-pcs/"><u>Fixes for CPU-Only Play in Cyberpunk 2077 on Windows 10 PCs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-zte-nubia-flip-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass ZTE Nubia Flip 5G FRP</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y78t-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y78t to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-controlling-your-gadgets-swift-fixes-for-sudden-shutdowns/"><u>Master Controlling Your Gadgets: Swift Fixes for Sudden Shutdowns</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-smooth-gameplay-tips-to-fix-lag-problems-in-avatar-frontiers-of-pandora/"><u>Mastering Smooth Gameplay: Tips to Fix Lag Problems in Avatar: Frontiers of Pandora</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-steps-overcoming-persistent-discord-stream-lag-problems/"><u>Solution Steps: Overcoming Persistent Discord Stream Lag Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-directx-warzone-issue-a-step-by-step-guide/"><u>Solving the 'DirectX Warzone Issue': A Step-by-Step Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-your-pc-from-succumbing-to-the-dreaded-hunger-error-a-complete-fix-guide/"><u>Stop Your PC From Succumbing to the 'Dreaded Hunger' Error: A Complete Fix Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-guide-to-screen-capture-tools/"><u>The Ultimate Guide to Screen Capture Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-video-asf-in-formato-avi-online-e-free-grazie-a-movavi/"><u>Trasforma I Tuoi Video ASF in Formato AVI Online E Free Grazie a Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-your-palworld-account-overcoming-the-eos-login-hurdle-with-6-key-solutions/"><u>Troubleshoot Your Palworld Account: Overcoming the EOS Login Hurdle with 6 Key Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-the-notorious-0x80072efd-error-in-windows-10/"><u>Troubleshooting and Fixing the Notorious 0X80072EFD Error in Windows 10</u></a></li>
 </ul></div>
 

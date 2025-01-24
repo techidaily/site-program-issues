@@ -1,7 +1,7 @@
 ---
 title: Madden 20 Continuous Crashes on Windows? Here's How to Make It Run Smoothly!
-date: 2024-09-10T16:26:51.048Z
-updated: 2024-09-16T21:36:09.784Z
+date: 2025-01-20T20:12:18.705Z
+updated: 2025-01-24T00:40:17.187Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 
 Many iPhone users have experienced the**iTunes not recognizing iPhone** issue. But don’t worry if you happen to be one of them. According to user feedback, we’ve put together some fixes down below. Try them and get your iTunes working in a snap.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Basic troubleshooting steps
 
  Before you continue to anything more advanced, make sure you’ve tried the following:
@@ -26,6 +30,10 @@ Many iPhone users have experienced the**iTunes not recognizing iPhone** issue. B
 * Unlock your iPhone when connecting
 
  If these basic steps didn’t give you luck, you can move on to the advanced fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Advanced fixes
 
@@ -66,10 +74,7 @@ If you don’t know how, use these steps to check:
 If it’s not tethering in your case, simply check out the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Make sure your drivers are up to date
@@ -92,11 +97,20 @@ If it’s not tethering in your case, simply check out the next fix.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/update-all.jpg)
 
  Once you’ve updated all your drivers, restart your PC and check if iTunes is working now.
 
  If the latest drivers don’t do the charm for you, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Try other versions of iTunes
 
@@ -117,6 +131,10 @@ You can use the following steps to remove iTunes completely.
 **Apple Application Support 64-bit**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/uninstall-itunes-0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you uninstall a component, you might be prompted to restart your computer. Don’t reboot until you’ve finished removing all of the components.
 
 Then you need to remove the remaining files:
@@ -125,19 +143,17 @@ Then you need to remove the remaining files:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/programfiles.jpg)
 2. Delete the following folders if exist:  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **iTunes**  
  **Bonjour**  
  **iPod**
 3. Open the**Common Files** folder, then the**Apple** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/uninstall-itunes-1.jpg)
 4. Delete the following folders if exist:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Mobile Device Support**  
  **Apple Application Support**  
  **CoreFP**
@@ -154,13 +170,6 @@ Then remove the following folders according to your operating system.
 
  If reinstalling iTunes doesn’t give you luck, you can continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Install all Windows updates
 
  Microsoft releases updates for Windows on a regular basis, mostly addressing compatibility issues. It might be a potential fix to your problem with iTunes:
@@ -170,18 +179,15 @@ Then remove the following folders according to your operating system.
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once completed, restart your PC for the changes to take effect. Then test if iTunes detects your iPhone now.
 
 If the issue lingers on, try the next solution below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Try your iPhone on another PC
 
@@ -199,13 +205,6 @@ If the issue lingers on, try the next solution below.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -231,5 +230,23 @@ If the issue lingers on, try the next solution below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-creative-chip-success-editors-flourish-on-m1/"><u>[New] 2024 Approved Creative Chip Success Editors Flourish on M1</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-stardom-a-beginners-blueprint/"><u>[New] 2024 Approved Instagram Stardom A Beginner's Blueprint</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-tinyflicker-log-review-and-options-to-consider/"><u>[New] 2024 Approved TinyFlicker Log Review & Options to Consider</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-transforming-views-uncover-the-best-video-hacks-for-success/"><u>[Updated] Transforming Views Uncover the Best Video Hacks for Success</u></a></li>
+<li><a href="https://program-issues.techidaily.com/billmire-l-et-al-2016-environmental-fate-of-the-herbicide-glyphosate-and-its-degradation-product-ampa-in-a-small-agricultural-watershed-following-simulated-370/"><u>Billmire, L., Et Al (2016). Environmental Fate of the Herbicide Glyphosate and Its Degradation Product AMPA in a Small Agricultural Watershed Following Simulated Rainfall Events. J Environ Qual, 45(3), 973-84.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/centipede-glitch-in-destiny-2-heres-how-to-solve-it/"><u>Centipede Glitch in Destiny 2? Here's How to Solve It</u></a></li>
+<li><a href="https://program-issues.techidaily.com/counter-strike-2-not-starting-heres-how-to-rectify-that/"><u>Counter-Strike 2 Not Starting? Here's How to Rectify That!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cracked-cod-crackdown-on-warzones-pacific-wreckage/"><u>Cracked Cod: Crackdown on Warzone's Pacific Wreckage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-oculus-link-issue-top-6-fast-solutions-for-black-screen-troubles/"><u>Fixing the Oculus Link Issue: Top 6 Fast Solutions for Black Screen Troubles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-rainbow-six-extraction-from-crashing-on-your-windows-pc/"><u>How to Stop Rainbow Six Extraction From Crashing on Your Windows PC</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-instasong-rights-guidelines/"><u>In 2024, InstaSong Rights Guidelines</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-professional-grade-video-editing-made-easy-for-windows-8-users-for-2024/"><u>New Professional-Grade Video Editing Made Easy for Windows 8 Users for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/paladins-stability-hacks-for-smooth-playback-how-to-fix-crashing-issues/"><u>Paladins Stability Hacks for Smooth Playback - How to Fix Crashing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723012296040-the-truth-revealed-assassins-creed-valhalla-release-update/"><u>The Truth Revealed: Assassin's Creed Valhalla Release Update!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-fix-chatgpt-application-issues-on-iphone/"><u>Troubleshooting Guide: How to Fix ChatGPT Application Issues on iPhone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016897489-winning-over-silent-pcs-after-a-windows-10-update-a-simple-solution/"><u>Winning Over Silent PCs After a Windows 10 Update – A Simple Solution!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solutions for Critical Dev Errors in Call of Duty: Modern Warfare & Warzone"
-date: 2024-09-18T21:53:58.557Z
-updated: 2024-09-21T17:45:21.536Z
+date: 2025-01-18T02:11:55.343Z
+updated: 2025-01-23T19:56:58.444Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/5565177be356d6fd1f6d2b58dc2046c46dae91381
  Warzone is lit, but we have also received many reports that the game stops working after displaying a**Dev Error 5573** . If you happen to be on the same boat, don’t worry. Based on feedback, we’ve put together some working fixes down below. Try them and get back to the field right away.
 
  You might not need to try all the fixes. Simply work your way down until you find the one that gives you luck.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## PC
 
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/5565177be356d6fd1f6d2b58dc2046c46dae91381
 
 If you encounter the issue on your computer, try these solutions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of your game files
 
  The dev error might suggest an integrity issue, meaning that some files within the game folders are missing or corrupted. To make sure there’s nothing wrong with your game files, you need verify their integrity:
@@ -51,13 +59,6 @@ If you encounter the issue on your computer, try these solutions.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 3. Click**Begin Scan** . Then wait for the checking to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you can launch Warzone and check if the error code reoccurs during gameplay.
 
@@ -91,11 +92,19 @@ If the issue remains, you can try the next fix below.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated all your drivers, restart your PC and see if Warzone crashes again.
 
  If the latest drivers didn’t help you, simply continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Perform a clean boot
 
@@ -104,41 +113,33 @@ If the issue remains, you can try the next fix below.
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
-3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
+3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now you can join a match and see if the error pops up again.
 
  If this trick doesn’t do the trick for you, move on to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Rebuild your settings
 
@@ -147,6 +148,10 @@ Now you can join a match and see if the error pops up again.
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) to open the**Run** dialog. Type or paste**%USERPROFILE%Documents** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-open-documents.jpg)
 2. Delete all files inside the folder named**Call of Duty Modern Warfare** /**Call of Duty** . (Leave the folder empty.) Then launch Warzone and check if the problem persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this trick doesn’t give you luck, simply continue to the cross-platform solutions below.
 
@@ -162,6 +167,10 @@ The following fixes apply to both PC and console.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-windowed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If changing the display mode doesn’t solve your problem, you can try the next method.
 
 ### Fix 2: Switch to another account
@@ -169,13 +178,6 @@ The following fixes apply to both PC and console.
  According to some, the Dev Error 5573 only appears on certain accounts. So if possible, you can**switch to another account** , then check if the crash happens again. If the problem disappears, you can contact the Activision support for further troubleshooting regarding your account.
 
 If the issue lingers on, take a look at the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Switch to Modern Warfare operators
 
@@ -208,5 +210,20 @@ If the issue lingers on, take a look at the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-a-step-by-step-framework-for-transcribing-whatsapp-calls-for-2024/"><u>[New] A Step-by-Step Framework for Transcribing WhatsApp Calls for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-real-time-visualizer/"><u>[Updated] In 2024, Real-Time Visualizer</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-mastering-youtube-channel-names-a-complete-list-for-vloggers-keep-it-at-or-below-156-characters/"><u>[Updated] Mastering YouTube Channel Names A Complete List for Vloggers (Keep It at or Below 156 Characters)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-steps-to-fix-your-wow-game-crashes-in-minutes/"><u>Effortless Steps to Fix Your WoW Game Crashes in Minutes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/facile-conversion-en-ligne-de-fichiers-mkv-en-webm-methodes-et-astuces-libres/"><u>Facile Conversion en Ligne De Fichiers MKV en WebM : Méthodes Et Astuces Libres</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973197916-get-your-microsoft-wireless-mouse-grooving-download-the-drivers-fast/"><u>Get Your Microsoft Wireless Mouse Grooving - Download the Drivers Fast</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010393294-how-to-stop-forza-horizon-4-from-crashing-on-a-windows-pc-expert-tips-and-tricks/"><u>How to Stop Forza Horizon 4 From Crashing on a Windows PC - Expert Tips & Tricks!</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-viral-video-to-visuals-converting-tweets-to-costless-cgi/"><u>In 2024, Viral Video to Visuals Converting Tweets to Costless CGI</u></a></li>
+<li><a href="https://fox-that.techidaily.com/locate-a-missing-or-hijacked-iphone-mastering-apples-find-my-tool/"><u>Locate a Missing or Hijacked iPhone: Mastering Apple's Find My Tool</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-space-avoid-among-us-crashes-with-proven-strategies-for-gaming-smoothness/"><u>Master the Space: Avoid Among Us Crashes with Proven Strategies for Gaming Smoothness</u></a></li>
+<li><a href="https://program-issues.techidaily.com/smooth-gaming-experience-achieved-tackling-stutter-with-advanced-fps-techniques/"><u>Smooth Gaming Experience Achieved: Tackling Stutter with Advanced FPS Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-how-to-stop-gears-5-from-freezing-and-crashing/"><u>Step-by-Step Solutions: How to Stop Gears 5 From Freezing and Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-firefox-from-hanging-in-seconds-expert-solutions-and-troubleshooting-tips/"><u>Stop Firefox From Hanging in Seconds! Expert Solutions & Troubleshooting Tips</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solving Mozilla's Firefox Freezing Dilemma: Your Ultimate Guide to a Smoother Browser Experience"
-date: 2024-08-06T09:47:23.182Z
-updated: 2024-08-07T09:47:23.182Z
+date: 2025-01-19T21:14:55.480Z
+updated: 2025-01-24T12:43:49.926Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ If you’re presented with an error message ‘_**DirectX Encountered an Unrecov
 2. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Repair your game files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Play the game in DirectX 11 mode](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1\. Close unnecessary background apps
 
@@ -60,17 +64,14 @@ There are mainly two ways of updating your device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. If you just want to update your webcam driver for free, simply click the **Update** button next to it (it’s partly manual).  
   
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
 4\. Once complete, restart your computer for the changes to take effect.
@@ -78,9 +79,6 @@ No advertising on the website.
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3\. Repair your game files
 
  It’s possible that a corrupted game file cause the Warzone DirectX error. It’s easy to verify the integrity of your game files; all be done within a few clicks.
@@ -91,18 +89,16 @@ No advertising on the website.
 
  3\. Click **Options** and select **Scan and Repair** from the drop-down menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/warzone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Click**Begin Scan** , and wait for the process to complete.
 
  Does the simple workaround work for you? If not, you can try the following fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4\. Play the game in DirectX 11 mode
 
  If the Warzone DirectX error persists when you’re using DirectX 12, you can run the game in DirectX 11 to see if this solves your problem. You can easily revert to DirectX 12 if this method doesn’t do the trick.
@@ -111,17 +107,19 @@ No advertising on the website.
 
  2\. Launch the CoD Modern Warfare, and go to **Options** \> **Game settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/mw-d3d11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3\. Check **Additional Command Line Arguments** and type **\-d3d11** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Click **Done** .
 
@@ -140,11 +138,33 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boosting-yield-strategies-for-successful-money-making-on-mobile-youtube/"><u>[New] 2024 Approved Boosting Yield Strategies for Successful Money-Making on Mobile YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-future-of-quick-text-conversion-from-srt/"><u>[New] The Future of Quick Text Conversion From SRT</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-overcoming-shadows-in-indoor-vlogging-environments/"><u>[Updated] 2024 Approved Overcoming Shadows in Indoor Vlogging Environments</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-next-gen-webcams-top-5-featuring-premium-audio-capabilities-for-2024/"><u>[Updated] Next-Gen Webcams Top 5 Featuring Premium Audio Capabilities for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/an-introduction-to-dts-virtual-x-sound-enhancement-system/"><u>An Introduction to DTS Virtual X Sound Enhancement System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-those-annoying-warzone-directx-error-messages-in-only-four-steps/"><u>Banish Those Annoying Warzone DirectX Error Messages in Only Four Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crusader-kings-ii-not-loading-properly-uncover-the-reasons-and-get-it-running-smoothly-again/"><u>Crusader Kings II Not Loading Properly? Uncover the Reasons & Get It Running Smoothly Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/discover-how-to-make-your-unseen-steam-vr-visible-again-a-step-by-step-guide/"><u>Discover How to Make Your Unseen Steam VR Visible Again – A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-disruptions-in-nba-2k23-for-pc-learn-the-7-key-fixes-to-enhance-your-playing-experience/"><u>Eliminate Disruptions in NBA 2K23 for PC: Learn the 7 Key Fixes to Enhance Your Playing Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005827510-fix-your-total-war-warhammer-ii-glitches-with-these-proven-methods/"><u>Fix Your TOTAL WAR: WARHAMMER II Glitches with These Proven Methods</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-centipede-glitch-in-destiny-2/"><u>How to Overcome the Centipede Glitch in Destiny 2</u></a></li>
+<li><a href="https://win-info.techidaily.com/how-to-seamlessly-revert-from-windows-11-back-to-windows-7-without-data-loss-a-two-step-guide/"><u>How to Seamlessly Revert From Windows 11 Back to Windows 7 Without Data Loss: A Two-Step Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/identifying-crucial-factors-in-laptops-for-play/"><u>Identifying Crucial Factors in Laptops for Play</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-premiere-scenarios-in-eight-movie-types/"><u>In 2024, Premiere Scenarios in Eight Movie Types</u></a></li>
+<li><a href="https://article-files.techidaily.com/navigate-hdri-windows-powered-editing-wonders-for-2024/"><u>Navigate HDRI Windows-Powered Editing Wonders for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdle-successfully-launching-age-of-empires-4/"><u>Overcoming the Hurdle: Successfully Launching Age of Empires 4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-latency-issues-in-half-life-alyx-eliminating-pc-game-lag-and-stutters/"><u>Resolving Latency Issues in Half-Life: Alyx – Eliminating PC Game Lag & Stutters</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-for-deleting-apps-on-a-samsung-televisional-device/"><u>Step-by-Step Instructions for Deleting Apps on a Samsung Televisional Device</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-and-solutions-for-reconnecting-with-your-favorite-blizzard-games-when-the-server-drops-connection/"><u>Steps and Solutions for Reconnecting with Your Favorite Blizzard Games When the Server Drops Connection</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address and Solve Error Code 4128 on Call of Duty WWII Gameplay
-date: 2025-01-13T20:04:54.644Z
-updated: 2025-01-17T16:54:12.887Z
+date: 2025-01-22T15:00:07.028Z
+updated: 2025-01-24T05:54:06.746Z
 tags:
   - win11
   - win10
@@ -32,17 +32,9 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 4. [**Close background applications**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Repair corrupt system files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Remove other operator skins
 
  As many players reported, the dev error 5573 is related to specific operator skins or actions you’re performing. If you’re using other skins or outfits on your operators, try**switching to the Base skin/outfit** and see how it works. This trick should apply to all the players on PC or console. But if it doesn’t help your case, move on to more fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Verify the integrity of game files
 
@@ -67,14 +59,22 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Reboot your computer for the changes to take effect. If the error code reoccurs, try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Close background applications
 
@@ -85,7 +85,7 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 2. Right-click the resource-demanding process and click**End task** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-2-1.jpg)
@@ -93,6 +93,10 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
  Don’t end any programs you’re not familiar with, as they may be critical to the functioning of your computer.
 
  Launch the game to see if you’re able to play it normally. If not, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Repair corrupt system files
 
@@ -104,10 +108,6 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
@@ -135,24 +135,24 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/fixed-failed-to-load-steamuidll-steam-fatal-error/"><u>[Fixed] Failed to Load steamui.dll Steam Fatal Error</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-enabling-autoplay-youtube-videos-in-social-media-network/"><u>[Updated] In 2024, Enabling Autoplay Youtube Videos in Social Media Network</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722995351567-constraint-c-include-a-footnote-that-explains-the-musical-note-to-word-conversion-method-used-in-the-translated-text/"><u>Constraint C: Include a Footnote that Explains the Musical Note-to-Word Conversion Method Used in the Translated Text</u></a></li>
-<li><a href="https://win-online.techidaily.com/declutter-digital-space-a-guide-to-eliminating-unneeded-files-by-professionals-at-yl-software/"><u>Declutter Digital Space: A Guide to Eliminating Unneeded Files by Professionals at YL Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-game-performance-addressing-fps-drops-in-dota-2-for-windows-1011-users/"><u>Enhancing Game Performance: Addressing FPS Drops in Dota 2 for Windows 10/11 Users</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-new-frontier-of-health-tracking-with-amazons-revolutionary-halo-device/"><u>Exploring the New Frontier of Health Tracking with Amazon's Revolutionary Halo Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-stuttering-and-freezing-problems-in-sifu-on-personal-computers/"><u>Fixes for Stuttering & Freezing Problems in Sifu on Personal Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/future-proofing-your-game-fixes-and-solutions-for-civ-6-access-errors/"><u>Future-Proofing Your Game: Fixes and Solutions for Civ 6 Access Errors</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-nokia-c110-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Nokia C110</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-among-us-persistent-loading-issue-fixed/"><u>How to Resolve 'Among Us' Persistent Loading Issue - Fixed</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-y200e-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo Y200e 5G to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-nokia-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Nokia Phone Now with These Tips</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-troubleshooting-messengers-failure-send-videos-without-issues-androidiphone/"><u>In 2024, Troubleshooting Messenger's Failure Send Videos without Issues (Android/iPhone)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fix-guide-when-world-of-warcraft-wont-boot-up-on-your-desktop/"><u>Quick Fix Guide: When World of Warcraft Won't Boot Up on Your Desktop</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fix-tips-resolving-crash-issues-in-gta-v-assuming-the-user-meant-grand-theft-auto-v-which-is-commonly-abbreviated-as-gta-instead-of-gears/"><u>Quick Fix Tips: Resolving Crash Issues in GTA V (Assuming the User Meant Grand Theft Auto V, Which Is Commonly Abbreviated as GTA Instead of GEARS)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-lag-and-improve-frame-rates-for-a-fluid-experience-in-warzone/"><u>Troubleshoot Lag and Improve Frame Rates for a Fluid Experience in Warzone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Which is the Best Fake GPS Joystick App On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-ultimate-guide-shifting-your-profile-picture-on-global-platforms/"><u>[New] 2024 Approved The Ultimate Guide Shifting Your Profile Picture on Global Platforms</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-inside-the-core-a-thorough-insight-into-xstudio-video-studio/"><u>[New] Inside the Core A Thorough Insight Into XStudio Video Studio</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-women-at-war-yts-top-10-gamers/"><u>[New] Women at War YT's #Top 10 Gamers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-10-best-zoom-alternatives-deskop-and-mobile/"><u>[Updated] 10 Best Zoom Alternatives [Deskop & Mobile]</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-hands-on-methods-mirror-video-frames-using-vlc/"><u>[Updated] Hands-On Methods Mirror Video Frames Using VLC</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-revealing-rays-of-light-the-ultimate-guide-for-choosing-a-premium-4k-screen/"><u>[Updated] In 2024, Revealing Rays of Light The Ultimate Guide for Choosing a Premium 4K Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-the-freezing-problem-ultimate-troubleshooting-steps-for-football-manager-2020/"><u>Eliminate the Freezing Problem: Ultimate Troubleshooting Steps for Football Manager 2020</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-valheim-lagging-problems-on-your-computer/"><u>How to Resolve Valheim Lagging Problems on Your Computer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-level-tricks-to-overcome-cyberpunk-2077s-persistent-black-screen-problem/"><u>Master Level Tricks to Overcome Cyberpunk 2077'S Persistent Black Screen Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-tips-ensuring-successful-boot-of-rainbow-six-siege/"><u>Master Tips: Ensuring Successful Boot of Rainbow Six Siege</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-cross-platform-calls-a-guide-to-using-facetime-on-your-windows-pc/"><u>Mastering Cross-Platform Calls: A Guide to Using FaceTime on Your Windows PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-wow-lag-problems-instantly-a-step-by-step-guide/"><u>Resolve WoW Lag Problems Instantly: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-ultimate-guide-on-solving-gta-v-performance-issues/"><u>Resolved: Ultimate Guide on Solving GTA V Performance Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-bluestacks-stability-issues-with-these-simple-fixes/"><u>Solve Your BlueStacks Stability Issues with These Simple Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-dragons-dogma-2-pc-crashes-a-step-by-step-guide/"><u>Solving Dragon's Dogma 2 PC Crashes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-issues-with-gmail-synchronization-effective-steps/"><u>Solving Issues with Gmail Synchronization: Effective Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unstick-your-adventure-solving-the-sea-of-thieves-load-screen-dilemma/"><u>Unstick Your Adventure: Solving the Sea of Thieves Load Screen Dilemma</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrading-your-epson-wf-7720-the-ultimate-guide-to-installing-latest-printer-drivers-in-windows/"><u>Upgrading Your Epson WF-7720: The Ultimate Guide to Installing Latest Printer Drivers in Windows</u></a></li>
 </ul></div>
 

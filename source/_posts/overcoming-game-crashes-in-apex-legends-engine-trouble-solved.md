@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Game Crashes in Apex Legends: Engine Trouble Solved!"
-date: 2024-09-14T20:45:05.864Z
-updated: 2024-09-21T16:56:28.375Z
+date: 2025-01-16T19:18:24.294Z
+updated: 2025-01-23T19:17:26.786Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 **[Fix 6: Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Verify if your PC meets the system requirements for PoE
 
@@ -95,13 +99,6 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Verify the integrity of game files
 
  If you play PoE on Steam, you can verify the integrity of your game files using the following procedure:
@@ -110,26 +107,20 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-16-1024x218.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Right-click **Path of Exile** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-17.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the **LOCAL FILES** tab and select **VERIFY INTEGRITY OF GAME FILES…** . Then wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-18.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Once complete, exit Steam and reopen it. Run PoE and wait to see if it keeps crashing.
@@ -149,9 +140,17 @@ In case this fix didn’t help, please move on to Fix 4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the Properties window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-19.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you should be able to run RoE under administrator privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
 
@@ -174,10 +173,7 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-15.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait to see if the crashing issue reoccurs. If it does, maybe these two features should not be blamed for your trouble, and you can enable them later on.
@@ -210,5 +206,20 @@ Still unable to solve the problem? If yes, proceed to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-pinnacle-performances-in-figure-skate-22/"><u>[New] Pinnacle Performances in Figure Skate '22</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-pioneering-practices-in-the-realm-of-iptv-recording/"><u>[New] Pioneering Practices in the Realm of IPTV Recording</u></a></li>
+<li><a href="https://program-issues.techidaily.com/brighten-up-your-gameplay-expert-solutions-to-the-2ndraftblocked-screen-problem-minecraft/"><u>Brighten Up Your Gameplay: Expert Solutions to the 2nDraftblocked Screen Problem (Minecraft)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/compact-yet-powerful-discover-a-portable-bluetooth-speaker-with-deep-bass-quality-by-zdnet/"><u>Compact Yet Powerful: Discover a Portable Bluetooth Speaker with Deep Bass Quality by ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diy-repair-how-to-restore-your-phasmophobia-vr-gameplay/"><u>DIY Repair: How to Restore Your Phasmophobia VR Gameplay</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-obtaining-your-samsung-smartphones-usb-communication-tools-online/"><u>Easy Guide: Obtaining Your Samsung Smartphone's USB Communication Tools Online</u></a></li>
+<li><a href="https://discover-best.techidaily.com/exploring-potential-dangers-understanding-the-risks-associated-with-editing-the-system-registry-insights-from-yl-computing/"><u>Exploring Potential Dangers: Understanding the Risks Associated with Editing the System Registry - Insights From YL Computing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-unresponsive-serial-ports-on-windows-os/"><u>Fixing Unresponsive Serial Ports on Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mackeyboard-guide-steps-to-change-your-command-key-functionality/"><u>MacKeyboard Guide: Steps to Change Your Command Key Functionality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-skies-without-glitches-a-comprehensive-fix-for-star-wars-squadrons-crashes/"><u>Mastering the Skies Without Glitches: A Comprehensive Fix for STAR WARS Squadrons Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-to-stop-gears-of-war-4-from-crashing-on-pc/"><u>Ultimate Fixes to Stop Gears of War 4 From Crashing on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-resolving-alan-wake-2s-2024-game-crashes/"><u>Ultimate Troubleshooting Guide: Resolving Alan Wake 2'S 2024 Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-over-windows-11-crashes-solutions-for-a-smooth-fallout-3-experience/"><u>Winning Over Windows 11 Crashes - Solutions for a Smooth Fallout 3 Experience</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 8 Expert Strategies to Stop Hogwarts Legacy From Freezing at Bootup on PCs
-date: 2024-09-14T18:48:43.361Z
-updated: 2024-09-16T17:35:59.811Z
+date: 2025-01-18T14:00:15.498Z
+updated: 2025-01-23T23:21:29.323Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ Atomic Heart crashing issue is annoying. This popular video game is not immune t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/flawless-widescreen-1200x762.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Update your drivers
 
  Outdated or corrupted drivers are the common reason for game crashing, therefore, make sure you have the most up-to-date drivers, especially for graphics and sound card drivers.
@@ -47,6 +51,10 @@ There are two ways to find the correct and the latest driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
@@ -65,6 +73,10 @@ There are two ways to find the correct and the latest driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/end-task-windows-explorer.jpg)
 3. Play the game again to check for crashes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can get WindowsExplorer.exe back by opening Task Manager again, then click**File > Run new task** **\>** **type explorer.exe** and hit enter.
 
 ## 4\. Verify file integrity
@@ -76,23 +88,13 @@ There are two ways to find the correct and the latest driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/Steam-right-click-Properties.jpg)
 3. Click the**Local Files** tab, then select**Verify Integrity of Game Files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-game-files.jpg)
 4. When it’s done, relaunch Steam and the game.
 
 If it doesn’t help, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lower graphical settings
@@ -115,35 +117,24 @@ Take a look at how it works:
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After the repairs, restart your computer and Atomic Heart to see if it fixes the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Disable third-party software
 
  Other software running on your computer, such as antivirus or firewall software, can conflict with the game and cause it to crash. Some antivirus software may block certain game files which causes difficulties in launching Atomic Heart on your PC. You can temporarily disable your antivirus software to determine whether game crashing is caused by your antivirus software. If that’s the culprit, check your antivirus support page or help for a ‘gaming mode’ or similar option and enable that prior to playing. Or use another anti-malware software.
 
  Also, some applications require significant system resources, disabling or uninstalling any unnecessary software. This may change the game’s performance or stability.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Reinstall the game
 
@@ -170,5 +161,20 @@ Take a look at how it works:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-discreet-peek-into-fb-narratives/"><u>[New] 2024 Approved Discreet Peek Into FB Narratives</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-record-setting-stories-a-list-of-the-most-popular-reddit-threads/"><u>[New] 2024 Approved Record-Setting Stories A List of the Most Popular Reddit Threads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-secrets-to-outstanding-documentary-storytelling/"><u>[New] Unlocking the Secrets to Outstanding Documentary Storytelling</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-determining-facebook-video-orientation-choices-ahead/"><u>[Updated] In 2024, Determining Facebook Video Orientation Choices Ahead</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-skyrocket-visibility-mastering-google-analytics-for-youtubers/"><u>2024 Approved Skyrocket Visibility Mastering Google Analytics for YouTubers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-visual-experience-how-outriders-addressed-its-picture-problems/"><u>Enhanced Visual Experience: How Outriders Addressed Its Picture Problems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/line-pc/"><u>LINE通話中声帯だけ録音! PCでも簡単なヘッドフォン録音テクニック</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-tricks-to-launch-dota-2-successfully-bypassing-load-errors/"><u>Master the Tricks to Launch Dota 2 Successfully: Bypassing Load Errors</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-10-best-online-face-creation-tools-for-fictional-characters-for-2024/"><u>New 10 Best Online Face Creation Tools for Fictional Characters for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-no-compatible-driver-issue-in-rainbow-six-extraction/"><u>Solving the 'No Compatible Driver' Issue in Rainbow Six Extraction</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/tips-to-keep-tiktok-videos-on-mobile-devices/"><u>Tips to Keep TikTok Videos on Mobile Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-the-persistent-crashes-of-elex-ii-on-windowsmacos/"><u>Troubleshooting Guide: Resolving the Persistent Crashes of Elex II on Windows/MacOS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlocking-the-secrets-to-rainbow-six-sieges-latest-freezing-event-for-year-2024/"><u>Unlocking the Secrets to Rainbow Six Siege's Latest Freezing Event for Year 2024</u></a></li>
+</ul></div>
 

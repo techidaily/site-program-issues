@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Game Crashes on PC: Tips and Solutions to Play 'No Rest for the Wicked'"
-date: 2025-01-11T17:31:24.505Z
-updated: 2025-01-17T21:06:02.104Z
+date: 2025-01-23T02:48:17.491Z
+updated: 2025-01-24T01:53:08.085Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/0f51979df117bbafdf1571070799e2143d64735bc
  If your**Discord overlay** is not working while you’re playing games, you’re not alone! Many players are reporting this issue. But don’t worry! The good news is you can fix it easily using the fixes we listed below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Fixes to try:**
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/0f51979df117bbafdf1571070799e2143d64735bc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left panel, click**Game Overlay** . Make sure you turn on the toggle next to **Enable in-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
@@ -63,19 +67,11 @@ thumbnail: https://thmb.techidaily.com/0f51979df117bbafdf1571070799e2143d64735bc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) On your desktop, double-click the shortcut of**Discord** to open it.
 
  4) Run your game again.
 
 See if this issue reappears. If not, you have fixed this issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
@@ -89,10 +85,6 @@ See if this issue reappears. If not, you have fixed this issue.
 
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Disable hardware acceleration in Discord
 
  Hardware acceleration is a feature in**Discord** that uses your GPU to make**Discord** smoother. However, many users have reported that sometimes, this feature may cause the**Discord overlay** to not work.
@@ -103,11 +95,23 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run your game again to see if this issue persists. If not, you have resolved this problem!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Discord
 
@@ -119,21 +123,17 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 iv. Restart your PC.
 
@@ -146,7 +146,7 @@ iv. Restart your PC.
 See if this issue reappears. If not, you have fixed this issue!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Bonus tip: How to fix Discord connection errors?
@@ -193,24 +193,24 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-mastering-close-up-filmmaking-tips-for-a-standout-videography-career/"><u>[Updated] 2024 Approved Mastering Close-Up Filmmaking Tips for a Standout Videography Career</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-mastering-mobile-thumbnail-creation-for-youtube-for-2024/"><u>[Updated] Mastering Mobile Thumbnail Creation for YouTube for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211414073-9781763597914-awakening-i/"><u>AWAKENING I | Free Book</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-minecrafts-persistent-frozen-screen-a-comprehensive-guide-to-smoother-gameplay/"><u>Beat Minecraft's Persistent Frozen Screen : A Comprehensive Guide to Smoother Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cod-warzones-pacific-map-latest-fix-for-gameplay-interruptions/"><u>COD: Warzone's Pacific Map - Latest Fix for Gameplay Interruptions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/constraint-b-ensure-to-maintain-the-original-documents-sentence-structure-and-punctuation-after-translation/"><u>Constraint B: Ensure to Maintain the Original Document's Sentence Structure and Punctuation After Translation.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-the-glitch-a-step-by-step-guide-to-overcoming-stops-in-tw3/"><u>Eliminate the Glitch: A Step-by-Step Guide to Overcoming Stops in TW3</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/essential-criteria-selecting-the-perfect-activity-monitor-for-active-lifestyles/"><u>Essential Criteria: Selecting the Perfect Activity Monitor for Active Lifestyles</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-elite-dangerous-from-crashing-your-pc-expert-tips/"><u>How to Stop Elite Dangerous From Crashing Your PC - Expert Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-garrys-mod-from-crashing-expert-solutions-revealed/"><u>How To Stop Garry's Mod From Crashing - Expert Solutions Revealed!</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-cutting-edge-tips-designing-immersive-educational-videos-for-online-learning/"><u>In 2024, Cutting-Edge Tips Designing Immersive Educational Videos for Online Learning</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-google-translate-video-a-complete-guide-to-translate-video-with-google/"><u>In 2024, Google Translate Video A Complete Guide To Translate Video With Google</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/instant-file-downloads-available-now-get-your-resources-fast/"><u>Instant File Downloads Available Now – Get Your Resources Fast!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-settings-no-more-sifu-performance-lag/"><u>Optimizing Your PC Settings: No More 'Sifu' Performance Lag</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-detection-errors-with-your-steam-vr-headset-a-step-by-step-guide/"><u>Overcoming Detection Errors with Your Steam VR Headset: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-silent-steel-a-guide-to-restoring-audio-in-fallout-4-on-windows/"><u>Solving Silent Steel: A Guide to Restoring Audio in Fallout 4 on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-installing-the-asus-mouse-pad-driver-on-your-windows-device/"><u>Step-by-Step: Installing the ASUS Mouse Pad Driver on Your Windows Device</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unparalleled-top-10-free-image-archiving-hubs-pics-safe-and-sound-for-2024/"><u>[New] Unparalleled Top 10 Free Image Archiving Hubs, Pics Safe and Sound for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-uniting-obs-and-zoom-a-compreehensive-video-guide-for-2024/"><u>[Updated] Uniting OBS and Zoom A Compreehensive Video Guide for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1-simplified-guide-installing-lenovo-onekey-recovery-to-a-fresh-hard-drive-two-methods-unveiled/"><u>1. Simplified Guide: Installing Lenovo OneKey Recovery to a Fresh Hard Drive - Two Methods Unveiled</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/effective-strategies-to-prevent-automatic-rebooting-after-windows-11-updates/"><u>Effective Strategies to Prevent Automatic Rebooting After Windows 11 Updates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elden-ring-release-delayed-what-fans-need-to-know/"><u>Elden Ring Release Delayed: What Fans Need to Know</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/equipment-guide-for-dynamic-documentary-making-for-2024/"><u>Equipment Guide for Dynamic Documentary Making for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-fixing-error-3-0x0001000b-on-rainbow-six-siege-a-step-by-step-approach/"><u>Expert Tips for Fixing Error 3-0X0001000B on Rainbow Six Siege: A Step-by-Step Approach</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fall-guys-optimization-guide-how-to-achieve-higher-fps-and-reduce-game-latency/"><u>Fall Guys Optimization Guide: How to Achieve Higher FPS & Reduce Game Latency</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-honor-x7b-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Honor X7b Through Google Earth?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-nokia-c02-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Nokia C02 FRP?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigating-german-colloquialisms-with-confidence-top-25/"><u>Navigating German Colloquialisms with Confidence (Top 25)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-unexpected-crashes-resolving-ghost-runners-windows-10-glitches-successfully/"><u>Overcoming Unexpected Crashes: Resolving Ghost Runner's Windows 10 Glitches Successfully</u></a></li>
+<li><a href="https://program-issues.techidaily.com/silent-livestream-issues-heres-why-and-how-to-fix-them-on-twitch/"><u>Silent Livestream Issues? Here's Why and How to Fix Them on Twitch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-tutorial-improving-stability-and-eliminating-crashes-in-pcs-guilty-gear-strive/"><u>Step-by-Step Tutorial: Improving Stability and Eliminating Crashes in PC's Guilty Gear Strive</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-pc-content-warnings-from-crashing-a-step-by-step-fix-guide/"><u>Stop PC Content Warnings From Crashing – A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/taking-a-glimpse-at-amds-future-with-rdna-35-and-its-expected-unveiling/"><u>Taking a Glimpse at AMD’s Future with RDNA 3.5 and Its Expected Unveiling</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-dolby-atmos-playback-problems-in-windows-11-and-10/"><u>Troubleshooting Dolby Atmos Playback Problems in Windows 11 and 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722987813185-troubleshooting-lost-ark-on-your-computer-no-more-unwanted-shutdowns/"><u>Troubleshooting Lost Ark on Your Computer: No More Unwanted Shutdowns</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tuxedos-latest-marvel-sirius-16-gen2-all-amd-linux-game-pc-high-definition-165hz-screen-for-immersive-play-starting-at-1699/"><u>Tuxedo's Latest Marvel: Sirius 16 Gen2 All-AMD Linux Game PC - High-Definition 165Hz Screen for Immersive Play Starting at €1699</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solution Found! Enhancing Gameplay Speed in The Elder Scrolls Online - Blackwood Expansion
-date: 2024-09-15T19:46:04.600Z
-updated: 2024-09-21T18:12:38.710Z
+date: 2025-01-17T03:07:21.529Z
+updated: 2025-01-24T14:29:47.291Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ It’s annoying when you can’t connect to the EA server or receive the error m
 3. [Run as administrator](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 5. [Clear game cache](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Check the server status
 
@@ -64,7 +68,16 @@ If it’s not the server, please move to the next method.
 6. Click Use the following DNS server addresses and enter the Google DNS server address.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-41-46.jpg)
 7. Click**OK** to save the change.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Reboot the game and check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Run as administrator
 
@@ -77,6 +90,10 @@ Some players suggest Run as administrator could fix this issue.
 4. Reboot the game and check.
 
 If this method doesn’t help, please move to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Update your drivers
 
@@ -91,30 +108,14 @@ If this method doesn’t help, please move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
- If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ### Method 5: Clear game cache
 
@@ -163,5 +164,22 @@ If this method doesn’t help, please move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-asmr-channel-discoveries-for-2024/"><u>[New] Essential ASMR Channel Discoveries for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-stay-controlled-online-guide-to-blocking-distracting-youtube-channels/"><u>[Updated] In 2024, Stay Controlled Online Guide to Blocking Distracting YouTube Channels</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-moment-mastery-the-best-cams-for-extended-shutter-times/"><u>2024 Approved Moment Mastery The Best Cams for Extended Shutter Times</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-vivo-y200e-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Vivo Y200e 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993855904-bluestacks-hiccups-heres-how-you-can-fix-them-quickly-and-easily/"><u>BlueStacks Hiccups? Here's How You Can Fix Them Quickly and Easily!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004276678-brighten-up-your-gameplay-fixing-the-dark-mode-bug-in-call-of-duty-wwii-on-windows/"><u>Brighten Up Your Gameplay: Fixing the Dark Mode Bug in Call of Duty: WWII on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-the-hurdle-connect-to-origin-successfully-now/"><u>Bypassing the Hurdle: Connect to Origin Successfully Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-lag-instantly-tricks-for-a-smooth-elden-ring-gameplay/"><u>Eliminate Lag Instantly: Tricks for a Smooth Elden Ring Gameplay</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/german-pronunciation-basics-for-new-learners/"><u>German Pronunciation Basics for New Learners</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-your-computer-from-crashing-while-playing-madden-21/"><u>How to Prevent Your Computer From Crashing While Playing Madden '21</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-implementing-precise-timing-features-for-engaged-youtube-audiences/"><u>In 2024, Implementing Precise Timing Features for Engaged YouTube Audiences</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stable-play-effective-solutions-for-fifa-20-continuous-crashing-on-personal-computers-comprehensive-guide/"><u>Mastering Stable Play: Effective Solutions for FIFA 20 Continuous Crashing on Personal Computers [COMPREHENSIVE GUIDE]</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-y100i-power-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-nubia-z50-ultra-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Nubia Z50 Ultra ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-when-call-of-duty-warzone-refuses-to-open/"><u>Troubleshooting Steps for When 'Call of Duty: Warzone' Refuses to Open</u></a></li>
+</ul></div>
 

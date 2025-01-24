@@ -1,7 +1,7 @@
 ---
 title: Resolving Lag & Hiccups in Dragon's Dogma 2 - Optimize Your Experience
-date: 2024-09-19T22:27:07.400Z
-updated: 2024-09-21T20:56:04.592Z
+date: 2025-01-23T04:40:14.576Z
+updated: 2025-01-24T03:47:59.976Z
 tags:
   - win11
   - win10
@@ -65,10 +65,7 @@ thumbnail: https://thmb.techidaily.com/318f85e5a53d5f60469d32582133c5ee92bbc0ceb
 If the issue persists, go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Verify the integrity of game files
@@ -81,25 +78,23 @@ If the issue persists, go ahead with the next fix.
 3. Select the LOCAL FILES tab and click**Verify integrity of game files…** .  
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once done, relaunch Psychonauts 2 to see if the problem is resolved.
 
 If the crashing issue remains, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Launch the game in DX11 mode
 
@@ -115,6 +110,10 @@ If the crashing issue remains, continue to the next fix.
 
 If this fix doesn’t do the trick, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Check your firewall and antivirus settings
 
  Sometimes your Windows Firewall or antivirus software could block the normal operation of Psychonauts 2 and cause the game crashes. To ensure that Psychonauts 2 works properly, you should allow the game through the firewall or add it as an exception to your antivirus software.
@@ -126,10 +125,7 @@ Allow Psychonauts 2 through Windows Firewall:
 2. Click**Allow an app through firewall** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-an-app-through-firewall.jpg)
@@ -141,14 +137,11 @@ Allow Psychonauts 2 through Windows Firewall:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-an-app.jpg)
 6. Click**OK** to save changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/ok.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The way to add Psychonauts 2 as an exception to your antivirus software will vary depending on the antivirus software you’re using.
 
@@ -177,5 +170,22 @@ Allow Psychonauts 2 through Windows Firewall:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-key-to-video-marketing-dominance-youtubes-seo-secrets/"><u>[New] In 2024, The Key to Video Marketing Dominance YouTube's SEO Secrets</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-core-framework-principles-for-engaging-online-promotions/"><u>[Updated] Core Framework Principles for Engaging Online Promotions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/dissecting-the-ispring-screencap-magic-for-2024/"><u>Dissecting the iSpring Screencap Magic for 2024</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/entfernung-von-doppelten-nachrichten-aus-dem-postfach-eine-schritt-fur-schritt-anleitung-fur-outlook-benutzer/"><u>Entfernung Von Doppelten Nachrichten Aus Dem Postfach: Eine Schritt-Für-Schritt-Anleitung Für Outlook Benutzer</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/get-family-flicks-for-kids-free-movie-downloads-in-multiple-formats-via-kid-movie-downloader/"><u>Get Family Flicks for Kids - Free Movie Downloads in Multiple Formats via Kid Movie Downloader</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-printer-and-laptop-3-enhancements-for-seamless-connection/"><u>HP Printer & Laptop: 3 Enhancements for Seamless Connection</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-invisible-glance-at-fb-episodes/"><u>In 2024, Invisible Glance at FB Episodes</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-quick-access-on-windows-11-the-taskbars-search-tool/"><u>Mastering Quick Access on Windows 11: The Taskbar’s Search Tool</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-persistent-issue-of-microsoft-edge-freezing-in-windows-11-problem-solved/"><u>Overcoming the Persistent Issue of Microsoft Edge Freezing in Windows 11 - Problem Solved</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-performance-boost-overcoming-doubled-frame-rate-drop/"><u>PC Performance Boost: Overcoming Doubled Frame Rate Drop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-dota-2-delays-revolutionary-techniques-to-enhance-performance/"><u>Say Goodbye to Dota 2 Delays: Revolutionary Techniques to Enhance Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solving-itunes-detected-audio-issue-for-seamless-listening-experience/"><u>Step-by-Step: Solving iTunes Detected Audio Issue for Seamless Listening Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-windows-system-crashes-for-xcom-2-players/"><u>Troubleshooting Windows System Crashes for XCOM 2 Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-eliminate-sims-4-slow-performance-issues-on-your-pc/"><u>Ultimate Guide: Eliminate Sims 4 Slow Performance Issues on Your PC</u></a></li>
+</ul></div>
 

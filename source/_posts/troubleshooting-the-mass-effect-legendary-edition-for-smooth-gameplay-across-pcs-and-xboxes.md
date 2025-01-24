@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the Mass Effect Legendary Edition for Smooth Gameplay Across PCs and Xboxes
-date: 2024-09-19T21:43:32.538Z
-updated: 2024-09-21T17:52:46.794Z
+date: 2025-01-21T01:17:14.010Z
+updated: 2025-01-24T06:24:59.181Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/c7faa06295ae09ceb9c04771af8ef4a70065bcb58
 ## Trouble-Free Solution to the Ashen Error – Fast and Effective Fixes Revealed
 
 **Ashen keeps crashing on your PC?** You’re not alone! But don’t worry. You can fix the Ashen crash issue on your own quickly and easily after reading this post!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -62,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/c7faa06295ae09ceb9c04771af8ef4a70065bcb58
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics drivers
 
  Ashen may crash if the graphics drivers on your PC are outdated or corrupted. So you can try updating your graphics drivers to the latest version to see if it helps fix the the game crash issue.
@@ -82,11 +90,19 @@ thumbnail: https://thmb.techidaily.com/c7faa06295ae09ceb9c04771af8ef4a70065bcb58
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Repair the game
 
@@ -95,17 +111,19 @@ thumbnail: https://thmb.techidaily.com/c7faa06295ae09ceb9c04771af8ef4a70065bcb58
 1. In Epic Game Launcher, navigate to your **Library** . Click **the cog icon** on the lower-right corner of **Ashen** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-49-47.png)
 2. Click **Verify** to start verifying the game files.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 3. Launch Ashen when the verifying process completed.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  See if you can play the game without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest Ashen patch
 
@@ -127,6 +145,10 @@ thumbnail: https://thmb.techidaily.com/c7faa06295ae09ceb9c04771af8ef4a70065bcb58
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and install them on your PC.
 
@@ -152,13 +174,6 @@ thumbnail: https://thmb.techidaily.com/c7faa06295ae09ceb9c04771af8ef4a70065bcb58
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Optimize your graphics card settings
 
@@ -188,10 +203,7 @@ Select your graphics card manufacturer first:
 2. View Control Panel by **Large icons** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
@@ -200,10 +212,7 @@ Select your graphics card manufacturer first:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Modify Intel graphics card settings
@@ -223,16 +232,13 @@ Select your graphics card manufacturer first:
 7. Click **Apply** to save the settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run Ashen again to see if the game will crash. If not, congratulations! You’ve resolved this issue; if this issue persists, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Add Ashen as an exception to your 3rd party antivirus software
 
@@ -260,5 +266,23 @@ Select your graphics card manufacturer first:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-leveraging-youtubes-tagging-system-for-enhanced-visibility/"><u>[New] 2024 Approved Leveraging YouTube's Tagging System for Enhanced Visibility</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-understanding-and-adhering-to-twitters-video-standards-for-2024/"><u>[New] Understanding and Adhering to Twitter's Video Standards for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-discover-8-superb-tablets-to-boost-your-photo-editing-skills/"><u>[Updated] 2024 Approved Discover 8 Superb Tablets to Boost Your Photo Editing Skills</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-engage-listeners-through-instagram-and-podcasts/"><u>2024 Approved How To Engage Listeners Through Instagram & Podcasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-livestreaming-leaderboards-which-software-tops-the-chartvmixwirecast/"><u>2024 Approved Livestreaming Leaderboards Which Software Tops the Chart—VMix/Wirecast?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-spinning-indie-podcast-hits/"><u>2024 Approved The Art of Spinning Indie Podcast Hits</u></a></li>
+<li><a href="https://program-issues.techidaily.com/blackwood-connectivity-enhanced-the-elder-scrolls-online-lag-fixed-by-latest-update/"><u>Blackwood Connectivity Enhanced: The Elder Scrolls Online Lag Fixed by Latest Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-valheim-experience-with-essential-tweaks-to-reduce-windows-ping-times/"><u>Boost Your Valheim Experience with Essential Tweaks to Reduce Windows Ping Times</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-note-50-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme Note 50 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-savings-discover-the-ultimate-surround-sound-system-now-50-off-exclusive-insight-by-zdnet/"><u>Huge Savings! Discover the Ultimate Surround Sound System Now 50% Off - Exclusive Insight by ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-smooth-playthroughs-overcoming-cod-mw3-frame-rate-challenges-insights-from-2024/"><u>Mastering Smooth Playthroughs: Overcoming COD MW3 Frame Rate Challenges - Insights From 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nier-shadow-complex-stability-enhancements-for-an-uninterrupted-adventure/"><u>NieR: Shadow Complex Stability Enhancements for an Uninterrupted Adventure</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prowl-these-top-ranked-sites-for-generous-vector-imagery-access-for-2024/"><u>Prowl These Top-Ranked Sites for Generous Vector Imagery Access for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-ghostwire-tokyo-from-crashing-a-guide-for-gamers-on-personal-computers/"><u>Stop Ghostwire: Tokyo From Crashing - A Guide for Gamers on Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-continuous-freezing-problems-during-overwatch-play/"><u>Troubleshooting Tips for Continuous Freezing Problems During Overwatch Play</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-your-pubg-pcs-sound-problem-top-tips-and-fixes/"><u>Troubleshooting Your PUBG PC's Sound Problem – Top Tips & Fixes</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Stop Street Fighter <Span Style=font-Size:xx;>6</Span> From Crashing on Your Computer"
-date: 2024-09-14T20:02:58.033Z
-updated: 2024-09-16T16:15:48.355Z
+date: 2025-01-18T22:48:06.485Z
+updated: 2025-01-24T00:00:46.345Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/953f2bfad0053de9c1fba300c8af977033f308f5e
 5. **[Disable your antivirus program](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Dauntless on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify game integrity
 
  You may encounter this issue if some files of your game installation are corrupt. If this is the case, you should verify the integrity of game files to fix the issue.
@@ -39,6 +43,10 @@ Here is how to verify the integrity of Dauntless:
  2) On the right pane, locate Dauntless, then click **the three dots icon next to** Dauntless and click **VERIFY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
 
@@ -71,6 +79,10 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -79,19 +91,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Close the background programs
 
  Your Dauntless may crash because of interference issues from some programs running in the background. They include utility programs provided by your hardware manufacturers that can improve your game performance. To see if that’s the case for you, close all those programs before you run your game. Then check to see if this is able to stop your crashing issue.
@@ -99,13 +98,6 @@ Here is how to verify the integrity of Dauntless:
  Hopefully your Dauntless crashing issue is resolved by now. If it’s still no joy, please move on to**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus program
 
@@ -118,6 +110,10 @@ Here is how to verify the integrity of Dauntless:
  Dauntless still crashes? Don’t worry, you have one more fix to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Run Dauntless on the dedicated graphics card
 
@@ -138,10 +134,7 @@ Here is how to verify the integrity of Dauntless:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
@@ -149,19 +142,6 @@ Here is how to verify the integrity of Dauntless:
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
@@ -184,5 +164,26 @@ Here is how to verify the integrity of Dauntless:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/avigating-youtubes-subtitlecc-landscape-with-expertise-and-speed/"><u>[New] Navigating YouTube's Subtitle/CC Landscape with Expertise and Speed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-proven-methods-for-high-quality-webinars/"><u>[New] Proven Methods for High-Quality Webinars</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-techniques-for-snagging-switch-gaming-videos/"><u>[New] Techniques for Snagging Switch Gaming Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitmedia-mastery-elevate-your-tweet-game/"><u>[Updated] TwitMedia Mastery Elevate Your Tweet Game</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210282902-9781950685653-always-arising/"><u>Always Arising | Free Book</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/androidiphones-finest-top-10-cost-effective-image-enhancers-ranked-for-2024/"><u>Android/iPhone's Finest – Top 10 Cost-Effective Image Enhancers Ranked for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximize-your-connection-with-tango-enjoy-cost-free-chat-voice-and-video-calling/"><u>Maximize Your Connection with Tango - Enjoy Cost-Free Chat, Voice & Video Calling</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigate-the-challenges-of-alan-wake-2s-latest-crash-problems/"><u>Navigate the Challenges of Alan Wake 2'S Latest Crash Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-issues-when-attempting-to-play-avatar-frontiers-of-pandora/"><u>Overcoming Issues When Attempting to Play Avatar: Frontiers of Pandora</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quadro-rtx-6000-latest-driver-release/"><u>Quadro RTX 6000 Latest Driver Release</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-steps-for-the-elder-scrolls-online-launching-issues/"><u>Resolved: Troubleshooting Steps for 'The Elder Scrolls Online' Launching Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-problem-when-your-paradox-launcher-wont-start-up/"><u>Solving the Problem When Your Paradox Launcher Won't Start Up</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-complete-guide-to-fixing-stutter-and-lag-in-minecraft-optimizing-performance-for-a-seamless-gameplay-updated-with-latest-strategies-2023/"><u>The Complete Guide to Fixing Stutter and Lag in Minecraft: Optimizing Performance for a Seamless Gameplay (Updated with Latest Strategies, 2023)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-solutions-for-troubleshooting-guidedowntime-issues-on-iphones/"><u>Top 6 Solutions for Troubleshooting GuideDowntime Issues on iPhones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-high-disk-and-cpu-utilization-in-wsappx-applications/"><u>Troubleshooting High Disk and CPU Utilization in WSAPPX Applications</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-voice-communication-issues-in-among-us-for-windows-users/"><u>Troubleshooting Steps: Resolving Voice Communication Issues in Among Us for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-fortnite-warzone-lag-issues/"><u>Ultimate Guide: Resolving Fortnite Warzone Lag Issues</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unmatched-subtitle-expertise-top-10-leaders-in-video-caption-manipulation/"><u>Unmatched Subtitle Expertise – Top 10 Leaders in Video Caption Manipulation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unstick-your-game-solutions-for-continuous-loading-in-far-cry-5/"><u>Unstick Your Game: Solutions for Continuous Loading in 'Far Cry 5'</u></a></li>
+</ul></div>
 

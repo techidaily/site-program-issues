@@ -1,7 +1,7 @@
 ---
 title: Battling Endless Restarts? Here's a Fix for Constant Crashes in God of War on Windows/Mac
-date: 2025-01-16T19:27:41.943Z
-updated: 2025-01-17T17:15:52.790Z
+date: 2025-01-19T18:13:47.035Z
+updated: 2025-01-23T20:49:49.453Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Stop overclocking
@@ -82,14 +82,10 @@ If the issue persists, try the next fix below.
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Install the latest game patch
@@ -112,11 +108,19 @@ If the issue persists, try the next fix below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  See if Metro Exodus PC Enhanced Edition crashes after you disabled all the in-game overlays. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Perform a clean boot
 
@@ -132,22 +136,18 @@ To perform a clean boot, just follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services,** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
@@ -184,22 +184,20 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/eamless-integration-of-youtube-melodies-into-imovie-for-2024/"><u>[New] Seamless Integration of YouTube Melodies Into iMovie for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-professional-recordings-ensuring-flawless-gameplay-footage-of-roblox-on-macs/"><u>[Updated] Professional Recordings Ensuring Flawless Gameplay Footage of Roblox on Macs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boost-your-valorant-gameplay-top-strategies-to-improve-frame-rate-and-eliminate-lag-issues-updated/"><u>Boost Your 'Valorant' Gameplay: Top Strategies to Improve Frame Rate and Eliminate Lag Issues (Updated )</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cracking-the-code-expert-advice-for-fixing-e-1030003-in-rainbow-six-tarkov/"><u>Cracking the Code: Expert Advice for Fixing E-1030#003 in Rainbow Six: Tarkov</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-your-battles-against-demons-with-smooth-gameplay-resolving-stuttering-and-low-fps-in-naraka-bladepoint/"><u>Enhance Your Battles Against Demons with Smooth Gameplay: Resolving Stuttering and Low FPS in Naraka: Bladepoint</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ghostwire-tokyo-overcoming-persistent-pc-malfunctions-and-crashes/"><u>Ghostwire: Tokyo - Overcoming Persistent PC Malfunctions and Crashes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-to-activating-terminals-quake-modes/"><u>Guide to Activating Terminal's Quake Modes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/high-tech-vr-handhelds-our-top-10-list/"><u>High-Tech VR Handhelds Our Top 10 List</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Honor Magic 6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-a15-4g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy A15 4G Fingerprint Lock</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/mastering-silence-techniques-for-eliminating-sibilance-in-recordings-for-2024/"><u>Mastering Silence Techniques for Eliminating Sibilance in Recordings for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/professional-grade-video-editing-made-easy-for-windows-8-users/"><u>Professional-Grade Video Editing Made Easy for Windows 8 Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fix-guide-for-players-what-to-do-if-the-paradox-launcher-fails/"><u>Quick Fix Guide for Players: What To Do If The Paradox Launcher Fails</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-solutions-for-a-non-responsive-lenovo-biometric-sensor/"><u>Simple Solutions for a Non-Responsive Lenovo Biometric Sensor</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steamvr-trouble-no-more-overcoming-error-308-quickly/"><u>SteamVR Trouble No More: Overcoming Error 308 Quickly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-tutorial-overcoming-black-screen-glitches-in-rainbow-six-siege-pc-edition/"><u>Step-by-Step Tutorial: Overcoming Black Screen Glitches in Rainbow Six Siege PC Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722993817324-unexpected-graphic-faults-in-valorant-heres-how-you-can-fix-them-swiftly/"><u>Unexpected Graphic Faults in Valorant? Here's How You Can Fix Them Swiftly</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-vectors-explained-an-entry-level-guide-to-forms-and-applications/"><u>[New] In 2024, Vectors Explained An Entry-Level Guide to Forms and Applications</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boost-your-budget-a-straightforward-triple-step-method-to-monitor-youtube-revenue/"><u>[Updated] 2024 Approved Boost Your Budget A Straightforward Triple-Step Method to Monitor YouTube Revenue</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/closing-an-outdated-linkedin-profile-a-step-by-step-guide/"><u>Closing an Outdated LinkedIn Profile A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ds4-controllers-on-windows-overcoming-driver-install-failed-errors-effectively/"><u>DS4 Controllers on Windows – Overcoming 'Driver Install Failed' Errors Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-your-gas-station-simulator-from-keeping-the-computer-down/"><u>How to Stop Your Gas Station Simulator From Keeping the Computer Down!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-strategies-for-keeping-your-youtube-video-under-cc-accessible/"><u>In 2024, Strategies for Keeping Your YouTube Video Under CC Accessible</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-thrustmaster-t300-driver-software-on-windows-10-and-11-systems-downloads-available-here/"><u>Install ThrustMaster T300 Driver Software on Windows 10 & 11 Systems - Downloads Available Here</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-amd-chipset-drivers-download-guide-for-microsoft-windows/"><u>Latest AMD Chipset Drivers Download Guide for Microsoft Windows</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-mastering-canon-footage-a-step-by-step-guide-to-video-editing/"><u>New In 2024, Mastering Canon Footage A Step-by-Step Guide to Video Editing</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/optimal-google-cast-devices/"><u>Optimal Google Cast Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-your-shooter-experience-effective-solutions-for-reducing-fps-lags-in-valorant-updated/"><u>Optimize Your Shooter Experience: Effective Solutions for Reducing FPS Lags in VALORANT (Updated )</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-steps-when-rainbow-six-siege-doesnt-start/"><u>Resolved: Troubleshooting Steps When Rainbow Six Siege Doesn't Start</u></a></li>
+<li><a href="https://program-issues.techidaily.com/restoring-functionality-to-your-pathfinder-wrath-of-the-righteous-game-controllerkeyboard/"><u>Restoring Functionality to Your 'Pathfinder: Wrath of the Righteous' Game Controller/Keyboard</u></a></li>
+<li><a href="https://program-issues.techidaily.com/reviving-your-obs-mic-the-experts-ranking-of-best-solutions/"><u>Reviving Your OBS Mic : The Expert's Ranking of Best Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-helldivers-2-how-to-restore-missing-msvcr110dll-file/"><u>Troubleshooting Helldivers 2: How to Restore Missing MSVCR110.dll File</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effectively Lowering CPU Consumption for a Smoother God of War Experience
-date: 2024-09-15T21:25:58.803Z
-updated: 2024-09-16T17:45:40.531Z
+date: 2025-01-20T19:26:11.858Z
+updated: 2025-01-24T08:43:29.459Z
 tags:
   - win11
   - win10
@@ -45,11 +45,19 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-794.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click the resource-consuming process and select**End Process Tree** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-809.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you turn off unnecessary processes on your computer, restart Steam to see if it runs faster. If this doesn’t help, try[](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  to clear Steam cache and cookies.
 
@@ -62,6 +70,10 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 **2)** Check your current**CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-805.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right-click the resource-consuming process and select**End task** .
 
@@ -85,6 +97,10 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-788.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select**Web Browser** and click**DELETE WEB BROWSER CACHE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-787.png)
@@ -92,6 +108,10 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 **4)** Click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-786.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Click**DELETE ALL BROWSER COOKIES** .
 
@@ -113,6 +133,10 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
  Check if this method helped in speeding up Steam. If Steam still runs slow, try the fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your device drivers
 
  Outdated or faulty device drivers can also cause Steam to lag. To see if that’s the problem for you, try updating your drivers. There are two ways you can do this:
@@ -128,16 +152,7 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-17_12-11-59-5.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the**Update** button next to the driver you need to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
@@ -147,16 +162,7 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-17_12-12-06-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -167,13 +173,6 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 **4)** Restart Steam to test your issue.
 
 If your problem persists, then move on and try the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable auto proxy settings
 
@@ -189,13 +188,6 @@ If your problem persists, then move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-807.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the**Connections tab** , and then click**LAN settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-775.png)
@@ -209,13 +201,6 @@ If your problem persists, then move on and try the fix below.
 **5)** Restart Steam client to test your issue.
 
 If this didn’t resolve your problem, move on and try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Repair the Steam service
 
@@ -251,6 +236,10 @@ If your issue continues to occur, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-774.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Under**View b** y, select**Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-773.png)
@@ -262,6 +251,10 @@ If your issue continues to occur, then move on to the next fix below.
 **6)** Right-click**Steam** , and then click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-771.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
@@ -297,5 +290,26 @@ If your issue continues to occur, then move on to the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/fixed-cod-modern-warfare-3-the-application-has-unexpectedly-stopped-working/"><u>[Fixed] COD Modern Warfare 3 The Application Has Unexpectedly Stopped Working</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-top-ae-scripting-tools-and-plug-ins/"><u>[New] 2024 Approved Top AE Scripting Tools & Plug-Ins</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-apple-music-and-video-harmony-explained/"><u>[New] Apple Music and Video Harmony Explained</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-digital-memory-keepers-taking-screenshots-on-xbox-one/"><u>[New] Digital Memory Keepers Taking Screenshots on Xbox One</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-how-do-i-use-adobe-premiere-to-upload-youtube-videos-in-2024/"><u>[Updated] How Do I Use Adobe Premiere To Upload YouTube Videos, In 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/combine-videos-without-branding-7-top-choices/"><u>Combine Videos Without Branding 7 Top Choices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-launch-problems-in-call-of-duty-black-ops-4-solutions-unveiled/"><u>How To Overcome Launch Problems in Call Of Duty: Black Ops 4 - Solutions Unveiled</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-nubia-red-magic-9-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Nubia Red Magic 9 Pro without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-omegle-uncovered-delving-into-internet-based-social-sessions-security-landscape/"><u>New 2024 Approved Omegle Uncovered Delving Into Internet-Based Social Sessions Security Landscape</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fix-guide-resolving-world-of-warships-issues-on-windows-machines-5-methods/"><u>Quick Fix Guide: Resolving World of Warships Issues on Windows Machines [5 Methods]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-resolving-issues-with-genshin-impact-startup/"><u>Quick Solutions: Resolving Issues with Genshin Impact Startup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-crashing-problems-on-your-arma-3-pc-latest-updates-for-gaming-smoothness/"><u>Resolving Crashing Problems on Your Arma 3 PC: Latest Updates for Gaming Smoothness</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013183034-solving-the-puzzle-of-football-manager-2022s-missing-debut-tips-and-tricks/"><u>Solving the Puzzle of Football Manager 2022'S Missing Debut – Tips and Tricks!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-best-video-capture-for-iphoneipad-users-for-2024/"><u>The Best Video Capture for iPhone/iPad Users for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transitioning-your-sign-in-from-ease-of-use-with-pin-to-enhanced-security-with-passwords-in-windows-11/"><u>Transitioning Your Sign-In: From Ease of Use with PIN to Enhanced Security with Passwords in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004017408-troubleshooting-guide-adobe-startup-failure-issue-error-0xc00/"><u>Troubleshooting Guide: Adobe Startup Failure Issue - Error 0Xc00#</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-black-screen-issues-in-persona-5-strikers/"><u>Troubleshooting Guide: Fixing Black Screen Issues in Persona 5 Strikers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-when-cs-go-fails-to-open/"><u>Troubleshooting Tips for When CS: GO Fails to Open</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-linux-potential-setting-up-chatgpt-for-beginners-and-pros-alike/"><u>Unlocking Linux Potential: Setting Up ChatGPT for Beginners & Pros Alike</u></a></li>
+</ul></div>
 

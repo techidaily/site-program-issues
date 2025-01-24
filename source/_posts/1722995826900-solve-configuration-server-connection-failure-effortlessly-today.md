@@ -1,7 +1,7 @@
 ---
 title: Solve ‘Configuration Server Connection Failure’ Effortlessly Today
-date: 2025-01-16T05:04:24.615Z
-updated: 2025-01-17T22:27:14.929Z
+date: 2025-01-21T22:54:47.931Z
+updated: 2025-01-24T08:46:36.247Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 * [1. Sign in again](https://tools.techidaily.com/drivereasy/download/)
@@ -39,7 +35,7 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 * [5. Enable Xbox Live Networking Service & Xbox Live Auth Manager](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Sign in again
@@ -49,6 +45,10 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
  If you’re on Steam, the**“Sign out”** option should appear when you start the game.
 
 ![sign out steam](https://images.drivereasy.com/wp-content/uploads/2021/05/sign-out.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  But if this method doesn’t do the trick, you can try the next fix below.
 
@@ -62,15 +62,19 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Xbox.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select**Fix it** . Windows will try to detect and fix known issues with Teredo.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/fix-it.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Once complete, you will need to click the**Check again** button. If there’s no issue detected, you can launch your game to check if the ‘Unable to connect to the live configuration servers’ issue disappears.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Reinstall the Teredo Adapter
 
@@ -79,6 +83,10 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
  1) In the Search bar, type**cmd** and select**Run as administrator** .
 
 ![command prompt admin](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Type **the following command** and press **Enter** .
 
@@ -112,10 +120,6 @@ netsh interface Teredo set state type=default
 
 ![command prompt admin](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type **the following command** and press **Enter** .
 
 netsh advfirewall set allprofiles state on
@@ -123,10 +127,6 @@ netsh advfirewall set allprofiles state on
 3) Close the Command Prompt.
 
  Launch your game again to test the issue, and if this method doesn’t do the trick, check the one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Enable Xbox Live Networking Service & Xbox Live Auth Manager
 
@@ -136,13 +136,13 @@ netsh advfirewall set allprofiles state on
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/services-run-box.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Scroll down the bottom, and make sure**Xbox Live Auth Manager** and**Xbox Live Networking Service** are running. If not, right-click the service and click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/services-on.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Close the window and launch your game.
 
@@ -169,20 +169,24 @@ netsh advfirewall set allprofiles state on
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-making-your-videoclips-stand-out-with-easy-text-addition/"><u>[New] 2024 Approved Making Your Videoclips Stand Out with Easy Text Addition</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723010079120-breaking-news-the-long-awaited-release-of-immortals-fenyx-rising-is-finally-here/"><u>Breaking News: The Long-Awaited Release of Immortal's Fenyx Rising Is Finally Here!</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/comprehensive-guide-to-obtaining-visual-assets/"><u>Comprehensive Guide to Obtaining Visual Assets</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cyberpunk-2077s-frames-per-second-fps-performance-issues-resolved/"><u>Cyberpunk 2077'S Frames Per Second (FPS) Performance Issues Resolved</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-skyrim-crash-error-code-283-in-xbox-one-pc-and-nintendo-wii-u-systems/"><u>Fixing Skyrim Crash Error Code 283 in Xbox One, PC, and Nintendo Wii U Systems</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-narzo-60x-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-get-and-install-new-drivers-for-your-canon-mp250-printer/"><u>How to Get & Install New Drivers for Your Canon MP250 Printer</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Motorola Moto G84 5G? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/1723013917514-la-noire-on-steam-now-available-overcoming-the-pending-pc-release-issues/"><u>L.A. Noire on Steam Now Available – Overcoming the Pending PC Release Issues!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/masterclass-fixing-steam-games-not-working-problems-for-users-of-windows-nx/"><u>Masterclass: Fixing 'Steam Games Not Working' Problems for Users of Windows nX</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-functionality-errors-making-your-steelseries-gg-engine-work-flawlessly-in-windows/"><u>Overcoming Functionality Errors: Making Your SteelSeries GG Engine Work Flawlessly in Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-gaming-with-dragons-dogma-2-how-to-overcome-low-fps-woes/"><u>Smooth Gaming with Dragon's Dogma 2: How to Overcome Low FPS Woes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-cs2-gameplay-interruptions-boost-your-pcs-frame-rate/"><u>Solving CS2 Gameplay Interruptions: Boost Your PC's Frame Rate</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1168805-9781577313113-the-power-of-now/"><u>The Power of Now | Free Book</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-persistent-discord-app-malfunctions/"><u>Ultimate Guide: Resolving Persistent Discord App Malfunctions</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-how-to-download-gif-images-from-twitter/"><u>2024 Approved How to Download GIF Images From Twitter</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-how-to-rectify-silent-streams-with-obs/"><u>2024 Approved How to Rectify Silent Streams with OBS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-key-information-every-asmr-aficionado-should-know/"><u>2024 Approved Key Information Every ASMR Aficionado Should Know</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pros-recommended-slow-motion-camera-apps-ios-and-android-edition/"><u>2024 Approved Pro's Recommended Slow Motion Camera Apps IOS & Android Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/6-top-fixes-for-a-non-functional-obs-microphone-updated-guide-2024/"><u>6 Top Fixes for a Non-Functional OBS Microphone - Updated Guide 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boosting-your-gaming-experience-overcoming-low-fps-challenges-in-the-latest-formula-one-video-game-on-pc/"><u>Boosting Your Gaming Experience: Overcoming Low FPS Challenges in the Latest Formula One Video Game on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003797147-continuous-pc-crashes-while-playing-watch-dogs-legion-solved/"><u>Continuous PC Crashes While Playing Watch Dogs: Legion - Solved</u></a></li>
+<li><a href="https://win-top.techidaily.com/conversion-facile-et-gratuite-de-fichiers-3gp-en-format-mpeg-sur-le-web-service-gratuit-par-movavi/"><u>Conversion Facile Et Gratuite De Fichiers 3GP en Format MPEG Sur Le Web - Service Gratuit Par Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-fixes-for-when-the-outer-worlds-keeps-crashing-on-pc/"><u>Essential Fixes for When 'The Outer Worlds' Keeps Crashing on PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-vivo-y27-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Vivo Y27 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-keep-up-with-friends-moments-best-live-stream-tools-revealed/"><u>In 2024, Keep Up With Friends' Moments Best Live-Stream Tools Revealed</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-infinix-hot-30i-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Infinix Hot 30i Phone? Unlock It Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005757058-resolving-technical-issues-with-yakuza-6-pc-version-no-more-crashes/"><u>Resolving Technical Issues with Yakuza 6 PC Version - No More Crashes!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-social-implications-of-censorship-in-automated-dialogue-systems/"><u>The Social Implications of Censorship in Automated Dialogue Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-truth-behind-the-postponement-of-guilty-gear-strive-launch/"><u>The Truth Behind the Postponement of Guilty Gear Strive Launch</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-itel-s23-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-methods-for-enhancing-your-ark-sanctuary-fps-performance-on-pc/"><u>Top Methods for Enhancing Your ARK: Sanctuary FPS Performance on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/uninterrupted-gaming-remedying-frequent-breakdowns-of-ffxiv-for-pc-users/"><u>Uninterrupted Gaming - Remedying Frequent Breakdowns of FFXIV for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/your-guide-to-shopping-for-televisions-online-top-6-retailers-revealed/"><u>Your Guide to Shopping for Televisions Online: Top 6 Retailers Revealed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Can't Play Helldivers 2 on Steam? Learn How to Resolve It Now
-date: 2025-01-17T00:59:43.197Z
-updated: 2025-01-17T17:37:30.833Z
+date: 2025-01-17T10:58:17.670Z
+updated: 2025-01-24T07:22:03.795Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-372.png)
 
  Keep getting the**Error Code: -130 Failed to load web page (unknown error)** while running Steam? You’re not alone! Many Steam users are reporting it. But the good news is that you can fix it. Here are 3 solutions to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 simple fixes to try
 
@@ -43,13 +47,13 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-363.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Restart your computer and Steam to test your issue.
 
@@ -91,13 +95,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-364.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Steam
 
@@ -108,20 +112,20 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** .
 
@@ -131,25 +135,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
 
@@ -158,6 +154,10 @@ OR
 **10)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
@@ -189,15 +189,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-distance-doesnt-matter-advanced-podcast-capturing/"><u>[New] In 2024, Distance Doesn't Matter Advanced Podcast Capturing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-artisans-approach-to-preserving-ps3-gameplay-moments/"><u>[Updated] The Artisan's Approach to Preserving PS3 Gameplay Moments</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/from-capture-to-share-the-art-of-live-360-broadcasting-on-fb/"><u>From Capture to Share The Art of Live 360 Broadcasting on FB</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-revive-old-images-using-premier-restoration-programs/"><u>How to Revive Old Images Using Premier Restoration Programs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stabilizing-deathloop-for-pc-effective-strategies-to-stop-unexpected-game-interruptions/"><u>Stabilizing Deathloop for PC: Effective Strategies to Stop Unexpected Game Interruptions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-recurring-freezes-in-metro-exodus-pc-enhanced-version/"><u>Troubleshooting Guide - Resolving Recurring Freezes in Metro Exodus PC Enhanced Version</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlock-better-gaming-experience-in-ring-of-elysium-by-boosting-your-fps/"><u>Unlock Better Gaming Experience in Ring of Elysium by Boosting Your FPS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/update-the-cancellation-of-diablo-immortals-planned-release-on-personal-computers-explained/"><u>Update: The Cancellation of Diablo Immortal's Planned Release on Personal Computers Explained</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722972286942-use-quotes-only-from-american-entrepreneurs-such-as-steve-jobs-henry-ford-or-warren-buffett/"><u>Use Quotes only From American Entrepreneurs Such as Steve Jobs, Henry Ford, or Warren Buffett</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/wowza-review-and-alternative/"><u>Wowza Review and Alternative</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-ultimate-insights-into-audio-memos/"><u>[New] 2024 Approved The Ultimate Insights Into Audio Memos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-leading-the-field-in-remotely-recorded-content-creation/"><u>[New] In 2024, Leading the Field in Remotely Recorded Content Creation</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-driving-sales-not-just-views-monetizing-your-social-media-videos-for-2024/"><u>[Updated] Driving Sales, Not Just Views Monetizing Your Social Media Videos for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-leading-audience-alteration-software-selection-for-2024/"><u>[Updated] Leading Audience Alteration Software Selection for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/5-proven-methods-to-address-no-user-logon-glitch-in-counter-strike-global-offensive/"><u>5 Proven Methods to Address No User Logon Glitch in Counter Strike: Global Offensive</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-updates-benefits-for-all-individuals/"><u>ChatGPT Updates: Benefits for All Individuals</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/jurasserial-conundrum-solved-causes-and-fixes-for-crashes-in-jurassic-world-evolution/"><u>Jurasserial Conundrum Solved: Causes and Fixes for Crashes in Jurassic World Evolution</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-drivers-and-software-for-logitech-rx250-supports-win-7-to-win-10-systems/"><u>Latest Drivers and Software for Logitech RX250: Supports Win 7 to Win 10 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/madden-22-load-error-troubleshooting-steps-for-a-smooth-startup/"><u>Madden '22 Load Error Troubleshooting Steps for a Smooth Startup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-woes-heres-how-to-stop-apex-legends-from-crashing-unexpectedly/"><u>PC Gaming Woes? Here's How to Stop Apex Legends From Crashing Unexpectedly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/silence-no-more-comprehensive-solutions-to-evil-genius-2-audio-failure/"><u>Silence No More! Comprehensive Solutions to 'Evil Genius 2' Audio Failure</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-clearing-up-the-mystery-of-persona-vee-strikers-black-screen-troubleshoot/"><u>Solved: Clearing Up the Mystery of Persona Vee Strikers' Black Screen Troubleshoot</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-resolving-the-battlenet-unable-to-launch-issue/"><u>Step-by-Step Solution: Resolving the 'Battle.net Unable to Launch' Issue</u></a></li>
+<li><a href="https://article-helps.techidaily.com/superior-vistas-for-digital-viewership-for-2024/"><u>Superior Vistas for Digital Viewership for 2024</u></a></li>
 </ul></div>
 

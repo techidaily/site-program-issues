@@ -1,7 +1,7 @@
 ---
 title: Restore Auditory Bliss in Fallout 4 PC Version with These Easy Hacks
-date: 2025-01-14T18:19:16.334Z
-updated: 2025-01-18T04:36:32.673Z
+date: 2025-01-16T20:35:36.467Z
+updated: 2025-01-23T17:47:31.260Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Run Minecraft in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 4. **[Set the anti-aliasing to default](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Uninstall and reinstall Minecraft](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Run Minecraft in compatibility mode
 
@@ -50,13 +50,13 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
 
 If the issue persists, read on and try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Check your antivirus settings
 
@@ -65,10 +65,6 @@ If the issue persists, read on and try the next fix.
  See if the black screen issue appears again after adding Minecraft as an exception to your antivirus software.
 
 If the issue remains, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -86,19 +82,11 @@ If the issue remains, move on to the next fix.
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your computer and launch Minecraft to see if the issue is resolved.
 
  If updating the graphics driver doesn’t solve your problem, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Set the anti-aliasing to default
 
@@ -111,11 +99,15 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/file-explorer.jpg)
 4. Open the**options.txt** file, then find the line with the following entry, and change the number to 4, like so:**gfx\_msaa:4** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
 5. **Save** the options.txt file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Relaunch Minecraft to see if the problem is solved.
@@ -138,6 +130,10 @@ Relaunch Minecraft to see if your issue is resolved.
 
 If not, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Uninstall and reinstall Minecraft
 
  If none of the fixes above work for you, you should consider reinstalling Minecraft completely. This will delete your local saves, so be aware to back up any files you wish to keep. Here’s how:
@@ -146,8 +142,16 @@ If not, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/appdata-minecraft.jpg)
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
@@ -155,10 +159,6 @@ If not, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once the installation is completed, launch Minecraft to check if the game works properly.
 
@@ -184,22 +184,22 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-essential-tips-for-hosting-a-successful-facebook-live-event-for-2024/"><u>[New] Essential Tips for Hosting a Successful Facebook Live Event for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-20-best-non-copyrighted-pubg-montage-thumbnail/"><u>[Updated] 20 Best Non Copyrighted PUBG Montage Thumbnail</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-how-to-transfer-photos-and-videos-from-android-phone-to-an-iphone/"><u>2024 Approved How to Transfer Photos and Videos From Android Phone to an iPhone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-14-ultra-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Xiaomi 14 Ultra</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-stabilizing-gameplay-avoiding-r-type-final-ebrashing-glitches-on-windows-and-mac-os/"><u>Guide to Stabilizing Gameplay: Avoiding R-Type Final Ebrashing Glitches on Windows and Mac OS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-address-rocket-league-performance-hiccups-and-stutters/"><u>How to Address Rocket League Performance Hiccups and Stutters</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-xiaomi-redmi-12-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Xiaomi Redmi 12 5G Phone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/how-to-fix-dav-file-wont-play-issue-on-windows-and-macos-systems/"><u>How to Fix 'DAV File Won't Play' Issue on Windows & macOS Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-xiaomi-redmi-k70e-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Xiaomi Redmi K70E</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-fix-for-stable-play-in-yakuza-6-the-song-of-life-on-pc/"><u>Mastering the Fix for Stable Play in Yakuza 6 'The Song of Life' On PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fix-guide-resolving-issues-with-madden-nfl-22/"><u>Quick Fix Guide: Resolving Issues with Madden NFL 22</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-resident-evil-village-crashing-issues-on-your-windows-pc/"><u>Resolving Resident Evil Village Crashing Issues on Your Windows PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-stability-problems-in-euro-truck-simulator-2-on-your-computer-system/"><u>Resolving Stability Problems in Euro Truck Simulator 2 on Your Computer System</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-your-pcs-or-laptops-dimmed-keyboard-a-step-by-step-guide/"><u>Revive Your PC's or Laptop's Dimmed Keyboard: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/roblox-stability-fix-6-rapid-repairs-to-enhance-your-gaming-pc/"><u>Roblox Stability Fix: 6 Rapid Repairs to Enhance Your Gaming PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-dragon-age-inquisition-fails-to-open/"><u>Troubleshooting Steps When Dragon Age Inquisition Fails to Open</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unboxing-the-future-speculations-surrounding-oneplus-10s-launch-date-value-and-tech-innovations/"><u>Unboxing the Future: Speculations Surrounding OnePlus 10'S Launch Date, Value & Tech Innovations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-the-call-of-duty-ww2-error-code-4128-problems/"><u>Effective Solutions for the 'Call of Duty: WW2' Error Code 4128 Problems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-itel-a05s-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Itel A05s Pattern Lock Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-overwatch-from-continuously-crashing-solutions-proven-effective/"><u>How to Stop Overwatch From Continuously Crashing – Solutions Proven Effective</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-iphone-15-plus-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About iPhone 15 Plus Activation Lock</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-diablo-iv-performance-top-7-tactics-to-fix-game-crashing-problems/"><u>Mastering Diablo IV Performance: Top 7 Tactics to Fix Game-Crashing Problems</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-best-video-editing-software-to-blur-faces-in-video-for-2024/"><u>New Best Video Editing Software to Blur Faces in Video for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/nine-crucial-methods-to-log-computer-speakers-and-microphones-for-2024/"><u>Nine Crucial Methods to Log Computer Speakers and Microphones for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-version-of-dragons-dogma-2-wont-start-troubleshooting-guide/"><u>PC Version of Dragon's Dogma 2 Won't Start? - Troubleshooting Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-fix-hacks-to-combat-frequent-crashes-in-deathloop-pc-version/"><u>Quick Fix Hacks to Combat Frequent Crashes in Deathloop PC Version</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-persistent-crashing-issues-with-tower-of-fantasy-pc-version-a-step-by-step-guide/"><u>Resolved: Persistent Crashing Issues with 'Tower of Fantasy' PC Version - A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-issue-of-error-code-crossbow-in-minecraft/"><u>Resolving the Issue of Error Code: Crossbow in Minecraft</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revive-your-windows-11-restarting-catroot-and-distro-files/"><u>Revive Your Windows 11: Restarting Catroot & Distro Files</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-for-managing-google-chromes-heavy-load-on-your-computers-cpu/"><u>Solution Guide for Managing Google Chrome’s Heavy Load on Your Computer's CPU</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-your-consoles-audio-issues-the-ultimate-mic-fix-guide-for-2nd4/"><u>Troubleshooting Your Console's Audio Issues - The Ultimate Mic Fix Guide for 2nD4</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/k-the-full-potential-of-video-content-with-studios-power/"><u>Unlock the Full Potential of Video Content with Studio's Power</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unstuck-your-iphones-focus-feature-handy-fixes-and-advice/"><u>Unstuck Your iPhone's Focus Feature: Handy Fixes & Advice</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ers-fears-decoded-combat-strategies-for-everyone/"><u>Vloggers' Fears Decoded Combat Strategies for Everyone</u></a></li>
 </ul></div>
 

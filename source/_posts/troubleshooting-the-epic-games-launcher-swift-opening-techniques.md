@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the Epic Games Launcher - Swift Opening Techniques
-date: 2025-01-13T19:05:44.944Z
-updated: 2025-01-18T01:31:19.559Z
+date: 2025-01-17T12:28:49.098Z
+updated: 2025-01-23T21:17:46.705Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 8. **[Reinstall Epic Games Launcher](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: End the Epic Games Launcher process in Task Manager
 
@@ -58,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
  If Epic Games Launcher still won’t launcher, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Launch Epic Games Launcher from Start Menu
 
@@ -80,16 +88,12 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1053.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the**Scale and layout** section, make sure it is set to**100%** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1056.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Run Epic Games Launcher again to see if this issue reappears.
 
@@ -98,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
@@ -112,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1071.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 
@@ -138,6 +138,10 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-496.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the**Shortcut** tab, locate the**Target:** field. Add_\-OpenGL_ to the end of the path filed. The contents of the Target field should look like the following:
 
 "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe" -OpenGL
@@ -147,7 +151,7 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-497.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Run Epic Games Launcher again to see if this fix works.
@@ -157,7 +161,7 @@ _You can do it for free if you like, but it’s partly manual._
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Add Epic Games Launcher as an exception to your third-party antivirus application
@@ -171,10 +175,6 @@ _You can do it for free if you like, but it’s partly manual._
  See if you can open Epic Games Launcher. If not, try the next fix below to repair the program in the Control Panel.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Repair Epic Games Launcher
 
@@ -234,20 +234,22 @@ Normally, after you reinstall Epic Games Launcher, it should open.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-prohero-gopro-vs-nikkor-keymission-camera-faceoff/"><u>[New] ProHero GoPro VS Nikkor Keymission Camera Faceoff</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-explore-8-leading-youtube-growth-strategies/"><u>[Updated] Explore 8 Leading Youtube Growth Strategies</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-scrutinizing-tseries-earnings-from-digital-viewership-on-youtube/"><u>[Updated] Scrutinizing TSeries’ Earnings From Digital Viewership on YouTube</u></a></li>
-<li><a href="https://program-issues.techidaily.com/essential-tricks-to-eliminate-lag-in-street-fighter-6-optimize-your-pc-gameplay/"><u>Essential Tricks to Eliminate Lag in Street Fighter 6: Optimize Your PC Gameplay</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-15-pro-max-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 15 Pro Max Data From iOS iCloud? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-a23-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-sony-xperia-1-v-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Sony Xperia 1 V FRP?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-the-ultimate-checklist-for-hit-titles-online/"><u>In 2024, The Ultimate Checklist for Hit Titles Online</u></a></li>
-<li><a href="https://program-issues.techidaily.com/in-depth-analysis-and-solutions-for-unstable-stardew-valley-gameplay-on-pc/"><u>In-Depth Analysis & Solutions for Unstable Stardew Valley Gameplay on PC</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/next-gen-gaming-horizon-upcoming-bests-in-playstation-vr/"><u>Next-Gen Gaming Horizon Upcoming Bests in PlayStation VR</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-naraka-the-beating-experience-solutions-for-low-frames-and-disrupted-audio/"><u>Optimizing Naraka: The Beating Experience - Solutions for Low Frames & Disrupted Audio</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-solutions-resolve-the-winwordexe-app-crashing-issue-with-these-simple-fixes/"><u>Quick Solutions: Resolve the 'WINWORD.EXE' App Crashing Issue with These Simple Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-issue-stop-the-enshrouded-crash-in-windows-with-ease/"><u>Resolved Issue: Stop the 'Enshrouded Crash' In Windows with Ease</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-dirt-5-from-crashing-on-your-pc-expert-tips-and-tricks/"><u>Stop Dirt 5 From Crashing on Your PC: Expert Tips and Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-2024-solution-defeating-zooms-dark-screen-issues-on-windows-and-mac-computers/"><u>The Ultimate 2024 Solution: Defeating Zoom's Dark Screen Issues on Windows & Mac Computers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dismantle-that-dominating-green-distortion-in-mac-based-videos/"><u>[New] In 2024, Dismantle That Dominating Green Distortion in Mac-Based Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-obs-not-recording-screen/"><u>[SOLVED] OBS Not Recording Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/sovled-necromunda-hired-gun-keeps-crashing-on-pc/"><u>[SOVLED] Necromunda: Hired Gun Keeps Crashing on PC</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-realme-narzo-60-pro-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Realme Narzo 60 Pro 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/apex-legends-troubleshooting-how-to-fix-error-code-23-quickly-and-easily/"><u>Apex Legends Troubleshooting: How to Fix Error Code 23 Quickly and Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/busting-through-nwstoreexe-errors-comprehensive-fix-techniques-revealed/"><u>Busting Through nw_store.exe Errors: Comprehensive Fix Techniques Revealed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722991971535-complete-guide-no-more-cyberpunk-2077-download-troubles-on-steam/"><u>Complete Guide: No More Cyberpunk 2077 Download Troubles on Steam</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-gigabyte-wb867d-motherboard-drivers-latest-version/"><u>Download GIGABYTE WB867D Motherboard Drivers - Latest Version</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-guide-resolving-the-elder-scrolls-online-failure-to-load-error/"><u>Easy Guide: Resolving 'The Elder Scrolls Online' Failure to Load Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-ways-to-overcome-the-windows-update-failure-error-0x80070652/"><u>Effortless Ways to Overcome the Window's Update Failure (Error 0X80070652)</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-webcam-activity-notifications-for-ws11-users/"><u>Enabling Webcam Activity Notifications for WS11 Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-lunar-luster-online-a-curated-list-of-hdr-sky-images/"><u>In 2024, Lunar Luster Online A Curated List of HDR Sky Images</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004823507-pc-troubles-discover-how-to-overcome-crashes-in-detroit-become-human/"><u>PC Troubles? Discover How to Overcome Crashes in Detroit: Become Human</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-mlb-the-show-21s-troubled-connection-fixed/"><u>Solution Found! MLB The Show 21'S Troubled Connection Fixed</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-lenovo-thinkphone-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Lenovo ThinkPhone FRP</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-12-pro-max-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 12 Pro Max from iCloud</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/ultimate-guide-to-2023s-top-value-zero-cost-live-broadcasting-tools/"><u>Ultimate Guide to 2023'S Top Value, Zero-Cost Live Broadcasting Tools</u></a></li>
 </ul></div>
 

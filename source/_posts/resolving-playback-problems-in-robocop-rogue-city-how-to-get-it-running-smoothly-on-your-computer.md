@@ -1,7 +1,7 @@
 ---
 title: "Resolving Playback Problems in RoboCop: Rogue City – How to Get It Running Smoothly on Your Computer"
-date: 2025-01-11T20:22:27.132Z
-updated: 2025-01-17T16:56:40.602Z
+date: 2025-01-20T16:58:22.543Z
+updated: 2025-01-23T23:28:15.802Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -43,7 +47,7 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 2. Right-click**Destiny 2: Beyond Light** from the game list, and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-22-2.jpg)
@@ -52,16 +56,12 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It will take a few minutes for Steam to detect and repair any corrupted files. Upon completion, you can relaunch Beyond Light to see if it crashes again. If yes, proceed to more fixes below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -98,6 +98,10 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3 – Set high priority
 
  Setting high priority for Beyond Light allows it to access more system resources than other programs and thus run more smoothly. Here’s how:
@@ -112,10 +116,6 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-2-3.jpg)
 4. Click**Change priority** to confirm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Relaunch the game and check whether it runs properly or not. If not, there are two more fixes below.
 
 ---
@@ -128,6 +128,10 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-3.jpg)
 2. Click**3D Settings** \>**Manage 3D settings** on the left pane.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4-3.jpg)
 3. Under the Global Settings section, scroll down and**turn off Shader Cache** .  
 
@@ -139,7 +143,7 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Reinstall Destiny 2: Beyond Light
@@ -150,19 +154,15 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-0.jpg)
 2. Right-click**Destiny 2 Beyond Light** and click**Manage** \>**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-2.jpg)
 3. On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Go to this path:**C:\\Program Files (x86)\\Steam\\steamapps\\common** . Then, delete the**Destiny 2 Beyond Light** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that the game is clean removed from your PC, download it again on Steam and check if it works without problems.
 
@@ -189,24 +189,16 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-elevate-your-engagement-top-10-video-response-insights/"><u>[New] 2024 Approved Elevate Your Engagement Top 10 Video Response Insights</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-overcoming-the-challenge-of-hidden-youtube-shorts-thumbnails/"><u>[New] Overcoming the Challenge of Hidden YouTube Shorts Thumbnails</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-pioneering-art-for-crypto-the-finest-7-generators-at-hand/"><u>[New] Pioneering Art for Crypto The Finest 7 Generators at Hand</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-shot-securement-keeping-cameras-still-on-arms-only/"><u>[Updated] In 2024, Shot Securement Keeping Cameras Still on Arms Only</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-embracing-resilience-against-online-detractors/"><u>2024 Approved Embracing Resilience Against Online Detractors</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-youtubes-gross-revenue-for-a-mil-viewer-spectacle/"><u>2024 Approved Youtube's Gross Revenue for a Mil Viewer Spectacle</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-star-wars-squadrons-gameplay-analysis-and-space-battle-experience/"><u>Comprehensive Star Wars Squadrons Gameplay Analysis & Space Battle Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/decoding-the-vertical-video-enigma-on-insta/"><u>Decoding the Vertical Video Enigma on Insta</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fast-fixes-resolve-steam-continuous-crashes-instantly/"><u>Fast Fixes: Resolve Steam Continuous Crashes Instantly!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723003697175-league-of-legends-freezing-up-fix-it-fast-with-these-simple-solutions/"><u>League of Legends Freezing Up? Fix It Fast with These Simple Solutions!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/light-and-shade-mastery-in-photographic-edits/"><u>Light & Shade Mastery in Photographic Edits</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-motorola-moto-g13-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Motorola Moto G13 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-issues-with-swtor-starting-up-expert-advice-and-fixes/"><u>Overcoming Issues with SWTOR Starting Up: Expert Advice and Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-issues-a-guide-to-troubleshoot-super-pc-freezing-problems/"><u>Resolving Issues: A Guide to Troubleshoot 'Super Pc' Freezing Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-found-how-to-accelerate-download-rates-in-utorrent/"><u>Solution Found: How to Accelerate Download Rates in uTorrent</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-problem-effective-strategies-when-your-discord-app-keeps-crashing/"><u>Solving the Problem: Effective Strategies When Your Discord App Keeps Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008453311-steam-connection-error-resolved-back-online-and-better-than-ever/"><u>Steam Connection Error Resolved - Back Online and Better Than Ever</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-msi-afterburner-not-detecting-your-gpu-in-windows-11/"><u>Troubleshooting Steps for MSI Afterburner Not Detecting Your GPU in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/win-the-battle-against-warcrafts-unstable-visuals-proven-techniques-for-fixing-flicker-issues/"><u>Win the Battle Against Warcraft's Unstable Visuals: Proven Techniques for Fixing Flicker Issues</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-rectify-faux-face-display-on-social-network-engagements/"><u>[New] Rectify Faux Face Display on Social Network Engagements</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-banner-templates-and-makers-for-youtube-for-2024/"><u>[Updated] Free Banner Templates & Makers for YouTube for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-take-your-smartphone-cinematography-to-new-heights-with-these-9-accessories/"><u>2024 Approved Take Your Smartphone Cinematography to New Heights with These 9 Accessories</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-fix-resolving-the-origin-app-crash-problem-swiftly/"><u>Effortless Fix: Resolving the 'Origin' App Crash Problem Swiftly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-address-and-repair-the-bocw-user-interface-gaffe-error-27711/"><u>How to Address and Repair the BOCW User Interface Gaffe (Error 27711)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-players-rejoice-new-world-now-runs-smoothly-without-unexpected-shutdowns/"><u>PC Players Rejoice: 'New World' Now Runs Smoothly without Unexpected Shutdowns</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-destiny-2-graphical-glitches-initialization-error-fix/"><u>Resolving Destiny 2 Graphical Glitches - Initialization Error Fix</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722995826900-solve-configuration-server-connection-failure-effortlessly-today/"><u>Solve ‘Configuration Server Connection Failure’ Effortlessly Today</u></a></li>
 </ul></div>
 

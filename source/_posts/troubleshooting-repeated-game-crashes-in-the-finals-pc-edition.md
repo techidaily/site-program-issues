@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Repeated Game Crashes in The Finals: PC Edition"
-date: 2024-09-17T16:17:10.809Z
-updated: 2024-09-21T20:03:58.731Z
+date: 2025-01-23T06:18:49.789Z
+updated: 2025-01-24T13:57:29.755Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/4f70e3d531e042394d8511ca88c9ecd662d4633e7
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -53,10 +57,7 @@ thumbnail: https://thmb.techidaily.com/4f70e3d531e042394d8511ca88c9ecd662d4633e7
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Configure your DNS settings
@@ -68,21 +69,11 @@ thumbnail: https://thmb.techidaily.com/4f70e3d531e042394d8511ca88c9ecd662d4633e7
 2. Click**Change adapter options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
@@ -116,13 +107,6 @@ thumbnail: https://thmb.techidaily.com/4f70e3d531e042394d8511ca88c9ecd662d4633e7
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 5: Switch to another server
 
  We know the error code leaf is a server connectivity issue, and the problem is more likely with the server-side. One last thing that players can do is to switch to a low ping server. The option of choosing a server is hidden, and here’s how to bring it to the front:
@@ -132,8 +116,17 @@ thumbnail: https://thmb.techidaily.com/4f70e3d531e042394d8511ca88c9ecd662d4633e7
 3. When you’re prompted to exit the game, click**Cancel** to go back to the main page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -156,5 +149,24 @@ thumbnail: https://thmb.techidaily.com/4f70e3d531e042394d8511ca88c9ecd662d4633e7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-the-most-watched-twitter-moments-of-the-decade/"><u>[New] 2024 Approved The Most Watched Twitter Moments of the Decade</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715860357024-new-capturing-screen-content-on-huawei-mate-10-20-and-p-series-phones-via-built-in-recorders/"><u>[New] Capturing Screen Content on Huawei Mate 10, 20 & P-Series Phones via Built-In Recorders.</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ushing-boundaries-of-video-production-in-youtube-studio/"><u>[New] Pushing Boundaries of Video Production in YouTube Studio</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-investigating-instagrams-videography-cap/"><u>[Updated] In 2024, Investigating Instagram's Videography Cap</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boosting-utorrent-performance-for-faster-file-downloads/"><u>Boosting uTorrent Performance for Faster File Downloads</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-solution-preventing-samurai-warriors-5-from-crashing-on-your-desktop-computer/"><u>Expert Solution: Preventing Samurai Warriors 5 From Crashing on Your Desktop Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-corsair-icue-malfunctions-a-guide-for-windows-1011-users/"><u>Fixing Corsair iCUE Malfunctions: A Guide for Windows 10/11 Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-palette-playbook-utilizing-theoretical-knowledge/"><u>In 2024, Palette Playbook Utilizing Theoretical Knowledge</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-these-hacks-conquering-state-of-decay-2-stability-problems/"><u>Master These Hacks! Conquering State of Decay 2 Stability Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-stability-issues-in-skyline-urban-development-simulator-on-laptop/"><u>Overcoming Stability Issues in Skyline Urban Development Simulator on Laptop</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfect-guide-uploading-subtitles-via-social-networks/"><u>Perfect Guide Uploading Subtitles via Social Networks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/star-wars-squadrons-gameplay-disruptions-diagnosed-how-to-prevent-future-issues/"><u>STAR WARS: Squadrons Gameplay Disruptions [Diagnosed]: How to Prevent Future Issues</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-ultimate-guide-to-top-cloud-stores-on-android/"><u>The Ultimate Guide to Top Cloud Stores on Android</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-titanfall-gropey-graphics-how-to-improve-gameplay-performance/"><u>Troubleshooting Titanfall Gropey Graphics | How to Improve Gameplay Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-tips-for-when-your-forza-horizon-4-refuses-to-start-updated-march-2023/"><u>Ultimate Troubleshooting Tips for When Your Forza Horizon 4 Refuses to Start (Updated March 2023)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-tier-electronics-with-toms-hardware-guides/"><u>Unveiling Top-Tier Electronics with Tom's Hardware Guides</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-linux-lacks-key-features-for-top-gamers/"><u>Why Linux Lacks Key Features for Top Gamers</u></a></li>
+</ul></div>
 

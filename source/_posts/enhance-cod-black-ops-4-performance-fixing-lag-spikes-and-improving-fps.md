@@ -1,7 +1,7 @@
 ---
 title: Enhance COD Black Ops 4 Performance – Fixing Lag Spikes and Improving FPS
-date: 2024-09-19T20:19:11.051Z
-updated: 2024-09-21T22:25:42.796Z
+date: 2025-01-19T21:59:09.418Z
+updated: 2025-01-23T18:05:02.304Z
 tags:
   - win11
   - win10
@@ -54,6 +54,10 @@ Here’s how you can check if your game version is up-to-date:
   
 ![verify integrity of game files Valheim](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-intergrity-of-game-files-properties-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select the **UPDATES** tab. Then click on the down arrow in the **AUTOMATIC UPDATES**  section. Then select **Always keep this game updated**  from the list.
 
 ![how to keep Valheim always updated](https://images.drivereasy.com/wp-content/uploads/2021/03/always-keep-your-game-updated.png)
@@ -67,10 +71,7 @@ Here’s how you can check if your game version is up-to-date:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update your graphics driver
@@ -78,19 +79,6 @@ Here’s how you can check if your game version is up-to-date:
  Graphical glitches or other performance issues such as freezing and stuttering may be caused by an outdated or corrupted graphics driver. Therefore, if you can’t remember when was the last time you updated your drivers, definitely do it right now as it would fix your issue with no hassle.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -100,13 +88,6 @@ Here’s how you can check if your game version is up-to-date:
 [AMD](https://www.amd.com/en/support)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -118,16 +99,17 @@ Here’s how you can check if your game version is up-to-date:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -144,16 +126,13 @@ Here’s how you can check if your game version is up-to-date:
   
 ![run Valheim as administrator](https://images.drivereasy.com/wp-content/uploads/2021/03/browse-local-file-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Find the valheim.exe file. Right-click it and select**Properties** .  
   
 ![run Valheim as administrator](https://images.drivereasy.com/wp-content/uploads/2021/03/administrator-propertities.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
   
@@ -163,11 +142,19 @@ Here’s how you can check if your game version is up-to-date:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Stop overclocking
 
  Some players may use GPU tweaking programs such as MSI Afterburner to hopefully get a performance increase. But there are some titles that don’t really support cards that are overclocked. Otherwise, your game would suffer and it may be getting to the point that your Valheim is unplayable. Therefore, we suggest you stop overclocking.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Close unnecessary programs
 
@@ -202,5 +189,23 @@ Here’s how you can check if your game version is up-to-date:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-drone-design-changes-experiment-for-free-subscribe-for-paid-access/"><u>[New] In 2024, Drone Design Changes - Experiment for Free, Subscribe for Paid Access</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-top-5-snipers-essential-windows-cutting-software/"><u>[New] In 2024, Top 5 Snipers Essential Windows Cutting Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-unlocking-the-art-of-video-capturing-everywhere/"><u>[New] In 2024, Unlocking the Art of Video Capturing Everywhere</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-visual-virtuosity-adding-fonts-to-adobe-workflows/"><u>[New] In 2024, Visual Virtuosity Adding Fonts to Adobe Workflows</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-unseen-enthusiasts-blueprint-for-instagram-live-viewership/"><u>[Updated] 2024 Approved The Unseen Enthusiast’s Blueprint for Instagram Live Viewership</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unveiling-secrets-for-converting-instagram-vids-into-high-quality-mp4/"><u>[Updated] Unveiling Secrets for Converting Instagram Vids Into High-Quality MP4</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-free-videography-tools-top-3-convertors-for-video-to-dvd/"><u>Best Free Videography Tools: Top 3 Convertors for Video to DVD</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-the-wait-how-to-fix-continuous-loading-in-among-us-games/"><u>Bypassing the Wait: How to Fix Continuous Loading in Among Us Games</u></a></li>
+<li><a href="https://program-issues.techidaily.com/differences-examined-ipad-pro-versus-macbook-pro-in-focus/"><u>Differences Examined: IPad Pro Versus MacBook Pro in Focus</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/embark-on-elevating-voice-startup-steps-for-an-engaging-product-vlog-channel/"><u>Embark on Elevating Voice Startup Steps for an Engaging Product Vlog Channel</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-gaming-lag-master-high-fps-solutions/"><u>Fix Your Gaming Lag: Master High FPS Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hitman-ebx-3-black-screen-problem-on-desktop-fixes-and-workarounds/"><u>Hitman Ebx 3 Black Screen Problem on Desktop - Fixes and Workarounds</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-issue-of-google-chrome-failure-to-start/"><u>Overcoming the Issue of Google Chrome Failure to Start</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-issue-mastering-fixes-for-minecraft-error-with-exit-code-0/"><u>Resolving the Issue: Mastering Fixes for Minecraft Error with Exit Code 0</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/streaming-giants-clash-obs-meets-twitch-studio/"><u>Streaming Giants Clash OBS Meets Twitch Studio</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-synergistic-launch-approach-that-proves-it-takes-two/"><u>The Synergistic Launch Approach That Proves 'It Takes Two'</u></a></li>
+</ul></div>
 
