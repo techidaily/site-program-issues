@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Fallout 3 Crashes on Windows 11 – Solutions Inside"
-date: 2025-01-10T19:01:27.151Z
-updated: 2025-01-18T04:36:58.712Z
+date: 2025-01-28T20:31:06.770Z
+updated: 2025-01-31T17:05:13.284Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/0c48024453358ef6a98b286edd181eb113a17b352
 6. [**Check for corrupted system files**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Scan and repair your game files
@@ -48,13 +48,13 @@ Here’s how you can check the file integrity on Steam:
 3. Wait until the checking completes. Then you can try to start the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this trick doesn’t give you luck, take a look at the next one below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -70,6 +70,10 @@ Here’s how you can check the file integrity on Steam:
 
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -88,7 +92,7 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
@@ -96,7 +100,7 @@ Here’s how you can check the file integrity on Steam:
  If this method doesn’t work for you, simply continue to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Install the latest version of Games for Windows Live (GFWL)
@@ -132,10 +136,6 @@ Here’s how you can check the file integrity on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ---
@@ -157,19 +157,22 @@ Here’s how you can check the file integrity on Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-perfect-pairing-finding-top-beats-for-unwrapping-videos/"><u>[New] 2024 Approved Perfect Pairing Finding Top Beats for Unwrapping Videos</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-diving-deep-into-burst-mode-for-professional-photography/"><u>[New] Diving Deep Into Burst Mode for Professional Photography</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-top-microphones-for-idevices-and-their-benefits-explained/"><u>[Updated] Top Microphones for iDevices & Their Benefits Explained</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723003781149-2024s-top-tricks-for-a-smooth-dota-2-experience-stop-lag-once-and-for-good/"><u>2024'S Top Tricks for a Smooth Dota 2 Experience: Stop Lag Once and For Good</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-restore-msi-mystic-light-functionality-in-windows/"><u>Fixes & Solutions: How to Restore MSI Mystic Light Functionality in Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-speed-up-painfully-slow-loads-in-your-fallout-n4-adventure/"><u>How to Speed Up Painfully Slow Loads in Your Fallout N4 Adventure</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-premium-choice-top-12-apps-with-no-time-limit-feature/"><u>In 2024, Premium Choice Top 12 Apps with No Time Limit Feature</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-obs-expert-guide-to-overcoming-your-screen-record-challenges/"><u>Mastering OBS: Expert Guide to Overcoming Your Screen Record Challenges</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-slow-downs-effective-solutions-for-a-smoother-rainbow-six-siege-experience/"><u>Overcoming Slow-Downs: Effective Solutions for a Smoother Rainbow Six Siege Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protect-yourself-from-these-9-deceptive-chatgpt-clone-virus-and-malware-apps-endangering-your-data-security/"><u>Protect Yourself From These 9 Deceptive ChatGPT Clone Virus and Malware Apps Endangering Your Data Security</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/restore-damaged-pictures-with-stellars-windows-software-solution/"><u>Restore Damaged Pictures with Stellar's Windows Software Solution</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/skilled-pilots-choice-selecting-top-5-pro-drones-for-2024/"><u>Skilled Pilots' Choice - Selecting Top 5 Pro Drones for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-guide-playstation-plus-members-unable-to-open-origin-compatible-with-windows-1011/"><u>Solution Guide: PlayStation Plus Members Unable to Open Origin, Compatible with Windows 10/11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-solving-issues-with-the-non-responsive-paradox-game-launcher/"><u>Troubleshooting Tips: Solving Issues with the Non-Responsive Paradox Game Launcher</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-step-up-to-photo-editing-excellence-with-these-must-know-pixlr-techniques/"><u>[New] In 2024, Step Up to Photo Editing Excellence with These Must-Know Pixlr Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-disconnection-errors-in-destiny-2-expert-tips-and-tricks-fixed/"><u>Banish Disconnection Errors in Destiny 2: Expert Tips & Tricks [FIXED]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-resolved-handling-unauthorized-access-warnings-in-gaming-platforms/"><u>Error Resolved: Handling Unauthorized Access Warnings in Gaming Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-tips-to-overcome-phasmophobia-vr-performance-issues/"><u>Essential Tips to Overcome Phasmophobia VR Performance Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-runescape-game-crashes-with-these-proven-tips/"><u>Fix Your RuneScape Game Crashes with These Proven Tips</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/how-to-fix-an-undetected-hard-drive-expert-advice-from-yl-computings-guide/"><u>How to Fix an Undetected Hard Drive: Expert Advice From YL Computing's Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-google-pixel-7a-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/initiating-successfully-effective-solutions-to-prevent-dead-space-remake-from-crashing-on-startup-updated-guide/"><u>Initiating Successfully: Effective Solutions to Prevent Dead Space Remake From Crashing on Startup (Updated Guide)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/junctions-brainstorming-7-hilarious-youtube-storylines/"><u>Joke Junctions Brainstorming 7 Hilarious YouTube Storylines</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-league-of-legends-solutions-for-eliminating-black-screens/"><u>Mastering League of Legends: Solutions for Eliminating Black Screens</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-multimedia-balancing-audio-visuals-and-content-quality-live/"><u>Mastering Multimedia Balancing Audio, Visuals, and Content Quality Live</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximizing-visuals-and-minimizing-lag-tricks-for-optimizing-the-ascents-fps/"><u>Maximizing Visuals & Minimizing Lag: Tricks for Optimizing The Ascent's FPS</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nokia-c12-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Nokia C12 support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-technical-hurdles-in-baldurs-gate-iii-for-a-seamless-pc-gaming-experience/"><u>Overcoming Technical Hurdles in Baldur’s Gate III for a Seamless PC Gaming Experience</u></a></li>
+<li><a href="https://app-tips.techidaily.com/revolutionizing-system-administration-how-red-hat-integrates-ai-for-enhanced-efficiency/"><u>Revolutionizing System Administration: How Red Hat Integrates AI for Enhanced Efficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solving-the-dilemma-of-non-functional-macbook-pro-keys-a-guide/"><u>Solving the Dilemma of Non-Functional MacBook Pro Keys – A Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/streamlining-your-technique-for-better-home-recordings-for-2024/"><u>Streamlining Your Technique for Better Home Recordings for 2024</u></a></li>
 </ul></div>
 

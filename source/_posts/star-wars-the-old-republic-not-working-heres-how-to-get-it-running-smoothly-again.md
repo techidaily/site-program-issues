@@ -1,7 +1,7 @@
 ---
 title: Star Wars The Old Republic Not Working? Here's How to Get It Running Smoothly Again
-date: 2025-01-11T19:40:25.204Z
-updated: 2025-01-17T22:38:57.538Z
+date: 2025-01-25T19:10:40.050Z
+updated: 2025-01-31T19:37:45.615Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/24b4a5d68fd5e6bea75410f8f6c4c82cdd5bcbea3
 | **Hard Drive**   | 30 GB                                                                                |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Recommended**system requirement**
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/24b4a5d68fd5e6bea75410f8f6c4c82cdd5bcbea3
 | **RAM**          | 8 GB                                                                                                            |
 | **Video Card**   | NVIDIA GeForce GTX 670 (or GTX 760 / GTX 960) or AMD Radeon HD 7970 (or R9 280x \[2GB VRAM\] / R9 380 / Fury X) |
 | **Hard Drive**   | 47 GB                                                                                                           |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -55,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/24b4a5d68fd5e6bea75410f8f6c4c82cdd5bcbea3
 6. **[Reinstall Uplay](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Disable your Antivirus software
@@ -72,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/24b4a5d68fd5e6bea75410f8f6c4c82cdd5bcbea3
 
 If the game is still crashing, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Run as administrator
 
  The privilege issue might be the reason for this problem. With high integrity access, Rainbow Six Siege can make full use of its features, running its function properly. So run the game as an administrator to see if this fixes your issue.
@@ -86,11 +86,11 @@ If the game is still crashing, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/ad.jpg)
 4. Click**Apply > OK** .
 
-5. Run the game and check the issue is solved or not.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Run the game and check the issue is solved or not.
 
 ### Fix 3: Update your graphics card driver
 
@@ -121,6 +121,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it launch properly.
@@ -144,10 +148,6 @@ OR
 **Note** : If it doesn’t work, you may restart Steam before doing step 4.  
  If it’s still not working, you can move to the next method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Reinstall Microsoft Visual C++ Redistributable Package
 
  If your Siege and Uplay (including the BattleEye) were successfully installed but Rainbow Six Siege won’t launch, you may need to check the supported software.
@@ -167,13 +167,13 @@ OR
 5. Launch Rainbow Six Siege to check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: If your computer don’t have Microsoft Visual C++ 201X Redistributable software, you can go to[Microsoft official website](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) to download the latest version.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Uplay
@@ -214,19 +214,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-professional-tips-achieving-crisp-focus-during-online-conferences-for-2024/"><u>[New] Professional Tips Achieving Crisp Focus During Online Conferences for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-compre-written-by-jane-doe-phd-in-cognitive-psychology-and-behavioral-science-for-2024/"><u>[New] The Compre Written By Jane Doe, PhD in Cognitive Psychology and Behavioral Science for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-integrating-video-content-youtube-and-google-slides/"><u>[Updated] Integrating Video Content YouTube & Google Slides</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-professional-editors-showdown-filmora-vs-democracy-creator-features/"><u>[Updated] Professional Editors Showdown Filmora Vs. Democracy Creator Features</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-screen-recording-essentials-and-competitive-analyses-for-2024/"><u>[Updated] Screen Recording Essentials and Competitive Analyses for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cold-war-call-of-duty-troubleshooting-error-code-887-a0005-demystified/"><u>Cold War Call of Duty Troubleshooting: Error Code 887 A0005 Demystified</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortlessly-bypassing-fortnites-stuck-loading-phase-a-comprehebly-guide/"><u>Effortlessly Bypassing Fortnite's Stuck Loading Phase: A Comprehebly Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-disk-management-pathways-for-windows-1011-users/"><u>Exploring Disk Management Pathways for Windows 10/11 Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-dragon-age-origins-from-crashing-on-your-windows-11-pc-troubleshooting-guide/"><u>How to Stop Dragon Age: Origins From Crashing on Your Windows 11 PC – Troubleshooting Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-steam-from-stalling-resolving-halted-gaming-sessions/"><u>How to Stop Steam From Stalling - Resolving Halted Gaming Sessions</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-xiaomi-redmi-12-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Xiaomi Redmi 12 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://program-issues.techidaily.com/jedi-in-trouble-no-more-resolving-star-wars-game-launch-problems-efficiently/"><u>Jedi in Trouble No More: Resolving Star Wars Game Launch Problems Efficiently</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-saints-row-resolving-pc-startup-issues/"><u>Troubleshooting Saints Row: Resolving PC Startup Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlock-your-adventure-eliminate-elden-rings-startup-black-screen-for-a-smooth-gaming-experience/"><u>Unlock Your Adventure: Eliminate Elden Ring's Startup Black Screen for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-delve-into-youtube-metrics-using-the-power-of-social-blade/"><u>[New] 2024 Approved Delve Into YouTube Metrics Using the Power of Social Blade</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-exclusive-moba-selection-for-android-gamers/"><u>[New] Exclusive MOBA Selection for Android Gamers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-photo-your-desktop-windows-edition/"><u>[Updated] In 2024, Photo Your Desktop Windows Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-asus-rog-phone-7-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Asus ROG Phone 7 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/detailed-tutorial-fix-the-problem-when-deathloop-refuses-to-start/"><u>Detailed Tutorial: Fix the Problem When Deathloop Refuses to Start</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/download-and-store-linkedin-videos-the-ultimate-list-of-6-essential-apps/"><u>Download & Store LinkedIn Videos The Ultimate List of 6 Essential Apps</u></a></li>
+<li><a href="https://facebook.techidaily.com/five-steps-and-six-rationale-for-quitting-facebook-today/"><u>Five Steps & Six Rationale for Quitting Facebook Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-effective-solutions-for-persistent-warzone-20-crashes-on-pcs/"><u>Mastering Stability: Effective Solutions for Persistent Warzone 2.0 Crashes on PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-compatibility-issues-ensuring-proper-operation-of-thaumaturge-tool/"><u>Overcoming Compatibility Issues: Ensuring Proper Operation of Thaumaturge Tool</u></a></li>
+<li><a href="https://program-issues.techidaily.com/red-dead-redemption-2-visual-error-guide-overcoming-errgfxstate-hurdles/"><u>Red Dead Redemption 2 Visual Error Guide - Overcoming ERR_GFX_STATE Hurdles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revive-your-stuck-keys-effective-solutions-to-restore-type-functionality/"><u>Revive Your Stuck Keys: Effective Solutions to Restore Type Functionality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-and-gaming-controllers-ensuring-seamless-detection-on-windows-machines/"><u>Steam and Gaming Controllers: Ensuring Seamless Detection on Windows Machines</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-get-your-non-opening-discord-app-running-again/"><u>Step-by-Step Guide to Get Your Non-Opening Discord App Running Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unravel-the-mystery-of-mass-effects-ultimate-firepower-drops/"><u>Unravel the Mystery of Mass Effect's Ultimate Firepower Drops!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-create-stunning-videos-best-movie-makers-for-win-10-for-2024/"><u>Updated Create Stunning Videos Best Movie Makers for Win 10 for 2024</u></a></li>
 </ul></div>
 

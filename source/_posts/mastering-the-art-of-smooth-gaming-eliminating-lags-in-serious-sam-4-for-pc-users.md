@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Smooth Gaming: Eliminating Lags in Serious Sam 4 for PC Users"
-date: 2025-01-12T05:47:05.662Z
-updated: 2025-01-18T06:09:02.253Z
+date: 2025-01-30T16:24:49.844Z
+updated: 2025-01-31T16:06:57.991Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ If you got frame drops during the game for no reason, don’t worry, you’re no
 | **Hard Drive**       | 40 GB free space                                                             |
 | **Additional Notes** | Laptop versions of graphics cards may work but are NOT officially supported. |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -42,6 +38,10 @@ If you got frame drops during the game for no reason, don’t worry, you’re no
 5. [Change priority](https://tools.techidaily.com/drivereasy/download/)
 6. [Verify the game files](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Switch programs & move the game to SSD
 
  This tip is from a player who figured out if his frames drop, he can use the**Alt+Tab** shortcut to switch out and back in. After that, the game starts running flawlessly.
@@ -49,10 +49,6 @@ If you got frame drops during the game for no reason, don’t worry, you’re no
  Did you install the game in HDD or SSD? We recommend installing the game on SSD so the problem might go.
 
  Since the FPS issue varies from person to person, we can’t promise this tip is working for everyone, but it’s worth trying.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Lower video settings
 
@@ -83,6 +79,10 @@ If this fix doesn’t help, move to the next fix.
 
 If it doesn’t help, move to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Update your driver
 
  Graphic card and its driver are related to the FPS issue. The outdated or wrongly installed driver might be the culprit of the issue. Therefore, make sure you have the latest drivers installed on your computer is important. What’s more, updating your drivers would improve your computer performance.
@@ -102,16 +102,16 @@ If it doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Change priority
@@ -123,6 +123,10 @@ If it doesn’t help, move to the next fix.
 3. Right-click on it and select**Set priority > Realtime** or**High** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-07_16-56-17.jpg)
 4. Reboot the game and change Game Settings to**Windowed Full-Screen** mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Check the FPS.
 
@@ -138,10 +142,6 @@ If it’s not working, move to the next fix.
 2. Right-click on Dying Light and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-07_17-10-14.png)
 3. Click**LOCAL FILES** and click**Verify integrity of game files…**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify.png)
 4. When the process is finished, reboot the game to check.
@@ -169,22 +169,22 @@ Hope this post helps and you can enjoy the game. Have fun!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://technical-tips.techidaily.com/discover-the-improved-apple-vision-pro-showroom-experience-and-secure-your-demo-today-tips-and-tricks/"><u>Discover the Improved Apple Vision Pro Showroom Experience & Secure Your Demo Today - Tips & Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/experience-the-epic-battle-god-of-war-ps4-port-delivers-as-a-stunning-pc-fps-title/"><u>Experience the Epic Battle: God of War PS4 Port Delivers as a Stunning PC FPS Title</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/guide-implementing-scheduled-backups-over-a-network-drive-in-windows-server-environments/"><u>Guide: Implementing Scheduled Backups Over a Network Drive in Windows Server Environments</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-get-past-the-play-not-allowed-hurdle-in-fortnite/"><u>How to Get Past the 'Play Not Allowed' Hurdle in Fortnite</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-a-tweet-a-day-your-2023-video-journey-begins-here/"><u>In 2024, A Tweet a Day - Your 2023 Video Journey Begins Here</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-innovators-designing-online-marvel-experiences/"><u>In 2024, Innovators Designing Online Marvel Experiences</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/is-your-apple-iphone-14-pro-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your Apple iPhone 14 Pro in Security Lockout? Proper Ways To Unlock</u></a></li>
-<li><a href="https://program-issues.techidaily.com/nier-replicant-stability-enhanced-say-goodbye-to-game-crashes/"><u>NieR: Replicant Stability Enhanced – Say Goodbye to Game Crashes!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-frame-rate-drops-and-stuttering-in-counter-strike-global-offensive-easy-fixes-guide/"><u>Solving Frame Rate Drops & Stuttering in Counter-Strike: Global Offensive - Easy Fixes Guide</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/speak-the-heart-of-transylvania-our-app-guide/"><u>Speak the Heart of Transylvania: Our App Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-fundamentals-of-creating-dynamic-podcast-feeds/"><u>The Fundamentals of Creating Dynamic Podcast Feeds</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-resolving-red-dead-redemption-2-pc-game-crashes/"><u>Troubleshooting Steps for Resolving Red Dead Redemption 2 PC Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-how-to-escape-the-far-cry-5-perpetual-load-screen-issue/"><u>Troubleshooting: How to Escape the Far Cry 5 Perpetual Load Screen Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-unfreeze-fortnite-top-troubleshooting-steps/"><u>Ultimate Guide to Unfreeze Fortnite : Top Troubleshooting Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-issues-with-saints-row-game-launch-failures/"><u>Ultimate Guide: Resolving Issues with Saints Row Game Launch Failures</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/voice-colors-brightly-in-french-fast/"><u>Voice Colors Brightly in French Fast</u></a></li>
-<li><a href="https://win11.techidaily.com/win-files-access-issues-quick-resolution-steps/"><u>Win Files Access Issues: Quick Resolution Steps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-clandestine-fb-live-observer-for-2024/"><u>[New] Clandestine FB Live Observer for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-prime-selection-of-websites-for-youtube-video-intro-download/"><u>[Updated] In 2024, Prime Selection of Websites for YouTube Video Intro Download</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44cm44kk44ok44ov44kp44oz44k444oj44od44kv44gn6auy5zob6loq44gq44k144km44oz44oj44os44kz44o844oh44kj44oz44kw44og44kv44ol44od44kv44cn/"><u>「イヤフォンジャックで高品質なサウンドレコーディングテクニック」</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1-top-rated-pc-and-web-based-avi-to-iphone-video-conversion-software/"><u>1. Top Rated PC and Web-Based AVI to iPhone Video Conversion Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-guide-how-to-stop-fallout-veerage-on-pc-and-play-smoothly/"><u>Fix Guide: How to Stop Fallout Veerage on PC and Play Smoothly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-masterful-descriptions-for-impactful-podcast-intros/"><u>In 2024, Masterful Descriptions for Impactful Podcast Intros</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003692284-monster-hunter-rise-wont-open-discover-the-quick-solutions-you-need/"><u>Monster Hunter Rise Won't Open? Discover the Quick Solutions You Need</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-tips-to-get-you-back-into-action-if-warzone-wont-start-up/"><u>Quick Tips to Get You Back Into Action if Warzone Won’t Start Up</u></a></li>
+<li><a href="https://program-issues.techidaily.com/red-dead-redemption-2-upgraded-say-goodbye-to-stutter-enjoy-seamless-gameplay-with-better-fps/"><u>Red Dead Redemption 2 Upgraded: Say Goodbye to Stutter, Enjoy Seamless Gameplay with Better FPS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reestablishing-failed-remote-links-a-windows-guide/"><u>Reestablishing Failed Remote Links: A Windows Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/repair-techniques-how-to-address-game-malfunctions-effectively/"><u>Repair Techniques: How To Address Game Malfunctions Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-a-persistent-loading-issue-during-discord-broadcasting/"><u>Resolved: How to Fix a Persistent 'Loading' Issue During Discord Broadcasting</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resume-your-account-entry-secure-login-now-functional/"><u>Resume Your Account Entry – Secure Login Now Functional</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/switching-views-iphone-video-retrospect/"><u>Switching Views IPhone Video Retrospect</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-comprehensive-guide/"><u>Tom's Tech Insights: Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-how-to-resolve-teso-game-freezing-and-loading-issues/"><u>Troubleshooting: How to Resolve TESO Game Freezing & Loading Issues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-unison-unit-for-voice-broadcasting-for-2024/"><u>Ultimate Unison Unit for Voice Broadcasting for 2024</u></a></li>
 </ul></div>
 

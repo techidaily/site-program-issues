@@ -1,7 +1,7 @@
 ---
 title: "Resolving 'Cannot Connect to Server' Issues in Lost Ark: A Step-by-Step Guide"
-date: 2025-01-15T00:59:19.817Z
-updated: 2025-01-18T01:36:35.319Z
+date: 2025-01-24T22:58:42.613Z
+updated: 2025-01-31T22:05:22.519Z
 tags:
   - win11
   - win10
@@ -41,17 +41,21 @@ Here’s how you can download and install Windows updates:
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it.  
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you’ve installed the latest Windows updates, launch Outriders and check if the stutters or freezes are still that noticeable during cutscenes or normal gameplay.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Roll back to your previous driver (for Nvidia users)
 
@@ -69,13 +73,13 @@ Here’s how you can download and install Windows updates:
   
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-your-drivers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click on the**Driver** tab. Then click**Roll Back Driver** and follow the on-screen instructions to finish the process.  
   
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-driver.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you’ve done these, launch Outriders to check if it solves your issues.
 
@@ -95,10 +99,6 @@ Here’s how you can download and install Windows updates:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -109,7 +109,7 @@ Here’s how you can download and install Windows updates:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Switch to DX11
@@ -125,6 +125,10 @@ Here’s how you can do this:
  2) Select the**GENERAL**  tab. Then under the**LAUNCH OPTIONS** section, type**\-force -dx11** in the text field. This command line will allow you to run your game in DX11 mode.  
   
 ![switch to DX11 mode Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/DX11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After switching to DX11, play Outriders to check if it helps alleviate some stutters during your gameplay.
 
@@ -145,7 +149,7 @@ To verify the integrity of game files, take these steps:
 ![verify integrity of game files Outriders](https://images.drivereasy.com/wp-content/uploads/2021/03/outriders-verify-integrity-of-game-files.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Steam will start verifying your game’s files and this may take several minutes. Simply wait for the process to complete.
@@ -162,21 +166,17 @@ To verify the integrity of game files, take these steps:
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the**GENERAL** tab, uncheck the box next to**Enable the Steam Overlay while in-game** .  
   
 ![disable Steam overlay Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-steam-overlay.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now play Outriders to see if you can get better gaming performance.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Close unnecessary programs
 
@@ -189,7 +189,7 @@ Now play Outriders to see if you can get better gaming performance.
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Outriders and select **End task** .
@@ -217,19 +217,19 @@ Now play Outriders to see if you can get better gaming performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-ultimate-collection-8-amazing-3d-websites-with-gold/"><u>[New] 2024 Approved The Ultimate Collection 8 Amazing 3D Websites with Gold</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-asus-mg28uq-elevating-your-visual-experience-to-new-heights/"><u>[New] ASUS MG28UQ Elevating Your Visual Experience to New Heights</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-record-computer-sound-and-microphone-for-2024/"><u>[New] Record Computer Sound and Microphone for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-easy-relaxation-no-license-sounds/"><u>[Updated] In 2024, Easy Relaxation No-License Sounds</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-world-of-spotify-marketing/"><u>[Updated] Navigating the World of Spotify Marketing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722994025029-banish-pc-boot-issues-with-resident-evil-5-expert-troubleshooting-steps-inside/"><u>Banish PC Boot Issues with Resident Evil 5 - Expert Troubleshooting Steps Inside!</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-mastering-the-art-of-using-high-dynamic-range-auto-hdr-in-windows-11/"><u>In 2024, Mastering the Art of Using High Dynamic Range (Auto HDR) in Windows 11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-creative-potential-the-ultimate-list-of-affects-extensions/"><u>In 2024, Unlock Creative Potential The Ultimate List of Affects Extensions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-virtual-reality-setbacks-a-users-guide-to-correcting-steamvr-error-308/"><u>Overcome Virtual Reality Setbacks: A User's Guide to Correcting SteamVR Error 308</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-pc-issues-crashes-and-stutters-in-serious-sam-4-gaming-experience/"><u>Overcoming PC Issues - Crashes & Stutters in Serious Sam 4 Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-your-dolby-atmos-woes-troubleshooting-guide-for-windows-1110-users/"><u>Solving Your Dolby Atmos Woes: Troubleshooting Guide for Windows 11/10 Users</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-art-of-spinning-indie-podcast-hits-for-2024/"><u>The Art of Spinning Indie Podcast Hits for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722992713227-windows-11-users-rejoice-microsoft-edge-crashes-now-resolved/"><u>Windows 11 Users Rejoice: Microsoft Edge Crashes Now Resolved!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997827752-like-a-dragon-yakuza-series-transforms-to-hit-pixel-platforms-in-an-unmatched-way/"><u>'Like a Dragon': Yakuza Series Transforms to Hit Pixel Platforms in an Unmatched Way!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-exclusive-insight-into-low-cost-footage-websites/"><u>[New] In 2024, Exclusive Insight Into Low-Cost Footage Websites</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ptimize-your-online-presence-youtube-to-dailymotion-video-migration/"><u>[New] Optimize Your Online Presence YouTube to Dailymotion Video Migration</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-information-what-is-blue-video-icon-on-facebook-messenger/"><u>[Updated] 2024 Approved Information | What Is Blue Video Icon on Facebook Messenger?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-mastering-the-art-of-film-editing-a-comprehensive-guide-to-final-cut-pro/"><u>2024 Approved Mastering the Art of Film Editing A Comprehensive Guide to Final Cut Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-wait-expert-tips-for-fixing-forza-horizon-5s-perpetual-load-problem/"><u>Beat the Wait: Expert Tips for Fixing Forza Horizon 5'S Perpetual Load Problem</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/boost-your-e-commerce-strategy-with-these-top-15-fb-analyzers/"><u>Boost Your E-Commerce Strategy with These Top 15 FB Analyzers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diablo-iii-crashes-heres-how-you-can-fix-it-once-and-for-all/"><u>Diablo III Crashes? Here's How You Can Fix It Once and For All</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-setup-guide-get-hp-deskjet-2755-driver-and-software-for-windows-machines/"><u>Easy Setup Guide: Get HP DeskJet 2755 Driver & Software for Windows Machines</u></a></li>
+<li><a href="https://program-issues.techidaily.com/halo-infinites-monochrome-troubles-solved-a-comprehensive-guide/"><u>Halo Infinite's Monochrome Troubles Solved – A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hyper-scape-troubleshooting-guide-overcoming-pc-crashes-effectively/"><u>Hyper Scape Troubleshooting Guide: Overcoming PC Crashes Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-hurdles-ensuring-the-release-of-alan-wake-2/"><u>Overcoming Hurdles: Ensuring the Release of Alan Wake 2</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211371826-9781922579959-plant-spirit-medicine/"><u>Plant Spirit Medicine | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-best-collection-of-9-free-preschool-games-for-early-learning-and-enjoyment/"><u>The Best Collection of 9 Free Preschool Games for Early Learning and Enjoyment</u></a></li>
 </ul></div>
 

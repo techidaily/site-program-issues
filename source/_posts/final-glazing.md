@@ -1,7 +1,7 @@
 ---
 title: Final Glazing
-date: 2025-01-22T11:59:42.848Z
-updated: 2025-01-24T08:53:53.014Z
+date: 2025-01-30T21:39:44.308Z
+updated: 2025-01-31T19:26:48.772Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ FIFA 20 DirectX Error
 4. **[Update DirectX](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check if your PC meets the system requirements for FIFA 20](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your graphics driver
 
  Perhaps one of the most common causes of a DirectX error on FIFA is an outdated or corrupt graphics driver. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -54,9 +50,17 @@ FIFA 20 DirectX Error
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -66,10 +70,6 @@ FIFA 20 DirectX Error
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Unplug ccontrollers
 
  According to users’ report, unplugging controllers is also helpful in resolving the DirectX error in FIFA 20.
@@ -78,6 +78,10 @@ FIFA 20 DirectX Error
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3:**Modify fifasetup.ini**
 
  Another effective fix for the DirectX game crash error is modify**fifasetup.ini** .
@@ -85,10 +89,6 @@ FIFA 20 DirectX Error
 Here is how to do it:
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and**R** at the same time, then type_**C: \\ Users \\% Username% \\ Documents \\ FIFA 20 Demo**_ and press**Enter** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-129.png)
 
@@ -105,6 +105,10 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Update DirectX
 
  DirectX is a suite of components in Windows that allows heavy multimedia apps such as games to interact with your video and audio cards. If you’re running an old version of DirectX, it’s possible that it won’t be able to handle the graphics rendering and processing task, which might cause the DirectX error. So you should update DirectX to the latest version to see if it fixes the issue.
@@ -116,10 +120,6 @@ Here is how to do it:
  Still no joy? please move on to **Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Check if your PC meets the system requirements for FIFA 20
 
@@ -152,7 +152,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
@@ -186,22 +186,17 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-full-review-comprehensive-look-at-videoshow-in-24-for-2024/"><u>[New] Full Review - Comprehensive Look at VideoShow in '24 for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-edgy-escapes-tips-on-avoiding-edgenuity-videos-quickly/"><u>[Updated] 2024 Approved Edgy Escapes Tips on Avoiding Edgenuity Videos Quickly</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-strategy-breakthroughs-in-packaging/"><u>[Updated] In 2024, Strategy Breakthroughs in Packaging</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-viral-tweets-watchlist-the-hottest-twitch-videos-on-twitter/"><u>[Updated] In 2024, Viral Tweets Watchlist The Hottest Twitch Videos on Twitter</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-proven-recorders-ioss-leading-screenshot-tools-for-2024/"><u>[Updated] Proven Recorders IOS's Leading Screenshot Tools for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlock-the-potential-of-your-phone-individual-ringtone-creation-on-android/"><u>[Updated] Unlock the Potential of Your Phone Individual Ringtone Creation on Android</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-the-complete-mac-users-bible-to-srt-alteration/"><u>2024 Approved The Complete Mac User's Bible to SRT Alteration</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-launchpad-proven-fixes-for-far-cry-5s-stalling-start-up/"><u>Beat the Launchpad: Proven Fixes for Far Cry 5'S Stalling Start-Up</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dota-2-latency-solutions-top-tricks-to-achieve-zero-lag/"><u>Dota 2 Latency Solutions: Top Tricks to Achieve Zero Lag</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-resolved-cold-war-in-call-of-duty-black-ops-pc-stability-issues/"><u>Fixing: [Resolved] Cold War in Call of Duty Black Ops - PC Stability Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722988961546-hitman-3-stuck-on-a-black-canvas-heres-your-pc-solution/"><u>Hitman 3 Stuck on a Black Canvas? Here's Your PC Solution!</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-uncovering-facebooks-fresh-favorites-our-picks-of-top-vids/"><u>In 2024, Uncovering Facebook's Fresh Favorites Our Picks of Top Vids</u></a></li>
-<li><a href="https://program-issues.techidaily.com/latest-strategies-for-resolving-league-of-legends-mysterious-black-screen-issue/"><u>Latest Strategies for Resolving League of Legends' Mysterious Black Screen Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-halting-overcoming-constant-crashing-in-halo-infinite-on-pc/"><u>No More Halting: Overcoming Constant Crashing in Halo Infinite on PC</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/premium-download-experience-best-youtube-playlist-extractors-reviewed-for-2024/"><u>Premium Download Experience Best YouTube Playlist Extractors Reviewed for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quickly-end-wow-freezing-problems-with-these-simple-troubleshooting-steps/"><u>Quickly End WOW Freezing Problems with These Simple Troubleshooting Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/zoom-blackout-blues-heres-your-ultimate-guide-to-clear-the-screen/"><u>Zoom Blackout Blues? Here’s Your Ultimate Guide to Clear the Screen</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-future-vrs-role-in-business-strategy/"><u>[New] Navigating the Future VR's Role in Business Strategy</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-best-subtitle-converters-reviewed-the-top-8-win-osx-sbt-to-srts-software/"><u>[Updated] 2024 Approved Best Subtitle Converters Reviewed The Top 8 Win-OSX SBT to SRTS Software</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-elevate-viewer-response-crafting-engaging-ig-story-qandas/"><u>2024 Approved Elevate Viewer Response Crafting Engaging IG Story Q&As</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-techniques-to-boost-periscope-live-video-speed/"><u>2024 Approved Techniques to Boost Periscope Live Video Speed</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-14-pro-max-waze-drfone-by-drfone-virtual-ios/"><u>7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 14 Pro Max Waze | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/closure-for-ghostrunner-issues-expert-tips-to-solve-fatal-errors-in-windows-10-environments/"><u>Closure for Ghostrunner Issues: Expert Tips to Solve Fatal Errors in Windows 10 Environments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-unveiling-the-ultimate-roku-models-for-a-superior-viewing-experience-zdnet-insights/"><u>Expert Review: Unveiling the Ultimate Roku Models for a Superior Viewing Experience | ZDNET Insights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-realme-11-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Realme 11 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-capture-every-move-top-motion-tracking-apps-for-android-and-ios/"><u>New 2024 Approved Capture Every Move Top Motion Tracking Apps for Android and iOS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-street-fighter-6-malfunction-ultimate-troubleshooting-guide-for-pc-users/"><u>Stop Street Fighter #6 Malfunction: Ultimate Troubleshooting Guide for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-definitive-2024-handbook-on-managing-and-fixing-discords-cpu-drain-issues/"><u>The Definitive 2024 Handbook on Managing and Fixing Discord's CPU Drain Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-strategies-for-a-smooth-dota-2-experience-overcome-lag/"><u>Top Strategies for a Smooth Dota 2 Experience – Overcome Lag</u></a></li>
 </ul></div>
 

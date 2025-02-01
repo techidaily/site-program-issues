@@ -1,7 +1,7 @@
 ---
 title: "DIY Guide: Successful Connection Steps for Kodi Where Directory Info Was Lost"
-date: 2024-10-02T14:04:38.681Z
-updated: 2024-10-02T22:54:34.482Z
+date: 2025-01-26T23:02:34.718Z
+updated: 2025-01-31T21:49:37.020Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ Follow the questions below to troubleshoot the issue step by step:
 2. **[Does your Windows computer connect to the Internet successfully?](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Does the source you want to add run properly?](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Q1: Is the source you’ve inputted exactly correct?
 
  Generally, the “Couldn’t retrieve directory information” error means**the source you’ve inputted can’t be found** . It could be simply because the source you’ve inputted is wrong, like there’s**typo** ,**extra space** in the URL.
@@ -41,15 +45,16 @@ Then add the source again.
  If you add the source successfully, so great. If you still see the error, don’t panic, you have something else to try…
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Q2: Does your Windows computer connect to Internet successfully?
 
  The**network connection error** on your computer can also probably cause the Kodi Unable to connect issue. So when you see the error message, you should**check the network connection on your computer** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1
 
@@ -65,13 +70,6 @@ Then add the source again.
 
 [The default gateway is not available.](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2
 
  Many network connection problems could be due to the old, missing or corrupted network driver on your computer. You can solve it easily by**updating your network driver** . Whether you choose to update the network driver manually, using Windows Update, or you use a trusted third party product, it’s essential that you have the latest correct device drivers for your operating system at all times.
@@ -85,10 +83,7 @@ Then add the source again.
  Have you fix the problem? If yes, great! If the error still exists, don’t give up hope, move onto the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Q3: Does the source you want to add run properly?
@@ -103,10 +98,7 @@ Follow to check the status the source you want to add:
  If the source is down or offline, you would be prompted an error message saying:**This site can’t be reached.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this is the case, we recommend **downloading other add-ons from the [official Kodi website](https://kodi.tv/addons) of your choice** .
@@ -132,15 +124,22 @@ Follow to check the status the source you want to add:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-enhance-engagement-mastering-template-based-video-description-writing/"><u>[New] 2024 Approved Enhance Engagement Mastering Template-Based Video Description Writing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/engaging-audien-writes-and-converting-followers-through-instigra/"><u>Engaging Audien Writes and Converting Followers Through Instigra</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-older-os-to-windows-11-the-evolution-process/"><u>From Older OS to Windows 11 The Evolution Process</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-resolve-black-screen-issue-in-helldivers-2-during-boot-up/"><u>Guide to Resolve 'Black Screen' Issue in Helldivers 2 During Boot Up</u></a></li>
-<li><a href="https://fox-links.techidaily.com/master-iphone-timelapses-efficient-recording-tips/"><u>Master iPhone Timelapses Efficient Recording Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-controller-hurdles-make-your-pc-detect-gamepads-effortlessly/"><u>Overcome Controller Hurdles - Make Your PC Detect Gamepads Effortlessly</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-premier-editor-that-works-on-every-device-you-own-for-2024/"><u>The Premier Editor That Works on Every Device You Own for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723009295638-total-war-saga-troy-bust-through-pc-game-crash-barriers-with-our-expert-fixes/"><u>Total War Saga: Troy - Bust Through Pc Game Crash Barriers with Our Expert Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-palworld-loading-problems-with-these-easy-steps/"><u>Troubleshoot Palworld Loading Problems with These Easy Steps</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y02t-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y02T Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-deciphering-fb-video-dimensions-for-perfect-sharing/"><u>[New] Deciphering FB Video Dimensions for Perfect Sharing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-design-innovators-club-exclusive-free-text-psdfree/"><u>[Updated] 2024 Approved Design Innovators Club Exclusive Free Text PSDFree</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-elevate-your-meetings-best-tools-to-record-zoom-for-2024/"><u>[Updated] Elevate Your Meetings Best Tools to Record Zoom for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-eco-friendly-film-tech-for-2024/"><u>[Updated] Top Eco-Friendly Film Tech for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bluestacks-hiccups-mend-your-mobile-emulator-using-easy-to-follow-techniques/"><u>BlueStacks Hiccups? Mend Your Mobile Emulator Using Easy-to-Follow Techniques!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722995149814-call-of-duty-black-ops-4-wont-start-solved/"><u>Call of Duty Black Ops 4 Won't Start - Solved</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeating-ue4-coding-errors-expert-strategies-used-by-arise-game-developers/"><u>Defeating UE4 Coding Errors: Expert Strategies Used by Arise Game Developers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elden-ring-release-delayed-what-you-need-to-know/"><u>Elden Ring Release Delayed: What You Need to Know</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/from-slides-to-screens-easy-recording-techniques/"><u>From Slides to Screens Easy Recording Techniques</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 Pro without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-remedy-how-to-fix-continuous-crashes-in-state-of-decay-2-for-gamers/"><u>Master the Remedy: How to Fix Continuous Crashes in State of Decay 2 for Gamers</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/premium-vue-paper-professional-dashboard-suite-expertly-crafted-bootstrap-vue-admin-design-by-creative-tim/"><u>Premium Vue Paper Professional Dashboard Suite - Expertly Crafted Bootstrap Vue Admin Design by Creative Tim</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-fixing-your-connection-problems-with-bungies-destiny-2/"><u>Solution Guide: Fixing Your Connection Problems with Bungie's Destiny 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-the-disruptions-permanent-solutions-to-metro-exodus-crashing-episodes-on-your-computer/"><u>Stop the Disruptions - Permanent Solutions to Metro Exodus Crashing Episodes on Your Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-role-and-advantage-of-dual-mode-displays-in-gaming/"><u>The Role and Advantage of Dual-Mode Displays in Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-pc-issues-for-football-manager-202n-expert-tips-and-guides/"><u>Troubleshooting PC Issues for Football Manager 202N - Expert Tips and Guides</u></a></li>
 </ul></div>
 

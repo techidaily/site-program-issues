@@ -1,7 +1,7 @@
 ---
 title: "Overcome Destiny Ebserver Disconnects: A Complete Guide to Troubleshooting and Fixing the Issue"
-date: 2025-01-11T21:59:49.058Z
-updated: 2025-01-17T22:22:01.276Z
+date: 2025-01-27T22:59:02.938Z
+updated: 2025-01-31T22:56:39.784Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 
  Here’re some working tips for your**constant crashes** with**Detroit: Become Human** , try them out and get your game fixed right away!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not have to try all of them. Simply work down the list until you find the one that works for you.
@@ -37,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 6. [**Disable in-game overlays**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Disable your controller](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Roll back your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Check your specs
 
@@ -77,14 +69,14 @@ Here’s an example of how to check the game integrity on Steam:
 2. In the pop-up window, navigate to the**LOCAL FILES** tab, then select**VERIFY INTEGRITY OF GAME FILES…** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/detroit-become-human-verify-game-02.jpg)
 3. Wait until the checking to finish.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can then launch Detroit: Become Human and see if it crashes again.
@@ -124,11 +116,19 @@ If this fix failed to solve your issue, please move on to the next one.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and see if Detroit: Become Human crashes again.
 
  If this fix doesn’t give you any luck, take a look at the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
 
@@ -148,6 +148,10 @@ Here’s how:
 
  If this solution doesn’t work for you, simply try the next one below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Disable in-game overlays
 
  In-game overlay is a feature that makes it convenient to purchase game items and interact with friends on third party platforms. But in some cases, it might become the cause of instability. If you’re using in-game overlays such as**Steam** ,**Discord** or**NVIDIA GeForce Experience** , you can try to disable them and see if it fixes your problem.
@@ -158,22 +162,18 @@ For example, you can follow these steps to disable Steam overlay:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-disable-overlay.jpg)
 2. From the left menu, select**In-Game** . Under**The Steam Overlay** section, uncheck these boxes. Then click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch Detroit: Become Human and test your gameplay.
 
 If the crashing reappears, please check out the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Disable your controller
 
  Some gamers reported that they managed to stop the crash in Detroit: Become Human by**unplugging their controllers** . It’s true that a controller give you a better experience, but they would sometimes run into compatibility issues with new games. Given that, if you’re using controllers or joysticks, you can try to unplug them before starting the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Roll back your graphics driver
 
@@ -200,21 +200,18 @@ If the crashing reappears, please check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-how-to-make-money-on-youtube-without-ads/"><u>[New] 2024 Approved How to Make Money on YouTube Without Ads</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-pioneering-video-structuring-methods-on-youtube-for-2024/"><u>[Updated] Pioneering Video Structuring Methods on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-wipe-out-your-youtube-buffered-videos/"><u>2024 Approved How-To Wipe Out Your YouTube Buffered Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ensuring-uninterrupted-fun-with-the-mass-effect-trilogy-expert-fixes-to-prevent-game-crash-on-pc-and-xbox-devices/"><u>Ensuring Uninterrupted Fun with the Mass Effect Trilogy: Expert Fixes to Prevent Game Crash on PC & Xbox Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-xbox-and-pc-issues-resolving-call-of-duty-warzone-memory-error-code-0-1766/"><u>Fix Xbox and PC Issues: Resolving Call of Duty Warzone Memory Error Code 0-1766</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixes-and-solutions-successfully-installing-oculus-on-windows-11-and-10/"><u>Fixes & Solutions: Successfully Installing Oculus on Windows 11 and 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-corrupted-files-in-windows-11-with-the-powerful-sfc-and-dism-utilities/"><u>How to Fix Corrupted Files in Windows 11 with the Powerful SFC and DISM Utilities</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/innovative-social-media-collages-made-fast/"><u>Innovative Social Media Collages Made Fast</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722993746834-join-deacon-st-john-for-an-unforgettable-post-apocalyptic-journey-days-gone-arrives-on-pc/"><u>Join Deacon St. John for an Unforgettable Post-Apocalyptic Journey - 'Days Gone' Arrives on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-performance-in-bless-unleashed-strategies-for-overcoming-high-ping-on-pc-setups/"><u>Optimizing Performance in Bless Unleashed: Strategies for Overcoming High Ping on PC Setups</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pathfinder-wrath-of-the-righteous-how-to-stop-game-crashes-for-good/"><u>Pathfinder: Wrath of the Righteous - How to Stop Game Crashes for Good</u></a></li>
-<li><a href="https://some-tips.techidaily.com/realigning-the-future-emerging-trends-in-data-science-and-artifice-intelligence-markets/"><u>Realigning the Future: Emerging Trends in Data Science and Artifice Intelligence Markets</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-steps-when-discord-fails-to-launch/"><u>Resolved: Troubleshooting Steps When Discord Fails to Launch</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-windows-fixing-unresponsive-usb-devices/"><u>Solutions for Windows: Fixing Unresponsive USB Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-connectivity-issues-in-kodi-restoring-directory-access-guide/"><u>Troubleshooting Steps for Connectivity Issues in Kodi - Restoring Directory Access [Guide]</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-tecno-camon-30-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-hash-strategies-for-optimizing-youtube-gameplay-videos/"><u>[New] 2024 Approved Essential Hash Strategies for Optimizing YouTube Gameplay Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-discovering-the-best-in-class-9-microphone-recorders-reviewed/"><u>[New] Discovering the Best in Class 9 Microphone Recorders Reviewed</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-top-25-anime-visionaries-on-tiktok-changing-content-norms/"><u>[New] In 2024, Top 25 Anime Visionaries on TikTok Changing Content Norms</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-resolve-non-playing-facebook-video-issues-androidios-for-2024/"><u>[New] Resolve Non-Playing Facebook Video Issues (Android/iOS) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-break-it-down-free-techniques-to-go-frame-by-frame-on-youtube-for-2024/"><u>[Updated] Break It Down Free Techniques to Go Frame by Frame on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-superior-mics-for-video-blogging-professionals/"><u>[Updated] Superior Mics for Video Blogging Professionals</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-warzone-ensuring-proper-gpu-utilization-on-windows-nx/"><u>Fixing Warzone: Ensuring Proper GPU Utilization on Windows nX</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-your-discord-overlays-back-with-simple-steps-a-step-by-step-guide/"><u>Get Your Discord Overlays Back with Simple Steps - A Step-by-Step Guide!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-use-a-dvd-with-your-new-ps5-console-comprehensive-guide/"><u>How to Use a DVD with Your New PS5 Console – Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/navigating-through-the-top-5-new-facebook-shifts-for-2024/"><u>Navigating Through the Top 5 New Facebook Shifts for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-issues-overcome-lego-star-wars-pc-crash-for-skywalker-saga/"><u>Resolved Issues: Overcome Lego Star Wars PC Crash for Skywalker Saga</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-nstep-approach-to-lower-high-processor-load-in-your-new-os-environment/"><u>Step-by-nStep Approach to Lower High Processor Load in Your New OS Environment</u></a></li>
+<li><a href="https://program-issues.techidaily.com/triumph-over-troubled-networks-in-terraria-with-these-proven-fixes/"><u>Triumph Over Troubled Networks in Terraria with These Proven Fixes</u></a></li>
 </ul></div>
 

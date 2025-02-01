@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Cortana Active? Expert Tips to Restore Its Functionality
-date: 2025-01-12T02:15:28.998Z
-updated: 2025-01-18T04:34:46.573Z
+date: 2025-01-26T16:34:56.762Z
+updated: 2025-01-31T16:29:02.608Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/2e9cfa327b9759eb425968540a827a94cde4fe4ea
 
 **Cortana not working?**  I believe it’s one of your pet hates. Don’t panic. Usually it’s an easy problem to fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix Cortana not working?
 
  Here are 5 methods you can try to fix this glitch. Please work your way down the list until you find the that works.
@@ -33,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/2e9cfa327b9759eb425968540a827a94cde4fe4ea
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Check your region and language settings
 
  If your region and language settings is mistaken or changed by accident, your Cortana can’t work.
@@ -49,6 +49,10 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
@@ -57,7 +61,15 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
@@ -66,10 +78,6 @@ Check your region and language settings on your computer:
  1) Type **update**  in the search box from **Start** . Then click**Check for updates** on the top.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click **Check for updates** .
 
@@ -80,7 +88,7 @@ Check your region and language settings on your computer:
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
@@ -103,10 +111,6 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -128,16 +132,12 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Try Cortana again to see if it works.
 
@@ -159,24 +159,20 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-engaging-with-srt-soundfiles-on-pc-and-mac/"><u>[Updated] Engaging with SRT Soundfiles on PC & Mac</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-maximum-definition-boost-expert-video-upscaler/"><u>[Updated] In 2024, Maximum Definition Boost Expert Video Upscaler</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-windows-11s-undisclosed-interface-features/"><u>Decoding Windows 11'S Undisclosed Interface Features</u></a></li>
-<li><a href="https://facebook.techidaily.com/disabling-in-app-browsing-on-facebook-platform/"><u>Disabling In-App Browsing on Facebook Platform</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-rockstar-game-services-are-unavailable-on-pc/"><u>Fix Rockstar Game Services Are Unavailable on PC</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-beatfinder-tools-tune-in-to-online-freshness/"><u>In 2024, Beatfinder Tools Tune in to Online Freshness</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fixing-warped-youtube-videos-step-by-step/"><u>In 2024, Fixing Warped YouTube Videos Step-by-Step</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-redmi-k70-pro-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Xiaomi Redmi K70 Pro Phone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-audio-interfaces-unveiled-the-podcasters-must-have-list/"><u>In 2024, Top Audio Interfaces Unveiled The Podcaster's Must-Have List</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-fixes-to-dev-error-5573-on-your-cod-warzone-game-whether-youre-on-a-computer-or-console/"><u>Mastering the Fixes to Dev Error 5573 on Your COD: Warzone Game, Whether You're on a Computer or Console</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-pausing-in-cyberpunk-2077-fixed-unfreeze-your-game-now/"><u>No More Pausing in Cyberpunk 2077 – Fixed! Unfreeze Your Game Now</u></a></li>
-<li><a href="https://win-data.techidaily.com/resolving-graphics-card-driver-problems-a-step-by-step-guide-yl-computings-tech-solutions/"><u>Resolving Graphics Card Driver Problems: A Step-by-Step Guide - YL Computing's Tech Solutions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-mic-selection-for-podcasters/"><u>The Ultimate Mic Selection for Podcasters</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-strategies-for-getting-your-division-2-game-running-again/"><u>Top Strategies for Getting Your Division 2 Game Running Again</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-how-the-elder-scrolls-online-addressed-blackwoods-lag-problems/"><u>Troubleshooting Complete: How The Elder Scrolls Online Addressed Blackwood's Lag Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-outriders-not-starting-on-pcs-during-the-2022-update/"><u>Troubleshooting Steps: Outriders Not Starting on PCs During the 2022 Update</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-success-overcoming-the-call-of-duty-black-ops-4-initialization-issue/"><u>Troubleshooting Success! Overcoming the Call of Duty: Black Ops 4 Initialization Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/update-required-enhance-your-cpu-to-comply-with-vanguards-minimum-specs/"><u>Update Required: Enhance Your CPU to Comply with Vanguard's Minimum Specs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/victory-against-errors-the-case-study-of-defeating-security-breach-detected-in-gaming/"><u>Victory Against Errors: The Case Study of Defeating 'Security Breach Detected in Gaming'</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-maintaining-youtube-like-video-quality-on-twitter/"><u>[New] Maintaining YouTube-Like Video Quality on Twitter</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-crashes-troubleshooting-steps-for-a-stable-wot-blitz-gaming-experience/"><u>[NO MORE CRASHES] Troubleshooting Steps for a Stable WoT Blitz Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-it-takes-two-crashes-on-pc/"><u>[SOLVED] It Takes Two Crashes on PC</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-securing-privacy-encryption-and-security-tips-in-zoom-for-windows-11/"><u>[Updated] Securing Privacy Encryption and Security Tips in Zoom for Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-step-by-step-walkthrough-safelisting-email-addresses-on-gmail/"><u>A Step-by-Step Walkthrough: Safelisting Email Addresses on Gmail</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-warzone-pc-issues-fixes-and-solutions-updated/"><u>Call of Duty Warzone PC Issues: Fixes & Solutions, Updated</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-arks-critical-failures-with-proven-strategies-and-expert-tips/"><u>Eliminate ARK's Critical Failures with Proven Strategies and Expert Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fortnite-load-failures-fast-fixes-inside/"><u>Fortnite Load Failures? Fast Fixes Inside</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-game-changing-homes-in-blocktown/"><u>In 2024, Game Changing Homes in Blocktown</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-streamline-your-workflow-6-productivity-boosting-adobe-premiere-tips/"><u>In 2024, Streamline Your Workflow 6 Productivity-Boosting Adobe Premiere Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-cloud-sync-on-steam-gear/"><u>Mastering the Art of Cloud Sync on Steam Gear</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-the-art-of-fb-invisibility/"><u>Mastering the Art of Fb Invisibility</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-crashes-complete-guide-to-playing-persona-5-strikers-smoothly-on-your-pc/"><u>No More Crashes! Complete Guide to Playing Persona 5 Strikers Smoothly on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-the-fixed-enshrouded-collapse-issue-on-windows-systems/"><u>Resolved: The Fixed 'Enshrouded Collapse' Issue on Windows Systems</u></a></li>
 </ul></div>
 

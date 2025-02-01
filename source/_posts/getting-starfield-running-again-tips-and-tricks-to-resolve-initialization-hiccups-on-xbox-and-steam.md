@@ -1,7 +1,7 @@
 ---
 title: "Getting Starfield Running Again: Tips & Tricks to Resolve Initialization Hiccups on Xbox and Steam"
-date: 2024-12-11T17:19:26.651Z
-updated: 2024-12-19T01:44:53.823Z
+date: 2025-01-30T00:52:37.289Z
+updated: 2025-02-01T00:40:50.022Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/c695ea2b690d872b3356cadd5a73f8095d4e1f1e6
  The popular open-world racer, Forza Horizon 5, takes the trip to Mexico this time. Many players are enjoying the game, but we’ve also seen quite a few reports of crashing issues, especially at startup. If you’re in the same boat, no worries! We’ve gathered some working fixes that have helped many gamers to solve the problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes…
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/c695ea2b690d872b3356cadd5a73f8095d4e1f1e6
  Before we dive into anything advanced, make sure you tried to reboot your PC in case the crash was a random glitch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Run the game executable as administrator
@@ -54,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/c695ea2b690d872b3356cadd5a73f8095d4e1f1e6
  You can either go to the game folder and directly run the game executable as administrator, or create a desktop shortcut then run it as admin. Both ways have solved the crashing problem for many players.
 
 If this doesn’t solve your problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -92,10 +88,6 @@ If updating the graphics driver doesn’t help, try the next fix.
 
  If you’ve configured your antivirus software but Forza Horizon 5 still crashes on your PC, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Shut down background programs
 
  Programs that are running in the background may interfere with game performance. Or, they could take up the resources required for Forza Horizon 5 to run smoothly, thus causing the crashing issue. Here’s how to kill the programs running in the background:
@@ -104,11 +96,11 @@ If updating the graphics driver doesn’t help, try the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-taskbar-task-manager.jpg)
 2. In the**Processes** section, click on the process(es) that you want to shut down, and click**End task** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/10/task-manager-end-task.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Players have reported a few programs that are known to cause the crashing issue, including audio applications Sonic and Nahimic. You can also refer to[the list of programs that may affect Steam game performance](https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748) and identify the root cause of your crashing issue.
 
@@ -124,7 +116,7 @@ If updating the graphics driver doesn’t help, try the next fix.
 3. Find the network adapter you’re using. Right-click it and select**Disable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-11_14-50-06.jpg)
@@ -158,20 +150,24 @@ If updating the graphics driver doesn’t help, try the next fix.
 3. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-msconfig-disable-all.jpg)
 4. Switch to the**Startup** tab, and click**Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-msconfig-startup.jpg)
 5. Under the**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-task-manager-startup-disable.jpg)
 6. Restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If Forza Horizon 5 doesn’t crash anymore, this means at least one of the programs you disabled was causing the problem.  
   
@@ -185,10 +181,6 @@ If updating the graphics driver doesn’t help, try the next fix.
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 4. Reboot your computer and launch the game. If the crashes persist, then you know that one of the services you ticked above is conflicting with Forza Horizon 5\. If the game runs smoothly now, then the above five services are fine, and you’ll have to keep looking for the offending service.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Repeat steps 2 and 3 above until you find the service that conflicts with the game.  
 
@@ -221,7 +213,16 @@ If updating the graphics driver doesn’t help, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -242,24 +243,18 @@ If updating the graphics driver doesn’t help, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-easy-reverse-video-method-for-android-users/"><u>[New] In 2024, Easy Reverse Video Method for Android Users</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ape-looper-mastery-app-for-2024/"><u>[New] Tape Looper Mastery App for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-binge-worthy-vids-the-most-shared-content-on-fb-featured-here-for-2024/"><u>[Updated] Binge-Worthy Vids! The Most Shared Content on FB Featured Here for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-win11s-1-5-pick-for-budget-friendly-screen-capture-apps/"><u>[Updated] In 2024, Win11's #1-5 Pick for Budget-Friendly Screen Capture Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-gopro-guide-achieving-excellent-underwater-cinematography/"><u>2024 Approved GoPro Guide Achieving Excellent Underwater Cinematography</u></a></li>
-<li><a href="https://program-issues.techidaily.com/2024s-ultimate-guide-to-resolving-microsoft-wow64-service-failure-dev-error-6068-in-fortnite/"><u>2024'S Ultimate Guide to Resolving Microsoft WOW64 Service Failure (Dev Error #6068) in Fortnite</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-the-fifa-20-dilemma-a-step-by-step-guide-to-fixing-directx-errors/"><u>Bypassing the FIFA #20 Dilemma: A Step-by-Step Guide to Fixing DirectX Errors</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/find-cricket-sound-effect-for-2024/"><u>Find Cricket Sound Effect for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guide-to-repairing-unverified-device-drivers-overcoming-installation-hurdles-on-computers/"><u>Guide to Repairing Unverified Device Drivers: Overcoming Installation Hurdles on Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722997938550-how-to-fix-league-of-legends-wont-open-2024-tips/"><u>How to Fix League of Legends Won't Open - 2024 Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/lost-ark-troubleshooting-solutions-for-overcoming-connection-errors/"><u>Lost Ark Troubleshooting: Solutions for Overcoming Connection Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-fix-ultimate-guide-to-getting-your-hp-display-working-again/"><u>Mastering the Fix: Ultimate Guide to Getting Your HP Display Working Again</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-world-of-warships-on-pc-immediate-solutions-for-common-stalling-problems/"><u>Mastering World of Warships on PC: Immediate Solutions for Common Stalling Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722991301370-mount-and-blade-ii-how-to-stop-the-troublesome-bannerlord-crashes/"><u>Mount & Blade II: How to Stop the Troublesome Bannerlord Crashes!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-persistent-microsoft-edge-malfunctions-in-windows-11-a-comprehensive-guide/"><u>Resolving Persistent Microsoft Edge Malfunctions in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-help.techidaily.com/schritt-fur-schritt-methoden-zum-schutz-ihrer-dateien-auf-dem-windows-server/"><u>Schritt-Für-Schritt: Methoden Zum Schutz Ihrer Dateien Auf Dem Windows Server</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-sailing-through-the-ocean-eleven-sea-nier-worlds-crash-fixes-revealed/"><u>Smooth Sailing Through the Ocean Eleven Sea - NieR: World's Crash Fixes Revealed!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-webcam-selection-for-podcasting-for-2024/"><u>Ultimate Webcam Selection for Podcasting for 2024</u></a></li>
-<li><a href="https://discover-best.techidaily.com/utilizing-cookiebot-technology-for-advanced-web-insights-and-visitor-analysis/"><u>Utilizing Cookiebot Technology for Advanced Web Insights & Visitor Analysis</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-launched-visuals-review-synopsis/"><u>2024 Approved Launched Visuals Review Synopsis</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-bug-essential-fixes-for-a-seamless-dirt-5-pc-gaming-experience/"><u>Beat the Bug: Essential Fixes for a Seamless Dirt 5 PC Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-black-ops-cold-war-error-fix-tackling-problem-80070057-successfully/"><u>COD: Black Ops Cold War Error Fix - Tackling Problem 80070057 Successfully</u></a></li>
+<li><a href="https://program-issues.techidaily.com/deciphering-and-solving-the-ls-0013-launching-glitch-in-fortnite/"><u>Deciphering and Solving the LS-0013 Launching Glitch in Fortnite</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/elevate-viewer-connection-mastering-the-art-of-square-footage-in-videos-for-2024/"><u>Elevate Viewer Connection Mastering the Art of Square Footage in Videos for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elite-strategies-for-optimizing-fps-on-valheim-updated-tips/"><u>Elite Strategies for Optimizing FPS on Valheim - Updated Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-on-eliminating-freezes-in-call-of-duty-vanguard-gaming-experience/"><u>Expert Advice on Eliminating Freezes in Call of Duty: Vanguard Gaming Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-differences-a-comparison-of-claude-pro-vs-chatgpt-plus/"><u>Exploring the Differences: A Comparison of Claude Pro Vs. ChatGPT Plus</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-glitches-in-resident-evil-(span)4-hd(span)-a-guide-for-smooth-gaming/"><u>Fixing the Glitches in Resident Evil <Span>4 HD</Span>: A Guide for Smooth Gaming</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-broken-right-click-feature-on-a-mouse-for-windows-10-users/"><u>How to Fix the Broken Right-Click Feature on a Mouse for Windows 10 Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-audio-and-video-showcase-excellent-webcams-for-podcasts/"><u>In 2024, Ultimate Audio & Video Showcase Excellent Webcams for Podcasts</u></a></li>
+<li><a href="https://win-able.techidaily.com/streamline-your-workflow-create-multiple-folders-fast-using-excel-techniques/"><u>Streamline Your Workflow: Create Multiple Folders Fast Using Excel Techniques.</u></a></li>
 </ul></div>
 

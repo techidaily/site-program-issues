@@ -1,7 +1,7 @@
 ---
 title: "Conquer PC Issues: Modern Warfare Launch Guide Gamer Troubles"
-date: 2025-01-12T23:16:12.074Z
-updated: 2025-01-17T16:00:22.023Z
+date: 2025-01-29T17:17:27.429Z
+updated: 2025-02-01T00:53:52.709Z
 tags:
   - win11
   - win10
@@ -31,7 +31,11 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Call-of-Duty-Modern-Warfare-II-not-launching-1200x675.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Allow your game through Windows Firewall
@@ -46,11 +50,19 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 3. Under the **Allowed apps and features**  section, scroll down and find Modern Warfare II. If it’s not on the list, click **Change settings > Allow another app…** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/allow-modern-warfare-through-windows-firewall.jpg)
 
  Now navigate to your game’s installation folder and add it to the list. Then check the boxes under**Domain** ,**Private** , and**Public** . Once done, click**OK** to apply the changes.
 
 If this doesn’t do the trick, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run your game launcher as administrator
 
@@ -64,10 +76,6 @@ If this doesn’t do the trick, try the next fix below.
 
  After this, try to launch Warfare II and see how it works. If your problem persists, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Close conflicting or non-essential programs
 
  Not often, but possible, certain programs on your computer are in conflict with your game title. In addition, having too many programs, especially those memory-hogging programs running in the background can eat up the system resources, causing unexpected issues.
@@ -80,15 +88,15 @@ If this doesn’t do the trick, try the next fix below.
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes**  tab, select the program and click **End task** until you close all the unneeded applications.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Some gamers did find that the Razer Synapse is more likely to be in conflict with a number of big releases. Therefore, if you have it installed in your computer, stop it from running in the background. )  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
 
  When you’re done, launch your game. If your problem persists, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Repair corrupted game files
 
@@ -116,10 +124,6 @@ If this doesn’t do the trick, try the next fix below.
  Steam will verify the game files. This process may take a few minutes. If there are file validation failures, you can safely ignore the message that pops up.
 
  Once the verification process is complete, close the window and check if it solves your problem. If your game still fails to launch properly, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Update your graphics driver
 
@@ -161,7 +165,7 @@ If this doesn’t do the trick, try the next fix below.
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you have to do is to download them one at a time and manually install them.  
@@ -188,10 +192,6 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After the repair, try to launch Modern Warfare II and you should be able to enjoy your game to the fullest without much unexpected interruptions.
 
 ---
@@ -213,20 +213,17 @@ If this doesn’t do the trick, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-full-assessment-macs-screenflow-studio-experience-for-2024/"><u>[New] Full Assessment Mac's ScreenFlow Studio Experience for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-social-media-savvy-turning-friends-into-customers-and-coins/"><u>[New] In 2024, Social Media Savvy Turning Friends Into Customers and Coins</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-windows-11-photos-implement-filters-and-playlist-features/"><u>2024 Approved Perfecting Windows 11 Photos Implement Filters and Playlist Features</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-glitches-secure-uninterrupted-fun-with-mortal-kombat-11-fixes/"><u>Beat the Glitches: Secure Uninterrupted Fun with Mortal Kombat 11 Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/curbing-the-starfield-apps-high-cpu-consumption-strategies-for-202n4/"><u>Curbing the Starfield App’s High CPU Consumption: Strategies for 202N4</u></a></li>
-<li><a href="https://program-issues.techidaily.com/deciphering-and-fixing-the-notorious-error-103003-in-tarkov-a-comprehensive-guide/"><u>Deciphering and Fixing the Notorious Error 103003 in Tarkov: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-solutions-for-pathfinder-wrath-of-the-righteous-not-opening-challenge/"><u>Effective Solutions for 'Pathfinder: Wrath of the Righteous' Not Opening Challenge</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-for-a-seamless-cs2-experience-fixing-frame-rate-hiccups/"><u>Optimizing Your PC for a Seamless CS2 Experience – Fixing Frame Rate Hiccups</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-slow-response-times-tips-to-enhance-your-gaming-session-in-the-recent-version-of-the-new-world/"><u>Resolving Slow Response Times: Tips to Enhance Your Gaming Session in the Recent Version of the New World</u></a></li>
-<li><a href="https://program-issues.techidaily.com/seamless-gaming-experience-restored-ending-black-desert-online-crash-issues/"><u>Seamless Gaming Experience Restored: Ending Black Desert Online Crash Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-sony-vegas-sudden-shutdown-problems-for-smooth-editing/"><u>Solving the Sony Vegas Sudden Shutdown Problems for Smooth Editing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-capturing-life-moments-with-iphones-running-ios-16/"><u>Step-by-Step Tutorial: Capturing Life Moments with iPhones Running iOS 16</u></a></li>
-<li><a href="https://fox-info.techidaily.com/unrivaled-streaming-experience-ranking-the-leaders-for-2024/"><u>Unrivaled Streaming Experience Ranking the Leaders for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/zero-cost-creativity-inject-movement-to-video-text/"><u>Zero-Cost Creativity Inject Movement to Video Text</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-screen-saviors-ranked-top-8-for-ios-filmmaking-apps/"><u>2024 Approved Screen Saviors Ranked Top 8 for iOS Filmmaking Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-face-off-snapchat-vs-microsoft-bing-eight-essential-contrasts-for-skype-integration/"><u>AI Face-Off: Snapchat Vs. Microsoft Bing – Eight Essential Contrasts for Skype Integration</u></a></li>
+<li><a href="https://program-issues.techidaily.com/deathloop-not-launched-heres-how-you-can-solve-it/"><u>Deathloop Not Launched? Here’s How You Can Solve It!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-vivo-x-fold-2-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Vivo X Fold 2 FRP</u></a></li>
+<li><a href="https://program-issues.techidaily.com/last-epoch-wont-boot-on-your-pc-masterful-fixes-and-updates-for-a-seamless-gaming-experience-202n/"><u>Last Epoch Won't Boot on Your PC? Masterful Fixes and Updates for a Seamless Gaming Experience (202N)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-launch-screen-hiccups-in-cold-war-a-guide-for-players-and-consoles-users/"><u>Overcoming Launch Screen Hiccups in 'Cold War': A Guide for Players and Consoles Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/screen-recorder-mac-with-audio/"><u>Screen Recorder Mac with Audio</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-fall-guys-not-starting-up-correctly-play-without-interruptions/"><u>Step-by-Step Fixes for Fall Guys Not Starting Up Correctly - Play Without Interruptions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/steps-to-avoid-automatic-podcast-suggestions-on-spotify-for-2024/"><u>Steps to Avoid Automatic Podcast Suggestions on Spotify for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ontent-kings-chronicle-mastering-youtube-monetization-no-ads-involved/"><u>The Content King's Chronicle Mastering YouTube Monetization, No Ads Involved</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-in-computing-innovation-featured-by-toms-hardware-specialists/"><u>Top Picks in Computing Innovation Featured by Tom's Hardware Specialists</u></a></li>
 </ul></div>
 

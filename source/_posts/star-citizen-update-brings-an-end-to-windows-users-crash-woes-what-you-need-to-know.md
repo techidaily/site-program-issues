@@ -1,7 +1,7 @@
 ---
 title: Star Citizen Update Brings an End to Windows Users' Crash Woes - What You Need To Know!
-date: 2025-01-11T00:35:32.814Z
-updated: 2025-01-17T16:18:08.482Z
+date: 2025-01-28T19:51:14.075Z
+updated: 2025-01-31T22:35:46.812Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/9e326dc97d7b2a04840d4bac29152fee0a09ec2e5
 Many Elite Dangerous players have been reporting the game crashing issue. It occurs randomly, at launch or mid-game, causing extreme annoyance. In this guide, we’ll take a look at Elite Dangerous crashing fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Fix Elite Dangerous Crashing
@@ -41,6 +41,10 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
  Try running the game and the game launcher as administrator to see if it helps. If not, try the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2 – Verify the integrity of game files
 
  Files of your game installation might get corrupt sometimes, or be deleted as a false positive by antivirus, which could cause crashing issues during gameplay. Fortunately, you can verify the integrity of the game’s installation through Steam.
@@ -61,13 +65,13 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-34.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Relaunch your game to test the issue.
 
  Still failing? Try the next solution to update your graphics driver to the most recent version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3 – Update your graphics driver
 
@@ -86,7 +90,7 @@ This could take several minutes. Wait for the process to be complete.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
@@ -100,7 +104,7 @@ This could take several minutes. Wait for the process to be complete.
  Relaunch the game to test your issue. If the crash still occurs, try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4 – Stop overclocking
@@ -144,16 +148,12 @@ If the crashing still happens, continue with the next solution below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-03-22.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-10-56.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Double-click**DisplaySettings.xml** to open the file.
 
@@ -182,24 +182,24 @@ If the crashing still happens, continue with the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-how-to-post-a-link-on-instagram-stories-and-posts/"><u>[New] 2024 Approved How to Post a Link on Instagram Stories and Posts</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-budget-friendly-alternatives-to-premium-vr-headsets/"><u>[New] In 2024, Budget-Friendly Alternatives to Premium VR Headsets</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-the-ultimate-guide-to-the-best-video-speed-controller-extensions/"><u>2024 Approved The Ultimate Guide to The Best Video Speed Controller Extensions</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/abbyy-showcases-artificial-intelligence-insights-at-the-2018-aiim-event/"><u>ABBYY Showcases Artificial Intelligence Insights at the 2018 AIIM Event</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-dungeons-and-dragons-leveraging-chatgpt-for-game-improvement/"><u>Boosting Dungeons & Dragons: Leveraging ChatGPT for Game Improvement</u></a></li>
-<li><a href="https://program-issues.techidaily.com/hearing-is-believing-eliminate-sound-glitches-in-roblox-on-your-latest-windows-platforms/"><u>Hearing Is Believing: Eliminate Sound Glitches in Roblox on Your Latest Windows Platforms</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-i-fixed-the-error-preventing-my-minecraft-launcher-from-updating-successfully/"><u>How I Fixed the Error Preventing My Minecraft Launcher From Updating Successfully</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-android-sound-logging-without-need-for-rooting/"><u>In 2024, Android Sound Logging Without Need for Rooting</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-fixes-to-overcome-tekken-8-not-opening-woes-on-your-computer-system/"><u>Master the Fixes to Overcome Tekken 8 Not Opening Woes on Your Computer System</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-interactive-storytelling-leveraging-chatgpt-for-video-game-scripts/"><u>Mastering Interactive Storytelling: Leveraging ChatGPT for Video Game Scripts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-visual-hurdles-a-guide-to-correcting-black-screens-in-destiny-2/"><u>Overcoming Visual Hurdles: A Guide to Correcting Black Screens in Destiny 2</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-failed-to-connect-issues-for-path-of-exile-players-comprehensive-guide/"><u>Resolving 'Failed to Connect' Issues for Path of Exile Players - Comprehensive Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-100-disk-warning-in-windows-task-manager/"><u>Resolving 100% Disk Warning in Windows Task Manager</u></a></li>
-<li><a href="https://program-issues.techidaily.com/snowrunner-stability-issues-on-desktop-heres-how-to-prevent-the-unexpected-shutdowns-and-restarts/"><u>SnowRunner Stability Issues on Desktop? Here's How to Prevent the Unexpected Shutdowns and Restarts!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-issue-of-non-responsive-amd-radeon-graphics-driver/"><u>Solving the Issue of Non-Responsive AMD Radeon Graphics Driver</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellar-file-eraser-v5-for-windows-expert-tips-on-automatic-trace-removal-with-customized-timetabling/"><u>Stellar File Eraser v5 for Windows - Expert Tips on Automatic Trace Removal with Customized Timetabling</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-bluestacks-from-crashing-a-step-by-step-guide-for-instant-fixes/"><u>Stop BlueStacks From Crashing: A Step-by-Step Guide for Instant Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steady-issues-how-to-fix-arcadegeddon-crashes-on-your-computer/"><u>Troubleshooting Steady Issues: How to Fix Arcadegeddon Crashes on Your Computer</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unlocking-your-fb-watchlist-access-liked-movies-and-shows-for-2024/"><u>Unlocking Your FB Watchlist Access Liked Movies & Shows for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-unveiling-the-secrets-an-overview-of-using-ez-grabber-professionally/"><u>[New] 2024 Approved Unveiling the Secrets An Overview of Using EZ Grabber Professionally</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-forza-horizon-4-wont-launch-2024-tips/"><u>[SOLVED] Forza Horizon 4 Won't Launch | 2024 Tips</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-become-a-zoom-champion-in-minutes-for-2024/"><u>[Updated] Become a Zoom Champion in Minutes for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-frequent-interruptions-a-solution-for-lost-arks-pc-system-failures/"><u>Addressing Frequent Interruptions: A Solution for Lost Ark's PC System Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-solutions-for-when-persona-amo-3-f-escape-wont-load/"><u>Comprehensive Solutions for When Persona Amo 3 F Escape Won't Load</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-compatibility-problems-with-intel-driver-assistants-on-pcs/"><u>How to Overcome Compatibility Problems with Intel Driver Assistants on PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989065536-how-to-overcome-the-stuck-updates-problem-on-microsoft-flight-simulator-2020-solution-found/"><u>How to Overcome the Stuck Updates Problem on Microsoft Flight Simulator 2020 - Solution Found!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-meizu-21-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Meizu 21 to Another | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/immerse-in-uninterrupted-reading-a-comprehensive-kobo-libra-h2o-review-for-waterproof-tech-enthusiasts/"><u>Immerse in Uninterrupted Reading: A Comprehensive Kobo Libra H^2O Review for Waterproof Tech Enthusiasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-innovators-choice-top-5-state-of-the-art-slow-cams/"><u>In 2024, Innovators' Choice Top 5 State-of-the-Art Slow Cams</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/methodes-pour-enregistrer-automatiquement-des-donnees-sur-une-cle-usb-a-partir-dun-pc/"><u>Méthodes Pour Enregistrer Automatiquement Des Données Sur Une Clé USB À Partir D'un PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-common-utorrent-downloading-and-network-issues-with-easy-to-follow-advice/"><u>Overcoming Common uTorrent Downloading and Network Issues with Easy-to-Follow Advice</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-imperative-quintet-of-software-every-successful-twitch-host-must-embrace/"><u>The Imperative Quintet of Software Every Successful Twitch Host Must Embrace</u></a></li>
+<li><a href="https://win-answers.techidaily.com/this-title-implies-expertise-expert-tips-and-reassures-users-they-can-get-the-game-running-again-which-is-a-primary-concern-when-facing-launch-issues/"><u>This Title Implies Expertise (Expert Tips) and Reassures Users They Can Get the Game Running Again, Which Is a Primary Concern when Facing Launch Issues</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-cozy-winter-scenes-for-youtube-backdrops-for-2024/"><u>Top 5 Cozy Winter Scenes for YouTube Backdrops for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fps-problems-and-hitching-performance-on-windows-cod-mow-2/"><u>Troubleshooting FPS Problems and Hitching Performance on Windows - COD: MoW 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-stutters-and-frame-drops-on-dragons-dogma-2-for-optimal-gaming-experience/"><u>Troubleshooting Stutters and Frame Drops on Dragon's Dogma 2 for Optimal Gaming Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/watch-tv-shows-and-movies-for-free-stream-with-crackle/"><u>Watch TV Shows & Movies For Free - Stream with Crackle</u></a></li>
+<li><a href="https://program-issues.techidaily.com/world-of-warcraft-slowdown-solutions-expert-tips-and-tricks-to-skyrocket-your-fps/"><u>World of Warcraft Slowdown Solutions: Expert Tips & Tricks to Skyrocket Your FPS</u></a></li>
 </ul></div>
 

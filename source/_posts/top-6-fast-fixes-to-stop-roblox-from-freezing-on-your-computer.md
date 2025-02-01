@@ -1,7 +1,7 @@
 ---
 title: Top 6 Fast Fixes to Stop Roblox From Freezing on Your Computer
-date: 2024-12-12T02:00:20.548Z
-updated: 2024-12-19T01:22:24.790Z
+date: 2025-01-26T20:19:32.090Z
+updated: 2025-01-31T19:00:01.501Z
 tags:
   - win11
   - win10
@@ -49,7 +49,7 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 5. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Disable your antivirus software
@@ -59,10 +59,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
  If this resolves your problem, you may need to replace your antivirus software or contact the vendor of the software for advice.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Verify your game cache
 
@@ -74,15 +70,15 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify.jpg)
 4. After the process, relaunch the game and check the crash will appear or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Change your save files location
 
  If Fix 2 can’t solve your problem, the saved file could be the culprit. When you delete the save file with modded content, the crash can happen. You can transfer the save files into a different location for safekeeping.
 
  The save files should be located at: “C:\\Users\\YOUR USERNAME\\Documents\\my games\\XCOM2\\XComGame\\SaveData”. Copy files and move to elsewhere and then delete the original SaveData folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable Steam Overlay
 
@@ -94,11 +90,11 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 4. Relaunch the game and check whether the crash will appear or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Update your driver
@@ -127,6 +123,10 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check the crash will appear or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  We hope you find the above information helpful. And if you have any ideas, suggestions, or questions, feel free to leave a comment below.
@@ -148,21 +148,20 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-deciphering-how-t-series-earns-via-youtube/"><u>[New] Deciphering How T-Series Earns via Youtube</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-elite-performers-top-picks-from-skate-highlights/"><u>[New] Elite Performers Top Picks From Skate Highlights</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-maximizing-listener-impact-on-day-of-launch/"><u>[New] Maximizing Listener Impact on Day of Launch</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-cross-platform-hulu-playback-mastery-a-how-to-guide-for-2024/"><u>[Updated] Cross-Platform Hulu Playback Mastery - A How-To Guide for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-clearer-captures-await-with-next-gen-tracker-tech/"><u>2024 Approved Clearer Captures Await with Next-Gen Tracker Tech</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boost-your-gaming-experience-fixing-the-division-2-frame-rate-issues/"><u>Boost Your Gaming Experience: Fixing The Division 2 Frame Rate Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-dauntless-pc-issues-how-to-stop-the-game-from-crashing/"><u>Fixing Dauntless PC Issues: How to Stop the Game From Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-your-game-from-crashing-tips-and-fixes-for-left-4-dead-2/"><u>How to Stop Your Game From Crashing: Tips and Fixes for Left 4 Dead 2</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-troubleshoot-and-use-your-graphics-card-with-cyberpunk-2077-on-windows-11/"><u>How to Troubleshoot and Use Your Graphics Card with Cyberpunk 2077 on Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722153303131-is-it-better-to-use-gemini-advanced-over-chatgpt-plus-lets-find-out/"><u>Is It Better to Use Gemini Advanced Over ChatGPT Plus? Let's Find Out!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-art-of-optimizing-discord-for-minimal-cpu-impact-2024-edition/"><u>Master the Art of Optimizing Discord for Minimal CPU Impact - 2024 Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maximizing-frame-rates-in-valheim-expert-advice-for-combating-lag-and-low-fps/"><u>Maximizing Frame Rates in Valheim: Expert Advice for Combating Lag and Low FPS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-launch-hurdles-in-hogwarts-legacy-pro-tips-for-a-smooth-game-start/"><u>Overcoming Launch Hurdles in Hogwarts Legacy: Pro Tips for a Smooth Game Start</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-cellular-on-your-iphone-discover-these-10-fixes-now/"><u>Struggling with Cellular on Your iPhone? Discover These 10 Fixes Now</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/top-5-honor-magic-6-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Honor Magic 6 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-a-look-at-the-future-leading-photo-framing-apps/"><u>[New] In 2024, A Look at the Future Leading Photo Framing Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-drone-editors-toolkit-techniques-for-visual-excellence/"><u>[New] The Drone Editor's Toolkit Techniques for Visual Excellence</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-comprehensive-examination-razer-kiyo-cam/"><u>[Updated] 2024 Approved Comprehensive Examination Razer Kiyo Cam</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-professional-steps-for-high-quality-powerpoint-replays/"><u>2024 Approved Professional Steps for High-Quality PowerPoint Replays</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elevation-keeping-the-injured-body-part-elevated-above-heart-level-when-possible-encourages-fluid-drainage-and-reduces-edema-swelling/"><u>Elevation: Keeping the Injured Body Part Elevated Above Heart Level, when Possible, Encourages Fluid Drainage and Reduces Edema (Swelling)</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2021-how-to-fix-the-persistent-loading-screen-issue/"><u>Football Manager 2021: How to Fix the Persistent Loading Screen Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-kurtzpel-crashing-issue-solved/"><u>How to Fix KurtzPel Crashing Issue [Solved]</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-oneplus-nord-ce-3-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide OnePlus Nord CE 3 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-wwe-2k20-stability-pro-tips-to-prevent-game-crashes-on-windows-pcs/"><u>Mastering WWE 2K20 Stability: Pro Tips to Prevent Game Crashes on Windows PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/new-patch-for-pc-gamers-days-gone-fps-improvements-unleashed-today/"><u>New Patch for PC Gamers: Days Gone FPS Improvements Unleashed Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/sea-of-thieves-game-crash-bug-fixed/"><u>Sea of Thieves Game Crash Bug Fixed!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-substitution-must-maintain-grammatical-structure-and-not-alter-any-figures-or-percentages-mentioned-in-the-document/"><u>The Substitution Must Maintain Grammatical Structure and Not Alter Any Figures or Percentages Mentioned in the Document.</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/sicreactionvids-yt-celebrity-highlights-2023-for-2024/"><u>TopMusicReactionVids YT Celebrity Highlights, 2023 for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-modern-warfare-3-how-to-fix-launch-issues-on-pc/"><u>Troubleshooting Modern Warfare 3: How to Fix Launch Issues on PC</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-seo-the-path-to-more-audience-engagement-for-2024/"><u>YouTube SEO The Path to More Audience Engagement for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Prevent Rainbow Six Extraction From Crashing While Playing on Your Computer
-date: 2025-01-22T01:13:17.472Z
-updated: 2025-01-24T07:50:48.711Z
+date: 2025-01-29T00:28:29.283Z
+updated: 2025-01-31T20:06:12.113Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/gas-station-simulator.jpg)
 
  With the full game being launched on Steam, now you can operate your own gas station in Gas Station Simulator. However, some players reported that the**game keeps crashing on their PC** . If you happen to be one of them, don’t worry. Here are some working fixes you can try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Before you start
 
@@ -46,19 +42,11 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 5. **[Check your antivirus settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Install the latest game patch
 
  Recently, the Gas Station Simulator developer has released a new hotfix that resolves random crashes while playing. The developer has acknowledged that Texture Streaming was responsible for a significant amount of random crashes in various circumstances. Those crashes have been fixed in the latest update. So before you try anything more complicated,**make sure you have installed the latest game patch** .
 
  If the game still keeps crashing after installing the latest update, check out the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
 
@@ -72,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 3. Navigate to the**LOCAL FILES** tab and select**Verify integrity of game files…** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
@@ -82,6 +70,10 @@ Once done, relaunch the game and check if your problem is resolved.
 
 If the crashing issue persists, continue to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Run the game as administrator
 
  Some programs need administrator rights to function properly on your PC. To ensure that Gas Station Simulator has the full rights it needs, you can run this game as an administrator. Here’s how:
@@ -90,19 +82,19 @@ If the crashing issue persists, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.jpg)
 2. Navigate to the**Compatibility** tab, then check the box next to**Run this program as an administrator** and click**OK** to save changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you have done this, restart Steam and try launching the game again to see if your problem has been resolved.
 
 If the crashing issue remains, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -120,6 +112,10 @@ If the crashing issue remains, move on to the next fix.
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/rtx660-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your computer and launch Gas Station Simulator to see if the game crashes again.
@@ -135,7 +131,7 @@ If the crashing issue remains, move on to the next fix.
  But if the game remains crashing after disabling your antivirus, go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean boot
@@ -157,6 +153,10 @@ If the crashing issue remains, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Relaunch Gas Station Simulator to check if the game crashes again. If not, you can try to enable services one by one until you find the problematic software. Then restart your computer to apply the changes.
 
@@ -183,19 +183,18 @@ If the crashing issue remains, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-making-every-photo-on-iphone-blurry-with-4-tricks-up-your-sleeve-for-2024/"><u>[New] Making Every Photo on iPhone Blurry with 4 Tricks Up Your Sleeve for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-kik-id-visualization-width-x-height-aspect-ratio-duration/"><u>2024 Approved Kik ID Visualization Width X Height, Aspect Ratio, Duration</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bon-voyage-to-smooth-sailing-in-the-sims-4-fixing-graphics-cards/"><u>Bon Voyage to Smooth Sailing in The Sims 4 - Fixing Graphics Cards</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-powered-hr-process-streamlining/"><u>GPT-Powered HR Process Streamlining</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-the-full-potential-of-pixiz-in-video-making/"><u>In 2024, Unlock the Full Potential of Pixiz in Video Making</u></a></li>
-<li><a href="https://program-issues.techidaily.com/in-depth-look-at-why-diablo-immortal-wont-hit-pc-platforms-for-now/"><u>In-Depth Look at Why Diablo Immortal Won't Hit PC Platforms for Now</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-huaweifrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your HuaweiFRP Lock</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-world-of-warcraft-error-132-expert-solutions-revealed/"><u>Overcoming World of Warcraft Error 132: Expert Solutions Revealed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-issue-a-step-by-step-guide-to-overcoming-tarkov-error-103003/"><u>Resolving the Issue: A Step-by-Step Guide to Overcoming Tarkov Error 103003</u></a></li>
-<li><a href="https://games-able.techidaily.com/tackling-windows-error-code-0x887a0006-for-dxgi-devices/"><u>Tackling Windows Error: Code 0X887A0006 for DXGI Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/turbocharge-your-experience-fixing-lag-in-assassins-creed-valhalla/"><u>Turbocharge Your Experience: Fixing Lag in Assassin's Creed: Valhalla</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tweak-win10-monitor-proportions/"><u>Tweak WIN10 Monitor Proportions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-motorola-moto-g73-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Motorola Moto G73 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-must-have-movie-trailer-apps-for-ios-enthusiasts/"><u>Updated 2024 Approved Must-Have Movie Trailer Apps for iOS Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-superfast-fb-downloader-mp4-files-in-minutes/"><u>[New] SuperFast FB Downloader MP4 Files in Minutes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-quick-and-effective-methods-to-save-instagram-stories/"><u>[Updated] 2024 Approved Quick & Effective Methods to Save Instagram Stories</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-enhancing-your-sound-design-with-easy-transitions-for-2024/"><u>[Updated] Enhancing Your Sound Design with Easy Transitions for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-library-loading-failures-dealing-with-error-87-incorrect-parameter-issue/"><u>Fixing Library Loading Failures: Dealing with Error 87 - Incorrect Parameter Issue</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-speed-up-pc-launch-expert-tips-by-yl-software-team/"><u>How to Speed Up PC Launch - Expert Tips by YL Software Team</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-enhancing-online-privacy-youtubes-access-controls/"><u>In 2024, Enhancing Online Privacy YouTube's Access Controls</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/introducing-a-new-era-for-photo-enthusiasts-nixplay-iris/"><u>Introducing a New Era for Photo Enthusiasts - Nixplay Iris</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-mfs-xbox-series-xs-how-to-fix-dev-error-6068-and-enhance-your-gaming-experience/"><u>Mastering MFS Xbox Series X/S: How to Fix Dev Error 6068 and Enhance Your Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-in-cod-warzone-tips-to-enhance-frame-rate-and-eliminate-stuttering/"><u>Optimizing Performance in COD: Warzone - Tips to Enhance Frame Rate and Eliminate Stuttering</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-errors-for-a-successful-launch-of-evil-genius-2/"><u>Overcoming Errors for a Successful Launch of Evil Genius 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-steps-for-activating-call-of-duty-black-ops-4/"><u>RESOLVED: Troubleshooting Steps for Activating Call of Duty: Black Ops 4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/seamless-browsing-restored-the-ultimate-strategies-for-resolving-flickering-glitches-in-google-chrome-on-windows-computers-2024-edition/"><u>Seamless Browsing Restored: The Ultimate Strategies for Resolving Flickering Glitches in Google Chrome on Windows Computers - 2024 Edition</u></a></li>
 </ul></div>
 

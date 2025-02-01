@@ -1,7 +1,7 @@
 ---
 title: "Speedy Success: Navigating the Nuances of Star Wars BF2 Shader Improvement."
-date: 2025-01-23T06:55:41.364Z
-updated: 2025-01-24T05:24:24.399Z
+date: 2025-01-26T21:22:24.655Z
+updated: 2025-01-31T22:18:01.827Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 [Re-enable DirectX 12 mode](https://tools.techidaily.com/drivereasy/download/)
 [Why disabling DirectX 12 works](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Disable DirectX 12 mode
 
  For most players getting stuck at the “Optimizing Shaders” screen, you won’t be able to get to your main menu and see the**OPTIONS** screen. But you can change the DirectX mode by editing the bootup file. Here’s how:
@@ -35,34 +31,38 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![STAR WARS Battlefront II installation file](https://images.drivereasy.com/wp-content/uploads/2021/01/game-installation-file.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Inside of it, open the folder**settings** .
 
  3) Now double-click**BootOptions** and select**Notepad** .  
   
 ![disable DirectX 12 mode in BootOptions](https://images.drivereasy.com/wp-content/uploads/2021/01/bootoptions.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Locate the line**GstRender.EnableDx12** . Change the value to**0** .  
   
 ![disable DirectX 12 mode](https://images.drivereasy.com/wp-content/uploads/2021/01/value-equals-0.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Click**File > Save** to save the changes.  
   
 ![disable DirectX 12 mode STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/save-the-changes.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you’ve done these, launch your game. This time, while loading into the game, you’ll notice that it simply skips the shaders’ installation completely. This means that you should be able to play the game without any issues.
 
  After you successfully launched the game, it may re-enable the DirectX 12 mode automatically or it won’t. If it won’t, you can manually re-enable it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Re-enable DirectX 12 mode
@@ -71,6 +71,10 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![re-enable DirectX 12 mode in STAR WARS Battfront II](https://images.drivereasy.com/wp-content/uploads/2021/01/reenable-DirectX-12-mode-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the GRAPHICS SETTINGS section, locate**ENABLE DIRECTX 12** . If it’s**OFF** , click**ON** . If it’s already ON, take the steps below to enable it in the bootup file.
 
  3) Press the**Windows logo key** and**R** at the same time to open the File Explorer. Then click**Documents** . And open the file**STAR WARS Battlefront II** . Double-click**BootOptions** and open it with**Notepad** .
@@ -78,10 +82,6 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
  4) Now change the value to**0** .  
   
 ![re-enable DirectX 12 mode in the bootup file STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/re-enable-DirectX-12-mode.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Click**File > Save** to save the changes.
 
@@ -106,22 +106,22 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-from-visionary-to-victory-channel-command-school/"><u>[Updated] From Visionary to Victory Channel Command School</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-synergizing-visual-cues-with-the-right-musical-choices/"><u>[Updated] In 2024, Synergizing Visual Cues with the Right Musical Choices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/advanced-ai-innovations-for-effective-web-data-retrieval/"><u>Advanced AI Innovations for Effective Web Data Retrieval</u></a></li>
-<li><a href="https://program-issues.techidaily.com/breaking-down-the-persistent-crash-issues-in-immortals-fenyx-rising-solutions-inside/"><u>Breaking Down the Persistent Crash Issues in Immortals Fenyx Rising - Solutions Inside</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-duty-warzone-display-troubles-a-step-by-step-solution-to-graphics-loading-failures/"><u>Call of Duty Warzone Display Troubles? A Step-by-Step Solution to Graphics Loading Failures</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ending-the-struggle-premiere-pro-instability-no-more-for-windows-users/"><u>Ending the Struggle: Premiere Pro Instability No More for Windows Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enshrouded-pc-crash-fixed-a-comprehensive-guide/"><u>Enshrouded PC Crash Fixed: A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-on-resolving-launch-difficulties-in-the-remastered-nier-game/"><u>Expert Advice on Resolving Launch Difficulties in the Remastered NieR Game</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-analysis-amazon-fire-hd-8-gen-8-review-does-it-match-the-value/"><u>Expert Analysis: Amazon Fire HD 8 Gen 8 Review - Does It Match the Value?</u></a></li>
-<li><a href="https://win-best.techidaily.com/google-6/"><u>Google ドキュメントから切り取られたファイルを救う：6方法レポート</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-world-of-apple-processors-from-rosetta-to-m3-soc-essential-insights-for-savvy-consumers/"><u>Navigating the World of Apple Processors: From Rosetta to M3 SoC - Essential Insights for Savvy Consumers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-solutions-overcome-issues-when-launching-genshin-impact/"><u>Quick Solutions: Overcome Issues When Launching Genshin Impact</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-poco-c65-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-insiders-guide-to-fixing-adobe-cannot-start-as-expected-with-code-0xc0000022/"><u>The Insider's Guide to Fixing 'Adobe Cannot Start as Expected' With Code 0Xc0000022</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-connection-issues-in-minecraft-solutions-and-tips/"><u>Troubleshooting Connection Issues in Minecraft: Solutions & Tips</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-making-triggered-memes-with-filmora-video-editor/"><u>Updated Making Triggered Memes with Filmora Video Editor</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-pros-choice-the-ultimate-list-of-7-live-streaming-apps-for-youtube-iosandroid-for-2024/"><u>[Updated] Pro's Choice The Ultimate List of 7 Live Streaming Apps for YouTube (iOS/Android) for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-twitch-vs-youtube-a-complete-comparison/"><u>[Updated] Twitch Vs. Youtube – A Complete Comparison</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pure-greenprints-accessible-templates-to-amplify-your-filmmaking-expertise/"><u>2024 Approved Pure Greenprints Accessible Templates to Amplify Your Filmmaking Expertise</u></a></li>
+<li><a href="https://win-community.techidaily.com/amazon-bilderwiederherstellung-wie-sie-geloschte-fotos-wiederherstellen/"><u>Amazon-Bilderwiederherstellung: Wie Sie Gelöschte Fotos Wiederherstellen</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-ryzen-7-and-ubuntu-synergy-why-the-framework-laptop-outshines-with-linux-over-windows-11/"><u>AMD Ryzen 7 and Ubuntu Synergy: Why the Framework Laptop Outshines with Linux over Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-delay-expert-tips-for-optimizing-game-performance-on-your-pc/"><u>Beat the Delay: Expert Tips for Optimizing Game Performance on Your PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/command-your-tech-not-money-needed-for-2024/"><u>Command Your Tech, Not Money Needed for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-new-world-experience-freeze-problem-solved/"><u>Enhanced New World Experience: Freeze Problem Solved</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y55s-5g-2023-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y55s 5G (2023) without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-logitech-g-hub-compatibility-problems-with-your-pc-running-windows/"><u>How to Resolve Logitech G Hub Compatibility Problems with Your PC Running Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/is-an-m1-enabled-laptop-a-worthwhile-investment-for-editors/"><u>Is an M1-Enabled Laptop a Worthwhile Investment for Editors?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-directx-hitches-in-your-modern-warfare-2-gaming-experience/"><u>Overcoming DirectX Hitches in Your Modern Warfare 2 Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-why-humankind-wont-take-off/"><u>Solving the Issue: Why Humankind Won't Take Off</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/for-preventing-invisible-thumbnails-on-shorts-videos-for-2024/"><u>Tips for Preventing Invisible Thumbnails on Shorts Videos for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-prevent-battlefront-ii-from-crashing-on-windowslinuxmacos/"><u>Troubleshooting Guide - How to Prevent Battlefront II From Crashing on Windows/Linux/MacOS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-prevent-slime-rancher-2-from-crashing-on-windows/"><u>Troubleshooting Steps to Prevent Slime Rancher 2 From Crashing on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valorant-gameplay-how-to-eliminate-pc-latency-problems-for-a-smooth-experience/"><u>Valorant Gameplay: How to Eliminate PC Latency Problems for a Smooth Experience</u></a></li>
 </ul></div>
 

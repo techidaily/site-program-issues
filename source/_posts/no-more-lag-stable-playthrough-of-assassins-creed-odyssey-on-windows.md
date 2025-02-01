@@ -1,7 +1,7 @@
 ---
 title: No More Lag - Stable Playthrough of Assassin's Creed Odyssey on Windows!
-date: 2025-01-15T01:14:43.052Z
-updated: 2025-01-18T01:30:04.197Z
+date: 2025-01-25T16:13:27.658Z
+updated: 2025-01-31T20:38:19.498Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-69.png)
 
  Many people have reported that**Assassin’s Creed Odyssey keeps crashing** on their PCs. Sometimes the**game crashes on startup** , or sometimes it**crashes randomly** without an error. If you’re one of them, don’t worry. You can fix Assassin’s Creed Odyssey crashing issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix Assassin’s Creed Odyssey crashing
 
@@ -44,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
  Assassin’s Creed Odyssey still crashes? Don’t worry. Try the next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update available drivers
@@ -65,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
  2) Run Driver Easy and click**Scan Now** . Then Driver Easy will scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-70.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged devices to automatically download the driver (you can do that with the**FREE** version), then install it on your computer.
 
@@ -90,10 +98,6 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-73.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In**Window Mode** , click and change to another mode.
 
  If you’re using**Fullscreen** mode, change it to**Borderless** mode.  
@@ -102,7 +106,7 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-74.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Turn off**VSync** .
@@ -110,7 +114,7 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-75.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Click the**Graphics** tab, try lowing these settings:
@@ -124,10 +128,6 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-76.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Restart your computer.
 
@@ -144,7 +144,7 @@ Open Assassin’s Creed Odyssey and see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-78.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click on**Assassin’s Creed Odyssey** , and click**Properties** .
@@ -186,15 +186,19 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-free-youtube-channel-art-templates/"><u>[New] 2024 Approved Free YouTube Channel Art Templates</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-block-spontaneous-youtube-video-triggers/"><u>[New] In 2024, Block Spontaneous YouTube Video Triggers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-maximum-mac-gif-recorder/"><u>[New] In 2024, Maximum Mac Gif Recorder</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-strategies-to-address-and-solve-steams-server-connection-problems/"><u>Effective Strategies to Address and Solve Steam's Server Connection Problems</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/videos-to-vibrant-gifs-youtube-conversion-techniques-for-2024/"><u>From Videos to Vibrant GIFs YouTube Conversion Techniques for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-what-to-do-if-humanity-faces-a-launch-failure/"><u>Guide: What to Do If Humanity Faces a Launch Failure</u></a></li>
-<li><a href="https://program-issues.techidaily.com/lego-star-wars-how-to-overcome-the-pc-versions-crash-issues-for-the-skywalker-saga/"><u>Lego Star Wars: How to Overcome the PC Version's Crash Issues for The Skywalker Saga</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/step-into-tomorrow-secure-these-7-devices-for-metaverse-life/"><u>Step Into Tomorrow Secure These 7 Devices for Metaverse Life</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-steam-crashes-cold-top-troubleshooting-tips-for-gamers/"><u>Stop Steam Crashes Cold - Top Troubleshooting Tips for Gamers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-11-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 11</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-integrating-snap-photos-in-teams/"><u>[New] In 2024, The Ultimate Guide to Integrating Snap Photos in Teams</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-web-wonders-weekly-review/"><u>[New] In 2024, Web Wonders Weekly Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-rocket-league-wont-launch/"><u>[Solved] Rocket League Won’t Launch</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-simple-guide-transforming-fb-videos-into-720p1080p-mp4-format-free/"><u>[Updated] 2024 Approved Simple Guide Transforming FB Videos Into 720P/1080p MP4 Format (Free)</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-byb-e430-led-light-fixture-assessment-the-ultimate-swing-arm-illumination/"><u>Expert BYB E430 LED Light Fixture Assessment: The Ultimate Swing Arm Illumination</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-issues-with-call-of-duty-warzone-why-it-might-not-be-loading-and-how-to-fix-it/"><u>Fix Issues with Call of Duty Warzone: Why It Might Not Be Loading & How to Fix It</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-huawei-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Huawei Phone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unraveling-the-top-9-free-video-logo-creation-software-list/"><u>In 2024, Unraveling The Top 9 Free Video Logo Creation Software List</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-preventing-and-repairing-gray-zone-warfare-gzw-disruptions-on-your-computer/"><u>Master the Art of Preventing and Repairing Gray Zone Warfare (GZW) Disruptions on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723006711780-mir4-crashes-on-pc-heres-what-you-need-to-know-for-a-quick-fix/"><u>Mir4 Crashes on PC? Here's What You Need to Know for a Quick Fix</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpt-as-a-professional-writer/"><u>Navigating ChatGPT as a Professional Writer</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/the-ultimate-tutorial-on-setting-up-real-time-file-tracking-and-automated-transfer-between-directories/"><u>The Ultimate Tutorial on Setting Up Real-Time File Tracking & Automated Transfer Between Directories</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-ensure-uninterrupted-play-in-outriders/"><u>Troubleshooting Guide: How to Ensure Uninterrupted Play in Outriders</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/years-top-picks-affordable-livestream-software-and-apps-list/"><u>Year's Top Picks Affordable Livestream Software and Apps List</u></a></li>
 </ul></div>
 

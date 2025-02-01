@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing Dark Souls 3 Unexpected Shutdowns
-date: 2025-01-11T06:34:58.001Z
-updated: 2025-01-17T19:18:32.555Z
+date: 2025-01-31T01:28:18.016Z
+updated: 2025-02-01T00:50:00.491Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 **Dark Souls 3 keeps crashing** on your computer? This is quite frustrating, but you’re not the only one. The good news is, you can fix Dark Souls 3 crashing quite easily. This post puts together the possible solutions for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix Dark Souls 3 crashing
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 4. [Set game options to LOW](https://tools.techidaily.com/drivereasy/download/)
 5. [Verify Integrity of Game Files](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Disable overlays for your game
 
  If there is any overlay software running when you play Dark Souls 3, it may cause game crashing on startup or freezing. It’s normal to use overlays for Steam games, but some games could be incompatible with overlay software.
@@ -44,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 **Try disabling overlays for Dark Souls 3** and see if your game stops crashing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run in Windowed mode
@@ -52,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
  If you play Dark Souls 3 in Fullscreen mode, it may crash to your desktop. In this case, you can fix your game crashing problem by switching to**Windowed mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-708.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can go to the game options and change to Windowed mode, then re-launch your game to see if it works.
 
@@ -62,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
  2) Type**_%appdata%_** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Open**DarkSouls3** folder.
 
@@ -95,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-706.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ ).
 
@@ -134,15 +126,15 @@ If you can’t access the in-game settings, try this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-711.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6) Save your file changes and restart your game.
 
 Then play your game to see if it works properly.
 
  Still no luck? Don’t give up hope. There’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Verify Integrity of Game Files
 
@@ -154,9 +146,17 @@ Then play your game to see if it works properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-702.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right click on**Dark Souls 3** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-703.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
@@ -187,22 +187,16 @@ Then play your game to see if it works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-the-ultimate-list-youtube-alternatives-for-video-creators/"><u>[New] In 2024, The Ultimate List YouTube Alternatives for Video Creators</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-skyrocket-your-earnings-on-tiktok-discover-the-top-8-ways/"><u>[New] Skyrocket Your Earnings on TikTok Discover the Top 8 Ways</u></a></li>
-<li><a href="https://program-issues.techidaily.com/complete-fixes-for-users-facing-non-responsive-vrchat-experiences/"><u>Complete Fixes for Users Facing Non-Responsive VRChat Experiences</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ideal-spots-to-purchase-your-next-smartphone/"><u>Discover the Ideal Spots to Purchase Your Next Smartphone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/full-guide-streamlining-your-files-in-the-digital-age-with-adobe-and-beyond/"><u>Full Guide Streamlining Your Files in the Digital Age with Adobe & Beyond</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-v-rising-crashing-on-pc/"><u>How to Fix V Rising Crashing on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-logitech-g-hub-not-responding-errors-for-windows-users/"><u>How to Resolve 'Logitech G Hub Not Responding' Errors for Windows Users</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-y77t-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo Y77t to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Samsung Galaxy A05? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/latest-updates-fix-pc-crashes-in-rainbow-six-extraction-game-now-plays-smoothly/"><u>Latest Updates Fix PC Crashes in Rainbow Six Extraction - Game Now Plays Smoothly</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/master-browser-fb-vid-extractor-kit/"><u>Master Browser FB Vid Extractor Kit</u></a></li>
-<li><a href="https://program-issues.techidaily.com/microsoft-flight-simulator-2020-unlocking-your-game-from-the-stuck-update-loop-with-ease/"><u>Microsoft Flight Simulator 2020: Unlocking Your Game From the Stuck Update Loop with Ease</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-issue-call-of-duty-vanguard-error-message-5573-explained/"><u>Resolved Issue: Call of Duty Vanguard Error Message #5573 Explained</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-disruptions-stable-gaming-experience-with-metro-exodus-enhanced-edition-on-pc/"><u>Resolving Disruptions: Stable Gaming Experience with Metro Exodus Enhanced Edition on PC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/step-by-step-guide-to-brightening-images-post-capture-for-2024/"><u>Step-by-Step Guide to Brightening Images Post-Capture for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-dual-forces-behind-a-successful-product-launch-insights-revealed/"><u>The Dual Forces Behind a Successful Product Launch: Insights Revealed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlock-gaming-potential-advanced-techniques-to-boost-your-fps-on-ring-of-elysium/"><u>Unlock Gaming Potential: Advanced Techniques to Boost Your FPS on Ring of Elysium</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-efficiently-priced-flight-machines-affordable-drones-list/"><u>[New] 2024 Approved Efficiently Priced Flight Machines Affordable Drones List</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-your-visual-impact-journey-begins-with-our-50-free-banners/"><u>[New] 2024 Approved Your Visual Impact Journey Begins with Our 50 FREE Banners!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-best-video-grabbers-for-mac-for-2024/"><u>[New] Best Video Grabbers for Mac for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-essential-music-video-watching-apps-for-android-for-2024/"><u>[New] Essential Music Video Watching Apps for Android for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-reel-it-in-pro-level-techniques-for-youtube-video-editors/"><u>[Updated] 2024 Approved Reel It In Pro-Level Techniques for YouTube Video Editors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-learn-how-to-build-youtube-backlinks-for-your-channel-for-2024/"><u>[Updated] Learn How to Build YouTube Backlinks for Your Channel for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnose-and-fix-your-diablo-ii-resurrected-not-launching-problem-today/"><u>Diagnose and Fix Your Diablo II Resurrected Not Launching Problem Today!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-fixing-not-initialized-errors-for-vanguard-abilities-in-valorant/"><u>Expert Tips for Fixing 'Not Initialized' Errors for Vanguard Abilities in Valorant</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-your-logitech-c920-webcam-working-again-common-solutions-explored/"><u>How to Get Your Logitech C920 Webcam Working Again - Common Solutions Explored</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-stop-doom-eternal-from-crashing/"><u>Troubleshooting Steps to Stop DOOM Eternal From Crashing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-tecno-phantom-v-flip-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Tecno Phantom V Flip FRP Bypass</u></a></li>
 </ul></div>
 

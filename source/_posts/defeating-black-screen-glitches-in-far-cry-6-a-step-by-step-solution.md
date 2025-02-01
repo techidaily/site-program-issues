@@ -1,7 +1,7 @@
 ---
 title: Defeating Black Screen Glitches in Far Cry 6 – A Step-by-Step Solution
-date: 2024-12-14T23:41:38.385Z
-updated: 2024-12-18T18:42:21.903Z
+date: 2025-01-30T16:12:15.024Z
+updated: 2025-01-31T19:09:53.283Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ Many users have reported the **Rocket League freezing** issue. This issue could 
 4. Click the**Display** tab to check your graphics card.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-132-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Minimum System Requirement of**  Rocket League
 
 | **Supported OS** | Windows 7 or newer         |
@@ -49,10 +45,6 @@ Many users have reported the **Rocket League freezing** issue. This issue could 
 | **Video Card**   | NVIDIA GTX 660 or better, ATI 7950 or better |
 | **Hard Drive**   | 7 GB                                         |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  There’re 7 fixes that have helped many gamers solve their problems. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -66,7 +58,7 @@ Many users have reported the **Rocket League freezing** issue. This issue could 
 7. [**Reinstall Rocket League**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Run as administrator
@@ -80,10 +72,14 @@ Many users have reported the **Rocket League freezing** issue. This issue could 
 4. Click**Apply > OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Run the game and check the issue is solved or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Verify game files
 
@@ -93,11 +89,15 @@ Many users have reported the **Rocket League freezing** issue. This issue could 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-1.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-2.png)
 3. Launch Rocket League to check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable Overlay feature
@@ -111,7 +111,7 @@ Many users have reported the **Rocket League freezing** issue. This issue could 
 3. Run the game to check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Change compatibility mode
@@ -160,11 +160,15 @@ OR
 4. Relaunch the game and check whether the problem is resolved or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Delete the game cache files
 
@@ -187,10 +191,6 @@ OR
 2. Click **LIBRARY** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 3. Right-click **Rocket League**  and select **Uninstall.**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-273.png)
 4. Click **DELETE** .  
@@ -220,24 +220,18 @@ Hope you can run Rocket League smoothly now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/xploring-the-disparities-between-youtube-and-dailymention/"><u>[New] Exploring the Disparities Between YouTube and DailyMention</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-revolution-in-do-it-yourself-prepare-for-gpt-4/"><u>AI Revolution in Do-It-Yourself: Prepare for GPT-4</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/avoiding-crypto-fraud-expert-tips-from-yl-computing/"><u>Avoiding Crypto Fraud: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723010872684-beat-saber-troubles-heres-how-to-prevent-unexpected-game-shutdowns/"><u>Beat Saber Troubles? Here's How to Prevent Unexpected Game Shutdowns</u></a></li>
-<li><a href="https://program-issues.techidaily.com/clearing-up-confusion-a-step-by-nstep-solution-for-destiny-2s-weasel-issue/"><u>Clearing Up Confusion: A Step-by-nStep Solution for Destiny 2'S 'Weasel' Issue</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhance-printing-dell-inkjet-driver-upgrade-for-windows-7/"><u>Enhance Printing: Dell Inkjet Driver Upgrade for Windows 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-downloading-updated-logitech-g35-drivers-for-windows-7-810/"><u>Ensure Optimal Performance: Downloading Updated Logitech G35 Drivers for Windows 7, 8/10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-ntdlldll-error-resolved-solutions-for-stability-issues-in-windows-11-and-10/"><u>Fixing the ntdll.dll Error: Resolved Solutions for Stability Issues in Windows 11 and 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-your-dota-2s-valve-anti-cheat-error-a-step-by-step-guide/"><u>How to Resolve Your Dota 2'S Valve Anti-Cheat Error : A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lava-blaze-2-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Lava Blaze 2 Pro Lock Screen Password?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-seamless-background-extraction-in-picsart-editing/"><u>In 2024, Seamless Background Extraction in Picsart Editing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/league-of-legends-black-display-woes-heres-how-you-can-fix-it/"><u>League of Legends Black Display Woes? Here's How You Can Fix It !</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/nixplay-original-w15a-review/"><u>Nixplay Original W15A Review</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-dev-error-6328-in-call-of-duty-warzone-pro-tips-and-solutions/"><u>Overcoming Dev Error 6328 in Call of Duty: Warzone – Pro Tips and Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-ubisoft-connect-malfunction-effective-solutions-for-gamers-in-2-cuff-links-2024/"><u>Resolving Ubisoft Connect Malfunction: Effective Solutions for Gamers in 2 Cuff Links 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-persistent-killing-of-genshin-impact-on-personal-computers/"><u>Solving Persistent Killing of Genshin Impact on Personal Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-fix-for-non-functioning-tozo-t6-software-in-windows-11/"><u>Step-by-Step Fix for Non-Functioning Tozo T6 Software in Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-chatgpts-content-generation-do-accusations-of-plagiarism-hold-water/"><u>Understanding ChatGPT’s Content Generation: Do Accusations of Plagiarism Hold Water?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011030971-fixed-grounded-crashing-on-pc-2024-tips/"><u>[Fixed] Grounded Crashing on PC - 2024 Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-key-to-a-successful-tweet-including-aspect-ratio-details/"><u>[Updated] 2024 Approved The Key to a Successful Tweet Including Aspect Ratio Details</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1728493582857-windows-server-2019/"><u>万无一失：如何顺利备份Windows Server 2019上的数据（分步指南）</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/day-5/"><u>Day: 5</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-solve-the-persistent-problem-of-vray-crashes-in-windows-or-mac-systems/"><u>How to Solve the Persistent Problem of Vray Crashes in Windows or Mac Systems</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/reconnaitre-en-francais-la-delivrance-dun-merci/"><u>Reconnaître en Français La Délivrance D'Un 'Merci'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-edge-browser-freezes-and-closes-a-guide-for-windows-nix-users/"><u>Resolving Edge Browser Freezes and Closes: A Guide for Windows Nix Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-common-slowdowns-for-the-spotify-web-player-fixes-and-tips/"><u>Solve Common Slowdowns for the Spotify Web Player (Fixes and Tips)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-stop-your-tower-of-fantasy-game-from-crashing-on-windows/"><u>Step-by-Step Guide: Stop Your Tower of Fantasy Game From Crashing on Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tips-on-selecting-and-buying-an-ideal-tv-setup-for-your-household/"><u>Step-by-Step Tips on Selecting & Buying an Ideal TV Setup for Your Household</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-chrome-from-freezing-in-windows-10-with-simple-fixes/"><u>Stop Chrome From Freezing in Windows 10 with Simple Fixes</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-text-animation-made-easy-top-mobile-video-editing-apps/"><u>Updated In 2024, Text Animation Made Easy Top Mobile Video Editing Apps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Assassin’s Creed Rogue Launch Issues? Discover Effective Troubleshooting Steps
-date: 2025-01-16T23:52:09.304Z
-updated: 2025-01-17T19:03:08.185Z
+date: 2025-01-28T17:14:38.532Z
+updated: 2025-01-31T17:18:07.219Z
 tags:
   - win11
   - win10
@@ -37,15 +37,15 @@ As one of the most anticipated video games in early 2022, Monster Hunter Rise is
 ![open as an administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-Properties.jpg)
 3. Select the**Compatibility** tab. Tick**Run this program as an administrator** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
 
  Directly launch the exe file to see how it works. If it still doesn’t start properly, try**running the game in compatibility mode for Windows 8** . This is a simple workaround for many players.
 
 Still no luck? Move on to the next method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Allow your game through Controlled Folder Access and antivirus
 
@@ -56,7 +56,7 @@ Still no luck? Move on to the next method below.
 2. Select **Virus & threat protection**  from the left pane. Scroll to the Ransomware protection section and click **Manage ransomware protection** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2.jpg)
@@ -65,12 +65,12 @@ Still no luck? Move on to the next method below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/3.jpg)
 4. Click **Add an allowed app** **\> Browse all apps** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/browse-all-apps.png)
 5. Navigate to the game’s installation folder and add the**MonsterHunterRise.exe file** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have also installed any third-party anti-virus software like McAfee, Bitdefender and Avast, make sure your game is added to their whitelists and not blocked.
 
@@ -91,7 +91,7 @@ Still no luck? Move on to the next method below.
  Once done, restart the computer for the changes to take effect. Then test if the issue reoccurs. If yes, there are a few more fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Disable resource-hogging programs
@@ -104,11 +104,11 @@ Still no luck? Move on to the next method below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
-Check if the game launches as expected. If not, take a look at Fix 5.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Check if the game launches as expected. If not, take a look at Fix 5.
 
 ### Fix 5 – Verify the integrity of game files
 
@@ -119,23 +119,15 @@ Check if the game launches as expected. If not, take a look at Fix 5.
 2. From the game list, right-click**Monster Hunter Rise** and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Select**Local Files** from the left pane and click**Verify intergrity of game files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
  It may take a few minutes to finish scanning and repairing. Then you can restart the game to see if the problem persists. If so, continue to the last method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6 – Repair your system files
 
@@ -151,7 +143,15 @@ Check if the game launches as expected. If not, take a look at Fix 5.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Test the game to see if your system runs faster and smoother now.
 
@@ -177,18 +177,18 @@ Test the game to see if your system runs faster and smoother now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-triple-tier-phones-the-best-choice-for-high-quality-videos/"><u>2024 Approved Triple-Tier Phones The Best Choice for High-Quality Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-turing-exploring-modern-approaches-to-ai-evaluation/"><u>Beyond Turing: Exploring Modern Approaches to AI Evaluation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bridging-caption-gaps-perfecting-word-placement-on-windowsmac-photos-for-2024/"><u>Bridging Caption Gaps Perfecting Word Placement on Windows/Mac Photos for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-steps-to-fix-the-starfield-pc-gaming-issue-no-more-crashes/"><u>Easy Steps to Fix the Starfield PC Gaming Issue - No More Crashes!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-fixing-persistent-crashes-in-fifa-21-for-windows-users-full-walkthrough/"><u>Expert Advice: Fixing Persistent Crashes in FIFA 21 for Windows Users - Full Walkthrough</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixed-how-to-stop-fortnite-from-running-out-of-vram/"><u>Fixed: How to Stop Fortnite From Running Out of VRAM</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-achieve-smooth-gameplay-fixing-street-fighter-n-pc-performance-problems-fast/"><u>How to Achieve Smooth Gameplay: Fixing Street Fighter N-PC Performance Problems Fast</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-vivo-v30-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo V30 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-creativity-time-lapse-on-samsung/"><u>In 2024, Unleashing Creativity Time-Lapse on Samsung</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-the-challenge-of-missing-files-in-windows-expert-tips-and-mistake-free-strategies/"><u>Overcoming the Challenge of Missing Files in Windows: Expert Tips & Mistake-Free Strategies</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/reconstitution-dun-fichier-excel-manquant-ou-delete-sur-windows-10-astuces-utiles-pour-tous-les-niveaux/"><u>Reconstitution D'un Fichier Excel Manquant Ou Déleté Sur Windows 10 : Astuces Utiles Pour Tous Les Niveaux</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013834195-solve-microsoft-flight-simulator-2n-update-hangups-once-and-for-all-step-by-step-guide/"><u>Solve Microsoft Flight Simulator 2N Update Hangups Once and for All - Step-by-Step Guide!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-windows-spotlight-issues-on-windows-11/"><u>Troubleshooting Guide: Fixing 'Windows Spotlight' Issues on Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-master-your-videos-with-these-10-top-rated-trimmers/"><u>[New] Master Your Videos with These 10 Top-Rated Trimmers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-optimal-video-playback-by-tuning-speed-in-snapchat/"><u>[New] Unlock Optimal Video Playback by Tuning Speed in Snapchat</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dota-2-slowdown-solutions-boost-your-fps-in-windows-11-and-10-with-easy-fixes/"><u>Dota 2 Slowdown Solutions: Boost Your FPS in Windows 11 and 10 with Easy Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-message-resolved-ensure-game-data-is-correct-to-play-successfully/"><u>Error Message Resolved: Ensure Game Data Is Correct to Play Successfully</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/generate-individual-meme-crafts-today-for-2024/"><u>Generate Individual Meme Crafts Today for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-past-starting-trouble-a-guide-to-repairing-teso-launch-problems/"><u>Getting Past Starting Trouble: A Guide to Repairing TESO Launch Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-granblue-fantasy-relink-crashing-on-pc/"><u>How to Fix Granblue Fantasy: Relink Crashing on PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-guide-installing-the-wacom-intuos-pro-driver-for-windows-10/"><u>Quick Guide: Installing the Wacom Intuos Pro Driver for Windows 10</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/triggering-uninterrupted-youtube-streaming-on-facebook-feed-for-2024/"><u>Triggering Uninterrupted YouTube Streaming on Facebook Feed for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-free-gaming-fixes-for-persistent-crashing-in-halo-infinite/"><u>Trouble-Free Gaming: Fixes for Persistent Crashing in Halo Infinite</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-dark-mode-display-glitches-in-cod-wwii-game-on-windows-systems-fix-now/"><u>Troubleshooting Dark Mode Display Glitches in COD: WWII Game on Windows Systems – Fix Now</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-download-kinemaster-for-macstep-by-step-guide/"><u>Updated In 2024, Download KineMaster for MacStep-by-Step Guide</u></a></li>
 </ul></div>
 

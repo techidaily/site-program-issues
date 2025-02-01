@@ -1,7 +1,7 @@
 ---
 title: "Call of Duty Vanguard and PC Compatibility: Solving Common Crashes"
-date: 2025-01-13T00:47:19.552Z
-updated: 2025-01-17T20:26:57.950Z
+date: 2025-01-26T23:13:15.813Z
+updated: 2025-01-31T18:43:54.947Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
  In Arcadegeddon, you will explore multiple biomes, mini games, find hidden chests, and defeat numerous enemies and bosses. In this cooperative multiplayer shooter, you can play solo or with up to 3 friends.
 
  Arcadegeddon is finally out. Although this is an early access game, it still attracts tons of players. However, just like any other games launched recently, Arcadegeddon is not immune to unforseen issues and bugs. **Recently, many PC players are experiencing the game crashing issue** . If you’re on the same boat, don’t worry. You’ve come to the right place. After reading this article,**you should be able to fix this issue quickly and easily!**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -45,17 +41,9 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 2. Click on the **three dots** under the **Arcadegeddon** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch Arcadegeddon and see if this fix works. If the game still crashes, don’t worry. Read on and try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -72,12 +60,20 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -86,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
  If a patch is available, it will be detected by Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Arcadegeddon again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Close CPU / memory hogging applications
 
@@ -97,12 +97,16 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 2. Select any other applications and programs that take up a large amount of **CPU** or **memory** , then click **End task** to close it.  
 ![Close CPU / memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/05/Close-CPU-memory-hogging-applications.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If Arcadegeddon works well after you closed those CPU / memory hogging applications, congratulations!
 
  To prevent Arcadegeddon from crashing due to insufficient memory in the future, you may need to consider[upgrading the memory (RAM) on your computer](https://www.amazon.com/s?k=RAM&tag=drivereasycom-20) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Perform a clean boot
@@ -112,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
@@ -127,7 +127,7 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 5. Go back to the **System Configuration** window and click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
@@ -167,18 +167,20 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-unraveling-cuts-in-imovie-size-modification-mystery/"><u>[Updated] 2024 Approved Unraveling Cuts in iMovie Size Modification Mystery</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-pioneering-strategies-to-escalate-your-channels-popularity/"><u>2024 Approved Pioneering Strategies to Escalate Your Channel's Popularity</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013070377-boost-your-play-with-fortnites-season-eight-upgrade-fps-enhancements-explained/"><u>Boost Your Play with Fortnite's Season Eight Upgrade – FPS Enhancements Explained!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-error-code-0x00001338-in-call-of-duty-vanguard-on-windows-systems-complete-solution/"><u>Fixing Error Code 0X00001338 in Call of Duty Vanguard on Windows Systems – Complete Solution</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-issues-how-to-make-civilization-vi-functional-on-windows-11/"><u>Fixing Issues: How to Make Civilization VI Functional on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-14-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Oppo Reno 8T 5G? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723012583607-how-to-stop-call-of-duty-vanguard-from-freezing-on-your-computer-pc-for-the-2024-update/"><u>How to Stop Call of Duty Vanguard From Freezing on Your Computer (PC) for the 2024 Update</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/is-a-private-open-source-option-as-good-as-google-photos/"><u>Is a Private, Open-Source Option as Good as Google Photos?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revise-and-update-tips-for-correcting-posts-on-instagram/"><u>Revise and Update: Tips for Correcting Posts on Instagram</u></a></li>
-<li><a href="https://program-issues.techidaily.com/speedy-troubleshooting-guide-effortless-fixes-for-when-madden-ebby-wont-work/"><u>Speedy Troubleshooting Guide: Effortless Fixes for When Madden Ebby Won't Work</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-configuring-different-view-modes-in-folder-hierarchies/"><u>Step-by-Step Tutorial on Configuring Different View Modes in Folder Hierarchies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/trouble-with-discord-voice-chat-here-are-solutions-for-the-push-to-talk-problem/"><u>Trouble with Discord Voice Chat? Here Are Solutions for the Push-To-Talk Problem</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-capture-the-inspired-moment-essential-photos-for-ig/"><u>2024 Approved Capture the Inspired Moment Essential Photos for IG</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tale-weavers-hub-hall-of-fame-picks/"><u>2024 Approved Tale Weavers Hub - Hall of Fame Picks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/8-proven-fixes-for-vrchat-crashing-on-pc/"><u>8 Proven Fixes for VRChat Crashing on PC</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/comprehensive-jpeg-restoration-services/"><u>Comprehensive JPEG Restoration Services</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-solving-crashes-in-yakuza-6-seamless-gaming-experience-on-windows/"><u>Expert Tips for Solving Crashes in Yakuza 6 - Seamless Gaming Experience on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fallout-3-wont-start-try-these-expert-troubleshooting-tips/"><u>Fallout 3 Won't Start? Try These Expert Troubleshooting Tips !</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-implemented-solving-horizon-zero-dawn-pc-game-freezing-issues/"><u>Fixes Implemented: Solving Horizon Zero Dawn PC Game Freezing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-connection-failed-glitch-in-hitman-3-expert-solutions/"><u>Fixing the 'Connection Failed' Glitch in Hitman 3 - Expert Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-acrocefexe-malfunction-a-comprehensive-guide/"><u>Resolving AcroCEF.exe Malfunction: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-help.techidaily.com/track-cryptocurrency-investments-and-the-company-name-yl-computingsoftware-they-also-suggest-helpful-content-with-words-like-managing-and-strategies-or-opti40/"><u>Track, Cryptocurrency Investments, and the Company Name YL Computing/Software. They Also Suggest Helpful Content with Words Like Managing and Strategies or Optimize and Tips.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-a-disconnected-steam-contacts-circle-solutions-at-hand/"><u>Troubleshooting a Disconnected Steam Contacts Circle – Solutions at Hand</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/understanding-pbns-a-comprehensive-guide-with-essential-seo-strategies/"><u>Understanding PBNs: A Comprehensive Guide with Essential SEO Strategies</u></a></li>
+<li><a href="https://win-bits.techidaily.com/yl-softwares-ultimate-selection-of-audi-rs3-sportback-images-hd-photos-and-graphics-for-desktop-use/"><u>YL Software's Ultimate Selection of Audi RS3 Sportback Images, HD Photos & Graphics for Desktop Use</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Persistent Crashes in Call of Duty: Black Ops Cold War on Windows PC"
-date: 2025-01-15T01:45:23.577Z
-updated: 2025-01-17T20:47:13.874Z
+date: 2025-01-31T01:39:21.799Z
+updated: 2025-02-01T00:08:56.062Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/b958a593c95d29eeb474585a5be149c96a0df966a
 See a black screen when playing CoD: WWII? Although this is an annoying issue, you’re definitely not the only person to experience it. And more importantly, this is fixable.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -32,6 +32,10 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Switch out of your game, then switch back in
 
  This is the first thing you should try when you have a black screen issue on Call of Duty: WWII. To do this:
@@ -42,7 +46,7 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
  If this works for you, you won’t see the black screen. But if the issue persists, don’t worry. There are still other fixes for you to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Switch to the windowed mode, then switch back to the full screen mode
@@ -85,21 +89,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-424.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-425.png)  
  You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Reinstall your game
@@ -110,6 +106,10 @@ OR
 2. Type**appwiz.cpl** , then press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Delete Call of Duty: World War II (right click this game in the list and select**Uninstall** ).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Download the game from where you purchased it.
 5. Try playing CoD: WWII and see if this fixes your black screen issue.
@@ -134,22 +134,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-facilitating-tiktok-videos-transmission-to-facebook-friends/"><u>[New] Facilitating TikTok Videos' Transmission to Facebook Friends</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-strategies-to-enhance-twitter-user-experience-with-ads/"><u>2024 Approved Strategies to Enhance Twitter User Experience with Ads</u></a></li>
-<li><a href="https://program-issues.techidaily.com/adobe-application-start-up-problems-fixing-the-causes-behind-code-0xc0000022-and-ensuring-smooth-operation/"><u>Adobe Application Start-Up Problems: Fixing the Causes Behind Code 0xC0000022 and Ensuring Smooth Operation</u></a></li>
-<li><a href="https://program-issues.techidaily.com/charting-a-course-for-earthlings-inaugural-flight-tactics-and-advice/"><u>Charting a Course for Earthlings’ Inaugural Flight: Tactics and Advice</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquering-dark-screens-effective-troubleshooting-techniques/"><u>Conquering Dark Screens: Effective Troubleshooting Techniques</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/elevate-your-video-editing-skills-with-kinemaster-and-10-leading-alternatives/"><u>Elevate Your Video Editing Skills with KineMaster & 10 Leading Alternatives</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-back-to-playing-fifa-19-effective-fix-for-game-crashes-on-pc/"><u>Get Back to Playing FIFA 19: Effective Fix for Game Crashes on PC</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/guia-paso-a-paso-para-respaldar-informacion-al-nas-y-clients-de-nube/"><u>Guía Paso a Paso Para Respaldar Información Al NAS Y Clients De Nube</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-the-unresponsive-volume-control-in-windows-10/"><u>Guide to Fixing the Unresponsive Volume Control in Windows 10</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-vivo-y77t-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Vivo Y77t for Parents | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/launch-problems-in-valorant-heres-how-you-can-resolve-them-on-your-pc-latest-tips/"><u>Launch Problems in Valorant? Here's How You Can Resolve Them on Your PC - Latest Tips!</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-connection-settings-to-enable-smooth-access-to-party-chat-services/"><u>Mastering Connection Settings to Enable Smooth Access to Party Chat Services</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/1723262357299-play-on-the-edge-nzxts-affordable-monthly-gaming-desktops-choose-core-i5-wrtx-4060-or-step-up-to-core-i7-and-rtx-4070-ti-for-superior-performance-at-169/"><u>Play on the Edge! NZXT's Affordable Monthly Gaming Desktops: Choose Core I5 W/RTX 4060 or Step Up to Core I7 & RTX 4070 Ti for Superior Performance at $169</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-network-delays-in-league-of-legends/"><u>Resolved: How to Fix Network Delays in League of Legends</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-issues-step-by-step-guide-to-fix-pacific-drive-crashes-on-your-computer/"><u>Resolving Issues: Step-by-Step Guide to Fix Pacific Drive Crashes on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-pc-game-crashes-overcome-nba-2k23-hurdles-with-these-7-pro-tips-and-fixes/"><u>Stop PC Game Crashes: Overcome NBA 2K23 Hurdles with These 7 Pro Tips & Fixes</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/variety/"><u>Variety</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-navigating-rights-in-instagram-songs-for-2024/"><u>[New] Navigating Rights in Instagram Songs for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-timing-the-perfect-capture-and-labeling/"><u>[Updated] Timing the Perfect Capture and Labeling</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-trailblazers-in-the-world-of-virtual-reality-for-2024/"><u>[Updated] Trailblazers in the World of Virtual Reality for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unlocking-instagrams-potential-successful-post-tactics-for-2024/"><u>[Updated] Unlocking Instagram's Potential Successful Post Tactics for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-oppo-find-x7-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Oppo Find X7? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/assassins-creed-valhalla-release-delay-explained/"><u>Assassin's Creed Valhalla Release Delay Explained</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/elevate-web-personalization-using-the-power-of-cookiebot-technology/"><u>Elevate Web Personalization Using the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-the-thaumaturge-not-launching-or-working-on-pc/"><u>Fix The Thaumaturge Not Launching or Working on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-fall-guys-issues-overcoming-launch-and-crash-problems-easily/"><u>Fix Your Fall Guys Issues: Overcoming Launch and Crash Problems Easily!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y78-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y78 5G Phones with/without a PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-arma-3-from-crashing-updated-tips-for-gamers/"><u>How to Stop Arma 3 From Crashing [Updated Tips for Gamers ]</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leveraging-keywords-and-metadata-in-podcast-seo-for-2024/"><u>Leveraging Keywords and Metadata in Podcast SEO for 2024</u></a></li>
 </ul></div>
 

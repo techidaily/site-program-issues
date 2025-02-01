@@ -1,7 +1,7 @@
 ---
 title: Fixing Fatal Launch Stalls - Expert Tips for a Smooth Company Debut
-date: 2025-01-15T01:30:33.037Z
-updated: 2025-01-17T18:03:48.737Z
+date: 2025-01-26T21:16:05.869Z
+updated: 2025-02-01T01:05:25.453Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 
 Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is finally[here](https://www.epicgames.com/store/en-US/p/immortals-fenyx-rising?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=4b35838425c74992ad42e1276b2161ca) , giving you a gorgeous world to explore. However, many players reported various issues with this new title, such as the game not launching or stuck on loading. If you face the same predicament, don’t worry. Here are some quick fixes to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You don’t need to try them all. Just work your way down until you find the one that solves your problem.
@@ -27,6 +31,10 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 4. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Use dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Rename the exe file
 
  This sounds a bit weird but renaming the game’s exe file works like a charm for many players that can’t start the game normally. Here’s how:
@@ -36,10 +44,6 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 3. Rename the**ImmortalsFenyxRising\_plus.exe** file to**ImmortalsFenyxRising.exe** .
 
  Relaunch Immortals Fenyx Rising and it should be working properly. If this method doesn’t help, there are more fixes to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Run the game as an administrator
 
@@ -53,6 +57,10 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-2.jpg)
 
  Run the game again to check if your problem gets fixed. If not, continue to the third method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -71,11 +79,11 @@ There are mainly two ways you can do this:
 
 ![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Verify the integrity of game files
 
@@ -86,11 +94,11 @@ There are mainly two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-1.jpg)
 3. Click**Verify files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait until the scan and repair process completes, and restart your game to test. If the not launching problem persists, keep reading the last fix.
 
@@ -102,19 +110,15 @@ There are mainly two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1-1.jpg)
 2. Select**Manage 3D settings** from the left pane.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1.jpg)
 3. Click the**Program Settings** tab and then click**Add** to include the Immortals Fenyx Rising.exe file.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3-1.jpg)
 4. Select**High-performance NVIDIA processor** from the drop-down menu. Then, click**Apply** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4-1.jpg)  
  Note: If you have an AMD graphics card, you could refer to this guide: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
@@ -124,15 +128,11 @@ There are mainly two ways you can do this:
 6. Click**Browse** and add Immortals Fenyx Rising.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-7.jpg)
 7. After the game is added, select it and click**Options** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-8.jpg)
 8. On the pop-up menu, click**High performance** and click**Save** .
@@ -160,24 +160,20 @@ There are mainly two ways you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-top-six-visionary-camera-solutions-for-filmmaking/"><u>[New] In 2024, Top Six Visionary Camera Solutions for Filmmaking</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-silencing-ambient-sound-in-recordings-free-or-paid-guide/"><u>[New] Silencing Ambient Sound in Recordings Free or Paid Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-ranked-youtube-extractors-pc-mobile-and-more-tips/"><u>[New] Top-Ranked YouTube Extractors - PC, Mobile, and More Tips</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/366921-9781416580898-astrology-for-enlightenment/"><u>Astrology for Enlightenment | Free Book</u></a></li>
-<li><a href="https://program-issues.techidaily.com/baffled-by-doom-eternals-refusal-to-start-try-these-proven-launch-fixes/"><u>Baffled by DOOM Eternal's Refusal to Start? Try These Proven Launch Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-boot-screen-essential-fixes-to-solve-forza-horizon-4-not-launching-problems-latest-guide/"><u>Beat the Boot Screen: Essential Fixes to Solve Forza Horizon 4 Not Launching Problems - Latest Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723011187631-dark-souls-iii-stability-enhanced-no-more-unexpected-shuts-down/"><u>Dark Souls III Stability Enhanced: No More Unexpected Shuts Down!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/doom-eternal-delayed-or-cancelled-fix-the-hitch-stopping-its-launch/"><u>DOOM Eternal Delayed or Cancelled? Fix the Hitch Stopping Its Launch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-recurrent-crashes-in-overwatch-2-on-pc-proven-strategies-and-tips/"><u>Fixing Recurrent Crashes in Overwatch 2 on PC - Proven Strategies & Tips</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/harvest-cost-free-visuals-from-leading-4-youtube-hubs/"><u>Harvest Cost-Free Visuals From Leading 4 YouTube Hubs</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-apple-iphone-15-plus-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 15 Plus Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-apple-iphone-12-pro-max-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track WhatsApp Messages on Apple iPhone 12 Pro Max Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimize-dota-2-for-seamless-gaming-solutions-for-fps-drop-woes-in-windows-11-and-10/"><u>Optimize Dota 2 for Seamless Gaming: Solutions for FPS Drop Woes in Windows 11 and 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-frame-rates-in-tainted-grails-ultimate-fighting-arena-the-art-of-fps-boosting/"><u>Optimizing Frame Rates in Tainted Grail's Ultimate Fighting Arena - The Art of FPS Boosting</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-zoom-and-crop-module-for-2024/"><u>Quick Zoom and Crop Module for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-dragons-dogma-2-performance-issues-latency-frame-rate-drop-and-stuttering/"><u>Solving Dragon's Dogma 2 Performance Issues: Latency, Frame Rate Drop & Stuttering</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-solve-directx-glitches-in-battlefield-2042-for-smooth-gaming/"><u>Ultimate Guide to Solve DirectX Glitches in Battlefield 2042 for Smooth Gaming</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-googles-innovation-the-enhanced-capabilities-of-palm-2-for-advanced-linguistic-modeling/"><u>Unveiling Google’s Innovation: The Enhanced Capabilities of PaLM 2 for Advanced Linguistic Modeling</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-decoding-video-cropping-within-imovie/"><u>[New] Decoding Video Cropping Within iMovie</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-cross-device-media-sharing-made-simple-with-iphones/"><u>[New] In 2024, Cross-Device Media Sharing Made Simple with iPhones</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-how-to-add-narration-to-your-videos/"><u>[Updated] How to Add Narration to Your Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-winx-media-transcoder-flexible-conversion-from-avi-to-mp4-and-audio-formats/"><u>1. WinX Media Transcoder: Flexible Conversion From AVI to MP4 & Audio Formats</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-offline-auto-race-game-applications-your-guide-to-the-classics/"><u>Best Offline Auto Race Game Applications – Your Guide to the Classics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/connectivity-problems-in-minecraft-effective-ways-to-fix-them/"><u>Connectivity Problems in Minecraft - Effective Ways to Fix Them</u></a></li>
+<li><a href="https://program-issues.techidaily.com/escape-the-stuck-load-screen-in-forza-horizon-5-a-guide-to-7-effective-remedies/"><u>Escape the Stuck Load Screen in Forza Horizon 5: A Guide to 7 Effective Remedies</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-the-fit-of-older-docks-for-the-new-nintendo-switch/"><u>Evaluating The Fit of Older Docks for the New Nintendo Switch</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-ultimate-guide-to-recording-hulu-episodes-on-multiple-devices/"><u>In 2024, The Ultimate Guide to Recording Hulu Episodes on Multiple Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfecting-time-lapse-videos-on-a-gopro-hero5-black-for-2024/"><u>Perfecting Time-Lapse Videos on a GoPro Hero5 Black for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-call-of-duty-warzone-crashes/"><u>Resolved: How to Fix Call of Duty Warzone Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rocket-league-freezing-issues-solve-them-with-these-expert-tips/"><u>Rocket League Freezing Issues? Solve Them with These Expert Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-halo-infinite-audio-glitch-no-more-stutters/"><u>Solving the Halo Infinite Audio Glitch: No More Stutters</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-resolving-undetected-gpu-problems-with-msi-afterburner-on-new-windows-versions/"><u>Step-by-Step Fixes: Resolving Undetected GPU Problems with MSI Afterburner on New Windows Versions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/untangle-the-mystery-of-crashes-in-cities-skylines-with-latest-2024-solutions/"><u>Untangle the Mystery of Crashes in Cities: Skylines with Latest 2024 Solutions</u></a></li>
 </ul></div>
 

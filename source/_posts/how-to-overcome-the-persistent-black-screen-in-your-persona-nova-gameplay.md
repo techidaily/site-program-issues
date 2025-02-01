@@ -1,7 +1,7 @@
 ---
 title: How To Overcome The Persistent Black Screen in Your Persona Nova Gameplay
-date: 2025-01-18T15:32:20.665Z
-updated: 2025-01-24T15:32:29.705Z
+date: 2025-01-29T01:28:48.360Z
+updated: 2025-02-01T01:20:47.481Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 Bothered by Enlisted black screen issue? Don’t worry, you’re not alone. This post shows you how to fix black screen issues step-by-step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Before trying…
@@ -36,10 +36,6 @@ There’re things you can do before trying complicated fixes:
 2. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 3. [Update graphic driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Run as administrator
 
  Run as administrator is a working fix for many players. It’s easy and quick, so I recommend this fix as your first solution.
@@ -53,14 +49,10 @@ There’re things you can do before trying complicated fixes:
 4. Relaunch the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If it’s not working, move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Install Windows updates
 
@@ -73,7 +65,15 @@ If it’s not working, move to the next fix.
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Enlisted and check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this didn’t solve your problems, read on for further troubleshooting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update graphic driver
 
@@ -94,12 +94,12 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -124,24 +124,18 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-explore-and-enjoy-locating-recently-liked-videos-on-facebook/"><u>[Updated] Explore & Enjoy Locating Recently Liked Videos on Facebook</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-your-pathway-to-perfect-igtv-footage-from-phone-to-dslr/"><u>[Updated] In 2024, Your Pathway to Perfect IGTV Footage From Phone to DSLR</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-essential-checklist-for-selecting-the-best-hdr-cameras/"><u>[Updated] The Essential Checklist for Selecting the Best HDR Cameras</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehending-giant-language-processors-in-tech/"><u>Comprehending Giant Language Processors in Tech</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-stop-genshin-impact-from-continuously-crashing-on-your-pc/"><u>Fixing the Issue: How to Stop Genshin Impact From Continuously Crashing on Your PC</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/chat-room-to-global-stage-broadcast-google-meet-on-youtube-for-2024/"><u>From Chat Room to Global Stage Broadcast Google Meet on YouTube for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-back-into-the-game-solutions-for-launching-issues-in-rocket-league/"><u>Get Back Into the Game: Solutions for Launching Issues in Rocket League</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-resident-evil-village-wont-open-error-successfully/"><u>How to Fix 'Resident Evil Village Won't Open' Error Successfully</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-missing-spatial-sound-feature-in-windows-11-and-10/"><u>How to Fix Missing Spatial Sound Feature in Windows 11 & 10</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-pixelated-persistence-selecting-the-ultimate-cam-for-extended-shots/"><u>In 2024, Pixelated Persistence Selecting the Ultimate Cam for Extended Shots</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/masters-building-marvels-virtual-horizons/"><u>Masters Building Marvel's Virtual Horizons</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimized-strategies-eliminating-significant-frames-per-second-fps-dips/"><u>Optimized Strategies: Eliminating Significant Frames Per Second (FPS) Dips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-players-rejoice-lost-ark-no-longer-crashes-update-notes-explained/"><u>PC Players Rejoice! Lost Ark No Longer Crashes – Update Notes Explained</u></a></li>
-<li><a href="https://games-able.techidaily.com/reducing-roblox-memory-demands-on-your-iphone/"><u>Reducing Roblox Memory Demands on Your iPhone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/revolutionary-reddit-techniques-for-aspiring-digital-wizards-for-2024/"><u>Revolutionary Reddit Techniques for Aspiring Digital Wizards for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-fix-guide-for-windows-10-error-0xc19001e1-bottleneck/"><u>Step-by-Step Fix Guide for Windows 10 Error 0xC19001E1 Bottleneck</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-tactics-to-improve-your-fps-and-eliminate-lag-on-war-thunder-2024-expert-advice/"><u>Top Tactics to Improve Your FPS and Eliminate Lag on War Thunder: 2024 Expert Advice</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-steamvrs-persistent-error-308-issues/"><u>Troubleshooting Guide: Fixing SteamVR's Persistent Error 308 Issues</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-captivating-sound-design-essentials-review-of-premier-audio-editors-pros-and-cons/"><u>Updated In 2024, Captivating Sound Design Essentials Review of Premier Audio Editors, Pros & Cons</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-frozen-pleasure-recording-review-deep-dive/"><u>[Updated] In 2024, Frozen Pleasure Recording Review Deep Dive</u></a></li>
+<li><a href="https://win-blog.techidaily.com/avoiding-failure-tips-to-successfully-kickstart-your-enterprise-by-2t4/"><u>Avoiding Failure: Tips to Successfully Kickstart Your Enterprise by 2T4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-top-6-gpgpu-stress-test-apps-for-windows-devices/"><u>Discover the Top 6 GPGPU Stress Test Apps for Windows Devices</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-15-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 15 Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-missing-camera-issue-in-snapchat-app/"><u>Resolving the Missing Camera Issue in Snapchat App</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revamp-your-game-ultimate-guide-to-resolve-risk-of-rain-2-freezing-issues/"><u>Revamp Your Game: Ultimate Guide to Resolve 'Risk of Rain 2' Freezing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/reviving-madden-22-fast-techniques-to-overcome-technical-glitches/"><u>Reviving Madden 22: Fast Techniques to Overcome Technical Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-avengers-of-gaming-god-of-war-fps-coming-your-way-for-pc-players/"><u>The Avengers of Gaming - God of War FPS Coming Your Way for PC Players</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-complete-insider-guide-to-creating-and-editing-videos-on-windows-11/"><u>The Complete Insider Guide to Creating & Editing Videos on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-comprehensive-guide-to-hugging-face-and-its-practical-benefits/"><u>The Comprehensive Guide to Hugging Face and Its Practical Benefits</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-connection-delays-and-lag-in-the-latest-version-of-new-world/"><u>Ultimate Guide: Resolving Connection Delays & Lag in the Latest Version of New World</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/youtubewindows-11/"><u>YouTubeを完璧にキャプチャ:Windows 11でのガイドラインと手順</u></a></li>
 </ul></div>
 

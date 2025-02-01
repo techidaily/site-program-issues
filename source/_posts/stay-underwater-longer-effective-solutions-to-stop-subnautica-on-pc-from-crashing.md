@@ -1,7 +1,7 @@
 ---
 title: "Stay Underwater Longer: Effective Solutions to Stop Subnautica on PC From Crashing"
-date: 2025-01-12T07:44:34.104Z
-updated: 2025-01-17T20:07:39.789Z
+date: 2025-01-27T23:45:59.006Z
+updated: 2025-01-31T16:30:53.120Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
 4. **[Update / Reinstall Blender](https://tools.techidaily.com/drivereasy/download/)**
 5. [**Conclusion**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Update your graphics driver
 
  In most cases, the broken or outdated graphics driver is the main culprit behind the Blender crashing issues.
@@ -49,14 +53,14 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Close CPU / memory-hogging applications
@@ -68,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
 1. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open **Task Manager** . You will be prompted for permission. Click **Yes** to open Task Manager.
 2. Select any other applications and programs that take up a large amount of **CPU** or **memory** , then click **End task** to close it.  
 ![Close CPU / memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/05/Close-CPU-memory-hogging-applications.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If Blender works well after you close those CPU / memory-hogging applications, congratulations!
 
@@ -91,6 +91,10 @@ To install the latest Windows update:
 ![Windows 10 settings Update & Security](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap635.png)
 2. Click **Check for updates** to download and install the updates available for your PC.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Check for updates Windows 10](https://images.drivereasy.com/wp-content/uploads/2021/05/Check-for-updates-Windows-10.jpg)
 
  Restart your computer after you installed the latest Windows updates. Launch Blender and see if it crashes.
@@ -100,10 +104,6 @@ If this issue persists, try the next fix, below.
 ## Fix 4: Update / Reinstall Blender
 
  If none of the fixes works, try updating / reinstalling Blender. Normally, after updating Blender to the latest version, or reinstalling it, you’ll fix the crashing issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -131,24 +131,20 @@ If this issue persists, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-rapidpace-timefreeze-film/"><u>[New] RapidPace TimeFreeze Film</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-when-order-falls-premium-lineup-of-best-zombie-games/"><u>[New] When Order Falls Premium Lineup of Best Zombie Games</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-insider-tips-creating-unique-podcast-names/"><u>[Updated] Insider Tips Creating Unique Podcast Names</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-movavi-pro-review-the-next-level-of-video-editing-for-2024/"><u>[Updated] Movavi Pro Review The Next Level of Video Editing for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/a-step-by-step-guide-to-resolve-cannot-join-party-issue-in-fortnite-error-84/"><u>A Step-by-Step Guide to Resolve Cannot Join Party Issue in Fortnite (Error 84)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-your-play-solutions-to-combat-gaming-lag-frame-drops-and-glitchy-action/"><u>Enhance Your Play: Solutions to Combat Gaming Lag, Frame Drops, and Glitchy Action!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-13-pro-max-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone 13 Pro Max? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-stability-problems-in-oxygen-not-included-tips-and-hacks/"><u>How to Resolve Stability Problems in 'Oxygen Not Included': Tips & Hacks</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719575893989-how-to-say-happy-birthday-in-different-languages/"><u>How To Say Happy Birthday In Different Languages</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oneplus-nord-3-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring OnePlus Nord 3 5G to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-motorola-razr-40-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Motorola Razr 40</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/kitty-giggles-vision-funny-pet-observation-tool/"><u>Kitty Giggles Vision: Funny Pet Observation Tool</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-lag-issues-for-a-smooth-experience-in-naraka-bladepoint/"><u>Overcoming Lag Issues for a Smooth Experience in Naraka: Bladepoint</u></a></li>
-<li><a href="https://program-issues.techidaily.com/seamless-gaming-in-sanctuary-fixed-strategies-for-dealing-with-diablo-iv-crashes/"><u>Seamless Gaming in Sanctuary: Fixed Strategies for Dealing with Diablo IV Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-steps-for-centipede-error-in-destiny-2-gaming/"><u>Solution Steps for Centipede Error in Destiny 2 Gaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-resolution-overcoming-obstacles-in-your-discord-install-journey/"><u>Step-by-Step Resolution: Overcoming Obstacles in Your Discord Install Journey</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/unleash-the-ultimate-karaoke-experience-with-new-karaoke-cloud-pro-tracks-master-your-dj-skills/"><u>Unleash the Ultimate Karaoke Experience with New Karaoke Cloud Pro Tracks - Master Your DJ Skills</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlock-the-secrets-resolving-helldivers-iis-launch-failures-on-your-pc-via-steam/"><u>Unlock the Secrets: Resolving Helldivers II's Launch Failures on Your PC via Steam</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722996617835-utorrent-download-speed-issues-heres-how-to-get-faster-torrents/"><u>UTorrent Download Speed Issues? Here's How to Get Faster Torrents</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ultimate-drivers-delight-5-top-race-games/"><u>[New] 2024 Approved Ultimate Driver's Delight 5 Top Race Games</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-critically-acclaimed-video-cards-for-clear-youtube-broadcasts/"><u>[Updated] 2024 Approved Critically Acclaimed Video Cards for Clear YouTube Broadcasts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-motorola-edge-40-pro-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-steam-malfunctions-a-guide-to-correcting-the-failed-to-load-steamuidll/"><u>Bypassing Steam Malfunctions: A Guide to Correcting the 'Failed to Load steamui.dll'</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-realme-narzo-60x-5g-by-drfone-android-unlock-android-unlock/"><u>Device unlock Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-not-found-issue-when-trying-to-enter-fortnite/"><u>How to Fix the 'Not Found' Issue When Trying to Enter Fortnite</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-v29-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo V29 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-social-media-giants-facebook-twitter-and-instagram/"><u>Navigating the Social Media Giants: Facebook, Twitter & Instagram</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protect-and-transfer-step-by-step-tutorial-from-frozen-dvd-to-secure-mp4-files-on-macos/"><u>Protect and Transfer - Step by Step Tutorial: From Frozen DVD to Secure MP4 Files on macOS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-pc-gaming-woes-optimizing-play-experience-for-sifu-with-smooth-fps-and-no-stuttering/"><u>Resolve PC Gaming Woes: Optimizing Play Experience for Sifu with Smooth FPS & No Stuttering</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-steps-for-internet-explorer-web-page-display-problems/"><u>Solution Steps for Internet Explorer Web Page Display Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-dreamlight-valley-6-tips-to-eliminate-crashing-on-your-computer/"><u>Troubleshooting Dreamlight Valley: 6 Tips to Eliminate Crashing on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-fixing-the-non-responsive-windows-11-taskbar/"><u>Troubleshooting Tips: Fixing the Non-Responsive Windows 11 Taskbar</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/unusual-sounds-from-your-pc-discover-solutions-with-yl-computings-expert-advice/"><u>Unusual Sounds From Your PC? Discover Solutions with YL Computing's Expert Advice</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Xiaomi 13T Pro? | Dr.fone</u></a></li>
 </ul></div>
 

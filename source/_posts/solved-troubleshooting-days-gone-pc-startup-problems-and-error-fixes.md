@@ -1,7 +1,7 @@
 ---
 title: Solved! Troubleshooting Days Gone PC Startup Problems and Error Fixes
-date: 2025-01-11T17:03:47.727Z
-updated: 2025-01-18T07:51:36.290Z
+date: 2025-01-25T22:10:14.585Z
+updated: 2025-01-31T20:48:42.790Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
 
  Looking for a solution to the**DaVinci Resolve won’t open** problem? No matter if your Resolve is not responding at all or gets stuck at the loading screen, you can try the following methods to fix the problem immediately.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[End the Resolve process](https://tools.techidaily.com/drivereasy/download/)**
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
 9. **[Reinstall DaVinci Resolve](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1\. End the Resolve process
@@ -49,15 +53,15 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
 
 No luck? Don’t worry. We have a few more fixes for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2\. Unplug USB devices
 
  According to what many Resolve users have suggested, USB devices can cause your Resolve to not open so you can unplug these devices to check if your Resolve works again.
 
  Resolve will act up especially if you’re using a USB headset as the audio output device. Once you have removed the USB device from your PC, launch your Revolve again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3\. Launch DaVinci Resolve in Compatibility mode
 
@@ -66,6 +70,10 @@ No luck? Don’t worry. We have a few more fixes for you.
 1. Right-click on the Resolve shortcut or the executable file in the installation folder, and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/resolve-properties.jpg)
 2. Go to the**Compatibility** tab, and check the**Run this program in compatibility for** Windows 8 or Windows 7.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/resolve-compatibibility.jpg)
 3. Click**Apply** \>**OK** to save the changes.
@@ -85,6 +93,10 @@ No luck? Don’t worry. We have a few more fixes for you.
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -100,32 +112,20 @@ No luck? Don’t worry. We have a few more fixes for you.
 ![command line](https://images.drivereasy.com/wp-content/uploads/2021/11/system-run-commands.jpg)
 2. Go to the**Advanced** tab and select**Settings** under**Performance** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![view the advanced settings](https://images.drivereasy.com/wp-content/uploads/2021/11/advanced.jpg)
 3. Once the Performance Options window is open, go to the**Advanced** tab and select**Change** .  
 ![adjust virtual memory size](https://images.drivereasy.com/wp-content/uploads/2021/11/property-options.jpg)
 4. Uncheck the**Automatically manage paging file size for all drives** . Then select**Custom size** , and enter the value accordingly.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![installed ram](https://images.drivereasy.com/wp-content/uploads/2021/11/installed-ram.jpg)  
 **Note:** It’s recommended to use a number that’s**one and a half times** the total available memory for the “**Initial size** ” and**three times** of available memory for the “**Maximum size** ” when possible. (For example, my installed RAM is 16GB, so I set the initial size to 24,000, maximum size to 48,000). If you don’t know your installed RAM, you can press the**Windows** key +**Pause** to check your device specifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click **OK**  to confirm the change.
 
  Restart your computer for the changes to take effect, and try opening your DaVinci Resolve to check if it launches successfully.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6\. Enable IGPU Multi-Monitor in BIOS
@@ -147,10 +147,6 @@ No luck? Don’t worry. We have a few more fixes for you.
 2. Under the**Advanced** Settings, you will see the**IGPU Multi-Monitor Option** .
 3. Switch this feature from**Disabled** to**Enabled** .
 4. Save and exit the BIOS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7\. Uninstall your antivirus software
 
@@ -175,6 +171,10 @@ Here’s how to troubleshoot this issue quickly:
    * Navigate to**C:\\Program Files\\Blackmagic Design\\DaVinci Resolve** .  
    * Double click on the**CaptureLogs.bat** file (or right-click and then run as administrator).  
    * It will generate a **log file**  to your desktop –**DaVinci-Resolve-logs-<current time>.zip** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 9\. Reinstall DaVinci Resolve
 
@@ -203,22 +203,22 @@ Here’s how to troubleshoot this issue quickly:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/fixed-football-manager-2020-crash/"><u>[FIXED] Football Manager 2020 Crash</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unleash-the-full-potential-of-your-images-with-snapchat/"><u>[New] 2024 Approved Unleash the Full Potential of Your Images with Snapchat</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guffaws-in-grooves-parody-playlist/"><u>[New] In 2024, Guffaws in Grooves Parody Playlist</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-solving-iphone-xs-identity-crisis-fixing-face-id-failures/"><u>[Updated] Solving iPhone X's Identity Crisis Fixing Face ID Failures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-comprehensive-tutorial-on-windows-1011s-audio-upgrade/"><u>A Comprehensive Tutorial on Windows 10/11'S Audio Upgrade</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensible-methodology-for-adding-intel-ethernet-support/"><u>Comprehensible Methodology for Adding Intel Ethernet Support</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-official-nvidia-geforce-rtx-3070-ti-drivers-on-windows-10-8-and-7/"><u>Download Official NVIDIA GeForce RTX 3070 Ti Drivers on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-failed-to-connect-via-anticheat-error-on-escape-from-tarkov/"><u>Fixing the 'Failed to Connect via Anticheat' Error on Escape From Tarkov</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-install-official-toshiba-bluetooth-driver-step-by-step-instructions/"><u>How to Install Official Toshiba Bluetooth Driver – Step-by-Step Instructions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/patching-up-overwatchs-graphic-mishaps-drivers-revised/"><u>Patching Up Overwatch's Graphic Mishaps – Drivers Revised</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-unexpected-shutdowns-in-starcraft-ii-on-personal-computers-tips-and-tricks/"><u>Resolving Unexpected Shutdowns in StarCraft II on Personal Computers - Tips & Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/skip-the-struggle-speed-up-shader-optimization-for-a-better-run-of-battlefront-ii/"><u>Skip the Struggle: Speed Up Shader Optimization for a Better Run of Battlefront II</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/cket-your-brands-visibility-with-these-top-video-marketing-approaches/"><u>Skyrocket Your Brand's Visibility with These Top Video Marketing Approaches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-sailing-overcome-battlefield-nite-2042-stutter-and-fps-woes-on-your-personal-computer/"><u>Smooth Sailing: Overcome Battlefield Nite 2042 Stutter and FPS Woes on Your Personal Computer</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-5-tracking-apps-to-track-apple-iphone-8-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>Top 5 Tracking Apps to Track Apple iPhone 8 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-repairing-blue-screen-in-helldivers-version-2/"><u>Troubleshooting and Repairing 'Blue Screen' In Helldivers Version 2</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ubisoft-connect-wont-load-heres-how-to-resolve-it/"><u>Ubisoft Connect Won't Load? Here's How to Resolve It</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-leveraging-instagram-for-massive-audience-growth/"><u>[New] 2024 Approved Leveraging Instagram for Massive Audience Growth</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-ultimate-drone-list-to-maximize-gopro-video-quality/"><u>[New] Ultimate Drone List to Maximize GoPro Video Quality</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-precision-problem-solving-for-youtube-short-success-for-2024/"><u>[Updated] Precision Problem-Solving for YouTube Short Success for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-mediameld-mixer/"><u>2024 Approved MediaMeld Mixer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/anthem-loading-issue-resolution-no-more-hanging-screens/"><u>Anthem Loading Issue Resolution: No More Hanging Screens</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/good-to-great-transformative-tactics-with-studio-for-2024/"><u>From Good to Great Transformative Tactics with Studio for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-fps-issues-and-hitches-in-call-of-duty-modern-warfare-ii/"><u>How to Resolve FPS Issues and Hitches in Call of Duty: Modern Warfare II</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivos-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivos Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 13 Pro?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-last-epoch-startup-problems-on-pc-expert-tips-and-patch-notes-for-202e/"><u>Overcome Last Epoch Startup Problems on PC: Expert Tips and Patch Notes for 202E</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubleshooting-101-overcoming-intermittent-freezes-during-gray-zone-warfare-sessions/"><u>PC Troubleshooting 101: Overcoming Intermittent Freezes During Gray Zone Warfare Sessions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubleshooting-addressing-thaumaturge-crashes-on-windows-and-macos-systems/"><u>PC Troubleshooting: Addressing Thaumaturge Crashes on Windows & MacOS Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-successful-solutions-for-when-saints-row-fails-to-start-on-your-pc/"><u>Resolving Issues: Successful Solutions for When Saints Row Fails to Start on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stability-guide-resolving-rocket-leagues-persistent-crashing-issues/"><u>Stability Guide: Resolving Rocket League's Persistent Crashing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-boosting-your-war-thunder-game-speed-top-fps-solutions/"><u>Ultimate Guide: Boosting Your War Thunder Game Speed - Top FPS Solutions</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-extract-audio-from-webm-files-top-10-converter-tools-for-2024/"><u>Updated Extract Audio From WebM Files Top 10 Converter Tools for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/valorant-performance-upgrade-advanced-strategies-to-combat-low-fps-issues/"><u>Valorant Performance Upgrade: Advanced Strategies to Combat Low FPS Issues</u></a></li>
 </ul></div>
 

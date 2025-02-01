@@ -1,7 +1,7 @@
 ---
 title: Diablo II Resurrected Failed to Start – What Are Your Options?
-date: 2025-01-12T01:39:31.188Z
-updated: 2025-01-18T08:06:21.982Z
+date: 2025-01-29T23:35:01.972Z
+updated: 2025-02-01T01:39:08.554Z
 tags:
   - win11
   - win10
@@ -62,13 +62,17 @@ If you don’t know how to find your PC specs, take the steps below.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/msinfo32.png)
 3. In the left navigation menu, click**System Summary** and review the information displayed on the right-hand side.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-check-your-system-specs.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your game still isn’t launching even though your computer meets the system requirements, follow the troubleshooting steps below to identify and resolve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -104,13 +108,17 @@ If you have no idea what kind of graphics card your PC is packing,
 3. Select the**Performance** tab. In the left sidebar, select**GPU** to view GPU-related information. Then you’ll see information about your graphics card, including its name and model. The name displayed here corresponds to your graphics card.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-identify-your-graphics-card.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Automatically update graphics drivers (recommended)
@@ -135,10 +143,6 @@ After driver updates, it’s a good practice to reboot your device.
 
  After the reboot, relaunch Starfield. If it still fails to start, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Update Windows
 
  To ensure Starfield opens without interruptions, it’s crucial to keep your Windows updated. Windows updates often include bug fixes, make sure your system is compatible with application requirements, and enhance system stability, reducing conflicts that can hinder game launches.
@@ -151,10 +155,6 @@ To download and install the latest Windows updates, take these steps:
 
 ![Windows 11 check for Windows updates](https://images.drivereasy.com/wp-content/uploads/2022/04/win11-Windows-Update-Check-for-updates.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### On Windows 10
 
  Press the**Windows logo + I keys** simultaneously to open Settings. Then go to**Update & Security > Windows Update** .
@@ -162,11 +162,7 @@ To download and install the latest Windows updates, take these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/windows-update-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disable antivirus and firewall
@@ -187,7 +183,7 @@ To temporarily disable the Windows Firewall:
 4. Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network, and Public network. Then click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
@@ -197,10 +193,6 @@ To temporarily turn off your antivirus software:
 1. In the system tray, look for your antivirus.
 2. Right-click it and find an option to disable or pause protection.
 3. Then launch Starfield and see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Verify the integrity of game files (Steam users)
 
@@ -234,6 +226,10 @@ Follow the steps below to do this.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/Xbox-status.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Uninstall and reinstall the game
 
  If none of the above methods work, you should consider uninstalling and reinstalling the game.
@@ -257,6 +253,10 @@ Follow the steps below to do this.
  When you see a message that says “Verification 100% complete”, type**exit** and press Enter.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/use-System-File-Checker-to-repair-corrupted-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  However, this tool may not help you with a 100% guarantee. Sometimes it fails to fix an underlying problem. If that’s your case, you can try **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , a powerful tool that specializes in Windows repair.
 
@@ -289,19 +289,21 @@ Below is how you can benefit from the use of Fortect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-photo-pace-crafting-time-lapse-videos-on-your-galaxy-phone/"><u>[New] 2024 Approved Photo Pace Crafting Time-Lapse Videos on Your Galaxy Phone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-dive-into-peace-with-these-soothing-games/"><u>[Updated] Dive Into Peace with These Soothing Games</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-twittomp4maker-social-streaming-solution/"><u>2024 Approved TwitToMP4Maker Social Streaming Solution</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/all-you-need-to-know-about-enjoying-content-on-apple-tv/"><u>All-You-Need-to-Know About Enjoying Content on Apple TV</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-vivo-y77t-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Vivo Y77t? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-hurdles-for-the-anticipated-release-of-alan-wake-ii/"><u>Fixing the Hurdles for the Anticipated Release of Alan Wake II</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-12-pro-max-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone 12 Pro Max Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-cut-rate-video-upgrade-turning-fb-videos-into-mp4-hd1080p/"><u>In 2024, Cut-Rate Video Upgrade Turning FB Videos Into MP4 HD/1080P</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-fixes-eliminating-call-of-duty-warzones-disc-read-problems-errors-50-and-31-on-desktops-and-laptops/"><u>Master the Fixes: Eliminating Call of Duty Warzone's Disc Read Problems [Errors 5.0 & 3.1] on Desktops and Laptops</u></a></li>
-<li><a href="https://program-issues.techidaily.com/palworld-not-loading-or-launching-quick-fixes/"><u>Palworld Not Loading or Launching – Quick Fixes</u></a></li>
-<li><a href="https://win-hot.techidaily.com/secure-strategies-for-cryptocurrency-trading-expert-tips-from-yl-computings-guide/"><u>Secure Strategies for Cryptocurrency Trading: Expert Tips From YL Computing's Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-playback-problems-in-mass-effect-legendary-edition-games/"><u>Solving Playback Problems in Mass Effect Legendary Edition Games</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-hidden-economics-of-youtube-content-production-for-2024/"><u>The Hidden Economics of YouTube Content Production for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unstick-your-game-solving-persona-cuenta-3-not-launching-glitches/"><u>Unstick Your Game: Solving Persona Cuenta 3 Not Launching Glitches</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-deciding-the-best-for-screens-is-obs-more-effective-than-fraps/"><u>[New] Deciding the Best for Screens Is OBS More Effective than Fraps?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-decrypting-fb-chat-videography-a-detailed-approach/"><u>[Updated] 2024 Approved Decrypting FB Chat Videography A Detailed Approach</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-dealing-with-youtubes-challenging-earnings-model/"><u>[Updated] In 2024, Dealing with YouTube's Challenging Earnings Model</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-finding-your-ideal-broadcast-channel-top-10-guidelines/"><u>2024 Approved Finding Your Ideal Broadcast Channel Top 10 Guidelines</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-overcoming-destiny-2s-centipede-glitch/"><u>Comprehensive Guide to Overcoming Destiny 2'S Centipede Glitch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/end-gm-crash-dilemma-proven-solutions-to-stabilize-your-game/"><u>End GM Crash Dilemma: Proven Solutions to Stabilize Your Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-solutions-for-ongoing-oxygen-not-included-crash-concerns/"><u>Expert Solutions for Ongoing 'Oxygen Not Included' Crash Concerns</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-resolve-freezing-and-stuttering-in-the-thrilling-world-of-dying-light/"><u>Expert Tips to Resolve Freezing and Stuttering in the Thrilling World of Dying Light</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fine-tuning-your-eating-habits-innovative-ways-to-use-chatgpt-for-healthy-meal-plans/"><u>Fine-Tuning Your Eating Habits: Innovative Ways to Use ChatGPT for Healthy Meal Plans</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-iphone-12-mini-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off iPhone 12 mini without Password</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-explore-the-best-and-easiest-youtube-to-mp3-conversion-tech/"><u>In 2024, Explore the Best (and Easiest) YouTube-to-Mp3 Conversion Tech</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-divx-video-trimming-software-top-picks/"><u>In 2024, Free Divx Video Trimming Software Top Picks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-gameplay-tips-for-enhancing-frame-rate-and-reducing-stutters-in-call-of-duty-warzone/"><u>Optimizing Gameplay: Tips for Enhancing Frame Rate & Reducing Stutters in Call of Duty: Warzone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/solutions-for-overcoming-the-google-chrome-has-stopped-problem-during-usage/"><u>Solutions for Overcoming the 'Google Chrome Has Stopped' Problem During Usage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-initial-black-screen-in-elden-ring-gameplay/"><u>Troubleshooting the Initial Black Screen in Elden Ring Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-tips-for-preventing-the-outer-worlds-from-crashing-on-your-pc/"><u>Ultimate Troubleshooting Tips for Preventing The Outer Worlds From Crashing on Your PC</u></a></li>
 </ul></div>
 

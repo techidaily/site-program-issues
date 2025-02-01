@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Cortana Responding and How to Resolve It?
-date: 2025-01-13T07:52:03.986Z
-updated: 2025-01-18T07:16:57.765Z
+date: 2025-01-27T19:14:04.662Z
+updated: 2025-01-31T21:54:17.951Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 6. **[Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Run the game in Windowed mode](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1 – Ran the game as administrator
 
  Your PC may not give**Elite Dangerous or the game launcher** the necessary permissions they need to work correctly. You might run into game issues like game crashing in this case.
@@ -42,7 +38,7 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
  Try running the game and the game launcher as administrator to see if it helps. If not, try the next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2 – Verify the integrity of game files
@@ -55,6 +51,10 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click **Elite Dangerous**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
@@ -64,6 +64,10 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-34.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Relaunch your game to test the issue.
 
@@ -85,13 +89,17 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -102,6 +110,10 @@ This could take several minutes. Wait for the process to be complete.
 ## Fix 4 – Stop overclocking
 
  An unstable overclock will crash your game and the whole system. So, **if you’re overclocking your CPU or GPU, set the clock speed rate back to the default** to see if that resolves the crash issue. If it doesn’t, move on to the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5 – Disable unnecessary programs
 
@@ -119,10 +131,6 @@ This could take several minutes. Wait for the process to be complete.
 
 Your game still won’t work correctly? Read on and try Fix 5.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 6 – Lower your graphics settings
 
  If you’re playing Elite Dangerous on higher graphics settings than your PC can handle, you may run into crashing issues. To see if that’s the core issue, try lowering your graphics settings.
@@ -135,10 +143,6 @@ Your game still won’t work correctly? Read on and try Fix 5.
 
 If the crashing still happens, continue with the next solution below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 7 – Run the game in Windowed mode
 
  In some cases, Elite Dangerous crashes due to resolution or refresh issues. If that’s the problem for you, running the game in Windowed mode may help fix it.
@@ -146,10 +150,6 @@ If the crashing still happens, continue with the next solution below.
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-03-22.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
@@ -182,18 +182,24 @@ If the crashing still happens, continue with the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-exclusive-list-11-best-sound-capturers-guide/"><u>[New] 2024 Approved Exclusive List 11 Best Sound Capturers Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-professional-screen-snapshot-tool-windows-10/"><u>[New] 2024 Approved Professional Screen Snapshot Tool, Windows 10</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-premier-annual-update-best-free-livestream-software-and-apps-review/"><u>[New] Premier Annual Update Best Free Livestream Software & Apps Review</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-unlocking-detailed-imagery-in-digital-spaces-for-2024/"><u>[New] Unlocking Detailed Imagery in Digital Spaces for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-safe-audio-conversion-techniques-turning-youtube-to-mp3-easily-and-securely/"><u>[Updated] In 2024, Safe Audio Conversion Techniques Turning YouTube to MP3 Easily & Securely</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-how-to-resolve-when-borderlands-not-launches-correctly/"><u>Effective Fixes: How to Resolve When Borderlands nOt Launches Correctly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-and-prevent-your-ark-software-from-crashing-effectively/"><u>How to Fix and Prevent Your Ark Software From Crashing Effectively</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Vivo V29e? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/is-inshot-a-game-changer-in-video-editing-tools-for-2024/"><u>Is InShot a Game Changer in Video Editing Tools for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/lego-star-wars-the-skywalker-saga-resolved-pc-launch-issues-and-updated-tips-release/"><u>Lego Star Wars The Skywalker Saga - Resolved PC Launch Issues & Updated Tips Release</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/quick-troubleshooting-guide-to-fix-icon-on-macos/"><u>Quick Troubleshooting Guide to Fix ?-Icon on MacOS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/surviving-against-all-odds-how-black-history-embodies-the-principle-of-eternal-return/"><u>Surviving Against All Odds: How Black History Embodies the Principle of 'Eternal Return'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/testing-your-custom-script-to-test-your-newly-created-custom-routine-trigger-it-using-its-designated-sound-cue-or-conditions-youve-set-up-the-google-assista417/"><u>Testing Your Custom Script: To Test Your Newly Created Custom Routine, Trigger It Using Its Designated Sound Cue or Conditions You've Set Up. The Google Assistant Should Now Respond According to the Actions Specified in Your Script</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-maximizing-income-sourav-joshis-youtube-journey-for-2024/"><u>[Updated] Maximizing Income Sourav Joshi's YouTube Journey for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2023s-best-cam-recorders-a-curated-selection-of-18-for-2024/"><u>2023'S Best Cam Recorders A Curated Selection of 18 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-the-perfect-voice-and-vision-for-docs/"><u>2024 Approved Crafting the Perfect Voice and Vision for Docs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wav-au/"><u>免費線上 WAV 至 AU格式自由變更 - 瓦維亞轉換工具</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/banish-win11-blue-screen-quick-fixes-for-your-pc-top-11/"><u>Banish Win11 Blue Screen: Quick Fixes for Your PC (Top 11)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/biomutant-for-pc-expert-strategies-to-avoid-crashes-and-enhance-performance/"><u>Biomutant for PC: Expert Strategies to Avoid Crashes and Enhance Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-black-ops-cold-war-on-pc-how-to-ensure-smooth-game-startup-after-recent-fixes/"><u>Cod: Black Ops Cold War on PC - How to Ensure Smooth Game Startup After Recent Fixes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhance-your-online-presence-with-manycams-advanced-virtual-webcam-technology/"><u>Enhance Your Online Presence with ManyCam's Advanced Virtual Webcam Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-meta-unveils-amazing-october-prime-day-offer-on-512gb-quest-2-top-vr-sale-not-to-miss/"><u>Exclusive: Meta Unveils Amazing October Prime Day Offer on 512GB Quest 2 - Top VR Sale Not to Miss!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-constant-game-interruptions-in-pathfinder-wrath-of-the-righteous/"><u>Fixing Constant Game Interruptions in Pathfinder: Wrath of the Righteous</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/formulating-engaging-visual-strategies-in-fb-marketing-for-2024/"><u>Formulating Engaging Visual Strategies in FB Marketing for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guilty-gear-strive-optimization-tips-and-tricks-to-eliminate-lag/"><u>Guilty Gear Strive Optimization: Tips and Tricks to Eliminate Lag</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-youtube-video-playback-issues-stuck-audio-in-chrome-and-firefox/"><u>Resolving YouTube Video Playback Issues: Stuck Audio in Chrome and Firefox</u></a></li>
+<li><a href="https://common-error.techidaily.com/shockwave-flash-and-google-chrome-solving-the-crashing-problem-once-and-for-all/"><u>Shockwave Flash and Google Chrome - Solving the Crashing Problem Once and For All</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-impact-of-new-features-on-fortnite-gameplay-analyzing-fps-drops-in-season-8/"><u>The Impact of New Features on Fortnite Gameplay: Analyzing FPS Drops in Season 8</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-correcting-the-error-code-0xc19001e1-on-your-windows-11-system/"><u>Troubleshooting and Correcting the 'Error Code 0XC19001e1' On Your Windows 11 System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-when-maplestory-launching-fails-a-step-by-step-guide/"><u>Ultimate Fixes for When Maplestory Launching Fails: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unblocking-issues-preventing-finals-from-launching-a-comprehensive-guide-to-the-2024-problem/"><u>Unblocking Issues Preventing Finals From Launching: A Comprehensive Guide to the 2024 Problem</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-potential-of-google-maps-live-view-a-comprehensive-guide/"><u>Unlocking the Potential of Google Maps Live View: A Comprehensive Guide</u></a></li>
 </ul></div>
 

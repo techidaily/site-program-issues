@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address and Solve Error Code 4128 on Call of Duty WWII Gameplay
-date: 2025-01-22T15:00:07.028Z
-updated: 2025-01-24T05:54:06.746Z
+date: 2025-01-30T18:34:32.757Z
+updated: 2025-01-31T17:04:02.137Z
 tags:
   - win11
   - win10
@@ -44,6 +44,10 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 2. Select**Call of Duty Vanguard** from the top pane. Click the**gear icon** next to the Play button and click**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the process to complete. Then restart the game to check if the issue persists. If Yes, continue to the next solution.
 
 ### Fix 3 – Update your graphics driver
@@ -59,22 +63,14 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Reboot your computer for the changes to take effect. If the error code reoccurs, try the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Close background applications
 
@@ -84,18 +80,18 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-8.jpg)
 2. Right-click the resource-demanding process and click**End task** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Don’t end any programs you’re not familiar with, as they may be critical to the functioning of your computer.
 
  Launch the game to see if you’re able to play it normally. If not, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Repair corrupt system files
@@ -108,6 +104,10 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
@@ -135,24 +135,15 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-ultimate-guide-shifting-your-profile-picture-on-global-platforms/"><u>[New] 2024 Approved The Ultimate Guide Shifting Your Profile Picture on Global Platforms</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-inside-the-core-a-thorough-insight-into-xstudio-video-studio/"><u>[New] Inside the Core A Thorough Insight Into XStudio Video Studio</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-women-at-war-yts-top-10-gamers/"><u>[New] Women at War YT's #Top 10 Gamers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-10-best-zoom-alternatives-deskop-and-mobile/"><u>[Updated] 10 Best Zoom Alternatives [Deskop & Mobile]</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-hands-on-methods-mirror-video-frames-using-vlc/"><u>[Updated] Hands-On Methods Mirror Video Frames Using VLC</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-revealing-rays-of-light-the-ultimate-guide-for-choosing-a-premium-4k-screen/"><u>[Updated] In 2024, Revealing Rays of Light The Ultimate Guide for Choosing a Premium 4K Screen</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-the-freezing-problem-ultimate-troubleshooting-steps-for-football-manager-2020/"><u>Eliminate the Freezing Problem: Ultimate Troubleshooting Steps for Football Manager 2020</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-valheim-lagging-problems-on-your-computer/"><u>How to Resolve Valheim Lagging Problems on Your Computer</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-level-tricks-to-overcome-cyberpunk-2077s-persistent-black-screen-problem/"><u>Master Level Tricks to Overcome Cyberpunk 2077'S Persistent Black Screen Problem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-tips-ensuring-successful-boot-of-rainbow-six-siege/"><u>Master Tips: Ensuring Successful Boot of Rainbow Six Siege</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mastering-cross-platform-calls-a-guide-to-using-facetime-on-your-windows-pc/"><u>Mastering Cross-Platform Calls: A Guide to Using FaceTime on Your Windows PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-wow-lag-problems-instantly-a-step-by-step-guide/"><u>Resolve WoW Lag Problems Instantly: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-ultimate-guide-on-solving-gta-v-performance-issues/"><u>Resolved: Ultimate Guide on Solving GTA V Performance Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-your-bluestacks-stability-issues-with-these-simple-fixes/"><u>Solve Your BlueStacks Stability Issues with These Simple Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-dragons-dogma-2-pc-crashes-a-step-by-step-guide/"><u>Solving Dragon's Dogma 2 PC Crashes: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-issues-with-gmail-synchronization-effective-steps/"><u>Solving Issues with Gmail Synchronization: Effective Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unstick-your-adventure-solving-the-sea-of-thieves-load-screen-dilemma/"><u>Unstick Your Adventure: Solving the Sea of Thieves Load Screen Dilemma</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrading-your-epson-wf-7720-the-ultimate-guide-to-installing-latest-printer-drivers-in-windows/"><u>Upgrading Your Epson WF-7720: The Ultimate Guide to Installing Latest Printer Drivers in Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixed-fallout-4-black-screen-issue/"><u>[FIXED] Fallout 4 Black Screen Issue</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/boost-your-visibility-with-a-cutting-edge-set-of-banners-in-2024/"><u>Boost Your Visibility with a Cutting-Edge Set of Banners, In 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/discord-version-update-complete-all-known-errors-corrected/"><u>Discord Version Update Complete – All Known Errors Corrected</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-s18-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo S18 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-11-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 11 Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-streamlining-sonic-selection-a-guide-to-curating-youtube-content/"><u>In 2024, Streamlining Sonic Selection A Guide to Curating YouTube Content</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/losung-fur-itunes-hindernis-iphone-kann-nicht-wiederhergestellt-werden-da-der-verfugbare-speicherplatz-zu-gering-ist/"><u>Lösung Für iTunes Hindernis: IPhone Kann Nicht Wiederhergestellt Werden, Da Der Verfügbare Speicherplatz Zu Gering Ist</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-digital-discussion-director-for-2024/"><u>Premier Digital Discussion Director for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/social-determinants-of-health-a-critical-review/"><u>Social Determinants of Health: A Critical Review.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-issues-with-necromunda-sovled-pc-game-stability-fixes/"><u>Solve Your Issues with Necromunda [SOVLED] - PC Game Stability Fixes</u></a></li>
 </ul></div>
 

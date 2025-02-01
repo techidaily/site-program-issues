@@ -1,7 +1,7 @@
 ---
 title: "No More Lag! Eradicate Call of Duty: Warzone DirectX Glitch in Four Quick Steps"
-date: 2024-12-13T00:37:26.157Z
-updated: 2024-12-18T20:07:01.371Z
+date: 2025-01-24T21:25:21.151Z
+updated: 2025-01-31T16:41:08.091Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ Call of Duty is a free-to-play first-person shooter game for everyone. It was re
 | Direct X     | DirectX 12.0 compatible system                              |
 | Video Memory | 2 GB                                                        |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  Make sure you have the latest driver for your graphic card. If you don’t have the latest graphics driver, then it can cause lots of problems. With outdated or wrong drivers, you may encounter game issues including crashing, stuttering, lagging, and more.
@@ -65,12 +69,13 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-4. Relaunch Call of Duty: Warzone Pacific and check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+4. Relaunch Call of Duty: Warzone Pacific and check.
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -99,7 +104,7 @@ OR
 If it fixes the issue then slowly increase your graphics settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Warzone Pacific
@@ -114,20 +119,16 @@ If it fixes the issue then slowly increase your graphics settings.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-43-17.jpg)
 4. Find MW and Battle.net. Right-click on it and click**Unistall/Change** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-44-15.jpg)
 5. Follow the on-screen instructions to uninstall the software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Delete all the files.
 7. Go to the Warzone Pacific official website and download the game. Install it step-by-step.
 8. Relaunch the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Repair system files
 
@@ -141,7 +142,7 @@ If it fixes the issue then slowly increase your graphics settings.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
@@ -170,19 +171,16 @@ If it fixes the issue then slowly increase your graphics settings.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-how-to-preserve-your-gameplay-for-future-replays/"><u>[New] In 2024, How to Preserve Your Gameplay for Future Replays</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-a-thorough-insight-into-androids-lightroom-application-for-2024/"><u>[Updated] A Thorough Insight Into Android's Lightroom Application for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-igtv-videos-iphone-and-android-download-guide/"><u>2024 Approved Mastering IGTV Videos IPhone & Android Download Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battle-through-blockade-unlocking-lords-of-mayhem-post-launch-problems/"><u>Battle Through Blockade: Unlocking 'Lords of Mayhem' Post-Launch Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-for-microsoft-word-exe-errors-easy-methods-inside/"><u>Effective Fixes for Microsoft Word EXE Errors - Easy Methods Inside</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-heart-of-iron-4-crash-errors-a-comprehensive-solution-breakdown/"><u>Fixing Heart of Iron 4 Crash Errors: A Comprehensive Solution Breakdown</u></a></li>
-<li><a href="https://fox-where.techidaily.com/high-resolution-13-reasons-why-s03-wallsavers-stunning-hd-designs-for-your-device-yl-computing/"><u>High-Resolution 13 Reasons Why S03 Wallsavers: Stunning HD Designs for Your Device - YL Computing</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722974473880-instant-access-to-linksys-ae1200-drivers-download-seamlessly-and-boost-performance-now/"><u>Instant Access to Linksys AE1200 Drivers - Download Seamlessly and Boost Performance Now!</u></a></li>
-<li><a href="https://win-great.techidaily.com/solution-guide-troubleshooting-when-your-pc-ignores-the-targeted-storage-device/"><u>Solution Guide: Troubleshooting When Your PC Ignores the Targeted Storage Device</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-updating-your-windows-11-graphics-drivers/"><u>Step-by-Step Guide to Updating Your Windows 11 Graphics Drivers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-dolby-atmos-playback-problems-on-your-pc-with-windows-11-or-10/"><u>Troubleshooting Dolby Atmos Playback Problems on Your PC with Windows 11 or 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-fixed-hiccups-in-the-mass-effect-legendary-edition-for-xbox-series-xs/"><u>Troubleshooting Fixed Hiccups in the Mass Effect Legendary Edition for Xbox Series X|S</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-made-easy-resolving-your-iphone-restore-hiccups-quickly-and-effectively/"><u>Troubleshooting Made Easy: Resolving Your iPhone Restore Hiccups Quickly and Effectively</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-fix-roblox-wont-open-errors-tips-for-2n2/"><u>Troubleshooting Steps to Fix 'Roblox Won't Open' Errors (Tips for 2N2)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-nocturnal-nexus-versus-daylight-dominion/"><u>[New] In 2024, Nocturnal Nexus Versus Daylight Dominion</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-designing-a-memorable-youtube-sign-off-for-2024/"><u>[Updated] Designing a Memorable YouTube Sign-Off for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-precision-followers-gps-drones-of-the-year/"><u>[Updated] Precision Followers GPS Drones of the Year</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-debugging-crossbow-problems-in-minecraft-gameplay/"><u>Comprehensive Guide to Debugging Crossbow Problems in Minecraft Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004904245-dead-space-remake-wont-open-master-these-techniques-to-get-your-game-running-in-2e-24/"><u>Dead Space Remake Won't Open? Master These Techniques to Get Your Game Running in 2E-24</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-diablo-ii-resurrected-failed-installation-issues/"><u>How to Fix Diablo II: Resurrected Failed Installation Issues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-editors-almanac-key-takeaways-from-filmora-editioning/"><u>In 2024, The Editor’s Almanac Key Takeaways From Filmora Editioning</u></a></li>
+<li><a href="https://extra-support.techidaily.com/learn-efficiently-how-to-use-zero-cost-timers-for-2024/"><u>Learn Efficiently How To Use Zero Cost Timers for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-frequent-crashes-in-your-rust-projects-expert-advice/"><u>Overcoming Frequent Crashes in Your Rust Projects - Expert Advice</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-unleash-your-creativity-best-free-and-paid-3d-video-makers/"><u>Updated 2024 Approved Unleash Your Creativity Best Free and Paid 3D Video Makers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/whats-holding-back-diablo-immortal-from-taking-over-pc-gaming/"><u>What's Holding Back Diablo Immortal From Taking Over PC Gaming?</u></a></li>
 </ul></div>
 

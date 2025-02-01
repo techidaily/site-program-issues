@@ -1,7 +1,7 @@
 ---
 title: "Resolving the ERR_GFX_STATE Issue in Red Dead Redemption 2: A Comprehensive Guide"
-date: 2025-01-16T16:12:57.529Z
-updated: 2025-01-24T00:25:33.123Z
+date: 2025-01-25T18:05:59.450Z
+updated: 2025-01-31T20:08:47.627Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ Sifu
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Install the latest game patch
 
  The French studio Sloclap releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -51,7 +47,7 @@ Sifu
  Launch Sifu and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Update your graphics driver
@@ -71,10 +67,6 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -82,6 +74,10 @@ There are mainly two methods for you to update the graphics driver:
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -112,7 +108,7 @@ There are mainly two methods for you to update the graphics driver:
  Launch Sifu after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Modify graphics card settings
@@ -138,7 +134,15 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Sifu and see if the in-game FPS increases. If not, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Change Windows power plan
 
@@ -147,10 +151,6 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
@@ -167,7 +167,7 @@ There are mainly two methods for you to update the graphics driver:
  Lauch the game to see if Sifu’s in-game FPS improves after changing the power plan. If you didn’t see much in-game FPS boosts, read on and try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disable overlays
@@ -214,22 +214,24 @@ Launch Sifu to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-high-quality-power-units-for-gopro-hero5-genuine-sources-and-copycats-for-2024/"><u>[New] High-Quality Power Units for GoPro Hero5 Genuine Sources & Copycats for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-cloaking-in-content-an-introduction-to-video-smoothing-for-2024/"><u>[Updated] Cloaking in Content An Introduction to Video Smoothing for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-elite-imagery-journey-maker-kit-for-2024/"><u>[Updated] Elite Imagery Journey Maker Kit for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-complete-blueprint-for-iphone-photo-arrangement-in-ordered-algebras-and-icloud/"><u>2024 Approved The Complete Blueprint for iPhone Photo Arrangement in Ordered Algebras and iCloud</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-photographers-guide-to-online-image-editing-and-cropping/"><u>2024 Approved The Photographer's Guide to Online Image Editing and Cropping</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elimina-el-lag-en-tu-juego-de-forza-horizon-5-siguiendo-estas-soluciones-probadas/"><u>Elimina El Lag en Tu Juego De Forza Horizon 5 Siguiendo Estas Soluciones Probadas</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/imessage-communication-guide-sending-and-receiving-from-windows-pcs-tips-and-tricks/"><u>IMessage Communication Guide: Sending & Receiving From Windows PCs - Tips & Tricks</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-oppo-a78-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Oppo A78 5G</u></a></li>
-<li><a href="https://program-issues.techidaily.com/minecraft-multiplayer-woes-overcoming-network-connectivity-problems/"><u>Minecraft Multiplayer Woes: Overcoming Network Connectivity Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-how-to-stop-the-annoying-screen-tremor-a-step-by-step-guide/"><u>Resolved! How to Stop the Annoying Screen Tremor - A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-tips-to-fix-problematic-game-sounds-in-halo-infinite/"><u>Step-by-Step Tips to Fix Problematic Game Sounds in Halo Infinite</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-infinix-smart-7-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Infinix Smart 7 Phones</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-fixes-steelseries-gg-engine-issues-on-windows-pcs/"><u>Troubleshooting & Fixes: SteelSeries GG Engine Issues on Windows PCs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-solutions-for-iphone-unable-to-sync-with-icloud/"><u>Troubleshooting Guide: Solutions for iPhone Unable to Sync with iCloud</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-improving-your-ubisoft-connects-downloading-performance/"><u>Troubleshooting Steps: Improving Your Ubisoft Connect's Downloading Performance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-game-stutter-in-code-vein/"><u>Troubleshooting Tips: Resolving Game Stutter in Code Vein</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-utorrent-non-response-issues-top-7-effective-solutions/"><u>Troubleshooting UTorrent Non-Response Issues: Top 7 Effective Solutions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-data-dock-android-images-on-iphone-space/"><u>[New] Data Dock Android Images on iPhone Space</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-designing-distinctive-denouements-for-2024/"><u>[New] Designing Distinctive Denouements for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-masterful-methods-to-add-a-secure-link-to-your-tiktok-profile/"><u>[New] In 2024, Masterful Methods to Add a Secure Link to Your TikTok Profile</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-origin-crash-issue-quickly-and-easily/"><u>[Solved] Origin Crash Issue | Quickly & Easily!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-demystifying-quantum-hdr-technology/"><u>[Updated] In 2024, Demystifying Quantum HDR Technology</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-igtv-thumbnail-creation-and-editing-for-2024/"><u>[Updated] Mastering IGTV Thumbnail Creation & Editing for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-reflex-toolbox-bundle/"><u>2024 Approved Reflex Toolbox Bundle</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-blues-easy-solutions-to-stop-dota-2-from-crashing/"><u>Beat the Blues: Easy Solutions to Stop Dota 2 From Crashing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/capturing-presentations-effortlessly-a-guide-to-screen-capture-for-2024/"><u>Capturing Presentations Effortlessly A Guide to Screen Capture for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996844966-discover-why-disco-elysium-keeps-freezing-in-your-steam-play-solutions-inside/"><u>Discover Why Disco Elysium Keeps Freezing in Your Steam Play – Solutions Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elevate-your-gameplay-boost-fps-on-apex-legends-by-following-these-steps/"><u>Elevate Your Gameplay: Boost FPS on Apex Legends by Following These Steps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-updated-inquiry-collection-for-podcast-appeal/"><u>In 2024, Updated Inquiry Collection for Podcast Appeal</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondlys-quest-to-become-the-1-language-learning-app/"><u>Mondly's Quest to Become the #1 Language Learning App</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-interruptions-a-pro-guide-on-fixing-gears-of-war-5-frequent-crashes/"><u>No More Interruptions - A Pro Guide on Fixing 'Gears of War 5' Frequent Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-fix-fluctuating-fps-and-lags-in-new-world/"><u>Optimizing Performance: Fix Fluctuating FPS and Lags in New World</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-checklist-for-troubleshooting-your-companys-stalled-launch-insights/"><u>The Ultimate Checklist for Troubleshooting Your Company's Stalled Launch - Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-solution-restoring-soundscape-in-minecraft-when-your-pc-falls-silent/"><u>The Ultimate Solution: Restoring Soundscape in Minecraft When Your PC Falls Silent</u></a></li>
+<li><a href="https://program-issues.techidaily.com/updated-bioshock-sinker-shooter-remaster-with-critical-bug-fixes-and-visual-upgrades/"><u>Updated BioShock Sinker Shooter Remaster with Critical Bug Fixes and Visual Upgrades</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving Frame Drops in Age of Empires IV: A Comprehensive Guide"
-date: 2025-01-12T03:12:38.191Z
-updated: 2025-01-18T04:54:56.209Z
+date: 2025-01-30T01:54:14.243Z
+updated: 2025-01-31T22:58:32.474Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 ## Resolving Game Crashes in WoWs on PC? Try These 5 Proven Fixes
 
 It’s a lot of fun to immerse in the epic naval warfare in World of Warships. However, when the game keeps crashing, it could feel awful and annoying. If you’re one of the many plagued by the constant crashes, don’t frustrate as this problem is not hard to fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -43,6 +39,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click**World of Warships** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4-2.jpg)
@@ -50,10 +50,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After it finishes validating the game files, you can relaunch World of Warships to check if crashes are still there. If yes, proceed to **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  below.
 
@@ -64,6 +60,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 **2)** Select**World of Warships** . Then, click**Game Settings** and click**Check and Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click**Continue** .
 
@@ -99,13 +99,13 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
@@ -113,10 +113,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Now that you’ve installed the most recent graphics driver, you can expect a smooth and enhanced game performance. If updating the driver doesn’t work, keep reading the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Delete the preferences.xml file
 
@@ -128,9 +124,17 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click the**preferences.xml file** and press the**Delete key** on your keyboard.
 
 See if the crashing issue goes away. If not, try the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Launch World of Warships in safe mode
 
@@ -152,21 +156,17 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-1-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Select**Category** next to View by, and click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-2-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**World of Warships** from the list, and click**Uninstall** . Then, follow the on-screen instructions to complete the process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-3-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer.
 
@@ -198,21 +198,18 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-5-ps1-emulators-bringing-classic-games-back/"><u>[New] 2024 Approved Top 5 PS1 Emulators - Bringing Classic Games Back</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-channel-building-strategies-to-hit-a-million-view-mark/"><u>[New] Channel Building Strategies to Hit a Million-View Mark</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unveiling-the-secrets-how-to-efficiently-record-internet-radio/"><u>[New] In 2024, Unveiling the Secrets How To Efficiently Record Internet Radio</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-best-scribblers-ios-and-androids-leading-image-editors/"><u>[Updated] 2024 Approved Best Scribblers IOS & Android's Leading Image Editors</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-sending-direct-tweets-share-photosvideos-on-twitter-without-retweeting-for-2024/"><u>[Updated] Sending Direct Tweets Share Photos/Videos on Twitter without Retweeting for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/beyond-beats-8-free-mp3-downloaders-transforming-android-into-a-spiritual-haven-for-2024/"><u>Beyond Beats 8 Free MP3 Downloaders Transforming Android Into a Spiritual Haven for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boost-your-gaming-ultimate-guide-to-resolving-valheims-frame-rate-issues/"><u>Boost Your Gaming: Ultimate Guide to Resolving Valheim's Frame Rate Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortlessly-fix-your-pc-issues-with-assassins-creed-odyssey-no-more-crashes/"><u>Effortlessly Fix Your PC Issues with Assassin's Creed Odyssey - No More Crashes!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-enhancements-for-apples-vision-pro-strategies-for-business-triumph-insights-from-zdnet/"><u>Essential Enhancements for Apple's Vision Pro: Strategies for Business Triumph – Insights From ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-graphical-issues-in-forza-horizon-5-with-a-driver-update/"><u>How To Resolve Graphical Issues in Forza Horizon 5 With A Driver Update</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-stability-for-halo-infinite-on-pc-a-guide-to-preventing-game-shutdowns-and-disruptions/"><u>Mastering Stability for Halo Infinite on PC: A Guide to Preventing Game Shutdowns and Disruptions</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/personal-walkthrough-self-help-techniques-to-clear-data-from-your-iphone/"><u>Personal Walkthrough: Self-Help Techniques to Clear Data From Your iPhone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revive-the-roar-of-creepers-and-chirps-in-minecraft-comprehensive-fixes-for-no-sounds-issues/"><u>Revive the Roar of Creepers and Chirps in Minecraft: Comprehensive Fixes for No Sounds Issues</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/solving-srt-export-issues-in-adobe-premiere-pro-for-2024/"><u>Solving SRT Export Issues in Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-fifa-19-from-disappearing-expert-tips-to-prevent-game-crashes-on-personal-computers/"><u>Stop FIFA 19 From Disappearing: Expert Tips to Prevent Game Crashes on Personal Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-strategies-for-smoother-loads-in-cod-warzone-eradicating-lags-and-upping-fps/"><u>Ultimate Strategies For Smoother Loads in COD: Warzone - Eradicating Lags and Upping Fps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-startup-success-on-youtubing-free-beginner-courses-for-2024/"><u>[Updated] Startup Success on YouTubing Free Beginner Courses for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-browse-backwards-a-guide-to-facebook-archives/"><u>2024 Approved Browse Backwards A Guide to Facebook Archives</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993417584-deathloop-release-woes-heres-how-you-can-overcome-them/"><u>Deathloop Release Woes? Here's How You Can Overcome Them</u></a></li>
+<li><a href="https://blog-min.techidaily.com/descubre-los-mejores-conversores-de-video-gratis-para-windows-10-y-por-que-se-posicionan-en-la-cima-del-ranking-seo/"><u>Descubre Los Mejores Conversores De Vídeo Gratis Para Windows 10 Y Por Qué Se Posicionan en La Cima Del Ranking SEO</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortlessly-transform-google-presentations-into-high-quality-videos-with-these-simple-steps/"><u>Effortlessly Transform Google Presentations Into High-Quality Videos with These Simple Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-ensure-uninterrupted-downloads-on-your-steam-platform/"><u>How To Ensure Uninterrupted Downloads On Your Steam Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-continuous-freezing-in-formula-1-202n-during-your-pc-race/"><u>How to Overcome Continuous Freezing in Formula 1 202N During Your PC Race</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-nokia-c12-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Nokia C12 Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-choosing-between-projectors-and-tvs-for-superior-4k-viewing/"><u>In 2024, Choosing Between Projectors & TVs for Superior 4K Viewing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/input-delay-no-more-how-cd-projekt-red-addresses-cyberpunk-2077s-glitch/"><u>Input Delay No More: How CD Projekt Red Addresses Cyberpunk 2077'S Glitch</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-art-of-green-screening-in-fcp-x-tips-tricks-and-best-practices/"><u>New The Art of Green Screening in FCP X Tips, Tricks, and Best Practices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-startup-errors-effective-fixes-for-playing-starfield-on-steamxbox/"><u>Overcoming Startup Errors: Effective Fixes for Playing Starfield on Steam/Xbox</u></a></li>
+<li><a href="https://program-issues.techidaily.com/update-brings-an-end-to-latency-in-the-elder-scrolls-onlines-blackwood-zone/"><u>Update Brings an End to Latency in The Elder Scrolls Online’s Blackwood Zone</u></a></li>
 </ul></div>
 

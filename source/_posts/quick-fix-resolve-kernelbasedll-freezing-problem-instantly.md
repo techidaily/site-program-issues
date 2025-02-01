@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix: Resolve KernelBase.dll Freezing Problem Instantly"
-date: 2025-01-21T10:57:32.680Z
-updated: 2025-01-24T11:02:26.824Z
+date: 2025-01-27T22:47:37.416Z
+updated: 2025-01-31T23:15:00.836Z
 tags:
   - win11
   - win10
@@ -45,13 +45,17 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  The driver update should resolve the crashing issue and also boost the game’s performance. If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Verify the integrity of game files
@@ -62,22 +66,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
 
@@ -103,17 +95,13 @@ If this method doesn’t help, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
 So does the crash go away now? If not, there is the last fix to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Set launch options
@@ -127,10 +115,22 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
@@ -159,24 +159,16 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-ultimate-solution-pack-6-best-apps-for-signature-erasure-for-2024/"><u>[New] Ultimate Solution Pack - 6 Best Apps for Signature Erasure for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-launching-successful-online-gaming-shows-on-youtube-for-2024/"><u>[Updated] Launching Successful Online Gaming Shows on YouTube for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/2024-approved-powerdirector-competitors-best-mobile-video-editors-for-android-and-ios/"><u>2024 Approved PowerDirector Competitors Best Mobile Video Editors for Android & iOS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-shades-of-success-color-grading-fundamentals/"><u>2024 Approved Shades of Success Color Grading Fundamentals</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-access-your-iphones-control-center-here-are-8-reliable-repair-methods/"><u>Can't Access Your iPhone's Control Center? Here Are 8 Reliable Repair Methods</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723002892635-league-of-legends-online-issue-solutions-connection-restored/"><u>League of Legends Online Issue Solutions: Connection Restored</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-fortnite-memory-crashes-top-techniques-for-more-gaming-hours/"><u>Solving Fortnite Memory Crashes – Top Techniques for More Gaming Hours!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-ls-0013-glitch-in-borderlands-3-a-comprehensive-tutorial/"><u>Step-by-Step Fixes for LS-0013 Glitch in Borderlands 3: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oneplus-nord-3-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On OnePlus Nord 3 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-c67-4g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme C67 4G Device</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/top-5-free-video-effects-sites/"><u>Top 5 Free Video Effects Sites</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-gamer-friendly-smartphones-expert-ranking/"><u>Top 5 Gamer-Friendly Smartphones : Expert Ranking</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723007876745-trouble-starting-valorant-on-your-desktop-computer-uncover-the-latest-solutions/"><u>Trouble Starting Valorant on Your Desktop Computer? Uncover the Latest Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-persistent-launch-issues-with-necromunda-hired-gun-for-windows-users/"><u>Troubleshooting Persistent Launch Issues with Necromunda: Hired Gun for Windows Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-praey-shadows-of-the-past-frequently-fails-to-load-on-your-computer/"><u>Troubleshooting Steps When 'Praey: Shadows of the Past' Frequently Fails to Load on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-why-cant-i-get-saints-row-running-on-my-pc/"><u>Troubleshooting Steps: Why Can't I Get Saints Row Running on My PC?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-photo-magic-the-role-of-luts-in-editing-for-2024/"><u>Unlocking Photo Magic The Role of LUTs in Editing for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unstick-your-adventure-a-guide-for-when-granblue-fantasy-relink-wont-start/"><u>Unstick Your Adventure: A Guide for When Granblue Fantasy Relink Won't Start</u></a></li>
-<li><a href="https://program-issues.techidaily.com/valheim-performance-optimization-guide-solve-lag-issues-and-enhance-fps-for-ultimate-gaming-experience/"><u>Valheim Performance Optimization Guide: Solve Lag Issues & Enhance FPS for Ultimate Gaming Experience</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-a-brief-guide-to-kickstarting-conversations-on-instagram/"><u>[Updated] In 2024, A Brief Guide to Kickstarting Conversations on Instagram</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-vs-google-bard-which-is-better/"><u>ChatGPT Vs. Google Bard: Which Is Better?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-magical-experience-tackling-stuttering-with-these-six-fixes-for-hogwarts-legacy/"><u>Enhance Your Magical Experience - Tackling Stuttering with These Six Fixes for Hogwarts Legacy!</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensuring-data-verification-in-winrar-archives-with-six-solutions/"><u>Ensuring Data Verification in WinRAR Archives with Six Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/grand-theft-auto-v-optimization-fixes-for-performance-issues/"><u>Grand Theft Auto V Optimization - Fixes for Performance Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-roblox-launch-failure-updated-guide/"><u>How to Resolve the Roblox Launch Failure: Updated Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-troubleshoot-severe-development-glitches-in-modern-warfarewarzone/"><u>How to Troubleshoot Severe Development Glitches in Modern Warfare/Warzone</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-in-2024-best-photo-slideshow-maker-how-to-make-a-photo-slideshow/"><u>New In 2024, Best Photo Slideshow Maker How to Make a Photo Slideshow</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723012217501-rainbow-six-extraction-issues-fixed-no-more-pc-crashes/"><u>Rainbow Six Extraction Issues Fixed: No More PC Crashes</u></a></li>
+<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-xs-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone XS Max | Stellar</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-path-to-professional-presence-youtube-tips-and-tricks/"><u>The Path to Professional Presence YouTube Tips & Tricks</u></a></li>
 </ul></div>
 

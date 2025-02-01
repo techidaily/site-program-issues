@@ -1,7 +1,7 @@
 ---
 title: "PC Players Rejoice: 'New World' Now Runs Smoothly without Unexpected Shutdowns"
-date: 2025-01-19T14:12:19.981Z
-updated: 2025-01-23T19:04:13.659Z
+date: 2025-01-26T19:17:15.257Z
+updated: 2025-01-31T23:03:20.356Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/d54fa6180dfbcf214df4f9458a0e28f5138815530
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not have to try all of them. Simply work down the list until you find the one that works for you.
@@ -38,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/d54fa6180dfbcf214df4f9458a0e28f5138815530
 6. [**Disable in-game overlays**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Disable your controller](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Roll back your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Check your specs
 
@@ -80,10 +80,6 @@ Here’s an example of how to check the game integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/detroit-become-human-verify-game-02.jpg)
 3. Wait until the checking to finish.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can then launch Detroit: Become Human and see if it crashes again.
 
  If this solution doesn’t work for you, please continue to the next one.
@@ -118,11 +114,15 @@ If this fix failed to solve your issue, please move on to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -130,6 +130,10 @@ If this fix failed to solve your issue, please move on to the next one.
  Once you’ve updated your graphics driver, restart your PC and see if Detroit: Become Human crashes again.
 
  If this fix doesn’t give you any luck, take a look at the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
 
@@ -144,7 +148,7 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click Check for updates.
@@ -152,10 +156,6 @@ Here’s how:
  After installing all system updates, restart your computer and check if Detroit: Become Human crashes again.
 
  If this solution doesn’t work for you, simply try the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Disable in-game overlays
 
@@ -171,7 +171,7 @@ For example, you can follow these steps to disable Steam overlay:
 3. Launch Detroit: Become Human and test your gameplay.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the crashing reappears, please check out the next fix.
@@ -205,22 +205,22 @@ If the crashing reappears, please check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-excellent-camcorders-with-facing-panel/"><u>[Updated] 2024 Approved Excellent Camcorders with Facing Panel</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-a-step-by-step-approach-for-thumbnail-creation-professionals/"><u>[Updated] A Step-By-Step Approach for Thumbnail Creation Professionals</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-unveiling-the-secrets-of-video-captioning-in-vimeo/"><u>[Updated] Unveiling the Secrets of Video Captioning in Vimeo</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-thankful-discoveries-unlimited-outro-options/"><u>2024 Approved Thankful Discoveries Unlimited Outro Options</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/choosing-between-ipad-pro-and-macbook-air-a-comprehensive-guide-for-optimal-user-experience-comparative-analysis/"><u>Choosing Between iPad Pro and MacBook Air: A Comprehensive Guide for Optimal User Experience Comparative Analysis</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diy-guide-successful-connection-steps-for-kodi-where-directory-info-was-lost/"><u>DIY Guide: Successful Connection Steps for Kodi Where Directory Info Was Lost</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-continuous-palworld-game-crashes-on-desktop-systems/"><u>Effective Solutions for Continuous Palworld Game Crashes on Desktop Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-on-fixing-the-crash-problem-of-guilty-gear-strive-on-windowsmac-computers/"><u>Expert Tips on Fixing the Crash Problem of Guilty Gear Strive on Windows/Mac Computers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/gourmet-visuals-in-motion-food-shot-tips-and-tricks/"><u>Gourmet Visuals in Motion Food Shot Tips & Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-fixing-path-of-exile-connection-errors-a-step-by-step-solution/"><u>Guide to Fixing Path of Exile Connection Errors : A Step-by-Step Solution</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-xs-100-i-the-action-camera-that-transforms-moments-into-memories/"><u>In 2024, XS 100 I The Action Camera That Transforms Moments Into Memories</u></a></li>
-<li><a href="https://win-tips.techidaily.com/overcoming-icloud-downtime-the-3-most-effective-fixes/"><u>Overcoming iCloud Downtime: The 3 Most Effective Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-application-unable-to-start-hurdle-in-adobe-software-error-code-0xc0c0000022/"><u>Overcoming the 'Application Unable to Start' Hurdle in Adobe Software (Error Code 0xC0^[c0000022)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-steps-for-successful-age-of-empires-iv-installation/"><u>Resolved: Troubleshooting Steps for Successful 'Age of Empires IV' Installation</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-cannot-reach-live-config-servers-issue-step-by-step-fixes/"><u>Resolving 'Cannot Reach Live Config Servers' Issue - Step-by-Step Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-minecrafts-crossbow-glitches-and-error-messages/"><u>Resolving Minecraft's Crossbow Glitches and Error Messages</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-resident-evil-village-pc-game-crashes-a-comprehensive-guide/"><u>Troubleshooting Resident Evil Village PC Game Crashes: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/w2-plus-l2-d2/"><u> [W^2 + L^2 = D^2 </u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-mastering-twitter-uploading-videos-compliance/"><u>[New] In 2024, Mastering Twitter Uploading Videos Compliance</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-razers-kiyo-webcam-complete-overview/"><u>[New] In 2024, Razer's Kiyo Webcam - Complete Overview</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-15-asmr-content-providers/"><u>[New] Top 15 ASMR Content Providers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-real-time-tv-broadcast-preservation-the-easy-guide/"><u>2024 Approved Real-Time TV Broadcast Preservation - The Easy Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-turning-xmlssattml-files-into-srt-formats-strategies-and-techniques/"><u>2024 Approved Turning XML/SSA/TTML Files Into SRT Formats Strategies and Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/advanced-guide-to-mastering-the-art-of-morphvox-audio-transformation/"><u>Advanced Guide to Mastering the Art of MorphVOX Audio Transformation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battle-against-glitches-eradicating-dev-error-5573-from-your-warzone-experience-pc-and-console-strategies/"><u>Battle Against Glitches: Eradicating Dev Error 5573 From Your Warzone Experience - PC & Console Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004146331-expert-solutions-to-silent-lost-ark-dilemma-get-your-sounds-back/"><u>Expert Solutions to Silent Lost Ark Dilemma – Get Your Sounds Back!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-resolving-wallpaper-engine-crashes-in-windows-11-and-windows-10/"><u>Fixes & Solutions: Resolving Wallpaper Engine Crashes in Windows 11 and Windows 10</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-fuser-from-continuously-failing-on-your-desktop-computer/"><u>How to Stop Fuser From Continuously Failing on Your Desktop Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-troubleshoot-and-overcome-pc-game-crashes-in-lego-star-wars-the-skywalker-saga/"><u>How to Troubleshoot and Overcome PC Game Crashes in LEGO Star Wars: The Skywalker Saga</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improved-frame-rates-in-gta-5-fixes-for-previous-stutters-and-delays/"><u>Improved Frame Rates in GTA 5 - Fixes for Previous Stutters and Delays</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-match-fixes-eradicate-warzones-directx-glitch-within-4-steps/"><u>Mastering Match Fixes: Eradicate Warzone's DirectX Glitch Within 4 Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-performance-hiccups-in-overwatch-fixes-revealed/"><u>Overcoming Performance Hiccups in Overwatch - Fixes Revealed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/perfect-your-video-calls-essential-10-free-recording-solutions-for-slack/"><u>Perfect Your Video Calls Essential 10 Free Recording Solutions for Slack</u></a></li>
 </ul></div>
 

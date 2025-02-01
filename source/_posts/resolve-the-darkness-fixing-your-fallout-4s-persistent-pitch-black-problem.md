@@ -1,7 +1,7 @@
 ---
 title: "Resolve the Darkness: Fixing Your Fallout 4'S Persistent Pitch-Black Problem"
-date: 2024-12-15T23:09:25.343Z
-updated: 2024-12-18T17:43:49.001Z
+date: 2025-01-26T23:24:54.712Z
+updated: 2025-01-31T23:59:36.037Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 Windows 11 has been launched for months and many users have upgraded to Windows 11\. But some users have reported they can’t find the taskbar or it’s not working suddenly. Don’t worry, you’re not alone. My taskbar is not working after lunchtime and it’s troublesome. The post is here to help.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -30,10 +30,6 @@ Windows 11 has been launched for months and many users have upgraded to Windows 
 3. [Microsoft fix](https://tools.techidaily.com/drivereasy/download/)
 4. [Repair system files](https://tools.techidaily.com/drivereasy/download/)
 5. [Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Restart your PC
 
@@ -55,7 +51,7 @@ If this simple reboot doesn’t work, the next fix might help.
 4. Check your taskbar to see the difference.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Microsoft fix
@@ -68,10 +64,6 @@ If this simple reboot doesn’t work, the next fix might help.
 4. Copy and paste the following into the command panel. Then hit the Enter key on your keyboard.  
  reg delete HKCU\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\IrisService /f && shutdown -r -t 0
 5. Your PC will reboot and everything should be back to normal.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -89,10 +81,18 @@ If this simple reboot doesn’t work, the next fix might help.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -114,7 +114,7 @@ If this simple reboot doesn’t work, the next fix might help.
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -139,18 +139,14 @@ If this simple reboot doesn’t work, the next fix might help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-leveraging-influencers-in-your-twitter-marketing-plan-for-2024/"><u>[New] Leveraging Influencers in Your Twitter Marketing Plan for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-simplified-methods-capturing-powerpoint-talks/"><u>[Updated] 2024 Approved Simplified Methods Capturing PowerPoint Talks</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-how-to-use-zoom-video-filters-to-make-a-high-quality-video-call/"><u>[Updated] How to Use Zoom Video Filters to Make a High-Quality Video Call</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-navigating-the-maze-of-stock-visual-acquisition/"><u>[Updated] Navigating the Maze of Stock Visual Acquisition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-initialization-errors-for-an-optimal-experience-on-refunded-diablo-legacy-redefined/"><u>Bypassing Initialization Errors for an Optimal Experience on [REFUNDED] Diablo: Legacy Redefined</u></a></li>
-<li><a href="https://program-issues.techidaily.com/doom-eternal-crash-woes-heres-how-you-can-rectify-them/"><u>DOOM Eternal Crash Woes? Here's How You Can Rectify Them</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-pc-instability-in-crusader-kings-iii/"><u>Fixes for PC Instability in Crusader Kings III</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-htc-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of HTC Phone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-15-pro-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 15 Pro in Security Lockout? Proper Ways To Unlock</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/norse-adventures-redefined-unpacking-the-brilliance-of-assassins-creed-valhalla-a-detailed-review/"><u>Norse Adventures Redefined: Unpacking the Brilliance of Assassin's Creed: Valhalla – A Detailed Review.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fix-for-risk-of-rain-2-stability-issues-and-crashes/"><u>Ultimate Fix for Risk of Rain 2 Stability Issues and Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-the-thaumaturge-game-crashes-on-your-computer/"><u>Ultimate Guide: Resolving the Thaumaturge Game Crashes on Your Computer</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-tactical-steps-to-download-securely-free-vlc-media-on-mac/"><u>[New] 2024 Approved Tactical Steps to Download Securely Free VLC Media on MAC</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-smarter-streaming-the-essence-of-vimeo-record/"><u>[Updated] Smarter Streaming The Essence of Vimeo Record</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oppo-a59-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/league-of-legends-black-display-woes-heres-how-you-can-fix-it/"><u>League of Legends Black Display Woes? Here's How You Can Fix It !</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-dev-error-6328-in-call-of-duty-warzone-pro-tips-and-solutions/"><u>Overcoming Dev Error 6328 in Call of Duty: Warzone – Pro Tips and Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-ubisoft-connect-malfunction-effective-solutions-for-gamers-in-2-cuff-links-2024/"><u>Resolving Ubisoft Connect Malfunction: Effective Solutions for Gamers in 2 Cuff Links 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fix-for-non-functioning-tozo-t6-software-in-windows-11/"><u>Step-by-Step Fix for Non-Functioning Tozo T6 Software in Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/vocalvault-critique-of-live-sounds/"><u>VocalVault Critique of Live Sounds</u></a></li>
 </ul></div>
 

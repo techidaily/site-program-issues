@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Persistent Crashes in Necromunda: Hired Gun for PC Gamers - Solutions Explored"
-date: 2024-12-18T01:11:24.732Z
-updated: 2024-12-18T20:18:07.624Z
+date: 2025-01-28T18:38:56.900Z
+updated: 2025-02-01T00:51:43.655Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ ELEX II system requirements
 
  If it keeps crashing on your powerful PC, just read on and try the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Whether ELEX II crashes on startup or crashes in the middle of the game, you can find a fix to try in this article. You don’t need to try them all. Just work your way down the list until you find the one that works for you.
@@ -52,10 +56,6 @@ ELEX II system requirements
 6. [**Repair corrupted system files**](https://tools.techidaily.com/drivereasy/download/)
 7. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Verify and repair game files
 
  Game crashing issues are often triggered by corrupted game files. You can verify and repair game files using Steam. Here’s how to do it:
@@ -64,10 +64,6 @@ ELEX II system requirements
 2. **Right-click** on **ELEX II** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
@@ -93,16 +89,12 @@ ELEX II system requirements
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Install the latest ELEX II patch
@@ -136,10 +128,6 @@ ELEX II system requirements
 
 If this fix didn’t work, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Repair corrupted system files
 
  Windows system file corruption will also lead the game to crash. If you’ve played PC games for years, you may have already known that even a missing or corrupted .dll file (dynamic link libraries) would cause a game to crash.
@@ -159,10 +147,14 @@ If this fix didn’t work, try the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Perform a clean boot
@@ -176,7 +168,7 @@ If this fix didn’t work, try the next fix, below.
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
@@ -184,14 +176,23 @@ If this fix didn’t work, try the next fix, below.
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Restart** your PC and launch ELEX II to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
@@ -231,19 +232,21 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-maximizing-insights-with-twitter-archive-analysis-for-2024/"><u>[New] Maximizing Insights with Twitter Archive Analysis for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-revolutionizing-slow-mo-top-8-video-speeders/"><u>[Updated] Revolutionizing Slow Mo Top 8 Video Speeders</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/beat-the-spike-in-hard-drive-costs-strategies-for-finding-low-priced-storage-solutions/"><u>Beat the Spike in Hard Drive Costs: Strategies for Finding Low-Priced Storage Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-slowdown-how-to-resolve-your-league-of-legends-latency-problems/"><u>Fixing the Slowdown: How to Resolve Your League of Legends Latency Problems</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-oppo-reno-11-pro-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Oppo Reno 11 Pro 5G Device SIM</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-motorola-defy-2-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Motorola Defy 2 Devices</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Vivo V30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/integrating-indicators-of-nature-a-procedure-to-incorflutter-a-windows-11-system-tray-icon/"><u>Integrating Indicators of Nature: A Procedure to Incorflutter a Windows 11 System Tray Icon</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-error-code-727e66ac-2024-on-nba-2k24-effective-fix-strategies-revealed/"><u>Mastering Error Code 727E66ac-2024 on NBA 2K24: Effective Fix Strategies Revealed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-freezing-solving-nox-player-stability-issues-on-your-computer/"><u>No More Freezing: Solving Nox Player Stability Issues on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-naraka-bladepoint-crashes-for-smooth-gaming-experience/"><u>Solving Naraka: Bladepoint Crashes for Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/transformation-facile-et-gratuite-des-videos-mkv-vers-le-codec-m4a-avec-movavi-online-converter/"><u>Transformation Facile Et Gratuite Des Vidéos MKV Vers Le Codec M4A Avec Movavi Online Converter</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-pc-crashes-in-slime-rancher-2/"><u>Troubleshooting Guide: Resolving PC Crashes in Slime Rancher 2</u></a></li>
-<li><a href="https://program-issues.techidaily.com/warzone-and-your-hardware-optimizing-gpu-performance-on-windows-11-devices/"><u>Warzone and Your Hardware: Optimizing GPU Performance on Windows 11 Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixed-football-manager-2020-crash/"><u>[FIXED] Football Manager 2020 Crash</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-composing-captivating-cinema-trailers-for-2024/"><u>[New] Composing Captivating Cinema Trailers for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-professional-visual-enhancements-mastering-the-use-of-luts-in-ae/"><u>[New] Professional Visual Enhancements Mastering the Use of LUTs in AE</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-from-ordinary-to-extraordinary-the-ultimate-iphoneandroid-screenshot-enhancers-list/"><u>[Updated] 2024 Approved From Ordinary to Extraordinary The Ultimate iPhone/Android Screenshot Enhancers List</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-failed-to-connect-via-anticheat-error-on-escape-from-tarkov/"><u>Fixing the 'Failed to Connect via Anticheat' Error on Escape From Tarkov</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-fix-a-non-booting-computer-expert-tips-from-yl-computing-and-yl-software/"><u>How to Fix a Non-Booting Computer: Expert Tips From YL Computing & YL Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-high-fps-performance-in-tainted-grail-conquest-pro-techniques/"><u>Mastering High FPS Performance in Tainted Grail: Conquest - Pro Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-preparation-for-a-productive-academic-season-comprehensive-organizational-advice-by-experts-at-zdnet/"><u>Mastering Preparation for a Productive Academic Season: Comprehensive Organizational Advice by Experts at ZDNET</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210550491-9781667427621-ovnis-en-la-biblia/"><u>Ovnis en la Biblia | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/patching-up-overwatchs-graphic-mishaps-drivers-revised/"><u>Patching Up Overwatch's Graphic Mishaps – Drivers Revised</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-unexpected-shutdowns-in-starcraft-ii-on-personal-computers-tips-and-tricks/"><u>Resolving Unexpected Shutdowns in StarCraft II on Personal Computers - Tips & Tricks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/revolutionize-online-speech-discover-the-best-chrome-extensions-for-change-for-2024/"><u>Revolutionize Online Speech Discover the Best Chrome Extensions for Change for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/smooth-sailing-overcome-battlefield-nite-2042-stutter-and-fps-woes-on-your-personal-computer/"><u>Smooth Sailing: Overcome Battlefield Nite 2042 Stutter and FPS Woes on Your Personal Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-techniques-for-restoring-functionality-to-a-non-working-ps4-microphone/"><u>Top Techniques for Restoring Functionality to a Non-Working PS4 Microphone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-repairing-blue-screen-in-helldivers-version-2/"><u>Troubleshooting and Repairing 'Blue Screen' In Helldivers Version 2</u></a></li>
 </ul></div>
 

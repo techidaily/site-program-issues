@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix NieR: Automata Freezing Issues"
-date: 2025-01-17T01:34:21.054Z
-updated: 2025-01-17T23:28:05.821Z
+date: 2025-01-25T21:20:01.849Z
+updated: 2025-01-31T17:35:17.450Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 | Storage   | 42 GB available space                        |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -62,10 +62,22 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 2. In the**Compatibility** tab, check**Run this program as administrator** and hit**OK > Apply** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this doesn’t work for you, then try to verify game files in Steam.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
 
@@ -79,15 +91,7 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If this fix doesn’t bring luck, take a look at the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your drivers
 
@@ -106,10 +110,6 @@ There are mainly two ways you can update the graphics driver:
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -134,11 +134,11 @@ Here’s how to disable Windows Security temporarily.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Relaunch NieR Replicant and check if it’s running properly.
 
@@ -163,20 +163,24 @@ Relaunch NieR Replicant and check if it’s running properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-fading-sounds-gently-a-guide-to-softening-audibility-in-lumafusion/"><u>[New] Fading Sounds Gently A Guide to Softening Audibility in Lumafusion</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-leading-speed-change-audio-utilities-list/"><u>[New] In 2024, Leading Speed-Change Audio Utilities List</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-virtual-horizons-redefining-the-movie-experience/"><u>[New] Virtual Horizons Redefining the Movie Experience</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-your-ultimate-roadmap-for-optimal-youtube-video-resolution-width-and-height/"><u>[New] Your Ultimate Roadmap for Optimal YouTube Video Resolution, Width & Height</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-choosing-5-chrome-extensions-for-facebook-videos/"><u>[Updated] 2024 Approved The Ultimate Guide to Choosing 5 Chrome Extensions for Facebook Videos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-craft-clearer-crisper-youtube-videos-with-quality-tools/"><u>[Updated] Craft Clearer, Crisper YouTube Videos with Quality Tools</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-expert-tips-for-effortless-youtube-video-uploads-via-ios-for-2024/"><u>[Updated] Expert Tips for Effortless YouTube Video Uploads via iOS for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-top-8-youtube-rank-tracker-tools-unveiled/"><u>[Updated] In 2024, Top 8 YouTube Rank Tracker Tools Unveiled</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-time-taken-to-watch-an-example-of-a-20mb-video/"><u>[Updated] Time Taken to Watch An Example of a 20MB Video</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquering-zoom-resource-hogging-discover-these-efficiencies-to-cut-down-cpu-drain/"><u>Conquering Zoom Resource Hogging: Discover These Efficiencies to Cut Down CPU Drain</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cyberpunk-nk-2077s-fps-challenge-past-problem-present-solution/"><u>Cyberpunk Nk 2077'S FPS Challenge: Past Problem, Present Solution</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-solutions-to-resolve-world-of-warcraft-stability-issues-and-game-crashes/"><u>Easy Solutions to Resolve 'World of Warcraft' Stability Issues & Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-back-4-blood-ue4-gobi-error-expert-tips-and-solutions/"><u>How to Overcome 'Back 4 Blood - UE4 Gobi Error': Expert Tips and Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/multiversus-crash-solved-top-8-methods-to-stabilize-your-game/"><u>MultiVersus Crash Solved: Top 8 Methods to Stabilize Your Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/phasmophobia-crash-troubles-heres-your-ultimate-guide-to-2ebarriers-2024-resolutions/"><u>Phasmophobia Crash Troubles? Here's Your Ultimate Guide to 2Ebarriers 2024 Resolutions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-ticklishtunes-your-guide-to-amusing-ringtone-downloads/"><u>[Updated] In 2024, TicklishTunes Your Guide to Amusing Ringtone Downloads</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastery-made-easy-10-best-mac-drawing-programs-complimentary/"><u>[Updated] Mastery Made Easy 10 Best Mac Drawing Programs (Complimentary)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-to-get-your-madden-22-game-running-smoothly-again/"><u>Effective Solutions to Get Your Madden 22 Game Running Smoothly Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-no-more-fixing-the-flawed-interface-in-black-ops-cold-war-issue-27711/"><u>Error No More: Fixing the Flawed Interface in Black Ops: Cold War - Issue 27711</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gratis-konverteren-van-m1v-naar-mp4-met-moveavee-online-tool/"><u>Gratis Konverteren Van M1V Naar MP4 Met Moveavee - Online Tool</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hearthstone-stability-enhanced-no-more-pc-crashing/"><u>Hearthstone Stability Enhanced - No More PC Crashing!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-quickly-boot-into-safe-mode-on-windows-8-and-81-step-by-step-guide/"><u>How to Quickly Boot Into Safe Mode on Windows 8 and 8.1 - Step-by-Step Guide!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-cult-of-the-lamb-pc-game-from-exiting-unexpectedly-a-step-by-step-guide/"><u>How to Stop Cult of the Lamb PC Game From Exiting Unexpectedly: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ignite-social-media-fanfare-master-these-9-instagram-commandments/"><u>Ignite Social Media Fanfare Master These 9 Instagram Commandments</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-xs-to-ipad-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone XS to iPad? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-6s-plus-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and Apple iPhone 6s Plus without Apple Account</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-apple-iphone-6s-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Apple iPhone 6s Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-palworld-not-loading-problems-with-simple-fixes/"><u>Resolving Palworld Not Loading Problems with Simple Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011149161-say-goodbye-to-game-bugs-solve-your-football-manager-2eplus23-7-pc-launching-problems-now/"><u>Say Goodbye to Game Bugs! Solve Your Football Manager 2E+23-7 PC Launching Problems Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/teamwork-essentials-the-unreleased-project-two/"><u>Teamwork Essentials: The Unreleased Project 'Two'</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-privacy-filter-concealing-visual-details-in-media-for-2024/"><u>The Privacy Filter Concealing Visual Details in Media for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013564716-untangling-the-puzzle-of-anthems-persistent-startup-problem-solutions-inside/"><u>Untangling the Puzzle of Anthem's Persistent Startup Problem - Solutions Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warzone-troubleshooting-guide-ensuring-proper-gpu-integration-on-windows-tn/"><u>Warzone Troubleshooting Guide: Ensuring Proper GPU Integration on Windows ˈtʰɛn</u></a></li>
 </ul></div>
 

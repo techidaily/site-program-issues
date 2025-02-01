@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Successfully Launching Starfield on PC and Xbox Platforms
-date: 2025-01-13T01:57:13.296Z
-updated: 2025-01-18T03:36:53.022Z
+date: 2025-01-26T00:55:19.546Z
+updated: 2025-01-31T19:00:58.090Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is finally[here](https://www.epicgames.com/store/en-US/p/immortals-fenyx-rising?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=4b35838425c74992ad42e1276b2161ca) , giving you a gorgeous world to explore. However, many players reported various issues with this new title, such as the game not launching or stuck on loading. If you face the same predicament, don’t worry. Here are some quick fixes to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -71,13 +71,13 @@ There are mainly two ways you can do this:
 ![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Verify the integrity of game files
@@ -90,7 +90,15 @@ There are mainly two ways you can do this:
 3. Click**Verify files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait until the scan and repair process completes, and restart your game to test. If the not launching problem persists, keep reading the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Use dedicated graphics card
 
@@ -103,37 +111,29 @@ There are mainly two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1.jpg)
 3. Click the**Program Settings** tab and then click**Add** to include the Immortals Fenyx Rising.exe file.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3-1.jpg)
 4. Select**High-performance NVIDIA processor** from the drop-down menu. Then, click**Apply** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4-1.jpg)  
  Note: If you have an AMD graphics card, you could refer to this guide: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Type**graphics** in the Windows search bar, and click**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-5.jpg)
 6. Click**Browse** and add Immortals Fenyx Rising.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-7.jpg)
 7. After the game is added, select it and click**Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-8.jpg)
 8. On the pop-up menu, click**High performance** and click**Save** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now check if Immortals Fenyx Rising is able to launch. If all the methods above fail to get your game working, try contacting **[Ubisoft support](https://support.ubisoft.com/en-US)**  for further assistance.
 
@@ -158,17 +158,22 @@ There are mainly two ways you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-decoding-cloud-cost-the-hunt-for-affordability-continues/"><u>[Updated] Decoding Cloud Cost The Hunt for Affordability Continues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/e-seguro-o-movavi-testando-a-protecao-de-site-e-aplicativos/"><u>É Seguro O Movavi? - Testando a Proteção De Site E Aplicativos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/high-definition-magic-cutting-edge-camcorders-reviewed/"><u>High-Definition Magic Cutting-Edge Camcorders Reviewed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/identifying-and-handling-potential-chatgpt-scam-websites-a-comprehensive-guide/"><u>Identifying & Handling Potential ChatGPT Scam Websites: A Comprehensive Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-harmony-through-play-our-best-10-gems/"><u>In 2024, Harmony Through Play Our Best 10 Gems</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-preparing-your-environment-zoom-room-configuration-tips/"><u>In 2024, Preparing Your Environment Zoom Room Configuration Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005087154-say-goodbye-to-minecrafts-darkness-ultimate-guide-to-overcoming-the-black-screen-challenge/"><u>Say Goodbye to Minecraft's Darkness: Ultimate Guide to Overcoming the Black Screen Challenge</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tips-and-tricks-for-enhancing-frames-per-second-fps-in-tainted-grail-conquest-gameplay/"><u>Tips and Tricks for Enhancing Frames Per Second (FPS) in Tainted Grail: Conquest Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-stop-wolcen-from-freezing-and-crashing/"><u>Troubleshooting Steps: Stop Wolcen From Freezing and Crashing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unifying-calls-and-messages-the-ultimate-guide-to-using-one-phone-number-on-various-devices/"><u>Unifying Calls and Messages: The Ultimate Guide to Using One Phone Number on Various Devices</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/yl-computings-premium-maritime-hd-background-images-and-photos-for-your-digital-space/"><u>YL Computing's Premium Maritime HD Background Images and Photos for Your Digital Space</u></a></li>
-<li><a href="https://program-issues.techidaily.com/zombie-army-4-dead-war-navigating-pc-game-crashes-and-bugs-with-ease/"><u>Zombie Army 4: Dead War - Navigating PC Game Crashes & Bugs with Ease</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-kickstart-a-successful-charity-contest-via-social-media-for-2024/"><u>[Updated] Kickstart a Successful Charity Contest via Social Media for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-engaging-audiences-in-real-time-periscope-tips/"><u>2024 Approved Engaging Audiences in Real-Time Periscope Tips</u></a></li>
+<li><a href="https://win-online.techidaily.com/effiziente-strategien-zur-wiederherstellung-von-dateien-fur-samsung-portable-ssd-modelle-t3t5x5t-7/"><u>Effiziente Strategien Zur Wiederherstellung Von Dateien Für Samsung Portable SSD - Modelle T3/T5/X5/T 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-picks-for-ultimate-notetakers-the-best-tablet-reviews-of-2023-gadgetguru/"><u>Expert Picks for Ultimate Notetakers - The Best Tablet Reviews of 2023 | GadgetGuru</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-crashing-problem-with-nioh-2-complete-edition-a-comprehensive-solution/"><u>Fix Your Crashing Problem with Nioh 2 Complete Edition - A Comprehensive Solution</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-6s-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 6s</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-stardew-valley-from-keeping-black-screen-on-desktop/"><u>How to Stop Stardew Valley From Keeping Black Screen on Desktop</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/is-hd-display-compatible-with-your-graphics-hardware-expert-advice-by-yl-software/"><u>Is HD Display Compatible with Your Graphics Hardware? Expert Advice by YL Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/r-your-videos-success-with-leading-rank-monitors-for-2024/"><u>Master Your Video's Success with Leading Rank Monitors for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-expert-tips-for-fixing-biomutant-glitches-on-pcs/"><u>Mastering Stability: Expert Tips for Fixing Biomutant Glitches on PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-play-avoidance-of-common-bugs-in-arise-adventures/"><u>Optimizing Play: Avoidance of Common Bugs in Arise Adventures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-hitman-3-connectivity-errors-strategies-that-work/"><u>Overcoming Hitman 3 Connectivity Errors: Strategies That Work</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-stutter-and-lag-issues-in-overwatch-a-comprehensive-guide/"><u>Overcoming Stutter & Lag Issues in Overwatch - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-nspr4dll-missing-file-a-step-by-step-guide/"><u>Resolving nspr4.dll Missing File: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revolutionary-fixes-to-combat-low-fps-and-hitching-issues-in-the-division-2-expert-tips/"><u>Revolutionary Fixes to Combat Low FPS & Hitching Issues in The Division 2: Expert Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-successful-reconnection-of-your-iphone-to-itunes-on-a-windows/"><u>Troubleshooting Tips: Successful Reconnection of Your iPhone to iTunes on a Windows 지구톱 셀렉트롤</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mkvmpeg-movavi/"><u>オンラインで無料: MKVとMPEG形式を簡単に変換する - Movavi</u></a></li>
 </ul></div>
 

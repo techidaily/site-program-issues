@@ -1,7 +1,7 @@
 ---
 title: "Solved: Life Is Strange: True Colors - Troubleshooting the Infamous Game Crash"
-date: 2025-01-22T04:55:51.571Z
-updated: 2025-01-24T01:35:43.656Z
+date: 2025-01-29T19:03:49.646Z
+updated: 2025-01-31T22:58:36.235Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix Gears of War 5 PC crash in Windows
 
@@ -56,6 +52,10 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -65,7 +65,7 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: **Disable gaming overlay**
@@ -82,6 +82,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-136.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click Captures, then toggle **off** the switch for **Record in the background while I’m playing a game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-138.png)
@@ -89,10 +93,6 @@ Here is how to do it:
  4) Click Broadcasting, then toggle **off** the switch for **Record audio when I broadcast** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-139.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Exit the window.
 
@@ -110,10 +110,14 @@ Here is how to reset the Microsoft Store cache:
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and type **R** at the same time, then type **wsreset.exe** and press **Enter** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Wait until the whole Windows store cache reset process finishes.
@@ -123,6 +127,10 @@ Here is how to reset the Microsoft Store cache:
 3) Once completed, Windows Store will pop open.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-129-1024x796.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -140,13 +148,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In Windows Update, click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-140.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait for the system to check online for available updates for the game.
 
@@ -154,10 +162,6 @@ Here is how to do it:
 * If**no** – there is no updates available for the game, please move on **Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Update DirectX
 
@@ -170,10 +174,6 @@ Here is how to do it:
  Still not resolved? Please try **Fix 6** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall the game
 
@@ -208,20 +208,21 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-7-essential-secrets-for-delectable-cooking-clips/"><u>[New] 2024 Approved 7 Essential Secrets for Delectable Cooking Clips</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-hdr-vs-sdr-a-visual-spectrum-showdown-for-2024/"><u>[Updated] HDR vs SDR A Visual Spectrum Showdown for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-oppo-k11x-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Oppo K11x Phone When You Forget the Password</u></a></li>
-<li><a href="https://program-issues.techidaily.com/common-issues-with-sea-of-thieves-launch-and-solutions/"><u>Common Issues with Sea of Thieves Launch and Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-solutions-for-preventing-gameloop-malfunctions-on-modern-windows-systems/"><u>Expert Solutions for Preventing GameLoop Malfunctions on Modern Windows Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-stop-metro-exodus-from-crashing-on-your-windows-machine/"><u>Fixing the Issue: How to Stop Metro Exodus From Crashing on Your Windows Machine</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-xs-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone XS iOS System? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-razers-book-nano-13-tiny-tech-enormous-efficiency/"><u>In-Depth Look at Razer's Book Nano 13: Tiny Tech, Enormous Efficiency</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-samsung-galaxy-s21-fe-5g-2023-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Samsung Galaxy S21 FE 5G (2023)? Fixed | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-quick-settings-with-ease-on-your-win-11-pc/"><u>Master Quick Settings with Ease on Your Win 11 PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-guide-correcting-the-notorious-memory-error-12707-glitch-in-modern-warfare-3/"><u>Solution Guide: Correcting the Notorious Memory Error 12707 Glitch in Modern Warfare 3</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-smooth-play-in-halo-infinite-no-more-stutters/"><u>Troubleshooting Tips for Smooth Play in Halo Infinite - No More Stutters!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-unrecognized-hardware-error-code-24-in-windows-operating-systems/"><u>Troubleshooting: Unrecognized Hardware (Error Code 24) in Windows Operating Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-step-by-step-tutorial-resolving-teardown-crashes-effectively/"><u>Ultimate Step-by-Step Tutorial: Resolving Teardown Crashes Effectively</u></a></li>
-<li><a href="https://win-updates.techidaily.com/viewing-live-system-processes-via-task-manager-detailed-instructions-from-yl-software-experts/"><u>Viewing Live System Processes via Task Manager: Detailed Instructions From YL Software Experts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-from-vision-to-execution-the-full-spectrum-of-personal-branding-on-youtube-for-2024/"><u>[Updated] From Vision to Execution The Full Spectrum of Personal Branding on YouTube for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-elevate-engagement-crafting-instagram-highlights-in-3-steps/"><u>[Updated] In 2024, Elevate Engagement Crafting Instagram Highlights in 3 Steps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-premium-choices-for-unparalleled-video-communication/"><u>[Updated] Premium Choices for Unparalleled Video Communication</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-bd-issues-on-ws-21-ws-8-and-older-windows/"><u>Addressing BD Issues on WS-21, WS-8 & Older Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/deciphering-and-resolving-the-critical-ark-catastrophe-effectively/"><u>Deciphering and Resolving the Critical ARK Catastrophe Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ending-the-wait-essential-solutions-to-the-elder-scrolls-online-blackwood-performance-lags/"><u>Ending the Wait: Essential Solutions to 'The Elder Scrolls Online' Blackwood Performance Lags</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-pc-gaming-performance-a-comprehensive-guide-to-fixing-frames-per-second-degradation/"><u>Enhancing PC Gaming Performance: A Comprehensive Guide to Fixing Frames Per Second Degradation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-samsung-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Samsung Galaxy S21 FE 5G (2023)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-tiktok-video-enhancement-with-zoom/"><u>In 2024, Mastering TikTok Video Enhancement with Zoom</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubleshooting-fixing-siftus-frame-rate-issues-and-gameplay-hiccups/"><u>PC Troubleshooting: Fixing SIFTU's Frame Rate Issues and Gameplay Hiccups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rainbow-six-siege-fixed-now-successfully-starting-up/"><u>Rainbow Six Siege Fixed! Now Successfully Starting Up</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-startup-problems-with-pathfinder-wrath-of-the-righteous-a-comprehensive-walkthrough/"><u>Resolving Startup Problems with Pathfinder: Wrath of the Righteous - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/telegram-marketing-made-simple-for-those-just-starting-out-for-2024/"><u>Telegram Marketing Made Simple For Those Just Starting Out for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-performance-hiccups-in-red-dead-redemption-2-gameplay/"><u>Troubleshooting Performance Hiccups in Red Dead Redemption 2 Gameplay</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-xiaomi-redmi-k70e-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Xiaomi Redmi K70E Phone Network-Ready</u></a></li>
 </ul></div>
 

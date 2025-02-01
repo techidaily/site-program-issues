@@ -1,7 +1,7 @@
 ---
 title: Apex Legends Online Connection Guide - Expert Advice on Getting You Back in the Game
-date: 2024-08-06T09:47:25.073Z
-updated: 2024-08-07T09:47:25.073Z
+date: 2025-01-28T18:37:24.234Z
+updated: 2025-01-31T21:03:46.916Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/20681dc3787d86713afd2395e0942d0819f5bca12
 It’s annoying when you can’t connect to the EA server or receive the error message saying**Connection to server timed out** . Is Apex Legends down again? Or it’s something wrong with your PC? Don’t worry, you’re not the only one, the methods below would help you fix the connection issue.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -46,9 +47,6 @@ It’s annoying when you can’t connect to the EA server or receive the error m
 
 If it’s not the server, please move to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### Method 2: Change DNS to Google
 
  Google is one of the free and public DNS servers. Some players find the connection issue could be solved by swapping their DNS to Google.  
@@ -59,11 +57,13 @@ If it’s not the server, please move to the next method.
 | Google   | 8.8.8.8            | 8.8.4.4       |
 
 1. Type**Control Panel** on the search bar and click to open.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-02-47.jpg)
 2. Set Control Panel**View by Category** , then click**Network and Internet** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-08.jpg)
 3. Click**Network and Sharing Center >** **Change adapter settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-28.jpg)
@@ -71,16 +71,10 @@ If it’s not the server, please move to the next method.
 5. Select the**Networking** tab, select**Internet Protocol Version 4 (TCP/IPv4)** under This connection uses the following items. Click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-42-06.jpg)
 6. Click Use the following DNS server addresses and enter the Google DNS server address.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-41-46.jpg)
 7. Click**OK** to save the change.
 8. Reboot the game and check.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Run as administrator
 
 Some players suggest Run as administrator could fix this issue.
@@ -88,11 +82,12 @@ Some players suggest Run as administrator could fix this issue.
 1. Right-click the Apex Legends shortcut icon and click**Properties** .
 2. Click the**Compatibility** tab and check**Run this program as administrator** .
 3. Click**Apply > OK** to save changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_18-35-04.jpg)
 4. Reboot the game and check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this method doesn’t help, please move to the next one.
 
@@ -111,11 +106,16 @@ If this method doesn’t help, please move to the next one.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 5: Clear game cache
 
  Many players have reported their issues were solved after clearing the game cache. If you’re playing Apex Legends on PC with Origin or EA Desktop, follow the steps below to clear the cache.
@@ -156,11 +156,31 @@ If this method doesn’t help, please move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-from-conventional-to-crystal-clear-with-hp-envy-27/"><u>[New] In 2024, From Conventional to Crystal Clear with HP Envy 27</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ultimate-4k-blu-ray-experience-best-player-selection/"><u>[New] In 2024, Ultimate 4K Blu-Ray Experience Best Player Selection</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-revolutionized-action-recording-with-tomtoms-newest-bandit-for-2024/"><u>[New] Revolutionized Action Recording with TomTom's Newest Bandit for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-tailor-made-melodies-assembling-your-own-youtube-playlist/"><u>[Updated] 2024 Approved Tailor-Made Melodies Assembling Your Own YouTube Playlist</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-transforming-snaps-into-animated-characters-in-snapchat-for-2024/"><u>[Updated] Transforming Snaps Into Animated Characters in Snapchat for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-tailoring-your-content-for-split-screen-audiences-via-facebook-lives/"><u>2024 Approved Tailoring Your Content for Split Screen Audiences via Facebook Lives</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-fixing-instability-issues-while-playing-sons-of-the-forest-on-pc/"><u>Expert Tips for Fixing Instability Issues While Playing Sons of the Forest on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-prevent-nier-gestalt-game-crashes-and-glitches/"><u>Expert Tips to Prevent NieR Gestalt Game Crashes and Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2023-how-i-fixed-the-game-not-opening-problem/"><u>Football Manager 2023: How I Fixed the Game Not Opening Problem</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/guide-to-immutable-backups-on-synology-nas-a-comprehensive-tutorial/"><u>Guide to Immutable Backups on Synology NAS - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-magic-5-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor Magic 5 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-fixing-stutter-and-lag-problems-in-pc-gameplay-of-fall-guys/"><u>Optimizing Performance: Fixing Stutter and Lag Problems in PC Gameplay of Fall Guys</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-back-4-bloods-pc-crash-problems-with-these-expert-fixes-and-optimizations/"><u>Overcome Back 4 Blood's PC Crash Problems with These Expert Fixes and Optimizations</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolution-adjustment-windows-10-display-issue/"><u>Resolution Adjustment: Windows 10 Display Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/roblox-launch-woes-master-these-fixes-for-a-smooth-gaming-experience/"><u>Roblox Launch Woes? Master These Fixes for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-problems-steps-to-get-persona-3-portable-running-smoothly-again/"><u>Solve Your Problems: Steps to Get Persona 3 Portable Running Smoothly Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unexpected-twist-in-cyberpunk-2nk7s-saga-decoding-the-perplexing-error-2024-issue/"><u>Unexpected Twist in Cyberpunk 2Nk7's Saga - Decoding the Perplexing Error 2024 Issue</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Gaming Smoothly on PC with Aliens: Fireteam Elite - How to Stop the Crashes"
-date: 2025-01-13T22:53:51.624Z
-updated: 2025-01-17T23:27:04.315Z
+date: 2025-01-26T21:43:00.257Z
+updated: 2025-01-31T20:58:10.745Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ A screenshot of WWE 2K22 from Steam
 6. **[Disable Steam Overlay](https://tools.techidaily.com/drivereasy/download/)**
 7. [**Fix 7: Disable third-party antivirus software**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Verify the game files
 
  Corrupted game files often lead to gam crashing issues. If you’re not sure if any game files are missing or corrupted on your PC, try verifying the game files.
@@ -51,16 +47,12 @@ Just follow the steps below to verify integrity of game files:
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  After the the verifying process is complete, launch WWE 2K22 to see if it crashes again. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
 
@@ -88,10 +80,6 @@ There’re mainly two ways you can update your graphics drivers:
 
 Or
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -112,10 +100,6 @@ Or
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  You need to restart your PC after you finished updating your graphics driver.
@@ -124,6 +108,10 @@ Or
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Install the latest game patch
 
  The game developers release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -131,6 +119,10 @@ Or
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch WWE 2K22 and see if the game crashing issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Install the latest DirectX files
 
@@ -142,9 +134,18 @@ Or
 2. Click the Download button to start the download.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer and launch the game.
 
  See if WWE 2K22 crashes again after you installed the latest DirectX file. If this fix didn’t work for you, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Stop overclocking
 
@@ -164,11 +165,11 @@ Or
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
-![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
  If you’re using other apps with overlay features (e.g. Discord, Nvidia GeForce Experience, Twitch, etc.), ensure you’ve disabled the in-game overlay in those apps feature.
 
@@ -205,18 +206,24 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-capturing-action-fraps-recorder-insights/"><u>[New] Capturing Action Fraps Recorder Insights</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-efficient-path-to-time-stamped-image-documentation/"><u>[Updated] 2024 Approved The Efficient Path to Time-Stamped Image Documentation</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-revolutionize-your-content-a-step-by-step-guide-to-tiktoks-audio-amplification/"><u>[Updated] In 2024, Revolutionize Your Content A Step-by-Step Guide to TikTok's Audio Amplification</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-picture-in-picture-how-to-use-it-for-youtube/"><u>2024 Approved Understanding Picture In Picture How to Use It for YouTube</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-honor-play-40c-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-the-steam-fatal-error-missing-steamuidll-troubleshooting-guide/"><u>Bypassing The Steam Fatal Error: Missing steamui.dll Troubleshooting Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-for-the-long-awaited-immortals-fenyx-rising-game-now-released/"><u>Fix for the Long-Awaited Immortals Fenyx Rising Game Now Released</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fortnite-launch-glitches-unraveling-and-fixing-entry-point-errors-successfully/"><u>Fortnite Launch Glitches: Unraveling & Fixing Entry Point Errors Successfully</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-costlesscapture-revolutionizing-how-you-record-play/"><u>In 2024, CostlessCapture Revolutionizing How You Record Play</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-tecno-spark-20-proplus-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Tecno Spark 20 Pro+ Phone? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-black-ops-cold-war-resolve-shader-compile-problems-easily/"><u>Troubleshooting Black Ops Cold War: Resolve Shader Compile Problems Easily</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-faster-mobile-data-speed-discover-easy-fixes-in-just-10-steps/"><u>Unlocking Faster Mobile Data Speed - Discover Easy Fixes in Just 10 Steps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-evaluating-macs-leading-snipping-tools-compilation/"><u>[New] Evaluating Mac's Leading Snipping Tools Compilation</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unveiling-the-potential-of-dual-screen-broadcasting-in-facebook-lives/"><u>[New] In 2024, Unveiling the Potential of Dual-Screen Broadcasting in Facebook Lives</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-reels-rhythm-mixing-in-musical-elements/"><u>[Updated] In 2024, Instagram Reels Rhythm Mixing in Musical Elements</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-7-must-try-iphone-vr-experiences-you-cant-miss/"><u>[Updated] Top 7 Must-Try iPhone VR Experiences You Can’t Miss</u></a></li>
+<li><a href="https://program-issues.techidaily.com/apex-legends-2022-update-understanding-and-resolving-the-leaf-error-code/"><u>Apex Legends 2022 Update: Understanding and Resolving the 'Leaf' Error Code</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bid-farewell-to-warframes-freezing-problem-with-these-effective-solutions/"><u>Bid Farewell to Warframe's Freezing Problem with These Effective Solutions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-serp-features-video-pack-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Features - Video Pack</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-comparing-mp4-recorders-the-latest-edition/"><u>In 2024, Comparing MP4 Recorders - The Latest Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-digital-marketing-triumphs/"><u>In 2024, The Ultimate Guide to Digital Marketing Triumphs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-experience-with-dying-light-2-on-pc-solutions-for-improved-fps-and-smooth-graphics/"><u>Optimizing Your Experience with Dying Light 2 on PC: Solutions for Improved FPS & Smooth Graphics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-error-6-in-call-of-duty-modern-warfare-and-diver-wars-on-pc/"><u>Resolved: Fixing Error 6 in Call of Duty Modern Warfare & Diver Wars on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/restoring-game-sounds-overcoming-silence-in-fallout-4-on-desktops-and-laptops/"><u>Restoring Game Sounds: Overcoming Silence in Fallout 4 on Desktops and Laptops</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/revolutionize-your-edits-10-best-fcpx-plugins-for-2024/"><u>Revolutionize Your Edits 10 Best FCPX Plugins for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-path-to-endless-wealth-triumphing-over-challenges-in-the-world-of-like-a-dragon-for-pc/"><u>The Path to Endless Wealth: Triumphing Over Challenges in the World of Like a Dragon for PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-samsung-galaxy-a54-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Samsung Galaxy A54 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fixing-persona-5-strikers-game-crashes-on-pc/"><u>Troubleshooting: Fixing Persona 5 Strikers Game Crashes on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-solving-guilty-gear-strive-pc-game-freezes/"><u>Ultimate Troubleshooting Guide: Solving Guilty Gear Strive PC Game Freezes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wolcen-lords-of-mayhem-release-delayed-updates-and-expectations/"><u>Wolcen: Lords of Mayhem Release Delayed - Updates and Expectations</u></a></li>
 </ul></div>
 

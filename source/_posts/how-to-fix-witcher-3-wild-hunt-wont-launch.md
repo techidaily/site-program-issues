@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Witcher 3: Wild Hunt Won't Launch"
-date: 2025-01-16T02:25:36.744Z
-updated: 2025-01-17T18:32:06.626Z
+date: 2025-01-26T22:12:35.091Z
+updated: 2025-02-01T01:35:50.384Z
 tags:
   - win11
   - win10
@@ -44,6 +44,10 @@ Resident Evil Village is finally out. And like every AAA title, Resident Evil Vi
 3. Toggle the switch to disable the **Enable in-game overlay** option.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-game-overlay-discord.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note: If you want to diable it just for Resident Evil Village, you can go to**Settings** \>**Games** , and togglle**Resident Evil Village** to**Off** .
 
 #### Disabling the GeForce Experience In-Game Overlay
@@ -51,10 +55,6 @@ Resident Evil Village is finally out. And like every AAA title, Resident Evil Vi
 1. From the GeForce Experience app, click the**Settings** icon on the top right corner.
 2. From the**GENERAL** panel, toggle the**SHARE** setting to off.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-off-share.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Disabling Steam Overlay
 
@@ -95,12 +95,16 @@ There’re mainly two ways you can update your graphics drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
@@ -109,6 +113,10 @@ There’re mainly two ways you can update your graphics drivers:
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Verify game integrity on Steam
 
@@ -119,6 +127,10 @@ There’re mainly two ways you can update your graphics drivers:
 2) Right-click your game and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties-steam.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Select the**Local files** tab and click the**Verify integrity of game files…** button.
 
@@ -136,29 +148,21 @@ There’re mainly two ways you can update your graphics drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those that belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech,** and **Intel** . Then click **OK**  to apply the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** +**Shift**  +**Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click **Disable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Launch the game in windowed mode
 
@@ -171,16 +175,12 @@ There’re mainly two ways you can update your graphics drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/properties-steam.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click on the**General** tab and click**SET LAUNCH OPTIONS** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/set-launch-options-edited.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Type or paste`**-windowed -noborder**` .
 
@@ -189,7 +189,7 @@ There’re mainly two ways you can update your graphics drivers:
  Now you can launch your Resident Evil Village to check if the not launching issue has been resolved by now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Run the game as an administrator
@@ -239,22 +239,21 @@ There’re mainly two ways you can update your graphics drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-5-android-games-for-true-ps2-virtual-gaming-adventures-for-2024/"><u>[New] Top 5 Android Games for True PS2 Virtual Gaming Adventures for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-intel-driver-and-support-assistant-not-working-on-pc/"><u>[SOLVED] Intel Driver and Support Assistant Not Working on PC</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-excellent-free-thumbnails-collection-pubg-edition/"><u>[Updated] Excellent Free Thumbnails Collection PUBG Edition</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-essential-tactics-for-gratis-picture-frames-on-screen/"><u>2024 Approved Essential Tactics for Gratis Picture Frames on Screen</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-you-need-to-know-about-the-newly-announced-sony-afeela-release-schedule-and-pricing-details-inside/"><u>All You Need To Know About The Newly Announced Sony Afeela - Release Schedule & Pricing Details Inside!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-the-original-are-there-modern-replacements-for-the-turing-test/"><u>Beyond the Original: Are There Modern Replacements for the Turing Test?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-eliminating-game-glitches-in-persona-5-strikers-on-windows/"><u>Expert Tips for Eliminating Game Glitches in Persona 5 Strikers on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-stop-immortals-fenyx-rising-from-continuously-crashing/"><u>Fixes & Solutions: How to Stop Immortals: Fenyx Rising From Continuously Crashing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Sony Xperia 5 V? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-x-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone X to Computer? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-poco-c55-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Poco C55 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-guide-installing-brother-hl-3170cdw-printer-drivers/"><u>Quick Guide: Installing Brother HL-3170cdw Printer Drivers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixing-the-ntdlldll-blue-screen-errors-in-windows-11-and-windows-10/"><u>Resolved: Fixing the ntdll.dll Blue Screen Errors in Windows 11 & Windows 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-strategy-for-endless-riches-in-dragonia-a-guide-for-computer-users/"><u>The Ultimate Strategy for Endless Riches in Dragonia: A Guide for Computer Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-resolve-ffxiv-pc-game-crashes-effectively/"><u>Troubleshooting Steps to Resolve FFXIV PC Game Crashes Effectively</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-video-card-troubles-in-the-sims-4-for-smooth-gaming-experience/"><u>Troubleshooting Video Card Troubles in The Sims 4 for Smooth Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-is-elden-ring-still-unavailable-investigating-the-delay/"><u>Why Is Elden Ring Still Unavailable? Investigating the Delay</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-steps-to-decline-autoplayed-and-suggested-podcasts-on-spotify/"><u>[New] Steps to Decline Autoplayed and Suggested Podcasts on Spotify</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-goofy-bliss-classic-film-revisited/"><u>2024 Approved Goofy Bliss Classic Film Revisited</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-thriving-as-an-online-gaming-content-creator/"><u>2024 Approved Thriving as an Online Gaming Content Creator</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-transcribe-without-breaking-the-bank-learn-how-with-our-free-guide/"><u>2024 Approved Transcribe Without Breaking the Bank Learn How with Our Free Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/current-status-of-xbox-live-are-there-any-issues-or-downtime-today/"><u>Current Status of Xbox Live: Are There Any Issues or Downtime Today?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-when-msi-afterburner-doesnt-detect-your-gpu-on-recent-windows-versions-windows-1011/"><u>Effective Fixes when MSI Afterburner Doesn't Detect Your GPU on Recent Windows Versions (Windows 10/11)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-patching-up-outpost-armageddons-pc-shutdown-glitches/"><u>Effective Solutions for Patching Up Outpost: Armageddon's PC Shutdown Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-roblox-not-launching-problem-top-tips/"><u>Fixing the Roblox Not Launching Problem – Top Tips</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-asus-rog-phone-7-by-drfone-android/"><u>In 2024, How to Bypass FRP from Asus ROG Phone 7?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/infuse-projects-with-sounds-in-adobe-premiere-pro/"><u>Infuse Projects with Sounds in Adobe Premiere Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-iphones-hdr-photography-techniques/"><u>Mastering iPhone's HDR Photography Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-system-performance-to-reduce-high-cpu-usage-by-god-of-war/"><u>Optimizing System Performance to Reduce High CPU Usage by God of War</u></a></li>
+<li><a href="https://program-issues.techidaily.com/secure-your-scare-how-to-prevent-and-solve-crash-issues-in-fnaf-for-windows-players/"><u>Secure Your Scare: How to Prevent and Solve Crash Issues in FNaF for Windows Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-friends-network-now-accessible-after-troubleshooting-guide-success/"><u>Steam Friend's Network Now Accessible After Troubleshooting Guide Success</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-ideas-into-visuals-using-dall-e-and-chatgpt-4-technology/"><u>Transform Your Ideas Into Visuals Using DALL-E and ChatGPT-4 Technology</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-reaching-a-wider-audience-using-video-translation-in-tamil/"><u>Updated In 2024, Reaching a Wider Audience Using Video Translation in Tamil</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: MSI Dragon Center Woes? Here's How You Can Repair Them in No Time
-date: 2024-12-18T00:40:26.118Z
-updated: 2024-12-19T01:55:13.641Z
+date: 2025-01-29T19:21:12.573Z
+updated: 2025-01-31T22:30:56.062Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 Trying to launch your Rainbow Six Seige but getting server connection errors? Don’t worry. We’ve put together every possible fix for you in our post.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you’re getting a server connection error
@@ -26,10 +26,6 @@ Trying to launch your Rainbow Six Seige but getting server connection errors? Do
  Whether you’re getting random connection errors or specific error codes like 3-0x0001000B, the server issues are on Ubisoft in most cases. But there’s also a small chance that your home connection is causing this server connection error.
 
  First, you can check Rainbow Six Seige’s[live service status](https://rainbow6.ubisoft.com/status/) . If the servers look fine, but you’re getting this connection error, you can try the following fixes to solve the problem by yourself.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -44,6 +40,10 @@ Trying to launch your Rainbow Six Seige but getting server connection errors? Do
 7. **[Enable UPnP](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Forward ports](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Verify the integrity of game files
 
@@ -73,10 +73,6 @@ Trying to launch your Rainbow Six Seige but getting server connection errors? Do
 
  We recommend using a cabled connection whenever possible. Although Wi-Fi is convenient, it’s not the most stable connection type.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Allow your game through Windows Firewall
 
  The server connection error in Rain Six Seige might be associated with your Windows Firewall. To see if the firewall is blocking your game, please follow these steps:
@@ -86,20 +82,16 @@ Trying to launch your Rainbow Six Seige but getting server connection errors? Do
 ![Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/Windows-firewall.jpg)
 3. On the left pane, click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-app.jpg)
 4. Make sure your Rainbow Six Seige is on the list, and also make sure it’s ticked for **Private** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. If you don’t find Rainbow Six Seige, click **Change settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/change-settings.jpg)
 6. Click **Allow another app…**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-another-app.jpg)
 7. Add Rainbow Six Seige executable file and click**OK** to apply the changes.
@@ -123,17 +115,22 @@ There are two ways for you to update the driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-network-adapter-driver.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get full support and a 30-day money back guarantee).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Flush DNS and renew your IP
 
@@ -144,10 +141,6 @@ There are two ways for you to update the driver:
 2. Type the command line **`ipconfig /flushdns`**  and press **Enter**  on your keyboard.  
 ![flush dns cache](https://images.drivereasy.com/wp-content/uploads/2021/01/flush-dns.jpg)
 3. To renew your IP, please type the following two command lines separately and press**Enter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Command-line 1: ipconfig /release  
  Command-line 2:**`ipconfig /renew`**  
@@ -164,14 +157,19 @@ There are two ways for you to update the driver:
 ![network connections](https://images.drivereasy.com/wp-content/uploads/2021/01/network-connections.jpg)
 3. Right-click your current network and click **Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![properties](https://images.drivereasy.com/wp-content/uploads/2021/01/network-properties.jpg)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)**  to view its properties.  
-![Internet Protocol Version 4(TCP/IPv4](https://images.drivereasy.com/wp-content/uploads/2021/01/double-click.jpg)
-5. Make sure you check the option**Obtain an IP address automatically** (the default setting).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Internet Protocol Version 4(TCP/IPv4](https://images.drivereasy.com/wp-content/uploads/2021/01/double-click.jpg)
+5. Make sure you check the option**Obtain an IP address automatically** (the default setting).
 
 6. Select**Use the following DNS server addresses** , and enter the following addresses:  
 
@@ -180,10 +178,6 @@ There are two ways for you to update the driver:
 
 ![Use the following DNS server addresses](https://images.drivereasy.com/wp-content/uploads/2021/01/addresses.jpg)  
  (You can press the Spacebar to move to the next number, and press Tab to move to the next line.)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Click**OK** to apply the changes.
 8. Launch your game to see if this issue has been resolved.
@@ -198,6 +192,10 @@ There are two ways for you to update the driver:
 
  Once UPnP has been enabled on your computer, try launching your game again to test the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 8: Forward ports
 
  Your router comes preconfigured with a few ports open to let you access the Internet, but some ports are closed tight. To run a game server, you will need to open another port, which is called Port Forwarding. Here’s how:
@@ -210,11 +208,20 @@ There are two ways for you to update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/default-gateway.jpg)
 4. Login to your router via the default gateway address (paste the address in the browser URL search bar).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Enter your router credentials into the login page.  
 
  _This requires you to sign in with the**default settings** (check the bottom of your router or its manual for a default username and password) or the**custom username and password** you previously set up. You can check the most common credentials below:_  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/passwords.jpg)  
 _**Note:** Some routers cannot be accessed via a browser but require a dedicated router app._
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Locate the port forwarding settings. Typically this will be under **Advanced**  and then **Port Forwarding** or **Virtual Server** .
 7. For the **Protocol**  fields, you will need to select or input **UDP, TCP,**  or **Both.**  
 
@@ -229,10 +236,6 @@ _**Note:** Some routers cannot be accessed via a browser but require a dedicated
 8. For the **Local IP**  fields, you will need to input the **IPv4 address** that you obtained earlier.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/IPV4.jpg)
 9. After adding all of your desired ports, you can**Save** or**Apply** the changes that you have made.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 9: Perform a clean boot
 
@@ -266,17 +269,16 @@ _**Note:** Some routers cannot be accessed via a browser but require a dedicated
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/approved-avoiding-common-pitfalls-in-youtube-sponsorships-according-to-famebit/"><u>2024 Approved Avoiding Common Pitfalls in YouTube Sponsorships, According to FameBit</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-from-purchase-to-use-installing-vrecord/"><u>2024 Approved From Purchase to Use Installing VRecord</u></a></li>
-<li><a href="https://program-issues.techidaily.com/alan-wake-sequel-delayed-heres-your-step-by-step-fix-guide/"><u>Alan Wake Sequel Delayed? Here's Your Step-by-Step Fix Guide!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722997393249-comprehensive-steps-to-stop-risk-of-rain-2-from-freezing-or-crashing-on-your-pc-and-console/"><u>Comprehensive Steps To Stop Risk of Rain 2 From Freezing or Crashing on Your PC & Console</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-installation-of-brother-l2540dw-printer-software-on-your-windows-device-get-it-here-now/"><u>Easy Installation of Brother L2540DW Printer Software on Your Windows Device - Get It Here Now!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-star-wars-jedi-fallen-order-installation-problems-expert-tips-and-solutions/"><u>Fix Your Star Wars Jedi: Fallen Order Installation Problems - Expert Tips and Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-screen-mirroring-tips-to-fix-miracast-rejected-by-device/"><u>Mastering Screen Mirroring: Tips to Fix 'Miracast Rejected by Device'</u></a></li>
-<li><a href="https://techtrends.techidaily.com/strategies-to-repair-and-recover-from-critical-ntldr-issues-in-windows-systems/"><u>Strategies to Repair and Recover From Critical NTLDR Issues in Windows Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tackling-the-issue-of-heavy-cpu-demands-on-your-gameplay-god-of-war-edition/"><u>Tackling the Issue of Heavy CPU Demands on Your Gameplay - God of War Edition</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-all-inclusive-omnicharge-omni-20-power-bank-portable-charging-with-qi-wireless-features-unveiled/"><u>The All-Inclusive Omnicharge Omni 20 Power Bank: Portable Charging with Qi Wireless Features Unveiled</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-roblox-windows-errors-swift-fixes-to-get-you-back-in-the-game-updated/"><u>Troubleshooting Roblox Windows Errors: Swift Fixes to Get You Back in the Game - Updated</u></a></li>
-<li><a href="https://techidaily.com/what-can-you-do-with-face-id-on-iphone-se-2020-by-drfone-ios-unlock-ios-unlock/"><u>What can you do with Face ID on iPhone SE (2020)?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guidelines-for-selecting-an-engaging-movie-trailer-song/"><u>[New] Guidelines for Selecting an Engaging Movie Trailer Song</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-navigating-through-your-new-laptops-m1-max-clips/"><u>[New] Navigating Through Your New Laptop's M1 Max Clips</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-echocam-grabber-for-video-calls-for-2024/"><u>[Updated] EchoCam Grabber for Video Calls for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-secrets-of-asmr-success-with-top-recorder-mics/"><u>[Updated] Secrets of ASMR Success with Top Recorder Mics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-fixes-for-players-experiencing-new-world-connection-errors/"><u>Comprehensive Fixes for Players Experiencing New World Connection Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-non-responsive-start-button-on-windows-10-easy-solutions/"><u>Fixing the Non-Responsive Start Button on Windows 10 - Easy Solutions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-artisans-guide-to-chromatic-mastery/"><u>In 2024, The Artisan's Guide to Chromatic Mastery</u></a></li>
+<li><a href="https://program-issues.techidaily.com/in-depth-techniques-for-fixing-games-that-keep-freezing-or-crashing-updated/"><u>In-Depth Techniques for Fixing Games That Keep Freezing or Crashing (Updated )</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/instant-collage-creation-tips-for-social-media-posts-for-2024/"><u>Instant Collage Creation Tips for Social Media Posts for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007368022-troubleshooting-success-now-you-can-start-team-fortress-2-without-hiccups/"><u>Troubleshooting Success! Now You Can Start Team Fortress 2 Without Hiccups</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-6-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 6 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
 </ul></div>
 

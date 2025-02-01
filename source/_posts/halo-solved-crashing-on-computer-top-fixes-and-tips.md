@@ -1,7 +1,7 @@
 ---
 title: Halo ([Solved] Crashing on Computer - Top Fixes and Tips
-date: 2025-01-18T06:03:14.866Z
-updated: 2025-01-24T15:26:27.233Z
+date: 2025-01-29T01:16:24.255Z
+updated: 2025-02-01T00:49:31.865Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Games crashes are not something uncommon. And you might encounter the same issue
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -37,6 +37,10 @@ Games crashes are not something uncommon. And you might encounter the same issue
 5. [Run Halo 3 as an administrator](https://tools.techidaily.com/drivereasy/download/)
 6. [Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)
 7. [Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Before getting started
 
@@ -54,7 +58,7 @@ _Halo 3 Minimum System Requirements_
  If your computer meets these requirements but still Halo 3 doesn’t launch properly, try the methods below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Stop apps from running in the background
@@ -65,13 +69,13 @@ _Halo 3 Minimum System Requirements_
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![open settings](https://images.drivereasy.com/wp-content/uploads/2020/08/start-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Privacy** .  
@@ -89,7 +93,7 @@ _Halo 3 Minimum System Requirements_
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  OR  
@@ -102,10 +106,6 @@ _Halo 3 Minimum System Requirements_
  After you free up disk space on your computer by disabling some apps from running in the background and still it doesn’t fix the problem of the game crashing, then don’t worry, there are a few other fixes you can try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Temporarily disable antivirus software
 
@@ -161,13 +161,17 @@ To do so:
 
 ![msconfig open task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select the**Services** tab.  
  Then click**Hide all Microsoft services** and click**Disable all** .
 
 ![hide all Microsoft services; disable all](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) In the same window, select the**Startup** tab and then click**Open Task Manager** .  
@@ -193,14 +197,14 @@ To do so:
 ![open as an administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-Properties.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the**Compatibility** tab and click**Run this program as an administrator** . Click**Apply** and**OK** .  
   
 ![run as administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-compatability.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the directory where you installed Halo 3, and run the**.exe** file as administrator as well.  
   
@@ -217,10 +221,6 @@ To do so:
  So if there is a patch available, download and install it, then run the game again to check if the problem is solved. If it isn’t, or there is no new patch available, then move on to Fix 7.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Verify the integrity of game files
 
@@ -269,20 +269,20 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-content-with-insightful-channel-descriptions-for-2024/"><u>[New] Elevate Your Content with Insightful Channel Descriptions for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-enhancing-media-creation-skills-with-windows-movie-maker-windows-8-edition-for-2024/"><u>[Updated] Enhancing Media Creation Skills with Windows Movie Maker (Windows 8 Edition) for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-leading-linux-editors-top-8-video-cutters/"><u>[Updated] In 2024, Leading Linux Editors Top 8 Video Cutters</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-blackout-effective-fixes-to-kickstart-your-overwatch-adventure-without-a-hitch/"><u>Beat the Blackout: Effective Fixes to Kickstart Your Overwatch Adventure Without a Hitch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-solutions-for-steelseries-gg-mouse-engine-malfunctioning-under-windows-os/"><u>Comprehensive Solutions for SteelSeries GG Mouse Engine Malfunctioning Under Windows OS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cyberpunk-2077s-latest-glitch-understanding-the-impact-of-error-2024/"><u>Cyberpunk 2077'S Latest Glitch: Understanding the Impact of Error 2024!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/efficient-driver-downloads-for-your-dell-latitude-e6-420-get-them-fast/"><u>Efficient Driver Downloads for Your Dell Latitude E6 420 - Get Them Fast</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-why-god-of-war-continuously-crashes-on-your-pc/"><u>Fixing the Issue: Why God of War Continuously Crashes on Your PC</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-14-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 14 Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revive-the-sounds-of-dying-light-top-tricks-to-overcome-sound-malfunctions/"><u>Revive the Sounds of Dying Light - Top Tricks to Overcome Sound Malfunctions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-your-discord-crash-issues-effective-strategies-and-tips/"><u>Solve Your Discord Crash Issues: Effective Strategies and Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-finding-a-suitable-surge-protector-for-all-devices/"><u>The Ultimate Guide to Finding a Suitable Surge Protector for All Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-fixing-discord-not-starting-up/"><u>Troubleshooting Steps for Fixing 'Discord Not Starting Up'</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-motorola-moto-g04-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Motorola Moto G04 Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upcoming-release-everything-you-need-to-know-about-the-next-generation-of-apple-airpods-find-out-when-theyre-launched-and-how-to-secure-your-order/"><u>Upcoming Release: Everything You Need to Know About the Next Generation of Apple AirPods - Find Out When They're Launched & How To Secure Your Order</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-pitch-perfect-a-handbook-to-modifying-sound-on-ig-media/"><u>[New] 2024 Approved Pitch Perfect A Handbook to Modifying Sound on IG Media</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-finding-the-right-sound-top-asmrists-advice/"><u>[New] Finding the Right Sound Top ASMRists Advice</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-effective-techniques-to-archive-vimeo-content-for-2024/"><u>[Updated] Effective Techniques to Archive Vimeo Content for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-compatibility-errors-with-rainbow-six-operation-guide-to-finding-the-right-drivers/"><u>Addressing Compatibility Errors with Rainbow Six Operation: Guide to Finding the Right Drivers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/capitalize-on-prime-day-sales-find-the-finest-offers-on-benq-monitors-and-projection-equipment/"><u>Capitalize on Prime Day Sales: Find the Finest Offers on BenQ Monitors & Projection Equipment</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-easily-fix-the-connection-timed-out-hurdle-during-download/"><u>How to Easily Fix the 'Connection Timed Out' Hurdle During Download</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-persistent-crashes-of-prey-2-stalkers-of-the-shadow-world-on-desktop-systems/"><u>How to Resolve Persistent Crashes of 'Prey 2: Stalkers of The Shadow World' On Desktop Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-to-spot-the-best-for-gaming-notebooks/"><u>How to Spot the Best for Gaming Notebooks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-dreamlight-valleys-pc-crashing-problem-discover-6-reliable-fixes/"><u>Overcoming Dreamlight Valley's PC Crashing Problem: Discover 6 Reliable Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-voice-chat-interruptions-correcting-the-content-warning-fault/"><u>Overcoming Voice Chat Interruptions: Correcting the Content Warning Fault</u></a></li>
+<li><a href="https://program-issues.techidaily.com/red-dead-redemption-2-visual-bug-tutorial-defeating-the-notorious-errgfxstate-error/"><u>Red Dead Redemption 2 Visual Bug Tutorial - Defeating the Notorious ERR_GFX_STATE Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/screen-mirroring-simplified-connect-your-devices-to-an-lg-smart-tv-seamlessly/"><u>Screen Mirroring Simplified: Connect Your Devices to an LG Smart TV Seamlessly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-your-league-of-legends-network-troubles-a-comprehensive-guide/"><u>Solving Your League of Legends Network Troubles - A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-up-your-language-game-top-15-tools-to-turn-videos-into-universal-text-for-2024/"><u>Step Up Your Language Game Top 15 Tools to Turn Videos Into Universal Text for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-battle-of-brightness-and-black-levels-neo-qled-versus-oled-tvs-explained/"><u>The Battle of Brightness and Black Levels: Neo QLED Versus OLED TVs Explained</u></a></li>
 </ul></div>
 

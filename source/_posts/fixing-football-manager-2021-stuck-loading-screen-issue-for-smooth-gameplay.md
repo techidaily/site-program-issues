@@ -1,7 +1,7 @@
 ---
 title: Fixing Football Manager 2021 Stuck Loading Screen Issue for Smooth Gameplay
-date: 2024-12-12T21:16:55.111Z
-updated: 2024-12-18T21:56:18.762Z
+date: 2025-01-28T20:36:10.110Z
+updated: 2025-01-31T22:44:03.479Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/11d274002008b97bfeab4af21f1e5bf87fd22521b
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Install the latest game patch
 
  The developers of Forza Horizon 5 releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -42,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/11d274002008b97bfeab4af21f1e5bf87fd22521b
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Forza Horizon 5 to see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -86,7 +86,7 @@ There are mainly two methods for you to update the graphics driver:
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
@@ -107,7 +107,7 @@ There are mainly two methods for you to update the graphics driver:
 If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Modify graphics card settings
@@ -148,19 +148,19 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Run Forza Horizon 5 again after you disabled all the in-game overlays and check if Forza Horizon 5 fps drops. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
 
@@ -172,12 +172,12 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
@@ -205,20 +205,19 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-discover-the-prime-lineup-of-affordable-cutting-tools/"><u>[New] Discover the Prime Lineup of Affordable Cutting Tools</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-from-unverified-beginnings-to-high-flying-fame-on-instagram-unveil-the-6-keys-for-2024/"><u>[New] From Unverified Beginnings to High-Flying Fame on Instagram Unveil the 6 Keys for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-expert-conversion-youtube-to-written-format-for-2024/"><u>[Updated] Expert Conversion YouTube to Written Format for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-leveraging-social-media-insights-in-market-research/"><u>[Updated] Leveraging Social Media Insights in Market Research</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-universalstream-2024-live-and-local-together/"><u>[Updated] UniversalStream 2024 Live & Local, Together</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-analytics-mastery-measuring-success-on-your-instagram-videos/"><u>2024 Approved Analytics Mastery Measuring Success on Your Instagram Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/age-of-empires-2021-release-addressing-not-launching-problems-and-solutions/"><u>Age of Empires 2021 Release - Addressing Not-Launching Problems and Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-helldivers-ii-solutions-for-the-notorious-black-screen-issue-at-startup/"><u>Fixing Helldivers II: Solutions for the Notorious Black Screen Issue at Startup</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-stabilize-dragon-age-origins-and-eliminate-windows-10-interference/"><u>Guide to Stabilize Dragon Age: Origins and Eliminate Windows 10 Interference</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-infinix-note-30-vip-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Infinix Note 30 VIP</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-freezes-solve-your-jurasseback-world-evolution-crash-problems-now/"><u>No More Freezes - Solve Your Jurasseback-World Evolution Crash Problems Now!</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/oh-darlings-latest-offering-unlimited-karaoke-stream-new-tracks-from-11-18-19-available-now-subscribe-today-for-a-melodic-journey-with-pcdj-technology/"><u>Oh! Darling's Latest Offering: Unlimited Karaoke Stream, New Tracks From 11-18-19 Available Now – Subscribe Today for a Melodic Journey with PCDJ Technology</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723001697353-stop-guilty-gear-strive-from-crashing-on-your-pc-essential-fixes-revealed/"><u>Stop Guilty Gear Strive From Crashing on Your PC - Essential Fixes Revealed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-fixing-call-of-duty-warzone-lag-and-hitches/"><u>Troubleshooting Steps for Fixing Call of Duty Warzone Lag and Hitches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-overcoming-discord-display-issues-when-sharing-your-screen/"><u>Ultimate Guide to Overcoming Discord Display Issues When Sharing Your Screen</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-how-to-shoot-a-green-screen-video-must-know-tips-and-tricks/"><u>[New] In 2024, How to Shoot a Green Screen Video [Must Know Tips & Tricks]</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-2023s-largest-threaded-video-compilation/"><u>[Updated] 2024 Approved 2023'S Largest Threaded Video Compilation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-instant-recovery-of-vanished-reddit-topics/"><u>[Updated] Instant Recovery of Vanished Reddit Topics</u></a></li>
+<li><a href="https://article-files.techidaily.com/a-photographers-journey-to-jaw-dropping-colors-for-2024/"><u>A Photographer's Journey to Jaw-Dropping Colors for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-the-persistent-black-screen-problem-in-rainbow-six-siege-pc/"><u>Effective Solutions for the Persistent Black Screen Problem in Rainbow Six Siege (PC)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-farm-management-strategy-with-improved-fps-in-farming-simulator-narrator-22-on-pc/"><u>Enhance Your Farm Management Strategy with Improved FPS in Farming Simulator Narrator 22 on PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-xiaomi-redmi-k70-pro-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-essentials-in-livestreaming-platform-selection/"><u>In 2024, Top 10 Essentials in Livestreaming Platform Selection</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-high-performance-solving-fallout-76s-low-frame-rate-issue/"><u>Master the Art of High Performance: Solving Fallout 76'S Low Frame Rate Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-repair-of-issues-with-nwstoreexe-errors/"><u>Mastering the Repair of Issues with NW_Store.EXE Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-resolving-issues-with-voice-chat-in-among-us-on-windows/"><u>Troubleshooting Steps for Resolving Issues with Voice Chat in Among Us on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-fix-ac-odyssey-lag-and-crashes-expert-tips-revealed/"><u>Troubleshooting Steps to Fix AC Odyssey Lag and Crashes - Expert Tips Revealed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-full-functionality-of-geforce-experience-fixing-the-no-recording-dilemma-for-windows-users/"><u>Unlock Full Functionality of GeForce Experience: Fixing the No-Recording Dilemma for Windows Users</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-ultimate-gif-speed-controllers-online-ios-and-android/"><u>Updated In 2024, The Ultimate GIF Speed Controllers Online, iOS, and Android</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Game Interruptions: Resolving Persistent Kicks in Genshin Impact PC Version"
-date: 2024-12-15T00:16:24.622Z
-updated: 2024-12-18T23:02:01.225Z
+date: 2025-01-29T23:35:45.239Z
+updated: 2025-01-31T16:05:04.452Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/a8f5e8f2d61f7d24178d3fc6463600a5991de5722
 
  If you happen to be one of them, don’t worry. Here’re some working fixes that could bring back your game without frying your graphics card.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the charm.
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/a8f5e8f2d61f7d24178d3fc6463600a5991de5722
 5. [**Increase your virtual memory**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Delete specific game files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify the integrity of game files
 
  AAA titles tend to be large, and they’re likely to crash when there’re missing or corrupted game files. To make sure the data is intact and up to date, you need to**verify the integrity of your game files** .
@@ -48,10 +40,18 @@ thumbnail: https://thmb.techidaily.com/a8f5e8f2d61f7d24178d3fc6463600a5991de5722
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-3.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it crashes again.
 
 If the problem persists, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -92,15 +92,15 @@ Here’s how you can check for updates manually:
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the updates, restart your PC and check if New World crashes again.
 
 If your system is already up to date, you can try the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Change in-game graphics settings
 
@@ -113,16 +113,12 @@ If your system is already up to date, you can try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now you can play and check if the crash stops.
 
  If changing graphics settings doesn’t give you luck, continue to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Increase your virtual memory
 
@@ -133,7 +129,7 @@ Now you can play and check if the crash stops.
 2. Under the **Performance**  section, click **Settings…** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
@@ -142,17 +138,21 @@ Now you can play and check if the crash stops.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select **Customize size** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer and check if New World crashes again.
 
  If this trick doesn’t do the trick for you, take a look at the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Delete specific game files
 
@@ -165,7 +165,7 @@ Now you can play and check if the crash stops.
 2. Go to**AGS > New World** and delete the following:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
    * The**savedata** folder  
@@ -191,20 +191,22 @@ Now you can play and check if the crash stops.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ow-to-edit-youtube-videos-in-finalcut-pro/"><u>[New] How to Edit YouTube Videos in Finalcut Pro</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-comprehensively-reviewing-youtubes-restrictions-vs-cc-flexibility-for-2024/"><u>[Updated] Comprehensively Reviewing YouTube's Restrictions Vs. CC Flexibility for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-master-the-art-of-youtube-visibility-two-steps-for-2024/"><u>[Updated] Master the Art of YouTube Visibility (Two Steps) for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-transform-footage-into-stunning-ig-images/"><u>[Updated] Transform Footage Into Stunning IG Images</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-ideal-obs-parameters-for-economical-pcs/"><u>2024 Approved Ideal OBS Parameters for Economical PCs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/adobe-after-effects-troubleshooting-guide-how-to-fix-crashes-in-windows-11-and-10/"><u>Adobe After Effects Troubleshooting Guide: How to Fix Crashes in Windows 11 & 10</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ambient-weathers-wifi-station-ws-1-002-a-comprehensive-review-of-quality-justifying-its-cost/"><u>Ambient Weather's WiFi Station WS-1 002: A Comprehensive Review of Quality Justifying Its Cost</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/budget-friendly-laptop-ventilation-solutions-a-deep-dive-into-the-topmate-c302-pad-review/"><u>Budget-Friendly Laptop Ventilation Solutions: A Deep Dive Into the TopMate C302 Pad Review</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-troubleshooting-of-missing-msvcr110dll-in-helldivers-2/"><u>Comprehensive Troubleshooting of Missing MSVCR110.DLL in Helldivers 2</u></a></li>
-<li><a href="https://program-issues.techidaily.com/destiny-2-graphics-failed-to-initialize-solved/"><u>Destiny 2 Graphics Failed to Initialize [SOLVED]</u></a></li>
-<li><a href="https://program-issues.techidaily.com/far-cry-5-wont-start-unstick-yourself-from-this-tiresome-load-screen-problem/"><u>Far Cry 5 Won’t Start? Unstick Yourself From This Tiresome Load Screen Problem</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/perfect-kid-friendly-movies-on-disney-plus-july-lineup/"><u>Perfect Kid-Friendly Movies on Disney Plus - July Lineup</u></a></li>
-<li><a href="https://program-issues.techidaily.com/persistent-problem-getting-hitman-3-up-and-running-on-your-computer/"><u>Persistent Problem: Getting Hitman 3 Up and Running on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/upgrade-your-outriders-view-effective-fixes-for-blurred-graphics/"><u>Upgrade Your Outriders View: Effective Fixes for Blurred Graphics</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722992952075-windows-11-taskbar-issues-heres-how-you-can-fix-it-easily/"><u>Windows 11 Taskbar Issues? Here's How You Can Fix It Easily.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-total-capture-trio-setup/"><u>[New] Total Capture Trio Setup</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ransform-your-asmr-experience-into-proficiently-produced-videos-for-2024/"><u>[New] Transform Your ASMR Experience Into Proficiently Produced Videos for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/20-freepaid-luts-for-dji-mini-2air-2s-drone-for-2024/"><u>20 Free/Paid LUTS for DJI Mini 2/Air 2S Drone for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-best-in-class-iphone-and-android-video-enhancers/"><u>2024 Approved Best-In-Class iPhone and Android Video Enhancers</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/effiziente-migration-von-apps-mit-windows-ebene-11-auf-andere-computer/"><u>Effiziente Migration Von Apps Mit Windows Ebene 11 Auf Andere Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-fixes-for-major-development-glitches-in-call-of-duty-mw-and-black-ops-cold-war/"><u>Expert Fixes for Major Development Glitches in Call of Duty: MW & Black Ops Cold War</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-glitch-in-chivalry-2-how-its-done-and-lessons-learned/"><u>Fixing the Glitch in Chivalry 2 - How It's Done & Lessons Learned</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/how-to-permanently-restore-deleted-files-on-windows-11-with-methods-by-modi/"><u>How to Permanently Restore Deleted Files on Windows 11 with Methods by Modi</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-iphone-14-pro-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your iPhone 14 Pro without Security Questions?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-deal-final-cut-pro-at-a-fraction-of-the-cost-for-students/"><u>New 2024 Approved The Ultimate Deal Final Cut Pro at a Fraction of the Cost for Students</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722867479048-overcome-pairing-challenges-with-your-apple-watch-using-these-easy-fix-steps/"><u>Overcome Pairing Challenges with Your Apple Watch Using These Easy Fix Steps!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-fixes-implemented-for-crusader-kings-iii-crashes/"><u>PC Gaming: Fixes Implemented for Crusader Kings III Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-cyberpunk-2077-fails-to-utilize-graphics-processing-unit-gpu-on-windows-10-systems/"><u>Resolved: Cyberpunk 2077 Fails To Utilize Graphics Processing Unit (GPU) On Windows 10 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tackling-continuous-freezes-resolving-watch-dogs-legion-malfunctions-for-windows-users/"><u>Tackling Continuous Freezes - Resolving 'Watch Dogs: Legion' Malfunctions for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-blender-pc-issues-avoid-unwanted-shutdowns-and-stabilize-your-experience/"><u>Troubleshooting Blender PC Issues: Avoid Unwanted Shutdowns and Stabilize Your Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-robocop-legacy-rogue-city-game-crashes-on-windows/"><u>Troubleshooting Tips: Resolving Issues with RoboCop: Legacy – Rogue City Game Crashes on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-the-battle-against-fortnite-pc-crashes-proven-fix-for-2ebuary-2024/"><u>Winning the Battle Against Fortnite PC Crashes - Proven Fix for 2Ebuary, 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Division 2 Won't Start? Top Strategies to Get Gaming This Year!
-date: 2025-01-16T20:04:14.330Z
-updated: 2025-01-18T05:30:34.062Z
+date: 2025-01-28T17:02:27.815Z
+updated: 2025-01-31T22:42:31.607Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Update your graphics driver
@@ -53,13 +53,13 @@ The outdated or broken graphics driver often crashes the game.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
@@ -71,17 +71,9 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -91,6 +83,10 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -99,7 +95,15 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
@@ -111,10 +115,6 @@ The outdated or broken graphics driver often crashes the game.
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `-useallavailablecores -high`
 
@@ -150,19 +150,15 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-scripting-your-storys-visual-heartbeat-at-home/"><u>[New] 2024 Approved Scripting Your Story's Visual Heartbeat at Home</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-following-paths-those-whove-left-instagram/"><u>[New] Following Paths Those Who've Left Instagram</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-how-instagram-algorithm-update-will-affect-you/"><u>[Updated] 2024 Approved How Instagram Algorithm Update Will Affect You</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-becoming-a-professional-editor-mastering-final-cut-pro-for-2024/"><u>[Updated] Becoming a Professional Editor Mastering Final Cut Pro for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-explore-twitter-videos-in-high-fidelity-format-for-2024/"><u>[Updated] Explore Twitter Videos in High Fidelity Format for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-subscribe-like-a-pro-true-or-false/"><u>[Updated] In 2024, Subscribe Like a Pro True or False?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-experts-handbook-for-voice-alteration-via-morphvox/"><u>[Updated] The Ultimate Expert's Handbook for Voice Alteration via MorphVOX</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-getting-tekken-8-up-and-running-on-your-computer-again/"><u>Expert Tips: Getting 'Tekken 8' Up and Running on Your Computer Again</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-vivo-x100-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Vivo X100 Pro Phone?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-realme-narzo-n53-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Realme Narzo N53 online without jailbreak</u></a></li>
-<li><a href="https://program-issues.techidaily.com/lost-ark-not-starting-top-2024-fixes-for-common-errors/"><u>Lost Ark Not Starting? Top 2024 Fixes for Common Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maximize-your-fps-in-call-of-duty-warzone-by-unlocking-gpu-utilization-on-windows-10-computers/"><u>Maximize Your FPS in Call of Duty: Warzone by Unlocking GPU Utilization on Windows 10 Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gaming-fixes-overcoming-outpost-infinity-siege-freezing-issues/"><u>PC Gaming Fixes: Overcoming Outpost: Infinity Siege Freezing Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-phasmophobia-games-excessive-cpu-drain-a-step-by-step-guide/"><u>Solving the Phasmophobia Game's Excessive CPU Drain: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-virtual-veracity-versus-physical-prowess-in-live-links/"><u>[Updated] 2024 Approved Virtual Veracity Versus Physical Prowess in Live Links</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-premier-apple-products-mimicking-old-ps2-games/"><u>[Updated] In 2024, Premier Apple Products Mimicking Old PS2 Games</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-12-proipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 12 Pro/iPad | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-stop-valorant-from-continuously-crashing-on-your-pc/"><u>Fixing the Issue: How to Stop Valorant From Continuously Crashing on Your PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-realme-gt-neo-5-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Realme GT Neo 5 Through Google Earth?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/increase-your-channels-reach-with-these-2-tricks-for-2024/"><u>Increase Your Channel's Reach with These 2 Tricks for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-launch-errors-in-hitman-3-for-personal-computers/"><u>Overcoming Launch Errors in Hitman 3 for Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revamp-crashy-connections-in-granblue-fantasy-for-windows-expert-link-fix-techniques/"><u>Revamp Crashy Connections in Granblue Fantasy for Windows – Expert Link Fix Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-strategies-when-intel-systemgraphics-driver-utility-fails-on-desktop/"><u>Solution Strategies When Intel System/Graphics Driver Utility Fails on Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailor-windows-11-task-manager-interface-elements/"><u>Tailor Windows 11 Task Manager Interface Elements</u></a></li>
 </ul></div>
 

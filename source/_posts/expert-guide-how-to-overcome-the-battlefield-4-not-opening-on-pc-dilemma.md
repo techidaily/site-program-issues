@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: How to Overcome the 'Battlefield 4 Not Opening on PC' Dilemma"
-date: 2025-01-13T23:15:14.506Z
-updated: 2025-01-18T02:24:58.329Z
+date: 2025-01-26T21:12:06.762Z
+updated: 2025-01-31T16:45:17.022Z
 tags:
   - win11
   - win10
@@ -44,10 +44,14 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 4. Navigate to the**Compatibility** tab. Then, check**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Switch to DirectX 11
@@ -59,17 +63,9 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-4.jpg)
 3. Open the**settings** folder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Right-click the**PROSAVE\_profile** file and click**Open with** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-7.jpg)
 5. Select**Notepad** or other similar editing tools.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Press**Ctrl** and**F** on your keyboard to open the search box. Then, type**Dx12Enabled** and press**Enter** .
 7. Once you’ve located Dx12Enabled, change the value from**1** to**0** .  
@@ -95,11 +91,15 @@ To update your graphics driver, here are two safe ways for you:
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -117,10 +117,14 @@ To update your graphics driver, here are two safe ways for you:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Relaunch the game to test this method. If it doesn’t help, continue to the next one below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Disable cloud storage
@@ -133,7 +137,7 @@ To update your graphics driver, here are two safe ways for you:
 3. Navigate to the**Installs & Saves** tab, and then toggle off**Saves** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-3.jpg)
@@ -151,10 +155,6 @@ To update your graphics driver, here are two safe ways for you:
 2. Select**My Game Library** on the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-1.jpg)
 3. Right-click the**Battlefield 5** tile from the list, and click**Uninstall** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-2.jpg)
 
@@ -183,18 +183,21 @@ To update your graphics driver, here are two safe ways for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-iphone-cinematography-guide-8-insider-secrets-to-professional-video-creation/"><u>[New] IPhone Cinematography Guide 8 Insider Secrets to Professional Video Creation</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-expert-voice-editing-software-for-video-content-makers/"><u>[Updated] 2024 Approved Expert Voice Editing Software for Video Content Makers</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-effortless-media-transfer-chrome-to-tiktok-across-all-platforms/"><u>[Updated] Effortless Media Transfer Chrome to TikTok Across All Platforms</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-superior-top-ten-nintendo-switch-combat-games-max-156/"><u>[Updated] Superior Top Ten Nintendo Switch Combat Games (Max 156)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-duty-enthusiasts-guide-to-defeating-error-code-4128-in-world-war-ii-campaign-mode/"><u>Call of Duty Enthusiasts' Guide to Defeating Error Code ^4128 in World War II Campaign Mode</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723009130806-diablo-3-stability-issues-resolved-no-more-unexpected-shutdowns/"><u>Diablo 3 Stability Issues Resolved - No More Unexpected Shutdowns!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enjoy-these-10-fantastic-no-cost-substitutes-to-your-favorite-netflix/"><u>Enjoy These 10 Fantastic No-Cost Substitutes to Your Favorite: Netflix</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/game-jams-and-indie-project-highlights/"><u>Game Jams and Indie Project Highlights</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-nox-player-glitches-a-step-by-step-fix-for-constant-app-failures-on-desktops/"><u>No More Nox Player Glitches - A Step-by-Step Fix for Constant App Failures on Desktops</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-performance-hitches-for-a-smoother-playthrough-of-dying-light-fps/"><u>Overcoming Performance Hitches for a Smoother Playthrough of Dying Light FPS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/precision-capturing-with-apowersofts-latest-screenshot-tool-for-2024/"><u>Precision Capturing with Apowersoft's Latest Screenshot Tool for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/roblox-pc-woes-decode-the-error-277-issue-with-our-latest-2024-fix-guide/"><u>Roblox PC Woes? Decode the Error 277 Issue with Our Latest 2024 Fix Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/slash-the-size-of-oversized-drafts-with-easy-edit-tactics/"><u>Slash the Size of Oversized Drafts with Easy Edit Tactics</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-crafting-cinematic-stories-in-extended-seconds-a-guide-to-creating-spectacularly-long-lasting-video-from-still-images-online/"><u>[New] Crafting Cinematic Stories in Extended Seconds A Guide to Creating Spectacularly Long Lasting Video From Still Images Online</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-effortless-production-of-fb-ad-videos-with-complimentary-kit/"><u>[Updated] 2024 Approved Effortless Production of FB Ad Videos with Complimentary Kit</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-picture-puns-smilesketchers/"><u>[Updated] Picture Puns SmileSketchers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-master-your-youtube-settings-stop-auto-play-videos/"><u>2024 Approved Master Your YouTube Settings - Stop Auto-Play Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/amplifying-your-adventure-correcting-no-sound-error-in-fallout-4-gaming-experience/"><u>Amplifying Your Adventure: Correcting No Sound Error in Fallout 4 Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-obs-studio-crashes-in-windows-11-and-10/"><u>How to Fix OBS Studio Crashes in Windows 11 & 10</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 12 Pro Max</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-computing-experts-comprehensive-insights/"><u>Inside Tom's Computing Experts: Comprehensive Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-the-update-process-latest-techniques-for-dell-docking-station-drivers-upgrade/"><u>Master the Update Process: Latest Techniques for DELL Docking Station Drivers Upgrade</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-getting-minecraft-back-online-after-failure-to-load/"><u>Step-by-Step Guide: Getting Minecraft Back Online After Failure to Load</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/synchronize-and-enjoy-a-comprehensive-guide-to-cross-platform-kindle-book-consumption/"><u>Synchronize and Enjoy: A Comprehensive Guide to Cross-Platform Kindle Book Consumption</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-control-crashes-effortlessly-with-these-tips-and-tricks/"><u>Troubleshoot Control Crashes Effortlessly with These Tips & Tricks!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-the-football-manager-2022-pending-launch-problems-solved/"><u>Troubleshooting Steps for the Football Manager 2022 Pending Launch Problems [SOLVED]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-restarting-your-battlenet-client-on-windows-systems/"><u>Troubleshooting Tips for Restarting Your Battle.net Client on Windows Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-recurring-overwatch-pc-game-crashes/"><u>Troubleshooting Tips: Resolving Recurring Overwatch ² PC Game Crashes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-poco-c51-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Poco C51 | Dr.fone</u></a></li>
 </ul></div>
 

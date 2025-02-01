@@ -1,7 +1,7 @@
 ---
 title: "Victory over Overwatch Errors: Tackling the Graphics Driver Problem Once and For All"
-date: 2025-01-21T14:46:38.862Z
-updated: 2025-01-23T23:07:21.335Z
+date: 2025-01-26T17:10:49.961Z
+updated: 2025-01-31T20:53:03.152Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why am I getting this error message?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/featured_-1200x653.jpg)
@@ -42,6 +38,10 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 * Software confliction
 * etc.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix ‘ **_Connection to the Battle.net game server has been lost_**  ‘?
 
  Before you try any of these fixes below, please make sure to[check the game server status](https://support.activision.com/onlineservices) and restart your modem and router to rule out any possible connection issues.
@@ -55,6 +55,10 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 5. [Use a VPN](https://tools.techidaily.com/drivereasy/download/)
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1\. Allow your game to run through Windows Firewall
 
@@ -71,6 +75,10 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As you know Public network is an unsafe territory, do not allow any third-party application of unknown origin on any public network in your computer settings.
 
@@ -91,6 +99,10 @@ If your game isn’t on the list, follow these steps:
 _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)_
 2. Click **OK** to confirm your action.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Once the Command Prompt window is open, type the following 5 command lines (press **Enter**  after entering each command line):  
 
 **`netsh winsock reset`**  
@@ -103,7 +115,11 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3\. Change your DNS server
@@ -113,23 +129,11 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
 **Alternate DNS server: 8.8.4.4**  
@@ -154,17 +158,13 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
 
@@ -204,20 +204,19 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-final-cut-pros-top-10-must-have-plug-ins-for-professionals/"><u>[Updated] Final Cut Pro’s Top 10 Must-Have Plug-Ins for Professionals</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-fake-following-fiasco-avoiding-illusory-supporters-in-social-media-space/"><u>2024 Approved Fake Following Fiasco Avoiding Illusory Supporters in Social Media Space</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-professional-rapid-thumbnail-artistry-for-valorant-games/"><u>2024 Approved Professional Rapid Thumbnail Artistry for Valorant Games</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-free-study-apps-and-resources-for-students-returning-this-year/"><u>Best Free Study Apps & Resources for Students Returning This Year</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723014147465-diablo-immortal-stability-issues-on-pc-heres-the-ultimate-fix/"><u>Diablo Immortal Stability Issues on PC? Here's the Ultimate Fix !</u></a></li>
-<li><a href="https://program-issues.techidaily.com/game-not-starting-step-by-step-steps-to-confirm-integrity-of-your-gaming-files/"><u>Game Not Starting? Step-by-Step Steps to Confirm Integrity of Your Gaming Files</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-overcoming-startup-problems-for-saints-row-on-personal-computers/"><u>Guide to Overcoming Startup Problems for Saints Row on Personal Computers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/identifying-chameleon-ais-via-strategic-mentions-in-dialogue/"><u>Identifying Chameleon AIs via Strategic Mentions in Dialogue</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/imessage-communication-guide-sending-and-receiving-texts-on-your-pc-with-windows/"><u>IMessage Communication Guide: Sending & Receiving Texts on Your PC with Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improving-performance-and-increasing-fps-in-the-world-of-tainted-grail-conquest/"><u>Improving Performance & Increasing FPS in the World of Tainted Grail: Conquest</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-nokia-130-music-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Nokia 130 Music FRP Locks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-valheim-wont-launch-at-startup-glitches-in-the-newest-update-of-2024/"><u>Resolving 'Valheim Won't Launch at Startup' Glitches in the Newest Update of 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/swift-shuffling-strategies-efficiently-send-data-home-for-2024/"><u>Swift Shuffling Strategies Efficiently Send Data Home for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-ranked-widescreen-displays-ultimate-choices/"><u>Top-Ranked Widescreen Displays: Ultimate Choices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723009161830-why-was-there-a-delay-in-releasing-immortals-fenyx-rising-resolved/"><u>Why Was There a Delay in Releasing Immortals: Fenyx Rising? Resolved!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improved-performance-total-war-warhammer-iii-stability-enhancements-for-pc-users/"><u>[IMPROVED PERFORMANCE] Total War: Warhammer III Stability Enhancements for PC Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-avoiding-motion-illusions-tips-for-vr-users-for-2024/"><u>[Updated] Avoiding Motion Illusions Tips for VR Users for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatteach-aid-essential-accuracy-tools-for-classroom-leaders/"><u>ChatTeach Aid: Essential Accuracy Tools for Classroom Leaders</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-strategies-to-overcome-nwstoreexe-error-messages/"><u>Comprehensive Strategies to Overcome NW_Store.exe Error Messages</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-troubleshooting-steps-for-fifa-19-directx-problems/"><u>Effortless Troubleshooting Steps for FIFA 19 DirectX Problems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/essential-software-for-enthusiasts-top-5-ps1-emulators/"><u>Essential Software for Enthusiasts Top 5 PS1 Emulators</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003799909-fixing-chromes-sluggishness-fast-and-simple-solutions/"><u>Fixing Chrome's Sluggishness: Fast and Simple Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-successfully-connect-to-live-config-servers-fixing-common-errors/"><u>How To Successfully Connect to Live Config Servers - Fixing Common Errors</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-itel-a60-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Itel A60 to iPod | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-in-mortal-kombat-11-eliminate-game-crashes-fast/"><u>Mastering Stability in Mortal Kombat 11: Eliminate Game Crashes Fast</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-online-video-creation-made-easy-with-wevideo/"><u>New 2024 Approved Online Video Creation Made Easy with WeVideo</u></a></li>
+<li><a href="https://win-top.techidaily.com/not-found-alert-what-happens-when-you-hit-404-error/"><u>Not Found Alert! What Happens When You Hit 404 Error?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/problem-mit-hevc-videowiedergabe-in-windows-hier-sind-zwei-tipps-zur-fehlerbehebung-in-windows-1087/"><u>Problem Mit HEVC Videowiedergabe in Windows? Hier Sind Zwei Tipps Zur Fehlerbehebung in Windows 10/8/7</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/simplified-steps-for-photo-motion-blur-in-photoshop/"><u>Simplified Steps for Photo Motion Blur in Photoshop</u></a></li>
 </ul></div>
 

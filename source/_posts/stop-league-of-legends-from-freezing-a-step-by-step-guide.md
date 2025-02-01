@@ -1,7 +1,7 @@
 ---
 title: "Stop League of Legends From Freezing: A Step-by-Step Guide"
-date: 2025-01-19T21:34:27.837Z
-updated: 2025-01-24T14:22:20.675Z
+date: 2025-01-26T19:12:39.354Z
+updated: 2025-01-31T19:30:23.872Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other LoL players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -88,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
@@ -97,16 +105,12 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
@@ -121,15 +125,15 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -167,10 +171,6 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Run League of Legends to see if you resolved this issue.
 
  Hopefully, you find this post helpful! As always, if you have any other solutions to fix League of Legends crashes, or if you have any questions or suggestions on this issue, you’re more than welcome to leave us a comment below.
@@ -193,20 +193,20 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-bring-your-youtube-vision-to-life-with-free-banner-resources-for-2024/"><u>[New] Bring Your YouTube Vision to Life with FREE Banner Resources for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-idea-to-internet-fame-becoming-a-vtuber-for-2024/"><u>[Updated] From Idea to Internet Fame Becoming a VTuber for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-essential-steps-for-crafting-video-based-gifs-on-mobiledesktop/"><u>[Updated] In 2024, Essential Steps for Crafting Video-Based GIFs on Mobile/Desktop</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/2024-comprehensive-solutions-to-stop-your-discord-from-dropping-sound/"><u>2024 Comprehensive Solutions to Stop Your Discord From Dropping Sound</u></a></li>
-<li><a href="https://program-issues.techidaily.com/defeat-teardown-app-malfunctions-in-depth-strategies-and-solutions/"><u>Defeat Teardown App Malfunctions: In-Depth Strategies & Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723007345984-diablo-immortal-stability-hacks-for-players-no-more-pc-crashes/"><u>Diablo Immortal Stability Hacks for Players: No More PC Crashes!</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ic-videos-made-easy-with-best-stabilizers-for-2024/"><u>Dynamic Videos Made Easy with Best Stabilizers for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-constant-crashes-in-sony-vegas-video-editing-software-expert-advice/"><u>How to Fix Constant Crashes in Sony Vegas Video Editing Software: Expert Advice</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-rise-to-the-top-livestreaming-on-youtube-no-matter-how-low-followers-are/"><u>In 2024, Rise to the Top - Livestreaming on YouTube, No Matter How Low Followers Are</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-upcoming-games-with-industry-experts/"><u>In 2024, Upcoming Games with Industry Experts</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/leverage-your-smartphones-capability-to-store-social-snaps-for-2024/"><u>Leverage Your Smartphone's Capability to Store Social Snaps for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-troubleshooting-in-palworld-solve-your-eos-login-errors-with-these-nifty-techniques/"><u>Mastering the Art of Troubleshooting in Palworld: Solve Your EOS Login Errors with These Nifty Techniques</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-phoenix-repairs-sql-anywhere-server-restored/"><u>Stellar Phoenix Repairs: SQL Anywhere Server Restored</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-fix-gta-5-online-connectivity-problems/"><u>Troubleshooting Steps to Fix GTA 5 Online Connectivity Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-boosting-your-fallout-76-gameplay-with-enhanced-frame-rates/"><u>Ultimate Guide: Boosting Your Fallout 76 Gameplay with Enhanced Frame Rates</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-elite-editions-high-end-macpc-video-decode-tools/"><u>[New] 2024 Approved Elite Editions High-End Mac/PC Video Decode Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-captivating-comedy-crafted-step-by-step-meme-tutorial/"><u>[Updated] 2024 Approved Captivating Comedy Crafted Step-by-Step Meme Tutorial</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-prime-pick-best-microphone-for-youtube-gurus/"><u>[Updated] 2024 Approved Prime Pick Best Microphone for YouTube Gurus</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-countdown-charm-top-android-and-ios-timers-for-weddings/"><u>[Updated] Countdown Charm Top Android & iOS Timers for Weddings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-collection-top-notch-free-meme-designs/"><u>[Updated] Ultimate Collection Top-Notch FREE Meme Designs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoiding-frustration-in-wwe-2k20-play-effective-fixes-for-preventing-pc-game-crashes/"><u>Avoiding Frustration in WWE 2K20 Play: Effective Fixes for Preventing PC Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/instantaneous-guide-effortless-shader-tuning-for-star-wars-battlefront-ii/"><u>Instantaneous Guide: Effortless Shader Tuning for Star Wars Battlefront II</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-protecting-identities-top-video-editing-tools-for-face-blurring/"><u>New 2024 Approved Protecting Identities Top Video Editing Tools for Face Blurring</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-play-how-to-enhance-avatar-frontiers-of-pandora-load-times/"><u>Optimizing Play: How to Enhance Avatar: Frontiers of Pandora Load Times</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-effective-solutions-to-lower-lag-time-in-back-4-blood/"><u>Resolved: Effective Solutions to Lower Lag Time in 'Back 4 Blood'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-repair-instructions-for-minecraft-loading-errors/"><u>Step-by-Step Repair Instructions for Minecraft Loading Errors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-reviews-and-buying-guides/"><u>Tom's Tech Hub: Comprehensive Reviews & Buying Guides</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-8-essential-factors-for-smart-purchase-decisions-on-tablets/"><u>Top 8 Essential Factors for Smart Purchase Decisions on Tablets</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-solve-stuttering-and-boost-frame-rate-in-naraka-bladepoint/"><u>Ultimate Guide to Solve Stuttering & Boost Frame Rate in Naraka: Bladepoint</u></a></li>
+<li><a href="https://program-issues.techidaily.com/xcom-2-stability-issues-fixing-game-crashes-on-windows-platforms/"><u>XCOM 2 Stability Issues: Fixing Game Crashes on Windows Platforms</u></a></li>
 </ul></div>
 

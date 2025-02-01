@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Opening Issues with Razer Synapse Software
-date: 2025-01-22T10:51:54.666Z
-updated: 2025-01-23T22:23:54.358Z
+date: 2025-01-30T21:06:40.132Z
+updated: 2025-02-01T00:13:20.453Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -33,6 +33,10 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 3. [Change in-game settings](https://tools.techidaily.com/drivereasy/download/)
 4. [Turn off background apps](https://tools.techidaily.com/drivereasy/download/)
 5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Check the minimum system requirement
 
@@ -90,29 +94,25 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7) Run the game to check.
 
 If it’s not working, move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Turn off background apps
 
@@ -127,7 +127,7 @@ If it’s not working, move to the next fix.
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Change NVIDIA resolution
@@ -155,22 +155,24 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-ios-leading-video-capture-solutions/"><u>[New] 2024 Approved IOS Leading Video Capture Solutions</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-social-spectacle-10-tweets-to-watch/"><u>[New] The Social Spectacle 10 Tweets To Watch</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-videotweeteraudio-quick-audio-extractor/"><u>[New] VideoTweeterAudio Quick Audio Extractor</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unbeatable-online-and-desktop-gif-maker-options/"><u>[Updated] 2024 Approved Unbeatable Online & Desktop GIF Maker Options</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-critical-ntdlldll-error-causing-system-crashes-in-windows-11-and-10/"><u>Fixing the Critical ntdll.dll Error Causing System Crashes in Windows 11 and 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-endless-loop-on-anthem-load-screen/"><u>Fixing the Endless Loop on Anthem Load Screen</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-the-most-out-of-the-ascent-with-advanced-strategies-for-high-fps-play-and-seamless-motion/"><u>Get the Most Out of The Ascent with Advanced Strategies for High-FPS Play and Seamless Motion</u></a></li>
-<li><a href="https://windows11.techidaily.com/identifying-your-device-top-6-windows-pc-model-names/"><u>Identifying Your Device: Top 6 Windows PC Model Names</u></a></li>
-<li><a href="https://program-issues.techidaily.com/issues-encountered-while-verifying-game-versions-in-ffxiv/"><u>Issues Encountered While Verifying Game Versions in FFXIV</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-interruptions-solving-fifa-21-game-crashes-on-desktop-computers-guide/"><u>No More Interruptions: Solving FIFA 21 Game Crashes on Desktop Computers [Guide]</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-your-gameplay-fixing-fps-drops-while-playing-resident-evil-village-for-pc-users/"><u>Optimizing Your Gameplay: Fixing Fps Drops While Playing Resident Evil Village for PC Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionize-your-garden-get-togethers-with-top-6-must-have-gadgets-insights-by-zdnet/"><u>Revolutionize Your Garden Get-Togethers with Top 6 Must-Have Gadgets, Insights by ZDnet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-sailing-now-fixes-for-rogue-companys-previous-crash-issues-on-windows-and-macos/"><u>Smooth Sailing Now! Fixes for Rogue Company's Previous Crash Issues on Windows and MacOS</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/top-10-best-alternatives-zu-itunes-fur-die-verwaltung-und-weitergabe-von-daten-auf-ios/"><u>Top 10 Best Alternatives Zu iTunes Für Die Verwaltung Und Weitergabe Von Daten Auf IOS</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/form-your-youtube-routine-control-over-video-delivery-speeds-for-2024/"><u>Transform Your YouTube Routine Control Over Video Delivery Speeds for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlock-the-mystery-behind-pc-launch-failures-of-resident-evil-5-and-get-playing-asap/"><u>Unlock the Mystery Behind PC Launch Failures of Resident Evil #5 and Get Playing ASAP!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-support-detecting-and-connecting-to-bluetooth-devices/"><u>Windows 10 Support: Detecting and Connecting to Bluetooth Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-classic-console-charisma-best-ps1-emulation-tools-reviewed/"><u>[New] 2024 Approved Classic Console Charisma - Best PS1 Emulation Tools Reviewed</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-navigating-lunapic-like-an-ace-photographer/"><u>[New] In 2024, Navigating LunaPic Like an Ace Photographer</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-integrating-obs-in-daily-skype-monitoring-for-2024/"><u>[New] Integrating OBS in Daily Skype Monitoring for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-launch-issues-how-to-get-starfield-running-smoothly-on-steam-and-xbox/"><u>Bypassing Launch Issues: How to Get Starfield Running Smoothly on Steam & Xbox</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-why-huawei-p20-pro-stands-out-for-its-phenomenal-photography-and-performance/"><u>Comprehensive Review: Why Huawei P20 Pro Stands Out for Its Phenomenal Photography & Performance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dell-p2715q-review-a-glimpse-into-ultra-hd-technology/"><u>Dell P2715Q Review A Glimpse Into Ultra HD Technology</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-guide-why-wont-farming-simulator-22-launch-find-out-here/"><u>Fix Guide: Why Won't Farming Simulator 22 Launch? Find Out Here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-7-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 7 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-ensure-smooth-gameplay-for-assassins-creed-syndicate-expert-anti-crash-solutions-in-202n4/"><u>How To Ensure Smooth Gameplay For Assassin's Creed Syndicate? Expert Anti-Crash Solutions in 202N4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-football-manager-2n22-unavailability-problem-solution-explained/"><u>How to Fix the Football Manager 2N22 Unavailability Problem – Solution Explained</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-ultimate-manual-for-opting-into-youtube-premium/"><u>In 2024, Your Ultimate Manual for Opting Into YouTube Premium</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-chronicles-of-arise-overcoming-ue4s-critical-bugs/"><u>Resolved: Chronicles of Arise - Overcoming UE4's Critical Bugs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-the-persistent-black-screen-issue-in-fortnite-on-pc/"><u>Resolved: Fixing the Persistent Black Screen Issue in Fortnite on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-constant-kodi-malfunctions-weve-fixed-it/"><u>Say Goodbye to Constant Kodi Malfunctions – We’ve Fixed It!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolve-opengl-context-creation-failure-in-qsurfaceformat/"><u>Troubleshooting Guide: Resolve 'OpenGL Context Creation Failure' In QSurfaceFormat</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-wolcen-mayhem-crashes-on-windows-pcs-successfully-solved/"><u>Troubleshooting Wolcen Mayhem Crashes on Windows PCs Successfully Solved</u></a></li>
+<li><a href="https://win-studio.techidaily.com/taazyz-altofr-imkanat-alkta-aaalya-alsraaa-lastnsakh-byanat-krs-slb-usb-aldlyl-alahdth/"><u>تعزيز التوفر: إمكانات القطة عالية السرعة لاستنساخ بيانات قرص صلب USB - الدليل الأحدث</u></a></li>
 </ul></div>
 

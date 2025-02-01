@@ -1,7 +1,7 @@
 ---
 title: "No More Halting: Overcoming Constant Crashing in Halo Infinite on PC"
-date: 2025-01-16T04:22:10.174Z
-updated: 2025-01-18T06:02:34.455Z
+date: 2025-01-26T16:59:43.013Z
+updated: 2025-01-31T16:12:25.558Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 6. **[Disable Discord overlay](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Unplug peripherals
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 2. Click the**gear icon** next to the Play button and click**Game Settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-2.jpg)
@@ -67,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
  Check if the game works normally now. If not, revert the folder’s name and try the next method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Update your graphics driver
 
  The graphics card driver is very essential for gaming performance. If you’re using a faulty or outdated graphics driver, you may suffer from various performance issues of Diablo Immortal including game crashes, low FPS and stuttering. And you should update the graphics driver for maximum gameplay.
@@ -81,14 +85,10 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/de-5.7.2-scan-1.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
@@ -103,16 +103,12 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 3. Click**Begin Scan** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files-2-1.jpg)
 
  The scanning will start immediately, followed by a repair update if missing or corrupt files are found. Once done, restart the game and see how it works. Still no luck? There is one more fix to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6 – Disable Discord overlay
 
@@ -124,6 +120,10 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 3. Select**Game Overlay** from the left pane and**toggle off** the button for**Enable in-game overlay** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Close Discord and relaunch your game. If the crashes occur again, you may need to contact Blizzard support for specific assistance.
 
@@ -149,22 +149,15 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-unraveling-sharex-professional-perspectives-and-picks/"><u>[New] Unraveling ShareX Professional Perspectives & Picks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-direct-controls-full-guide-to-powerdirector-2024/"><u>[Updated] Mastering Direct Controls Full Guide to PowerDirector 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/alibaba-plans-separate-ipo-for-cloud-division-while-preparing-second-and-third-units-for-public-offerings-zdnet/"><u>Alibaba Plans Separate IPO for Cloud Division While Preparing Second and Third Units for Public Offerings - ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/discover-the-most-reliable-and-easy-to-use-free-online-converters-from-avi-to-mp4-top-11-picks/"><u>Discover the Most Reliable and Easy-to-Use Free Online Converters From AVI to MP4 – Top 11 Picks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-for-microsoft-word-exe-errors-easy-methods-inside/"><u>Effective Fixes for Microsoft Word EXE Errors - Easy Methods Inside</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-heart-of-iron-4-crash-errors-a-comprehensive-solution-breakdown/"><u>Fixing Heart of Iron 4 Crash Errors: A Comprehensive Solution Breakdown</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722997938550-how-to-fix-league-of-legends-wont-open-2024-tips/"><u>How to Fix League of Legends Won't Open - 2024 Tips</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-nubia-z50s-pro-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Nubia Z50S Pro? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/innovative-photo-display-solutions-for-2024/"><u>Innovative Photo Display Solutions for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-fix-ultimate-guide-to-getting-your-hp-display-working-again/"><u>Mastering the Fix: Ultimate Guide to Getting Your HP Display Working Again</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-sailing-through-the-ocean-eleven-sea-nier-worlds-crash-fixes-revealed/"><u>Smooth Sailing Through the Ocean Eleven Sea - NieR: World's Crash Fixes Revealed!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-dolby-atmos-playback-problems-on-your-pc-with-windows-11-or-10/"><u>Troubleshooting Dolby Atmos Playback Problems on Your PC with Windows 11 or 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-fixed-hiccups-in-the-mass-effect-legendary-edition-for-xbox-series-xs/"><u>Troubleshooting Fixed Hiccups in the Mass Effect Legendary Edition for Xbox Series X|S</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-fix-roblox-wont-open-errors-tips-for-2n2/"><u>Troubleshooting Steps to Fix 'Roblox Won't Open' Errors (Tips for 2N2)</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-amazon-fire-tv-cube-top-performers-in-speedy-streaming/"><u>Ultimate Guide to Amazon Fire TV Cube: Top Performers in Speedy Streaming</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/virtualdub-for-mac-easily-edit-video-in-mac-for-2024/"><u>VirtualDub for Mac Easily Edit Video in Mac for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-creating-hilarious-vr-world-meme-magic-for-2024/"><u>[Updated] Creating Hilarious VR World Meme Magic for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-wrap-up-wisdom-for-media-masters/"><u>[Updated] Wrap-Up Wisdom for Media Masters</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-gaming-resolve-resident-evil-villages-pc-lag-issues-here/"><u>Effortless Gaming: Resolve Resident Evil Village's PC Lag Issues Here</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-tricks-to-eliminate-lag-in-street-fighter-6-optimize-your-pc-gameplay/"><u>Essential Tricks to Eliminate Lag in Street Fighter 6: Optimize Your PC Gameplay</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/in-depth-analysis-and-solutions-for-unstable-stardew-valley-gameplay-on-pc/"><u>In-Depth Analysis & Solutions for Unstable Stardew Valley Gameplay on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-naraka-the-beating-experience-solutions-for-low-frames-and-disrupted-audio/"><u>Optimizing Naraka: The Beating Experience - Solutions for Low Frames & Disrupted Audio</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revamped-resolution-and-performance-tweaks-for-windows-11/"><u>Revamped: Resolution & Performance Tweaks for Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unable-to-load-drivers-intel-adapter-not-found/"><u>Unable to Load Drivers - Intel Adapter Not Found</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11s-premier-drawing-software-list/"><u>Win 11'S Premier Drawing Software List</u></a></li>
 </ul></div>
 
