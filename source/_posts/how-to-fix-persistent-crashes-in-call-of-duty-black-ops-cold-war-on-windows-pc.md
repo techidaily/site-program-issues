@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Persistent Crashes in Call of Duty: Black Ops Cold War on Windows PC"
-date: 2025-02-12T17:38:26.400Z
-updated: 2025-02-14T22:02:27.574Z
+date: 2025-02-28T22:51:52.883Z
+updated: 2025-03-04T12:04:11.413Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/b958a593c95d29eeb474585a5be149c96a0df966a
 ## Troubleshoot and Fix Call of Duty: WWII's Black Screen Trouble in Windows with This Easy Solution
 
 See a black screen when playing CoD: WWII? Although this is an annoying issue, you’re definitely not the only person to experience it. And more importantly, this is fixable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -41,10 +37,6 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 
  If this works for you, you won’t see the black screen. But if the issue persists, don’t worry. There are still other fixes for you to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Switch to the windowed mode, then switch back to the full screen mode
 
  A black screen is usually caused by some temporary graphics settings issue. And this can usually be fixed by switching between the windowed and full screen mode. To do so:
@@ -53,10 +45,6 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 2. Press the**Alt** and**Enter** keys on your keyboard at the same time to switch back to the full screen view.
 
  This should fix your black screen issue. But if not, then you should try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -89,10 +77,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-424.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-425.png)  
  You can do it for free if you like, but it’s partly manual.
 
@@ -106,10 +90,6 @@ OR
 2. Type**appwiz.cpl** , then press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Delete Call of Duty: World War II (right click this game in the list and select**Uninstall** ).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Download the game from where you purchased it.
 5. Try playing CoD: WWII and see if this fixes your black screen issue.
@@ -134,24 +114,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/arryminatis-income-evolution-with-ajey-nagar/"><u>[New] CarryMinati's Income Evolution with Ajey Nagar</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-crafting-instagram-magic-with-professional-edits/"><u>[Updated] Crafting Instagram Magic with Professional Edits</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-launches-airpods-4-with-innovative-find-my-speaker-function-and-usb-c-connectivity-tech-news-by-zdnet/"><u>Apple Launches AirPods 4 with Innovative Find My Speaker Function and USB-C Connectivity | Tech News by ZDNET</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-lag-expert-tips-for-smooth-playthrough-of-resident-evil-village-on-pc/"><u>Beat the Lag - Expert Tips for Smooth Playthrough of Resident Evil Village on PC</u></a></li>
-<li><a href="https://facebook.techidaily.com/beyond-social-networking-6-groundbreits-of-fbs-metaverse-vision/"><u>Beyond Social Networking: 6 Groundbreits of FB's Metaverse Vision</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/digital-artistry-with-estrella-h-exploring-the-innovation-of-digiarty-software/"><u>Digital Artistry with Estrella H.: Exploring the Innovation of DigiArty Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diy-solutions-for-a-broken-clownfish-voice-changer-unit/"><u>DIY Solutions for a Broken Clownfish Voice Changer Unit</u></a></li>
-<li><a href="https://program-issues.techidaily.com/forza-horizon-4-wont-boot-here-are-the-best-solutions-to-get-you-racing-by-2024/"><u>Forza Horizon 4 Won't Boot? Here Are the Best Solutions to Get You Racing by 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-the-out-of-video-memory-error-in-fortnite-solution-inside/"><u>How to Fix the 'Out of Video Memory' Error in Fortnite (Solution Inside)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/league-of-legends-freezing-up-fix-it-fast-with-these-simple-solutions/"><u>League of Legends Freezing Up? Fix It Fast with These Simple Solutions</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/leveraging-highlights-proven-techniques-for-business-engagement-for-2024/"><u>Leveraging Highlights Proven Techniques for Business Engagement for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/nikon-km-170-vs-gopro-for-flexible-filmmaking-in-2024/"><u>Nikon KM-170 Vs GoPro for Flexible Filmmaking, In 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-common-asana-crashes-on-windows-desktops/"><u>Overcoming the Common Asana Crashes on Windows Desktops</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005949703-ps4-malfunction-heres-how-to-fix-those-irritating-freezes/"><u>PS4 Malfunction? Here's How to Fix Those Irritating Freezes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-bg3-pc-freezing-issues-a-step-by-step-guide/"><u>Solving BG3 PC Freezing Issues - A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-preventing-star-citizen-from-crashing-on-pc/"><u>Troubleshooting Tips for Preventing Star Citizen From Crashing on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/uncover-the-causes-of-no-rest-for-the-wicked-malfunctions-on-windows-pcs-and-how-to-rectify-them/"><u>Uncover the Causes of 'No Rest for the Wicked' Malfunctions on Windows PCs and How to Rectify Them</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-break-free-from-sony-vegas-top-windows-video-editing-software-alternatives/"><u>Updated 2024 Approved Break Free From Sony Vegas Top Windows Video Editing Software Alternatives</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-from-overflow-to-perfection-edit-large-tiktok-drafts-quickly-and-effectively/"><u>[New] 2024 Approved From Overflow to Perfection Edit Large TikTok Drafts Quickly & Effectively</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-notable-20-anime-series-theme-tracks/"><u>[New] 2024 Approved Notable 20 Anime Series Theme Tracks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-designing-pinnacle-canon-temp-video-series-for-2024/"><u>[New] Designing Pinnacle Canon Temp Video Series for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-discords-digital-portraiture/"><u>[New] In 2024, The Ultimate Guide to Discord's Digital Portraiture</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-best-no-entry-price-voice-transformation-for-valorant-gamers/"><u>2024 Approved Best No-Entry Price Voice Transformation for Valorant Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-your-wow-boot-up-blues-with-these-essential-pc-troubleshooting-tips/"><u>Banish Your WoW Boot-Up Blues with These Essential PC Troubleshooting Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-top-rated-action-films-from-hollywood-streaming-and-downloading-options/"><u>Best Top-Rated Action Films From Hollywood: Streaming & Downloading Options</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cracking-cod-warzones-error-6328-ultimate-fix-guide-for-gamers/"><u>Cracking Cod: Warzone's Error 6328 - Ultimate Fix Guide for Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-players-experiencing-malfunctions-in-the-phasmophobia-vr-game/"><u>Effective Fixes for Players Experiencing Malfunctions in the Phasmophobia VR Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-utorrent-when-its-unresponsive-top-7-tips/"><u>How to Fix Utorrent When It's Unresponsive - Top 7 Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-successfully-update-and-launch-the-last-epoch-software-for-pc-2024-edition/"><u>How to Successfully Update and Launch the Last Epoch Software for PC - 2024 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-luminosity-a-comprehensive-hdr-guide-for-windows-11-users/"><u>Leveraging Luminosity: A Comprehensive HDR Guide for Windows 11 Users</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-6s-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 6s</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-uncover-digital-entertainment-auditory-elements-for-2024/"><u>New Uncover Digital Entertainment Auditory Elements for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-your-fallout-76-pc-connection-woes-expert-tips-and-tricks/"><u>Solving Your Fallout 76 PC Connection Woes: Expert Tips and Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-preventing-madden-19-from-crashing-on-pc-systems/"><u>Step-by-Step Solutions for Preventing Madden 19 From Crashing on PC Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-wont-my-vrchat-load-comprehensive-solutions-for-common-errors/"><u>Why Won't My VRChat Load? Comprehensive Solutions for Common Errors</u></a></li>
 </ul></div>
 

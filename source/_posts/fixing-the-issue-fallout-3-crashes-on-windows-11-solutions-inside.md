@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Fallout 3 Crashes on Windows 11 – Solutions Inside"
-date: 2025-02-13T01:29:25.819Z
-updated: 2025-02-14T20:49:22.410Z
+date: 2025-02-28T10:27:24.365Z
+updated: 2025-03-04T07:46:24.429Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/0c48024453358ef6a98b286edd181eb113a17b352
 5. **[Replace game files with a fan-made patch](https://tools.techidaily.com/drivereasy/download/)**
 6. [**Check for corrupted system files**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Scan and repair your game files
 
  When troubleshooting game not launching issues, first you need to make sure there aren’t any corrupted or missing files.
@@ -44,16 +40,8 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-1.jpg)
 2. In the left menu, select**LOCAL FILES** . Then click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-2.jpg)
 3. Wait until the checking completes. Then you can try to start the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this trick doesn’t give you luck, take a look at the next one below.
 
@@ -77,10 +65,6 @@ Here’s how you can check the file integrity on Steam:
 
  If the latest video driver doesn’t help you, check out the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Install all Windows updates
 
  The Windows 10 system updates help keep your system running smoothly. Usually Windows installs updates on a regular basis, but you can check manually to confirm you’re using the latest system.
@@ -90,10 +74,6 @@ Here’s how you can check the file integrity on Steam:
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
 
@@ -118,10 +98,6 @@ Here’s how you can check the file integrity on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Check for corrupted system files
 
@@ -157,24 +133,24 @@ Here’s how you can check the file integrity on Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ising-through-the-rankings-adding-highlight-channels-to-youtube/"><u>[New] Rising Through the Rankings Adding Highlight Channels to YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-quick-collage-creation-a-step-by-step-guide-for-google-images/"><u>[Updated] 2024 Approved Quick Collage Creation A Step-by-Step Guide for Google Images</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-master-money-makers-the-best-of-the-top-ig-earners/"><u>[Updated] Master Money Makers The Best of the Top IG Earners</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-novice-to-pro-your-step-by-step-guide-to-youtube-live-images/"><u>2024 Approved From Novice to Pro Your Step-by-Step Guide to YouTube Live Images</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/audience-management-strategies-for-periscope/"><u>Audience Management Strategies for Periscope</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-fixing-spiked-cpu-usage-on-modern-operating-systems-like-windows/"><u>Diagnosing & Fixing Spiked CPU Usage on Modern Operating Systems Like Windows</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discover-the-most-entertaining-indoor-games-for-beating-boredom-a-comprehensive-guide/"><u>Discover the Most Entertaining Indoor Games for Beating Boredom: A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-to-combat-discords-packet-loss-problem/"><u>Effective Solutions to Combat Discord's Packet Loss Problem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminating-latency-in-outriders-my-step-by-step-solution/"><u>Eliminating Latency in Outriders: My Step-by-Step Solution</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-fortnite-account-instant-solutions-for-login-issues/"><u>Fix Your Fortnite Account: Instant Solutions for Login Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-silent-menace-resolving-audio-issues-in-evil-genius-2/"><u>Fixing Silent Menace: Resolving Audio Issues in 'Evil Genius 2'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-restore-sound-in-your-epic-adventure-through-skyrim/"><u>How To Restore Sound in Your Epic Adventure Through Skyrim</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-essential-anime-openers-revisited/"><u>In 2024, Essential Anime Openers Revisited</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-perfect-your-videos-first-impression-20-best-fonts/"><u>In 2024, Perfect Your Video's First Impression 20 Best Fonts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-r-type-final-2-performance-overcoming-persistent-crash-problems-on-desktops/"><u>Mastering R-Type Final 2 Performance: Overcoming Persistent Crash Problems on Desktops</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-15-pro-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://discover-best.techidaily.com/step-by-step-guide-deleting-files-on-windows-operating-system-tips-from-yl-computing/"><u>Step-by-Step Guide: Deleting Files on Windows Operating System - Tips From YL Computing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steps-toward-overcoming-humanitys-inaction/"><u>Steps Toward Overcoming Humanity's Inaction</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722989929121-titanfall-2-stability-issues-heres-how-you-can-fix-the-game-crashes-instantly/"><u>Titanfall 2 Stability Issues? Here's How You Can Fix the Game Crashes Instantly!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-enjoy-unparalleled-quality-youtubes-elite-4k-solutions/"><u>[New] 2024 Approved Enjoy Unparalleled Quality YouTube's Elite 4K Solutions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unveiling-the-secrets-to-dynamic-video-cover-design-in-facebook-space/"><u>[New] 2024 Approved Unveiling the Secrets to Dynamic Video Cover Design in Facebook Space</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-comprehensive-directory-extracting-youtube-intros/"><u>[New] Comprehensive Directory Extracting Youtube Intros</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-quick-and-easy-methods-for-saving-youtube-channel-songs/"><u>2024 Approved Quick & Easy Methods for Saving YouTube Channel Songs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dealing-with-resource-hog-wsappx-diagnosis-and-fixes-for-reducing-cpu-and-disk-strain/"><u>Dealing with Resource Hog WSAPPX – Diagnosis & Fixes for Reducing CPU and Disk Strain</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-origin-not-launched-issue-in-windows-10-and-11/"><u>Fixing the 'Origin Not Launched' Issue in Windows 10 and 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-and-resolve-mir4-software-problems-in-windows/"><u>How to Prevent and Resolve MIR4 Software Problems in Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-huawei-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Huawei Phone When You Forget the Password</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-faster-gameplay-a-professionals-guide-to-fixing-sims-4-latency-for-windows-users-insights-from-2024/"><u>Mastering Faster Gameplay: A Professional's Guide to Fixing Sims 4 Latency for Windows Users - Insights From 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/minecraft-loading-woes-unsticking-players-from-startup-snags-effortlessly/"><u>Minecraft Loading Woes? Unsticking Players From Startup Snags Effortlessly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-pc-settings-for-a-smooth-gaming-session-with-higher-fps/"><u>Optimizing PC Settings for a Smooth Gaming Session with Higher FPS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-compatibility-woes-solving-euro-truck-simulator-2-pc-crashes/"><u>Overcoming Compatibility Woes: Solving Euro Truck Simulator 2 PC Crashes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quick-recovery-methods-for-erased-reddit-topics-for-2024/"><u>Quick Recovery Methods for Erased Reddit Topics for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-frozen-conflict-fixing-cold-war-game-crashes-on-pc-and-consoles/"><u>Resolving the Frozen Conflict: Fixing 'Cold War' Game Crashes on PC and Consoles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-12-sign-bio-blueprints-on-whatsapp/"><u>The Ultimate 12-Sign Bio Blueprints on WhatsApp</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-free-audio-remixing-tools-of-2024-professional-recommendations-by-movavi/"><u>Top 10 Free Audio Remixing Tools of 2024: Professional Recommendations by Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-pc-issues-resolving-constant-crashes-in-praey-for-the-gods-game/"><u>Troubleshooting PC Issues: Resolving Constant Crashes in Praey for the Gods Game</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unlocking-social-connections-facetime-tutorials-for-android-for-2024/"><u>Unlocking Social Connections Facetime Tutorials for Android for 2024</u></a></li>
 </ul></div>
 

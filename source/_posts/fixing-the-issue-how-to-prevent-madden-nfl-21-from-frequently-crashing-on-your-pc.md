@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Prevent Madden NFL 21 From Frequently Crashing on Your PC"
-date: 2025-02-09T02:39:45.056Z
-updated: 2025-02-14T16:26:36.391Z
+date: 2025-02-26T11:00:47.471Z
+updated: 2025-03-04T04:14:58.736Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Run the troubleshooter
 
  Windows has built-in troubleshooter to fix some common errors. You can try Windows Store Apps troubleshooter to fix the Microsoft Edge crashing problem.
@@ -55,10 +51,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Repair & reset Microsoft Edge
 
  If you can’t open Microsoft Edge, it’s probably the application files are corrupted, you could repair or reset it to fix the problem.
@@ -72,10 +64,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
@@ -99,10 +87,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -137,15 +121,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -156,10 +132,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
@@ -189,22 +161,19 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-voice-interpretation-without-a-price-tag/"><u>[New] In 2024, Voice Interpretation Without a Price Tag</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-no-spend-high-repeat-leading-apps-for-your-pinterest-vids-for-2024/"><u>[New] No Spend, High Repeat! Leading Apps for Your Pinterest Vids for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-eco-effect-filmmaking-youtubes-guide-to-green-magic-for-2024/"><u>[Updated] Eco-Effect Filmmaking YouTube's Guide to Green Magic for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-oppo-k11-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Oppo K11 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-back-in-the-game-with-these-crucial-tweaks-for-tiny-tinas-awesome-island-on-your-pc/"><u>Get Back in the Game with These Crucial Tweaks for Tiny Tina's Awesome Island on Your PC!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-your-biomutant-adventure-from-freezing-expert-tips-and-fixes-for-gamers-in-2econd-four/"><u>How to Stop Your Biomutant Adventure From Freezing: Expert Tips and Fixes for Gamers in 2Econd Four</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improve-fps-on-war-thunder-with-these-expert-fixes-from-2024/"><u>Improve FPS on War Thunder with These Expert Fixes From 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improved-graphics-quality-for-a-crisp-experience-in-the-latest-outriders-patch/"><u>Improved Graphics Quality for a Crisp Experience in the Latest Outriders Patch</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-streamlining-your-overwatch-sessions-recording/"><u>In 2024, Streamlining Your Overwatch Sessions Recording</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-twitch-time-warp-strategies/"><u>In 2024, Twitch Time Warp Strategies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722995698646-overcome-game-startup-errors-for-battlefield-4-on-personal-computers-now-fixed/"><u>Overcome Game Startup Errors for Battlefield 4 on Personal Computers - Now Fixed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-problems-overcome-them-how-to-ensure-smooth-gameplay-of-dragons-dogma-2/"><u>PC Problems? Overcome Them! How to Ensure Smooth Gameplay of 'Dragon's Dogma 2'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-to-get-your-windows-10-spacebar-key-working-again/"><u>Quick Fixes to Get Your Windows 10 Spacebar Key Working Again</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-your-soccer-management-game-crashes-in-2019/"><u>Troubleshooting Guide: Resolving Your Soccer Management Game Crashes in 2019</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-crashes-in-persona-4-golden-gameplay/"><u>Troubleshooting Tips: Resolving Crashes in Persona 4 Golden Gameplay</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-guide-to-screen-recording-with-filmora-scrn-best-practices-and-more/"><u>Updated 2024 Approved The Ultimate Guide to Screen Recording with Filmora Scrn Best Practices and More</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-eight-powerful-devices-for-prospective-filmora-alternatives/"><u>[New] 2024 Approved Eight Powerful Devices for Prospective Filmora Alternatives</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-effortless-post-scheduling-our-list-of-top-8-apps-iosandroid-compatible/"><u>[New] In 2024, Effortless Post Scheduling Our List of Top 8 Apps, iOS/Android-Compatible</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-youtube-studio-mastery-a-comprehensive-video-editing-guide/"><u>[Updated] In 2024, YouTube Studio Mastery A Comprehensive Video Editing Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-freezing-issues-how-to-restore-seamless-gameplay-smoothly/"><u>Cyberpunk 2077 Freezing Issues: How to Restore Seamless Gameplay Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/deciphering-and-dealing-with-gta-5-freezing-problems-for-a-smoother-experience/"><u>Deciphering & Dealing with GTA 5 Freezing Problems for a Smoother Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-troubleshooting-steps-to-resolve-battlefield-5-startup-issues-guide/"><u>Easy Troubleshooting Steps to Resolve Battlefield 5 Startup Issues - Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-correcting-lameencdll-problems-in-audio-editing-software/"><u>Effective Solutions for Correcting lame_enc.dll Problems in Audio Editing Software</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-immersive-realms-top-10-youtubes-most-captivating-vr-videos-for-2024/"><u>Enter Immersive Realms Top 10 YouTube's Most Captivating VR Videos for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/grand-theft-auto-vs-motion-issues-heres-how-you-can-achieve-fluid-frames/"><u>Grand Theft Auto V's Motion Issues? Here’s How You Can Achieve Fluid Frames</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/overcoming-shyness-in-the-spotlight-top-video-blogger-fears-for-2024/"><u>Overcoming Shyness in the Spotlight Top Video Blogger Fears for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdle-of-non-launchable-counter-strike-global-offensive/"><u>Overcoming the Hurdle of Non-Launchable Counter-Strike: Global Offensive</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-6-solutions-to-tackle-high-cpu-demands-in-baldurs-gate-iii/"><u>Top 6 Solutions to Tackle High CPU Demands in Baldur's Gate III</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-6-plus-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone 6 Plus Passcode without a Computer | Dr.fone</u></a></li>
 </ul></div>
 

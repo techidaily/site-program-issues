@@ -1,7 +1,7 @@
 ---
 title: Solved! Troubleshooting Days Gone PC Startup Problems and Error Fixes
-date: 2025-02-13T17:16:19.815Z
-updated: 2025-02-14T22:55:07.991Z
+date: 2025-02-25T07:12:38.216Z
+updated: 2025-03-04T05:53:43.900Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
 8. **[Allow TCP Network Port Access](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall DaVinci Resolve](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1\. End the Resolve process
 
  The first thing you should try is to end the DaVinci Resolve process in the Task Manager. Here’s how:
@@ -48,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
  Now you have forced shut down your Davinci Resolve. Launch the program again and you will be able to open it without any problems.
 
 No luck? Don’t worry. We have a few more fixes for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2\. Unplug USB devices
 
@@ -72,10 +64,6 @@ No luck? Don’t worry. We have a few more fixes for you.
 
  Now you can run Resolve to test the issue. If DaVinci Resolve is still not responding, you can head on to the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4\. Update the graphics driver
 
  Editing videos with this DaVinci Resolve is very GPU-extensive, so it is mandatory to keep the GPU drivers updated (and sometimes your audio drivers, too).
@@ -91,18 +79,10 @@ No luck? Don’t worry. We have a few more fixes for you.
 
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and launch your Resolve to check if the issue has been resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5\. Increase the Virtual Memory
 
@@ -116,10 +96,6 @@ No luck? Don’t worry. We have a few more fixes for you.
 3. Once the Performance Options window is open, go to the**Advanced** tab and select**Change** .  
 ![adjust virtual memory size](https://images.drivereasy.com/wp-content/uploads/2021/11/property-options.jpg)
 4. Uncheck the**Automatically manage paging file size for all drives** . Then select**Custom size** , and enter the value accordingly.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![installed ram](https://images.drivereasy.com/wp-content/uploads/2021/11/installed-ram.jpg)  
 **Note:** It’s recommended to use a number that’s**one and a half times** the total available memory for the “**Initial size** ” and**three times** of available memory for the “**Maximum size** ” when possible. (For example, my installed RAM is 16GB, so I set the initial size to 24,000, maximum size to 48,000). If you don’t know your installed RAM, you can press the**Windows** key +**Pause** to check your device specifications.
@@ -172,10 +148,6 @@ Here’s how to troubleshoot this issue quickly:
    * Double click on the**CaptureLogs.bat** file (or right-click and then run as administrator).  
    * It will generate a **log file**  to your desktop –**DaVinci-Resolve-logs-<current time>.zip** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 9\. Reinstall DaVinci Resolve
 
  If none of the fixes above solved your Resolve not opening issue, you can clean reinstall your program and delete all files ( **C:\\Program Files\\Blackmagic Design\\DaVinci Resolve** ) left behind.
@@ -203,22 +175,24 @@ Here’s how to troubleshoot this issue quickly:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-best-online-placements-for-youtube-video-popularity-for-2024/"><u>[Updated] Best Online Placements for YouTube Video Popularity for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-exclusive-access-to-the-finest-ae-templates-all-free/"><u>[Updated] In 2024, Exclusive Access to The Finest AE Templates, All-Free</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-ice-and-elegance-the-2022-winter-olympics-in-china/"><u>2024 Approved Ice & Elegance The 2022 Winter Olympics in China</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bioshock-2-enhanced-edition-repairing-glitches-and-improving-gameplay/"><u>BioShock 2 Enhanced Edition - Repairing Glitches & Improving Gameplay</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/download-amd-radeon-software-and-drivers-for-windows-11-latest-updates/"><u>Download AMD Radeon Software and Drivers for Windows 11: Latest Updates</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-logitech-hd-pro-c922x-camera-driver-for-enhanced-video-quality-on-windows-11/"><u>Download and Install Logitech HD Pro C922X Camera Driver for Enhanced Video Quality on Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improved-performance-in-cyberpunk-2077-overcoming-previous-fps-declines/"><u>Improved Performance in Cyberpunk 2077: Overcoming Previous FPS Declines</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-realme-12-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Realme 12 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/integrating-tiktok-content-with-facebook/"><u>Integrating TikTok Content with Facebook</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-smooth-performance-solutions-to-overcome-lag-issues-with-obs-streaming-and-screen-capture/"><u>Mastering Smooth Performance: Solutions to Overcome Lag Issues with OBS Streaming & Screen Capture</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722996220553-pubg-freezing-woes-on-windows-heres-how-to-get-smooth-playback/"><u>PUBG Freezing Woes on Windows? Here's How to Get Smooth Playback.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-spatial-audio-issues-on-your-pc-with-windows-11-or-10/"><u>Resolving Spatial Audio Issues on Your PC with Windows 11 or 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/restore-stability-and-performance-for-gta-5-online-players/"><u>Restore Stability and Performance for GTA 5 Online Players</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-back-in-time-best-ps3-emulators-on-pc-unveiled/"><u>Step Back in Time: Best PS3 Emulators on PC, Unveiled</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-your-astro-a50-headset-is-unresponsive/"><u>Troubleshooting Steps When Your Astro A50 Headset Is Unresponsive</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-your-clownfish-microphone-mod-solutions-for-a-non-functioning-vocal-effect/"><u>Troubleshooting Your Clownfish Microphone Mod: Solutions for a Non-Functioning Vocal Effect</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleashing-the-potential-of-ps5-with-these-9-features/"><u>Unleashing the Potential of PS5 with These 9 Features</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-removing-your-facebook-live-video-tech-steps/"><u>[New] In 2024, Removing Your Facebook Live Video Tech Steps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-layer-chords-over-ppt-slides/"><u>[New] Layer Chords over PPT Slides</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-tech-review-showdown-comparing-gopros-hero5-and-garmin-virb-2e/"><u>[Updated] Tech Review Showdown Comparing GoPro's Hero5 and Garmin VIRB (2E)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-list-of-xsplits-equals/"><u>2024 Approved The Ultimate List of Xsplit's Equals</u></a></li>
+<li><a href="https://program-issues.techidaily.com/alternatives/"><u>Alternatives</u></a></li>
+<li><a href="https://program-issues.techidaily.com/apex-legends-players-guide-resolving-in-game-engine-errors-successfully/"><u>Apex Legends Players Guide: Resolving In-Game Engine Errors Successfully</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-phasmophobia-crashing-glitches-tips-and-troubleshooting/"><u>Banish Phasmophobia Crashing Glitches : Tips and Troubleshooting</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elevate-your-experience-expert-tips-for-eliminating-stutter-and-improving-frame-rates-in-gaming/"><u>Elevate Your Experience: Expert Tips for Eliminating Stutter and Improving Frame Rates in Gaming</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/error-fixes-for-when-you-cant-find-msvcr70dll-on-your-pc/"><u>Error Fixes for When You Can’t Find MSVCR70.dll on Your PC</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/guide-preserving-iphone-chats-on-your-desktop-using-two-different-techniques/"><u>Guide: Preserving iPhone Chats on Your Desktop Using Two Different Techniques</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-s-hottest-4k8k-video-editing-tools-a-comprehensive-guide/"><u>In 2024, S Hottest 4K/8K Video Editing Tools A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-insiders-list-of-vr-terms/"><u>In 2024, The Insider's List of VR Terms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-smooth-play-overcoming-variable-fps-challenges/"><u>Mastering Smooth Play: Overcoming Variable FPS Challenges</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nokia-data-recovery-recover-lost-data-from-nokia-c110-by-fonelab-android-recover-data/"><u>Nokia Data Recovery – recover lost data from Nokia C110</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdles-debugging-techniques-for-armored-core-6-on-windows-systems/"><u>Overcoming the Hurdles: Debugging Techniques for Armored Core 6 on Windows Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-resolution-overcoming-common-challenges-when-launching-fortnite/"><u>Quick Resolution: Overcoming Common Challenges When Launching Fortnite</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-overcome-genshin-impacts-startup-issues/"><u>Quick Solutions: Overcome Genshin Impact's Startup Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-resolve-your-mordhau-crash-issues-with-these-tips/"><u>Troubleshoot and Resolve Your Mordhau Crash Issues with These Tips</u></a></li>
 </ul></div>
 

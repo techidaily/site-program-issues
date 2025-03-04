@@ -1,7 +1,7 @@
 ---
 title: "Effective Solutions for the 'Call of Duty: WW2' Error Code 4128 Problems"
-date: 2025-02-07T18:36:35.812Z
-updated: 2025-02-14T16:55:35.738Z
+date: 2025-02-28T10:11:41.521Z
+updated: 2025-03-03T18:51:37.188Z
 tags:
   - win11
   - win10
@@ -67,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your graphics drivers
 
  Ashen may crash if the graphics drivers on your PC are outdated or corrupted. So you can try updating your graphics drivers to the latest version to see if it helps fix the the game crash issue.
@@ -88,26 +84,14 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Repair the game
 
@@ -142,10 +126,6 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and install them on your PC.
@@ -173,10 +153,6 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Optimize your graphics card settings
 
  If the specs of your PC is not good enough, you can also try optimizing your graphics card settings. You can follow the steps below to modifying your graphics card settings.
@@ -192,10 +168,6 @@ Select your graphics card manufacturer first:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type**control** and press**Enter** to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View Control Panel by **Large icons** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
@@ -217,10 +189,6 @@ Select your graphics card manufacturer first:
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Modify Intel graphics card settings
 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
@@ -232,10 +200,6 @@ Select your graphics card manufacturer first:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click **3D** to open the 3D settings.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click **Scan** to add the game to the application list.  
@@ -251,10 +215,6 @@ Select your graphics card manufacturer first:
  Run Ashen again to see if the game will crash. If not, congratulations! You’ve resolved this issue; if this issue persists, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Add Ashen as an exception to your 3rd party antivirus software
 
@@ -284,22 +244,22 @@ Select your graphics card manufacturer first:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-8-must-have-macbook-wallpaper-apps/"><u>[New] 2024 Approved 8 Must-Have MacBook Wallpaper Apps</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-show-your-appreciation-budget-friendly-video-closings/"><u>[New] 2024 Approved Show Your Appreciation Budget-Friendly Video Closings</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ey-factors-in-understanding-youtube-tv-experience/"><u>[New] Key Factors in Understanding YouTube TV Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fix-batman-arkham-knight-crashing-fatal-error/"><u>[Quick Fix] Batman Arkham Knight Crashing/ Fatal Error</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-elevate-home-videography-high-quality-webcam-steps/"><u>[Updated] Elevate Home Videography - High-Quality WebCam Steps</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-make-my-video-perfectly-fit-instagram/"><u>2024 Approved Make My Video Perfectly Fit Instagram?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-rush-release-channeling-playlist-hits-online/"><u>2024 Approved Rush Release Channeling Playlist Hits Online</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-encounters-critical-error-code-2024-what-you-need-to-know/"><u>Cyberpunk 2077 Encounters Critical Error Code 2024: What You Need To Know</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-keep-scavengers-stable-and-running-smoothly-on-your-computer/"><u>How to Keep 'Scavengers' Stable & Running Smoothly on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-call-of-duty-warzone-error-cudev6328-top-strategies-revealed/"><u>How to Resolve Call of Duty Warzone Error Cu_dev6328 : Top Strategies Revealed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improve-gaming-experience-addressing-frame-rate-drops-in-resident-evil-village-pc/"><u>Improve Gaming Experience: Addressing Frame Rate Drops in Resident Evil Village [PC]</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-enhancing-images-with-motion-blur-in-illustrator/"><u>In 2024, Enhancing Images with Motion Blur in Illustrator</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-guide-to-crafting-twitter-video-inspired-animated-gifs/"><u>In 2024, Guide to Crafting Twitter Video-Inspired Animated GIFs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-users-beware-the-persistent-problem-of-f1-2er-2021-game-crashing-and-solutions-to-overcome-it/"><u>PC Users Beware! The Persistent Problem of F1 2Er 2021 Game Crashing and Solutions to Overcome It</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-oneplus-nord-n30-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On OnePlus Nord N30 5G? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-steam-game-stalls-and-crashes/"><u>Troubleshooting Guide: Resolving Steam Game Stalls & Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-to-fix-valheims-unresponsive-launches/"><u>Troubleshooting Tips to Fix Valheim's Unresponsive Launches</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-zoom-meetings-made-simple-with-camera-snaps/"><u>[Updated] In 2024, Zoom Meetings Made Simple with Camera Snaps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-inshot-pro-advanced-features-showcase/"><u>2024 Approved InShot Pro Advanced Features Showcase</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-simple-tale-creation-guide/"><u>2024 Approved Simple Tale Creation Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-x100-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo X100 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/complete-step-by-step-guide-transferring-data-from-hdd-to-ssd-with-acronis-true-image/"><u>Complete Step-by-Step Guide: Transferring Data From HDD to SSD with Acronis True Image</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000602455-discord-stream-interrupted-by-endless-loading-heres-how-to-get-your-live-event-running-again/"><u>Discord Stream Interrupted by Endless Loading? Here's How to Get Your Live Event Running Again!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-gaming-experience-strategies-for-better-fps-and-less-lag-in-fall-guys/"><u>Enhancing Gaming Experience: Strategies for Better FPS and Less Lag in Fall Guys</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-continuous-crashes-in-nox-player-on-your-computer/"><u>How to Fix Continuous Crashes in Nox Player on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-frequent-crashes-while-playing-forza-horizon-amoled-on-your-computer/"><u>How to Overcome Frequent Crashes While Playing Forza Horizon Amoled on Your Computer</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/putting-an-end-to-speculation-the-pc-release-date-for-la-noire-is-now-set-in-stone/"><u>Putting an End to Speculation – The PC Release Date for L.A. Noire Is Now Set in Stone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-how-to-stop-bloodhunt-from-freezing-or-jittering-on-your-computer/"><u>Resolving Issues: How to Stop Bloodhunt From Freezing or Jittering on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-crashing-the-ultimate-guide-with-8-fixes-for-vrchat-pc-users/"><u>Say Goodbye to Crashing: The Ultimate Guide with 8 Fixes for VRChat PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-how-to-successfully-reinstall-discord-after-an-initial-failure/"><u>Step-by-Step: How to Successfully Reinstall Discord After an Initial Failure</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-complete-guide-to-selecting-and-raising-valheim-crops/"><u>The Complete Guide to Selecting & Raising Valheim Crops</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transform-your-recordings-expert-tips-for-zoom-changer/"><u>Transform Your Recordings Expert Tips for Zoom Changer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-high-latency-and-stutter-in-bless-unleashed-on-your-pc/"><u>Ultimate Guide: Solving High Latency & Stutter in Bless Unleashed on Your PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Constant Game Crashes and Hang-Ups in Minecraft
-date: 2025-02-09T22:36:19.695Z
-updated: 2025-02-14T17:58:34.565Z
+date: 2025-03-01T18:44:37.125Z
+updated: 2025-03-04T03:51:49.243Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -92,15 +88,7 @@ You can use these steps to check for Windows updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . Windows will automatically download and install all the available updates. This might take up to an hour depending on your Internet speed.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In some cases, you might need to check several times to get all the updates. Simply repeat these steps until it prompts**You’re up to date** when you click**Check for updates** .
 
@@ -137,19 +125,11 @@ If the crash happens again, you can take a look at the next fix.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and test the gameplay in Assassin’s Creed Valhalla.
 
  If the driver update doesn’t do the trick for you, simply continue to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Lower in-game graphics settings
 
@@ -174,10 +154,6 @@ If the crash happens again, you can take a look at the next fix.
 
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
 
 [According to some Vikings](https://discussions.ubisoft.com/topic/76984/can-t-get-past-the-ac-valhalla-start-before-the-game-launches/21?lang=en-US) , **doing a clean reinstallation of Assassin’s Creed Valhalla** could be a potential fix to the crash. So if you’ve tried all the fixes above and none works for you, you can try to perform a reinstallation of Assassin’s Creed Valhalla. It allows you to get the latest build of the game, which might include a new patch targeting the crashing issue.
@@ -201,22 +177,20 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-pioneering-visual-storytelling-uploading-to-youtube-for-2024/"><u>[New] Pioneering Visual Storytelling Uploading to YouTube for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/tep-by-step-building-your-perfect-youtube-playlist/"><u>[New] Step-by-Step Building Your Perfect YouTube Playlist</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-digital-discussion-documentary-for-2024/"><u>[Updated] Digital Discussion Documentary for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-black-screen-blues-in-warzone-with-these-pro-tech-fixes-for-2n24/"><u>Beat the Black Screen Blues in Warzone with These Pro-Tech Fixes for 2N24</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-14-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 14 Plus Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://program-issues.techidaily.com/discord-stream-stuck-no-more-winning-strategies-to-resolve-persistent-buffering/"><u>Discord Stream Stuck No More – Winning Strategies to Resolve Persistent Buffering</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-on-fixing-minecrafts-persistent-black-screen-glitch/"><u>Expert Advice on Fixing Minecraft's Persistent Black Screen Glitch</u></a></li>
-<li><a href="https://windows11.techidaily.com/five-free-methods-to-jot-down-on-windows-11/"><u>Five Free Methods to Jot Down on Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-blur-resolving-call-of-duty-warzone-screen-shimmer/"><u>Fixing the Blur: Resolving Call of Duty Warzone Screen Shimmer</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-adobe-premiere-pro-cs6-for-mac-at-no-cost-2023-update-for-2024/"><u>Get Adobe Premiere Pro CS6 for Mac at No Cost 2023 Update for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-the-perfect-strategy-to-insert-subtitles-into-mp4-clips/"><u>In 2024, The Perfect Strategy to Insert Subtitles Into MP4 Clips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-players-heres-how-to-overcome-crashes-in-yakuza-n-the-song-of-life/"><u>PC Players! Here's How to Overcome Crashes in Yakuza N: The Song of Life</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-nokia-xr21-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Nokia XR21 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-steps-to-prevent-phoenix-point-game-crashes/"><u>Resolved: Troubleshooting Steps to Prevent Phoenix Point Game Crashes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-bargain-acers-chromebook-plus-strikes-gold-under-400-outshines-competitors-zdnet/"><u>The Ultimate Bargain: Acer's Chromebook Plus Strikes Gold Under $400, Outshines Competitors | ZDNET</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-top-8-methods-to-resolve-multiversus-game-crashes/"><u>Ultimate Guide: Top 8 Methods to Resolve MultiVersus Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unleash-your-inner-adventurer-with-fixed-and-optimized-tiny-tinas-wonderlands-on-pc/"><u>Unleash Your Inner Adventurer with Fixed and Optimized Tiny Tina's Wonderlands on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722995446331-fixed-assassins-creed-odyssey-crashing-on-pc-easily/"><u>[Fixed] Assassin’s Creed Odyssey Crashing on PC. Easily</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-hidden-screenshotters-concealed-photography-on-the-snapchat-app/"><u>[Updated] 2024 Approved Hidden ScreenShotters Concealed Photography on the Snapchat App</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-effective-approaches-to-downloading-hectic-tiktok-archives/"><u>[Updated] In 2024, Effective Approaches to Downloading Hectic TikTok Archives</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cracking-the-code-on-unreal-engine-4-issues-fix-your-outriders-game-and-wave-goodbye-to-ue4-madness-errors/"><u>Cracking The Code on Unreal Engine 4 Issues: Fix Your Outriders Game and Wave Goodbye to UE4-Madness Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-starcraft-ii-game-crashing-issues-on-desktop-computers/"><u>Fixes for Starcraft II Game Crashing Issues on Desktop Computers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-asus-rog-phone-7-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Asus ROG Phone 7 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Realme Narzo N55? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-server-latency-and-link-up-challenges-in-new-worlds-current-build/"><u>Overcoming Server Latency & Link-Up Challenges in New World's Current Build</u></a></li>
+<li><a href="https://program-issues.techidaily.com/palworld-launch-failures-heres-how-to-get-it-up-and-running-easily/"><u>Palworld Launch Failures? Here's How to Get It Up and Running Easily</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-realme-narzo-60x-5g-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-enabling-gpu-detection-by-msi-afterburner-in-windows-10-and-windows-11-operating-systems/"><u>Step-by-Step Solution: Enabling GPU Detection by MSI Afterburner in Windows 10 and Windows 11 Operating Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-simultaneous-fps-drops-for-a-smoother-gaming-experience/"><u>Troubleshooting Simultaneous FPS Drops for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steam-errors-keeping-psychonauts-2-running-smoothly-on-windows-and-macos/"><u>Troubleshooting Steam Errors – Keeping 'Psychonauts 2' Running Smoothly on Windows and MacOS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-potential-while-unwinding-top-tasks-for-podcast-lovers/"><u>Unlock Potential While Unwinding Top Tasks for Podcast Lovers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973985873-update-your-asus-usb-bt5n-bluetooth-adapter-with-latest-drivers-compatible-with-windows-versions-11108-download-instantly/"><u>Update Your Asus USB-BT5n Bluetooth Adapter with Latest Drivers Compatible with Windows Versions 11/10/8 - Download Instantly!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving Frame Drops in Age of Empires IV: A Comprehensive Guide"
-date: 2025-01-30T01:54:14.243Z
-updated: 2025-01-31T22:58:32.474Z
+date: 2025-03-03T09:14:53.906Z
+updated: 2025-03-04T06:25:38.392Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click**World of Warships** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4-2.jpg)
@@ -60,10 +56,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 **2)** Select**World of Warships** . Then, click**Game Settings** and click**Check and Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click**Continue** .
 
@@ -103,10 +95,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -124,17 +112,9 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click the**preferences.xml file** and press the**Delete key** on your keyboard.
 
 See if the crashing issue goes away. If not, try the fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Launch World of Warships in safe mode
 
@@ -163,10 +143,6 @@ Do the crashes disappear now? If not, continue to the next fix.
 **3)** Click**World of Warships** from the list, and click**Uninstall** . Then, follow the on-screen instructions to complete the process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-3-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer.
 
@@ -198,18 +174,20 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-startup-success-on-youtubing-free-beginner-courses-for-2024/"><u>[Updated] Startup Success on YouTubing Free Beginner Courses for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-browse-backwards-a-guide-to-facebook-archives/"><u>2024 Approved Browse Backwards A Guide to Facebook Archives</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722993417584-deathloop-release-woes-heres-how-you-can-overcome-them/"><u>Deathloop Release Woes? Here's How You Can Overcome Them</u></a></li>
-<li><a href="https://blog-min.techidaily.com/descubre-los-mejores-conversores-de-video-gratis-para-windows-10-y-por-que-se-posicionan-en-la-cima-del-ranking-seo/"><u>Descubre Los Mejores Conversores De Vídeo Gratis Para Windows 10 Y Por Qué Se Posicionan en La Cima Del Ranking SEO</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortlessly-transform-google-presentations-into-high-quality-videos-with-these-simple-steps/"><u>Effortlessly Transform Google Presentations Into High-Quality Videos with These Simple Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-ensure-uninterrupted-downloads-on-your-steam-platform/"><u>How To Ensure Uninterrupted Downloads On Your Steam Platform</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-continuous-freezing-in-formula-1-202n-during-your-pc-race/"><u>How to Overcome Continuous Freezing in Formula 1 202N During Your PC Race</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-nokia-c12-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Nokia C12 Pro Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-choosing-between-projectors-and-tvs-for-superior-4k-viewing/"><u>In 2024, Choosing Between Projectors & TVs for Superior 4K Viewing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/input-delay-no-more-how-cd-projekt-red-addresses-cyberpunk-2077s-glitch/"><u>Input Delay No More: How CD Projekt Red Addresses Cyberpunk 2077'S Glitch</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-art-of-green-screening-in-fcp-x-tips-tricks-and-best-practices/"><u>New The Art of Green Screening in FCP X Tips, Tricks, and Best Practices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-startup-errors-effective-fixes-for-playing-starfield-on-steamxbox/"><u>Overcoming Startup Errors: Effective Fixes for Playing Starfield on Steam/Xbox</u></a></li>
-<li><a href="https://program-issues.techidaily.com/update-brings-an-end-to-latency-in-the-elder-scrolls-onlines-blackwood-zone/"><u>Update Brings an End to Latency in The Elder Scrolls Online’s Blackwood Zone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-collection-of-top-ranked-cost-free-youtube-short-video-downloader-apps/"><u>[New] The Ultimate Collection of Top-Ranked, Cost-Free YouTube Short Video Downloader Apps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-quick-guide-incorporating-more-photos-into-your-instagram-story/"><u>[Updated] In 2024, Quick Guide Incorporating More Photos Into Your Instagram Story</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-navigating-through-iphones-persistent-photo-blur-for-2024/"><u>[Updated] Navigating Through iPhone's Persistent Photo Blur for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-realme-v30-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/alternatives-to-xsplit-for-digital-media-masters/"><u>Alternatives to Xsplit for Digital Media Masters</u></a></li>
+<li><a href="https://program-issues.techidaily.com/god-of-war-action-packed-first-person-shooter-now-available-for-windows-gamers/"><u>God of War Action-Packed First Person Shooter Now Available for Windows Gamers!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-eliminating-the-black-ops-cold-war-issue-with-error-code/"><u>Guide: Eliminating the Black Ops Cold War Issue with Error Code</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003795758-how-to-fix-resident-evil-village-pc-game-crashes-solved/"><u>How to Fix Resident Evil Village PC Game Crashes - Solved!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-age-of-wonders-planetfall-from-continuously-crashing-on-windows-1011/"><u>How to Stop Age of Wonders: Planetfall From Continuously Crashing on Windows 10/11</u></a></li>
+<li><a href="https://win-news.techidaily.com/icloudwhatsapp/"><u>ICloudで保管されているWhatsAppのメッセージを閲覧方法：徹底ガイド</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-magic-v2-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Honor Magic V2 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-seamless-storytelling-top-10-premiere-pro-transition-effects/"><u>New 2024 Approved Seamless Storytelling Top 10 Premiere Pro Transition Effects</u></a></li>
+<li><a href="https://video-capture.techidaily.com/perpetual-display-documentation-firms/"><u>Perpetual Display Documentation Firms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-your-minecraft-game-crashes-a-step-by-step-guide/"><u>Resolving Your Minecraft Game Crashes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722990245296-skyrim-muted-heres-how-to-bring-back-game-sounds/"><u>Skyrim Muted? Here's How to Bring Back Game Sounds!</u></a></li>
 </ul></div>
 

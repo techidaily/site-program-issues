@@ -1,7 +1,7 @@
 ---
 title: Zoom Blackout Blues? Here’s Your Ultimate Guide to Clear the Screen
-date: 2025-02-11T21:31:45.703Z
-updated: 2025-02-14T22:37:07.896Z
+date: 2025-02-26T19:08:23.391Z
+updated: 2025-03-04T02:40:24.199Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 If you get a black or blank screen when you’re in Zoom call, don’t panic. This post will show you how to fix Zoom black screen issues on a Windows device.
 
  Here are 6 fixes to try. You may not have to try them all; just work your way down the list until you find the one that does the trick!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -48,10 +44,6 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/6-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select**Program Settings** , then click**Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/8.jpg)
@@ -63,10 +55,6 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
  5) Find**Cpthost.exe** from the Zoom bin directory (located at C:/>Users>YOURUSERNAME>AppData>Roaming>Zoom>bin).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Under Select the preferred graphics processor for this program, select**Integrated graphics**
 
@@ -109,10 +97,6 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 
 If you still have the problem, then try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Turn on/off Hardware Acceleration
 
  When you run an application, it uses the standard CPU on your computer. If you run a heavy task, such as sharing your screen from Zoom, your app will use other hardware components on your PC to work more effectively.
@@ -131,15 +115,7 @@ If you still have the problem, then try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/zoom-hardware-acceleration.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Try screen sharing again with Zoom. If the black screen issue happens again, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Exit full-screen mode
 
@@ -154,10 +130,6 @@ If you still have the problem, then try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-full-screen.png)
 
 If the issue still exists, then move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Reinstall Zoom
 
@@ -193,22 +165,22 @@ If the issue still exists, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/utting-edge-video-tools-opt-for-studio-or-latest-beta-version/"><u>[New] Cutting-Edge Video Tools Opt for Studio or Latest Beta Version</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-top-10-game-bar-alternative-recorders-for-2024/"><u>[Updated] Top 10 Game Bar Alternative Recorders for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-future-of-storage-cutting-edge-cost-effective-solutions/"><u>2024 Approved Future of Storage Cutting-Edge, Cost-Effective Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/delay-alert-no-set-date-yet-for-diablo-immortals-arrival-on-desktop-systems/"><u>Delay Alert: No Set Date Yet for Diablo Immortal's Arrival on Desktop Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-launch-errors-a-comprehensive-guide-for-team-fortress-2/"><u>Fixing Launch Errors: A Comprehensive Guide for Team Fortress 2</u></a></li>
-<li><a href="https://program-issues.techidaily.com/gaming-smoothly-on-pc-with-aliens-fireteam-elite-how-to-stop-the-crashes/"><u>Gaming Smoothly on PC with Aliens: Fireteam Elite - How to Stop the Crashes</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/o-streamline-the-integration-of-youtube-playlists-into-a-sites-layout-for-2024/"><u>How To Streamline the Integration of YouTube Playlists Into a Site's Layout for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-realme-11x-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Realme 11X 5G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pro-rated-top-8-convertors-for-subtitles-and-srts/"><u>In 2024, Pro-Rated Top 8 Convertors for Subtitles & SRTs</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-the-lenovo-ideapad-functional-and-well-built-laptops-unveiled/"><u>In Depth Look at the Lenovo IdeaPad: Functional and Well-Built Laptops Unveiled</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-hp-deskjet-2700-printer-driver-software-free-download/"><u>Latest HP DeskJet 2700 Printer Driver Software – Free Download</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723000003965-master-the-art-of-troubleshooting-device-malfunctions-secure-stability-today/"><u>Master the Art of Troubleshooting Device Malfunctions: Secure Stability Today!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maximizing-performance-unlocking-the-best-fps-settings-for-modern-warfare/"><u>Maximizing Performance: Unlocking the Best FPS Settings for Modern Warfare</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/perfect-your-unboxing-game-8-tips-from-experts-for-2024/"><u>Perfect Your Unboxing Game 8 Tips From Experts for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/roblox-not-working-heres-how-to-repair-it-fast-a-2024-troubleshooting-guide/"><u>Roblox Not Working? Here's How to Repair It Fast: A 2024 Troubleshooting Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-2024-strategies-fixing-rocket-league-persistent-crashes/"><u>Top 2024 Strategies: Fixing 'Rocket League' Persistent Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-excessive-cpu-use-in-phasmophobia-effective-solutions-and-tips/"><u>Troubleshooting Excessive CPU Use in Phasmophobia: Effective Solutions and Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixed-starfield-freezing-or-crashing-on-pc/"><u>[Fixed] Starfield Freezing or Crashing on PC</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-tiktok-visual-transformation-switch-backgrounds-with-3-simple-tricks/"><u>[New] In 2024, TikTok Visual Transformation Switch Backgrounds with 3 Simple Tricks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-premium-portable-switch-game-clones/"><u>[Updated] 2024 Approved Premium Portable Switch Game Clones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/experiencing-netflix-issues-heres-how-to-confirm-if-its-a-global-problem/"><u>Experiencing Netflix Issues? Here's How to Confirm if It’s a Global Problem</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixed-essential-tips-to-overcome-sons-of-the-forest-pc-crashing-issues/"><u>Fixed! Essential Tips to Overcome Sons of the Forest PC Crashing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-stop-steam-from-freezing-or-crashing/"><u>Fixes & Solutions: How to Stop Steam From Freezing or Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-call-of-dutys-warzone-level-6328-glitch-quick-solutions/"><u>How to Overcome Call of Duty's Warzone Level 6328 Glitch - Quick Solutions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-understanding-instagrams-max-video-length-guide/"><u>In 2024, Understanding Instagram's Max Video Length Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722991084157-madden-20-for-pc-stability-issues-heres-how-you-can-get-things-running-smoothly-again/"><u>Madden 20 for PC Stability Issues? Here's How You Can Get Things Running Smoothly Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-correcting-graphic-drawbacks-a-directdraw-error-solution-guide/"><u>Mastering the Art of Correcting Graphic Drawbacks – A DirectDraw Error Solution Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-inability-to-link-with-nvidia-experience-on-pcs/"><u>Overcoming the Inability to Link with NVIDIA Experience on PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-audio-experience-expert-tips-for-repairing-a-corroded-mic/"><u>Revive Your Audio Experience: Expert Tips for Repairing a Corroded Mic</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-drivers-for-your-corsair-h115i-in-recent-windows-versions/"><u>Troubleshooting Drivers for Your Corsair H115i in Recent Windows Versions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-players-facing-team-fortress-2-failure-to-load/"><u>Troubleshooting Tips for Players Facing 'Team Fortress 2 Failure to Load'</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-new-features-in-ios-175-a-comprehensive-guide-to-app-download-updates-for-eu-users-on-apple-devices/"><u>Unlocking New Features in iOS 17.5: A Comprehensive Guide to App Download Updates for EU Users on Apple Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/your-essential-list-of-free-high-quality-online-meeting-software-for-2024/"><u>Your Essential List of Free, High-Quality Online Meeting Software for 2024</u></a></li>
 </ul></div>
 

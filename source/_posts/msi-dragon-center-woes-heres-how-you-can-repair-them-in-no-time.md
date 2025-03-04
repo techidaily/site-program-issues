@@ -1,7 +1,7 @@
 ---
 title: MSI Dragon Center Woes? Here's How You Can Repair Them in No Time
-date: 2025-01-29T19:21:12.573Z
-updated: 2025-01-31T22:30:56.062Z
+date: 2025-02-27T09:49:36.158Z
+updated: 2025-03-04T01:30:34.028Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 ## Rainbow Six Siege Connections Woes? Here's How You Can Repair Them
 
 Trying to launch your Rainbow Six Seige but getting server connection errors? Don’t worry. We’ve put together every possible fix for you in our post.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why you’re getting a server connection error
 
@@ -40,10 +36,6 @@ Trying to launch your Rainbow Six Seige but getting server connection errors? Do
 7. **[Enable UPnP](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Forward ports](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Verify the integrity of game files
 
@@ -82,10 +74,6 @@ Trying to launch your Rainbow Six Seige but getting server connection errors? Do
 ![Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/Windows-firewall.jpg)
 3. On the left pane, click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-app.jpg)
 4. Make sure your Rainbow Six Seige is on the list, and also make sure it’s ticked for **Private** .
 
@@ -116,16 +104,8 @@ There are two ways for you to update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-network-adapter-driver.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get full support and a 30-day money back guarantee).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 
@@ -157,16 +137,8 @@ There are two ways for you to update the driver:
 ![network connections](https://images.drivereasy.com/wp-content/uploads/2021/01/network-connections.jpg)
 3. Right-click your current network and click **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![properties](https://images.drivereasy.com/wp-content/uploads/2021/01/network-properties.jpg)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)**  to view its properties.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Internet Protocol Version 4(TCP/IPv4](https://images.drivereasy.com/wp-content/uploads/2021/01/double-click.jpg)
 5. Make sure you check the option**Obtain an IP address automatically** (the default setting).
@@ -192,10 +164,6 @@ There are two ways for you to update the driver:
 
  Once UPnP has been enabled on your computer, try launching your game again to test the issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 8: Forward ports
 
  Your router comes preconfigured with a few ports open to let you access the Internet, but some ports are closed tight. To run a game server, you will need to open another port, which is called Port Forwarding. Here’s how:
@@ -208,19 +176,11 @@ There are two ways for you to update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/default-gateway.jpg)
 4. Login to your router via the default gateway address (paste the address in the browser URL search bar).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Enter your router credentials into the login page.  
 
  _This requires you to sign in with the**default settings** (check the bottom of your router or its manual for a default username and password) or the**custom username and password** you previously set up. You can check the most common credentials below:_  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/passwords.jpg)  
 _**Note:** Some routers cannot be accessed via a browser but require a dedicated router app._
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Locate the port forwarding settings. Typically this will be under **Advanced**  and then **Port Forwarding** or **Virtual Server** .
 7. For the **Protocol**  fields, you will need to select or input **UDP, TCP,**  or **Both.**  
@@ -269,16 +229,22 @@ _**Note:** Some routers cannot be accessed via a browser but require a dedicated
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-guidelines-for-selecting-an-engaging-movie-trailer-song/"><u>[New] Guidelines for Selecting an Engaging Movie Trailer Song</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-navigating-through-your-new-laptops-m1-max-clips/"><u>[New] Navigating Through Your New Laptop's M1 Max Clips</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-echocam-grabber-for-video-calls-for-2024/"><u>[Updated] EchoCam Grabber for Video Calls for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-secrets-of-asmr-success-with-top-recorder-mics/"><u>[Updated] Secrets of ASMR Success with Top Recorder Mics</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-fixes-for-players-experiencing-new-world-connection-errors/"><u>Comprehensive Fixes for Players Experiencing New World Connection Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-non-responsive-start-button-on-windows-10-easy-solutions/"><u>Fixing the Non-Responsive Start Button on Windows 10 - Easy Solutions</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-the-artisans-guide-to-chromatic-mastery/"><u>In 2024, The Artisan's Guide to Chromatic Mastery</u></a></li>
-<li><a href="https://program-issues.techidaily.com/in-depth-techniques-for-fixing-games-that-keep-freezing-or-crashing-updated/"><u>In-Depth Techniques for Fixing Games That Keep Freezing or Crashing (Updated )</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/instant-collage-creation-tips-for-social-media-posts-for-2024/"><u>Instant Collage Creation Tips for Social Media Posts for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723007368022-troubleshooting-success-now-you-can-start-team-fortress-2-without-hiccups/"><u>Troubleshooting Success! Now You Can Start Team Fortress 2 Without Hiccups</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-6-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 6 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-crafting-your-online-identity-a-facebook-tutorial-for-2024/"><u>[Updated] Crafting Your Online Identity A Facebook Tutorial for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-purity-in-browsing-top-7-selective-android-adblocking-tools/"><u>[Updated] In 2024, Purity in Browsing Top 7 Selective Android AdBlocking Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-vr-dreamscapes-explore-the-best-on-youtube-for-2024/"><u>[Updated] VR Dreamscapes Explore the Best on Youtube for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-football-manager-202-game-crashes-on-windows-computer-expert-fixes/"><u>Fix Your Football Manager 202# Game Crashes on Windows Computer - Expert Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fortnite-troubleshooting-what-to-do-if-you-cant-play-due-to-permission-issues/"><u>Fortnite Troubleshooting: What to Do If You Can’t Play Due to Permission Issues</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/gunstig-konvertieren-sie-ihre-mov-dateien-in-das-kompatible-und-effiziente-ogv-format-mit-movavis-online-dienst/"><u>Günstig Konvertieren Sie Ihre MOV Dateien in Das Kompatible Und Effiziente OGV-Format Mit Movavi's Online-Dienst</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nubia-red-magic-8s-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nubia Red Magic 8S Pro in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-infinix-smart-8-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Infinix Smart 8 Phone?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mir4-crash-troubleshooting-how-to-keep-your-game-running-smoothly-on-pc/"><u>Mir4 Crash Troubleshooting - How to Keep Your Game Running Smoothly on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-resolving-winwordexe-software-malfunctions/"><u>Quick Solutions: Resolving WINWORD.EXE Software Malfunctions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/revolutionizing-search-discover-how-chatgpt-is-transforming-with-duckduckgo/"><u>Revolutionizing Search: Discover How ChatGPT Is Transforming with DuckDuckGo</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-2024-release-problems-for-the-last-epoch-on-personal-computers/"><u>Solving 2024 Release Problems for The Last Epoch on Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-continuous-crashes-in-samurai-warriors-5-for-pc/"><u>Troubleshooting Guide - Resolving Continuous Crashes in Samurai Warriors 5 for PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-tutorial-implementing-virtualization-with-hyper-v-on-your-windows-10-pc/"><u>Ultimate Tutorial: Implementing Virtualization with Hyper-V on Your Windows 10 PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unstuck-and-ready-to-play-overcoming-the-black-load-hurdle-in-nba-2k21-202n4/"><u>Unstuck and Ready to Play: Overcoming the Black Load Hurdle in NBA 2K21 (202N4)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-strategies-against-the-locked-screen-a-players-guide-to-unfreezing-madden-nfl/"><u>Winning Strategies Against the Locked Screen: A Player's Guide to Unfreezing Madden NFL 지갑</u></a></li>
 </ul></div>
 

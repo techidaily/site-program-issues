@@ -1,7 +1,7 @@
 ---
 title: "Mastering TOTAL WAR: WARHAMMER II - Key Solutions for Eliminating Runtime Issues"
-date: 2025-02-11T02:21:36.464Z
-updated: 2025-02-14T21:05:38.047Z
+date: 2025-02-28T16:26:28.646Z
+updated: 2025-03-04T01:17:08.561Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/image-4-1200x702.png)
 
  Elden Ring has finally arrived. However, many players are complaining that they encounter many performance issues when playing the game. And one of the issues that trouble many players is the**black screen problem on startup** . When this happens, players can see and move the game cursor and hear the music playing, but nothing else is displayed. If you’re facing the same issue, don’t worry. Here we’ve put together all the working fixes for you to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -49,17 +45,9 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
  If the black screen occurs again, don’t worry. There are still other fixes you can try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Restart your graphics driver
 
  When you get a black screen on your Windows PC, you can try using the keyboard shortcut**Windows logo key + Ctrl + Shift + B** to restart your graphics driver. If Windows is responsive, your screen will flash and then the game should work fine. But if not, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -94,10 +82,6 @@ There are mainly two ways to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under**Windows Update** , click**Check for updates** . Windows will automatically download and install the available updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates, restart your PC.
 
@@ -110,10 +94,6 @@ If the issue persists, move on to the next fix.
 1. On your keyboard, press the**Windows logo key** . Type**check for updates** . Then click**Check for updates** from the list of results.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Click on the**Check for updates** button.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
 
@@ -128,16 +108,8 @@ If the issue persists, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. Select the**Install Files** tab and click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
 4. Wait a few minutes for Steam to verify the game files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once the process is complete, relaunch the game and check to see if you can get past the black screen.
 
@@ -180,24 +152,17 @@ Now check if the black screen issue has gone away.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-creating-classical-cinematography-a-modern-tutorial-for-2024/"><u>[New] Creating Classical Cinematography A Modern Tutorial for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-screen-recording-tools-face-off-summary-for-2024/"><u>[New] Top Screen Recording Tools Face-Off Summary for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-scouring-the-internet-for-superior-pixel-ringtone-sources/"><u>[Updated] In 2024, Scouring the Internet for Superior Pixel Ringtone Sources</u></a></li>
-<li><a href="https://win-able.techidaily.com/black-screen-woes-in-mtg-arena-heres-how-you-can-get-back-your-gameplay-now/"><u>Black Screen Woes in MTG Arena? Here's How You Can Get Back Your Gameplay Now!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cod-mw3-crash-solved-how-to-get-past-the-unexpected-stop-on-your-game-application/"><u>Cod MW3 Crash Solved: How to Get Past the 'Unexpected Stop' On Your Game Application</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-installation-of-hp-stream-drivers-available-now/"><u>Effortless Installation of HP Stream Drivers Available Now</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-football-manager-2021-stuck-loading-screen-issue-for-smooth-gameplay/"><u>Fixing Football Manager 2021 Stuck Loading Screen Issue for Smooth Gameplay</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-pro-gopro-filming-and-live-sharing-best-practices-for-facebookperiscope/"><u>In 2024, Pro Gopro Filming and Live Sharing Best Practices for Facebook/Periscope</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-smooth-performance-strategies-to-combat-forza-horizon-amoor/"><u>Mastering Smooth Performance: Strategies to Combat Forza Horizon Amoor</u></a></li>
-<li><a href="https://program-issues.techidaily.com/msi-dragon-center-woes-heres-how-you-can-repair-them-in-no-time/"><u>MSI Dragon Center Woes? Here's How You Can Repair Them in No Time</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-persistent-crashes-in-necromunda-hired-gun-for-pc-gamers-solutions-explored/"><u>Overcoming Persistent Crashes in Necromunda: Hired Gun for PC Gamers - Solutions Explored</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-players-rejoice-as-tormented-souls-crashes-resolved/"><u>PC Players Rejoice as Tormented Souls Crashes Resolved</u></a></li>
-<li><a href="https://program-issues.techidaily.com/perfect-gameplay-8-key-solutions-to-stop-marvels-guardians-of-the-galaxy-from-crashing-on-your-pc/"><u>Perfect Gameplay: 8 Key Solutions to Stop Marvel's 'Guardians of the Galaxy' From Crashing on Your PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/probing-windows-bsod-files-and-their-residues/"><u>Probing Windows BSOD Files & Their Residues</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722997391245-resolving-stability-issues-for-r-type-final-2-no-more-pc-crashes/"><u>Resolving Stability Issues for R-Type Final 2 - No More PC Crashes</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-ups-units-ultimate-protection/"><u>Top-Rated UPS Units: Ultimate Protection</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unboxing-and-review-a-thorough-assessment-of-ankers-roav-dash-cam-c1/"><u>Unboxing & Review: A Thorough Assessment of Anker's Roav Dash Cam C1</u></a></li>
-<li><a href="https://program-issues.techidaily.com/understanding-and-correcting-the-crossbow-error-in-minecraft/"><u>Understanding and Correcting the Crossbow Error in Minecraft</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/yokus-island-escapade-critique-where-grand-tales-unexpectedly-take-shape/"><u>Yoku's Island Escapade Critique: Where Grand Tales Unexpectedly Take Shape</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-step-into-hd-color-on-windows-watch-edit-relish-videos-for-2024/"><u>[New] Step Into HD Color on Windows Watch, Edit, Relish Videos for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-leveraging-visual-appeal-in-facebook-slideshows/"><u>[Updated] 2024 Approved Leveraging Visual Appeal in Facebook Slideshows</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-crafting-closure-secrets-of-spectacative-video-sign-offs/"><u>[Updated] Crafting Closure Secrets of Spectacative Video Sign-Offs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-concoct-clever-caricatures/"><u>2024 Approved Concoct Clever Caricatures</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigate-your-way-to-partner-status-via-a-quick-10k-view-achievement/"><u>2024 Approved Navigate Your Way to Partner Status via a Quick 10K View Achievement</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-critical-look-at-godfall-how-sony-missed-the-mark-on-its-exclusive-platform-game/"><u>A Critical Look at Godfall: How Sony Missed the Mark on Its Exclusive Platform Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-modern-warfare-troubleshooting-game-crashes/"><u>Cod: Modern Warfare - Troubleshooting Game Crashes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-8-plus-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 8 Plus After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-cod-black-ops-cold-war-glitch-error-code-887a0005/"><u>How To Overcome COD Black Ops Cold War Glitch 'Error Code: 887A0005'</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-superior-window-calls-8-apps-ranked-1-8/"><u>In 2024, Superior Window Calls 8 Apps Ranked #1-8</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-installation-errors-how-to-successfully-run-disco-elysium-on-windows/"><u>Overcoming Installation Errors: How to Successfully Run Disco Elysium on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-pc-freezes-in-dread-hunger-a-guide-for-uninterrupted-gaming-experience/"><u>Overcoming PC Freezes in 'Dread Hunger': A Guide for Uninterrupted Gaming Experience</u></a></li>
 </ul></div>
 

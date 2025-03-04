@@ -1,7 +1,7 @@
 ---
 title: Eight Essential Fixes for a Smooth Run of Guardians of the Galaxy on PC
-date: 2024-08-06T09:47:31.397Z
-updated: 2024-08-07T09:47:31.397Z
+date: 2025-02-27T10:32:32.140Z
+updated: 2025-03-04T00:13:25.011Z
 tags:
   - win11
   - win10
@@ -24,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
  If it’s not working, try the fixes below. You don’t have to try them all; just work your way down the list until you find the one that works for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
 * [Fix 1: Update your drivers](https://tools.techidaily.com/drivereasy/download/)
@@ -56,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Change mini map shape
 
  If the minimap was flickering and showing multiple times in every game after the restart, choosing a square mini map might fix the issue.
@@ -71,9 +65,6 @@ Restart your computer for the changes to take effect.
 
 If it’s not working, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Reinstall shaders & clear cache
 
  Many players has proved reinstall shaders and clear caches could fix the texture flickering problem. Follow the steps to fix the issue.
@@ -87,15 +78,9 @@ If it’s not working, move to the next fix.
 5. Close all your Blizzard programs completely.
 6. Press**Ctrl + Shift+ Esc** together to open the**Task Manager** .
 7. Click the**Processes** tab. Select Battle.net and click**End task** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-49-07.jpg)
 8. Press**Windows key + R** to open the Run box.
 9. Type**%programdata%** and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-50-43.jpg)
 10. Delete the**Blizzard Entertainment** folder completely.
 11. Restart Battle.net and relaunch the game.
@@ -114,9 +99,6 @@ No luck with this fix? Try the next one.
 
  If it’s not working, you’d better follow[fix 5](https://tools.techidaily.com/drivereasy/download/) to install the old NVIDIA driver.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Install the old driver
 
  If your PC has the NVIDIA graphics card, this fix may work for you. Many users indicated this is the only working fix for them.
@@ -124,19 +106,10 @@ No luck with this fix? Try the next one.
 1. On your keyboard, press **Win+R** (Windows logo key and R key) at the same time to invoke the Run box.
 2. Type **devmgmt.msc** and press **Enter** to open the Device Manager window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8f66b1083.png)
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Double click on Display adapters to expand the category. Right-click the NVIDIA graphics card installed on your computer, then select **Uninstall device** (in some cases, this could be**Uninstall** ).![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8fbb41a7c.jpg)
 4. On the Uninstall confirm dialog box, select the **Delete the driver software for this device** check box, then click **Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8ff4327d4.png)
 5. Go to [NVIDIA’s driver download page](https://tools.techidaily.com/drivereasy/download/) .
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 6. Enter the information in the field according to your system version and your graphics card model. In my case, my computer is running Windows 10 64-bit, and my graphic card is NVIDIA GeForce GT 640, so I enter the information in the field as follows:![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb916032434.jpg)
 7. Don’t choose the latest driver, select the older one.
 8. Follow the on-screen instructions to download the driver.
@@ -153,11 +126,33 @@ No luck with this fix? Try the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-building-audience-organically-tactics-that-deliver-views/"><u>[New] In 2024, Building Audience Organically Tactics That Deliver Views</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-stream-talent-twitter-live-broadcast-basics/"><u>[New] Stream Talent Twitter Live Broadcast Basics</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-hasty-and-hassle-free-images-on-windows-11/"><u>[Updated] Hasty & Hassle-Free Images on Windows 11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-unlocking-full-potential-in-depth-review-of-lgs-monitor-tech/"><u>[Updated] In 2024, Unlocking Full Potential In-Depth Review of LG's Monitor Tech</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/cutting-edge-tech-analysis-the-best-screen-recorder-roundup/"><u>Cutting Edge Tech Analysis The Best Screen Recorder Roundup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013715581-error-code-80asteroids-97-in-cod-black-ops-cold-war-heres-your-ultimate-fix/"><u>Error Code 80Asteroids 97 in COD: Black Ops Cold War? Here's Your Ultimate Fix!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-troubleshooting-and-repairing-ark-crash-incidents/"><u>Expert Tips for Troubleshooting and Repairing ARK Crash Incidents</u></a></li>
+<li><a href="https://program-issues.techidaily.com/far-cry-6-pc-crashes-no-more-discover-the-key-fixes-for-seamless-gaming/"><u>Far Cry 6 PC Crashes No More! Discover the Key Fixes for Seamless Gaming</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-expert-takes-best-camcorders-for-video/"><u>In 2024, Expert Takes Best Camcorders for Video</u></a></li>
+<li><a href="https://program-issues.techidaily.com/inside-scoop-fixing-your-issue-with-minecraft-connection-to-world-unable/"><u>Inside Scoop: Fixing Your Issue with 'Minecraft Connection to World Unable'</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/interactive-features-for-2024/"><u>Interactive Features for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722980891693-minecraft-wont-load-here-are-proven-fixes-to-resume-playing/"><u>Minecraft Won't Load? Here Are Proven Fixes to Resume Playing!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-call-of-duty-warzones-dev-error-ebx-6634-with-easy-steps-updated/"><u>Overcome Call of Duty Warzone's Dev Error Ebx-6634 with Easy Steps – Updated</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gamers-handbook-to-overcoming-fortnite-errors-on-desktop-systems/"><u>PC Gamer's Handbook to Overcoming Fortnite Errors on Desktop Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/remnant-from-the-ashes-continuous-crashing-issues-resolved/"><u>Remnant: From the Ashes - Continuous Crashing Issues Resolved</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-fixing-adobes-error-message-application-failed-to-launch-correctly/"><u>Step-by-Step Guide to Fixing Adobe's Error Message 'Application Failed to Launch Correctly'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-blocking-spam-by-whitelisting-domains-in-apple-mail-for-mac-users/"><u>Step-by-Step: Blocking Spam by Whitelisting Domains in Apple Mail for Mac Users</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1010637-9781780991634-the-angels-book-of-promises/"><u>The Angels' Book of Promises | Free Book</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-tivo-or-comcast-the-ultimate-guide-to-choosing-the-best-dvr-for-your-needs/"><u>Updated 2024 Approved TiVo or Comcast The Ultimate Guide to Choosing the Best DVR for Your Needs</u></a></li>
+</ul></div>
+

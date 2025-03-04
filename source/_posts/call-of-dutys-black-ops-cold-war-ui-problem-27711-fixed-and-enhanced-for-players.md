@@ -1,7 +1,7 @@
 ---
 title: "Call of Duty's Black Ops Cold War - UI Problem #27711: Fixed & Enhanced for Players"
-date: 2025-02-11T22:32:29.230Z
-updated: 2025-02-15T00:47:35.313Z
+date: 2025-03-02T01:24:04.058Z
+updated: 2025-03-04T08:18:35.150Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ It’s very frustrating when Call of Duty Black Ops Cold War keeps freezing on y
 4. **[Scan and repair corrupted game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Lower the in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Avoid PC overheating
 
  Black Ops Cold War is a graphic-intensive application that will put load on your CPU and GPU. When these component overheats, the computer will stop functioning to protect the hardware from physical damage, and thus your game freezes.
@@ -38,10 +34,6 @@ It’s very frustrating when Call of Duty Black Ops Cold War keeps freezing on y
  To avoid this problem, you can**clean the dust regularly** and**check the cooling system** to ensure your PC is in a cool, well-ventilated condition. Also,**stop overclocking your processor** as this will increase the chance of overheating.
 
  If Call of Duty Cold War just freezes without any overheating symptoms, take a look at other workable fixes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics card driver
 
@@ -77,19 +69,11 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-13.jpg)
 2. Navigate to the**Compatibility** tab. Then, tick**Disable fullscreen optimizations** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/11.jpg)
 3. Click**Change high DPI settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/12.jpg)
 4. Tick**Override** **High DPI** **scaling behavior** and select**Application** from the drop-down menu below. Then, click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-3.jpg)
 5. Click**OK** .  
@@ -97,10 +81,6 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/13.jpg)
 
  Launch your game to see if the freezing problem goes away. If not, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Scan and repair corrupted game files
 
@@ -110,10 +90,6 @@ Here are the steps:
 2. Select**Call of Duty: BOCW** on the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/10.jpg)
 3. Click**Options** and click**Scan and Repair** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/14.jpg)
 
@@ -154,24 +130,18 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-exploring-the-usefulness-of-a-blue-video-icon-on-facebook-chat/"><u>[New] 2024 Approved Exploring the Usefulness of a Blue Video Icon on Facebook Chat</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-save-your-android-and-mac-snapchat-footage-effectively/"><u>[New] In 2024, Save Your Android & Mac Snapchat Footage Effectively</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2023s-elite-web-based-recording-devices-for-2024/"><u>[Updated] 2023'S Elite Web-Based Recording Devices for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-mastering-network-live-broadcasts-via-vlc-for-2024/"><u>[Updated] Mastering Network Live Broadcasts via VLC for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-scrutinizing-high-dynamic-range-insights-from-luminance/"><u>[Updated] Scrutinizing High Dynamic Range Insights From Luminance</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-crafting-captivating-captions-a-triad-of-tips-for-insta-videos/"><u>2024 Approved Crafting Captivating Captions A Triad of Tips for Insta Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-renewed-view-of-sony-s3700-2023-edition/"><u>2024 Approved The Renewed View of Sony S3700 2023 Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-fixing-atomic-hearts-failures-at-boot-time/"><u>Diagnosing and Fixing Atomic Hearts Failures at Boot Time</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-how-to-fix-and-prevent-packet-loss-on-your-discord-connection/"><u>Expert Tips: How to Fix and Prevent Packet Loss on Your Discord Connection</u></a></li>
-<li><a href="https://discover-able.techidaily.com/exploring-the-roots-the-historical-formation-of-china-insights-by-yl-computing/"><u>Exploring the Roots: The Historical Formation of China - Insights by YL Computing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722992794533-fix-your-fall-guys-issues-overcoming-launch-and-crash-problems-easily/"><u>Fix Your Fall Guys Issues: Overcoming Launch and Crash Problems Easily</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-restore-functionality-of-windows-spotlight-feature-on-windows-11/"><u>How to Restore Functionality of Windows Spotlight Feature on Windows 11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-recommendation-best-websites-to-download-funny-ringtones/"><u>In 2024, Recommendation Best Websites to Download Funny Ringtones</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-motorola-edge-2023-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Motorola Edge 2023 Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maplestory-wont-open-discover-how-to-correct-the-game-initialization-issue/"><u>MapleStory Won't Open? Discover How to Correct the Game Initialization Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-complete-guide-successfully-launching-valorant-on-pc-tips/"><u>The Complete Guide: Successfully Launching Valorant on PC - Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-11-solutions-to-resolve-the-borderlands-3-wont-start-issue/"><u>Top 11 Solutions to Resolve the 'Borderlands 3 Won't Start' Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-and-get-your-steamvr-up-and-running-again-fast-solutions-inside/"><u>Troubleshoot and Get Your SteamVR Up & Running Again - Fast Solutions Inside</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unraveling-the-mystery-of-eternal-return-the-resilience-saga-continues/"><u>Unraveling the Mystery of 'Eternal Return': The Resilience Saga Continues</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-vpx-film-record-thorough-examination-and-reviews/"><u>[New] 2024 Approved VPX Film Record Thorough Examination & Reviews</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-gaming-glitches-top-8-fixes-to-keep-marvels-guardians-of-the-galaxy-running-smoothly-on-your-pc/"><u>Beat Gaming Glitches: Top 8 Fixes to Keep Marvel's 'Guardians of the Galaxy' Running Smoothly on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bid-farewell-to-delays-the-halo-infinite-update-ensures-fluid-motion/"><u>Bid Farewell to Delays: The Halo Infinite Update Ensures Fluid Motion</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/buzz-into-bluetooth-serenity-20-earscape/"><u>Buzz Into Bluetooth Serenity - $20 Earscape</u></a></li>
+<li><a href="https://program-issues.techidaily.com/end-the-lag-nightmare-ultimate-fixes-to-upgrade-your-fortnite-experience/"><u>End the Lag Nightmare: Ultimate Fixes to Upgrade Your Fortnite Experience</u></a></li>
+<li><a href="https://fox-http.techidaily.com/essential-tips-for-crafting-gifs-for-2024/"><u>Essential Tips for Crafting GIFs for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-xiaomi-13-ultra-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Xiaomi 13 Ultra Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x50i-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Honor X50i Phone with Broken Screen</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-the-online-marketplace-for-profitable-yt-content/"><u>In 2024, Navigating the Online Marketplace for Profitable YT Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-cloud-strategy-expert-recommendations-for-top-20-free-providers/"><u>In 2024, Streamline Your Cloud Strategy Expert Recommendations for Top 20 Free Providers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-geforce-experience-errors-tips-and-solutions-to-keep-it-running-smoothly/"><u>Overcome GeForce Experience Errors: Tips and Solutions to Keep It Running Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-stop-street-fighter-(span-stylefont-sizexx)6(span)-from-crashing-on-your-computer/"><u>Ultimate Guide: Stop Street Fighter <Span Style=font-Size:xx;>6</Span> From Crashing on Your Computer</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/uncomplicated-technique-for-win-os-clown-sound-changes/"><u>Uncomplicated Technique for Win-OS Clown Sound Changes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "No More Crashes in NieR: Gestaltic Reverie – Optimized Gameplay Tips Inside"
-date: 2025-02-12T20:04:18.025Z
-updated: 2025-02-14T17:56:47.940Z
+date: 2025-02-24T16:54:10.140Z
+updated: 2025-03-03T16:53:55.954Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/762eb58aca659c7ab398016eac456ae67d371642f
 4. **[Disable DVR app in Xbox](https://tools.techidaily.com/drivereasy/download/)**
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Install the latest patch
 
@@ -83,20 +79,12 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6c02c345.jpg)
 3. Click the**Options** button and select**Scan and Repair** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fe36d60.jpg)
 4. Click**Begin Scan** , and follow the on-screen instructions to finish. It may take a while.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa7275b199.jpg)
 
 Once finish, restart your game and see if it works properly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable DVR app in Xbox
 
@@ -114,10 +102,6 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3bdbf4aa.jpg)
 4. Click the**Game DVR** tab, and turn it**off** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3e5954b9.png)
 5. Restart your computer and open World of Warcraft to see if it stops crashing.
 
@@ -129,10 +113,6 @@ Here’s what you can do:
 2. Click the**Gaming** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fab18ae4d5.jpg)
 3. Click**Game DVR** on the left, and make sure to turn off**Record** **in the background while I’m playing a game** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b4223cc30.jpg)
 4. Restart your computer and launch World of Warcraft and see if it works.
@@ -159,19 +139,24 @@ Here’s what you can do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-proven-steps-to-enhance-your-facetime-call-experience/"><u>[Updated] Proven Steps to Enhance Your FaceTime Call Experience</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fading-beats-an-fl-studio-approach/"><u>2024 Approved Fading Beats An FL Studio Approach</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-tone-your-vlogs-access-free-sound-tracks/"><u>2024 Approved Tone Your Vlogs Access Free Sound Tracks!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211372500-9781922786883-awaken-your-psychic-ability-updated-edition/"><u>Awaken your Psychic Ability - updated edition | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-and-correcting-windows-restore-error-0x80042306/"><u>Decoding and Correcting Windows Restore Error 0X80042306</u></a></li>
-<li><a href="https://program-issues.techidaily.com/experts-top-6-strategies-to-boost-fps-in-escape-from-tarkov-a-comprehensive-guide/"><u>Expert's Top 6 Strategies to Boost FPS in Escape From Tarkov: A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-v-rising-stability-problems-on-your-computer-easy-tips-and-tricks/"><u>Fixing 'V Rising' Stability Problems on Your Computer - Easy Tips & Tricks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-curve-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Lava Blaze Curve 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-enhancing-visuals-tips-for-shooting-and-editing-slow-motion-content-on-instagram/"><u>In 2024, Enhancing Visuals Tips for Shooting and Editing Slow Motion Content on Instagram</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fixes-overcoming-path-of-exile-stuttering-issues-on-your-pc-or-console/"><u>Quick Fixes: Overcoming Path of Exile Stuttering Issues on Your PC or Console</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-your-issue-with-crossbow-error-code-in-minecraft/"><u>Resolving Your Issue with Crossbow Error Code in Minecraft</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-checklist-for-cross-verifying-health-recommendations-from-ai-entities-such-as-chatgpt/"><u>The Ultimate Checklist for Cross-Verifying Health Recommendations From AI Entities Such as ChatGPT</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-guide-solving-terraria-connectivity-problems-in-6-steps/"><u>The Ultimate Guide: Solving Terraria Connectivity Problems in 6 Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-repairing-nwstoreexe-malfunction-issues/"><u>Troubleshooting and Repairing NW_Store.exe Malfunction Issues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-beyond-saturation-and-contrast-hdrs-role-in-quality-enhancement/"><u>[New] Beyond Saturation and Contrast HDR's Role in Quality Enhancement</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-elevate-viewer-connection-mastering-the-art-of-square-footage-in-videos/"><u>[New] In 2024, Elevate Viewer Connection Mastering the Art of Square Footage in Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-camlock-secure-mounting-clip-for-2024/"><u>[Updated] CamLock Secure Mounting Clip for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-ultimate-guide-to-likes-strategies-for-captivating-tiktok-unboxers/"><u>[Updated] In 2024, The Ultimate Guide to Likes Strategies for Captivating TikTok Unboxers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-master-the-art-of-streaming-pick-from-the-leading-6-cost-free-and-on-demand-short-video-downloads/"><u>[Updated] Master the Art of Streaming Pick From the Leading 6 Cost-Free & On-Demand Short Video Downloads</u></a></li>
+<li><a href="https://program-issues.techidaily.com/5-proven-strategies-to-fix-grounded-crashing-problems-on-your-computer/"><u>5 Proven Strategies to Fix 'Grounded' Crashing Problems on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-troubleshooting-guide-to-stop-ghost-recon-breakpoint-from-freezing/"><u>Effortless Troubleshooting Guide to Stop Ghost Recon Breakpoint From Freezing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-troubleshooting-tips-for-a-functioning-steamvr/"><u>Effortless Troubleshooting Tips for a Functioning SteamVR</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enjoy-uninterrupted-soundscapes-fixing-starfields-audio-playback-issues/"><u>Enjoy Uninterrupted Soundscapes: Fixing Starfield's Audio Playback Issues</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/evaluation-of-fb-video-shapes/"><u>Evaluation of FB Video Shapes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-gta-5-wont-open-a-comprehensive-guide-to-get-you-playing-soon/"><u>Fixes for 'GTA 5 Won't Open': A Comprehensive Guide to Get You Playing Soon</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-iphone-6-password-here-are-the-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Forgot iPhone 6 Password? – Here are the Best Solutions | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2021-error-code-0x800a03ec-by-stellar-guide/"><u>How to Fix Microsoft Excel 2021 Error Code 0x800A03EC?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-successfully-overcome-the-wont-open-dilemma-on-battlenet-users/"><u>How to Successfully Overcome the Won't Open Dilemma on Battle.net Users</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-learn-the-art-of-engaging-video-startups-with-imovie/"><u>In 2024, Learn the Art of Engaging Video Startups with iMovie</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-troubles-helldivers-ii-wont-start-up-solutions-inside/"><u>Steam Troubles: Helldivers II Won't Start Up - Solutions Inside!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-resolving-nwstoreexe-error-quickly-and-efficiently/"><u>Step-by-Step Guide: Resolving NW_StoreExe Error Quickly and Efficiently</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-overcoming-xdk-errors-in-cod-modern-warfare-2/"><u>Step-by-Step Troubleshooting: Overcoming XDK Errors in CoD Modern Warfare 2</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unleash-full-potential-in-windows-11-touch-style/"><u>Unleash Full Potential in Windows 11, Touch Style</u></a></li>
 </ul></div>
 

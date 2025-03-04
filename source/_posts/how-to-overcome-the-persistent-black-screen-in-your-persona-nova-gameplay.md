@@ -1,7 +1,7 @@
 ---
 title: How To Overcome The Persistent Black Screen in Your Persona Nova Gameplay
-date: 2025-02-08T00:44:44.918Z
-updated: 2025-02-15T03:06:37.273Z
+date: 2025-03-03T04:25:40.523Z
+updated: 2025-03-04T06:58:10.640Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ There’re things you can do before trying complicated fixes:
 * Make sure you’ve closed unnecessary background programs
 * Make sure Enlisted are not blocked from your firewall
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -45,10 +41,6 @@ There’re things you can do before trying complicated fixes:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. In the Compatibility tab, click **Run as administrator** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
 
@@ -62,18 +54,10 @@ If it’s not working, move to the next fix.
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Enlisted and check.
 
  If this didn’t solve your problems, read on for further troubleshooting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update graphic driver
 
@@ -93,10 +77,6 @@ If it’s not working, move to the next fix.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
@@ -124,18 +104,18 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-constructing-compelling-channel-overviews/"><u>[New] In 2024, Constructing Compelling Channel Overviews</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-vanguard-of-virtual-fame-instagrams-25-luminaries/"><u>[New] In 2024, The Vanguard of Virtual Fame Instagram's 25 Luminaries</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-ballot-bonanza-prime-election-strategy-games/"><u>[Updated] Ballot Bonanza Prime Election Strategy Games</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-haunting-actions-high-definition-cams-for-2024/"><u>[Updated] Haunting Actions High Definition Cams for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mp3-upload-process-stream-convert-and-share-on-youtube-quickly/"><u>[Updated] MP3 Upload Process Stream, Convert & Share on YouTube Quickly</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-starting-from-scratch-motion-graphics-essentials/"><u>2024 Approved Starting From Scratch Motion Graphics Essentials</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-pewdiepies-annual-net-worth/"><u>2024 Approved Understanding PewDiePie's Annual Net Worth</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-solutions-for-the-evil-genius-2-unable-to-start-problem/"><u>Expert Solutions for the 'Evil Genius 2' Unable to Start Problem</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-embedding-apples-music-in-videos/"><u>In 2024, Embedding Apple's Music in Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-technical-hurdles-stabilizing-minecraft-dungeons-gameplay-on-desktop-computers/"><u>Overcoming Technical Hurdles: Stabilizing Minecraft Dungeons Gameplay on Desktop Computers</u></a></li>
-<li><a href="https://win-best.techidaily.com/simple-and-secure-guide-resolving-the-phantom-windows-11-update-malware/"><u>Simple and Secure Guide: Resolving the Phantom Windows 11 Update Malware</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-fixing-thaumaturge-stability-issues-on-desktop-systems/"><u>Step-by-Step Solutions for Fixing Thaumaturge Stability Issues on Desktop Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-game-crashes-now-expert-fixes-for-gameloop-problems-on-windows-11-and-10/"><u>Stop Game Crashes Now! Expert Fixes For GameLoop Problems On Windows 11 and 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-make-shorts-into-compact-mp4-files/"><u>[New] 2024 Approved How to Make Shorts Into Compact MP4 Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-15-innovative-tools-perfecting-your-virtual-tone/"><u>[New] Top 15 Innovative Tools Perfecting Your Virtual Tone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-bright-future-in-hd-a-fit-or-overstepping-for-hdr/"><u>[Updated] 2024 Approved Bright Future in HD A Fit or Overstepping for HDR?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fia-wrc-10-ultimate-solutions-to-keep-your-game-running-smoothly-without-pc-crashes-step-by-step-guide/"><u>FIA WRC 10: Ultimate Solutions to Keep Your Game Running Smoothly Without PC Crashes - Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-helldivers-ii-pc-crashes-effective-solutions/"><u>Fixing Helldivers II PC Crashes: Effective Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-novice-to-virtuoso-your-guide-to-windows-8-movie-maker-for-2024/"><u>From Novice to Virtuoso Your Guide to Windows 8 Movie Maker for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-rainbow-six-siege-game-servers-error-connections-swiftly/"><u>How To Overcome Rainbow Six Siege Game Servers' Error Connections Swiftly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-tecno-camon-30-pro-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Tecno Camon 30 Pro 5G online without jailbreak</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/maximize-memories-overwatch-game-footage/"><u>Maximize Memories Overwatch Game Footage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/metaplasia-dysplasia-carcinogenesis-sequence/"><u>Metaplasia-Dysplasia-Carcinogenesis Sequence</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-correcting-power-state-failure-issues-in-your-driver-software/"><u>Step-by-Step Solutions for Correcting Power State Failure Issues in Your Driver Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010071357-stop-ghost-recon-breakpoint-crashing-effective-and-easy-troubleshooting-guide/"><u>Stop Ghost Recon Breakpoint Crashing - Effective & Easy Troubleshooting Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-free-mpeg-video-merging-solutions/"><u>Updated The Best Free MPEG Video Merging Solutions</u></a></li>
 </ul></div>
 

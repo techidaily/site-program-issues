@@ -1,7 +1,7 @@
 ---
 title: Facing Continuous Game Crashes in The Ascent on Your Desktop? We Can Help
-date: 2025-02-08T21:28:08.659Z
-updated: 2025-02-15T00:42:30.272Z
+date: 2025-02-25T16:45:51.306Z
+updated: 2025-03-04T11:53:48.608Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ The Ascent
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The system requirements of The Ascent
 
@@ -63,10 +59,6 @@ The Ascent
 6. **[Update MS Visual C++ Redistributables](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 8. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Verify integrity of game files
 
@@ -125,10 +117,6 @@ The Ascent
 ![Run The Ascent with DriectX 11](https://images.drivereasy.com/wp-content/uploads/2021/08/Run-The-Ascent-with-DriectX-11.jpg)
 4. Launch The Ascent and see if this issue persists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If the game still crashes, try the next fix, below.
 
 ## Disable Movie / Film Grain, Depth Of Field, Post-Process Effects
@@ -141,10 +129,6 @@ If the game still crashes, try the next fix, below.
 **`%LOCALAPPDATA%\TheAscent\Saved\Config\WindowsNoEditor`**  
 ![Run dialog](https://images.drivereasy.com/wp-content/uploads/2021/08/Run-dialog.jpg)
 2. Open the file**Engine.ini** in Notepad.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. To disble Moive / Film Grain, add the following and save the file:  
 
@@ -178,10 +162,6 @@ If the game still crashes, try the next fix, below.
 
  If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Temporarily disable anti-virus software
 
  Some 3rd party antivirus software would interfere with the game, and may even block the game files. Sometimes it may also lead to the game crashing issues.
@@ -200,26 +180,14 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
@@ -260,18 +228,20 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-decoding-the-revised-youtube-earnings-criteria/"><u>[Updated] In 2024, Decoding the Revised YouTube Earnings Criteria</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/comment-compresser-efficacement-un-fichier-mp4-pour-une-meilleure-performance-et-qualite-visuelle/"><u>Comment Compresser Efficacement Un Fichier MP4 Pour Une Meilleure Performance Et Qualité Visuelle</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/enhance-every-shot-with-smart-camera-accessories/"><u>Enhance Every Shot with Smart Camera Accessories</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/examining-the-safety-of-ais-like-chatgpt/"><u>Examining the Safety of AI's Like ChatGPT</u></a></li>
-<li><a href="https://program-issues.techidaily.com/gastric-decontamination-methods-like-activated-charcoal-may-reduce-absorption-of-ingested-poisons-but-are-not-always-appropriate-or-effective/"><u>Gastric Decontamination Methods Like Activated Charcoal May Reduce Absorption of Ingested Poisons but Are Not Always Appropriate or Effective</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-nokia-xr21-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Nokia XR21 Devices</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-6-plus-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 6 Plus Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-solution-resolving-lost-ark-cannot-connect-to-server-challenges/"><u>Master the Solution: Resolving 'Lost Ark Cannot Connect to Server' Challenges</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-fix-effective-remedies-for-fallout-3-not-working-insights/"><u>Mastering the Fix: Effective Remedies for Fallout 3 Not Working - Insights</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-your-system-reducing-excessive-cpu-demand-from-recent-updates/"><u>Optimizing Your System: Reducing Excessive CPU Demand From Recent Updates</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/skype-voice-to-mp3-the-economical-choice/"><u>Skype Voice to MP3 The Economical Choice</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723012309954-tower-of-fantasy-stability-improved-no-more-pc-crashing-issues/"><u>Tower of Fantasy Stability Improved - No More PC Crashing Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solutions-for-geforce-experience-crashes-learn-how-to-stay-in-control/"><u>Troubleshooting and Solutions for GeForce Experience Crashes - Learn How to Stay in Control</u></a></li>
+<li><a href="https://program-issues.techidaily.com/days-gone-the-ultimate-survival-horror-game-drops-today-get-ready-to-ride-on-your-pc/"><u>'Days Gone': The Ultimate Survival Horror Game Drops Today – Get Ready to Ride on Your PC</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-online-marketplaces-for-partnering-with-youtube-content-makers/"><u>[Updated] In 2024, Online Marketplaces for Partnering With YouTube Content Makers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-mac-users-guide-to-snapchat-integration/"><u>[Updated] Mac Users' Guide to Snapchat Integration</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-ignite-engagement-on-tiktok-explore-the-best-20-caption-ideas/"><u>2024 Approved Ignite Engagement on TikTok - Explore the Best 20 Caption Ideas</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/borate-for-success-video-strategies-for-2024/"><u>Collaborate for Success Video Strategies for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/discord-camera-not-working-heres-how-to-get-it-back-on-track/"><u>Discord Camera Not Working? Here's How to Get It Back on Track!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-issues-encountered-with-clownfish-sound-changers/"><u>Effective Fixes for Issues Encountered With Clownfish Sound Changers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-stutters-and-increase-frame-rates-in-call-of-duty-warzone-a-comprehensive-guide/"><u>Eliminate Stutters & Increase Frame Rates in Call of Duty: Warzone - A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-free-gaming-solving-the-steam-locked-content-dilemma/"><u>Error-Free Gaming: Solving the Steam Locked Content Dilemma</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/fix-your-windows-server-201n-uefi-boot-issues-with-these-expert-tips/"><u>Fix Your Windows Server 201N UEFI Boot Issues with These Expert Tips!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-virtual-impression-sculpting-a-playful-digital-identity/"><u>In 2024, Virtual Impression Sculpting a Playful Digital Identity</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-hooked-up-instantly-and-easily/"><u>Printer Hooked Up Instantly & Easily</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-oculus-rift-s-mic-in-minutes-with-these-5-troubleshooting-steps/"><u>Revive Your Oculus Rift S Mic in Minutes with These 5 Troubleshooting Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-fixing-unresponsive-logitech-options-in-windows/"><u>Troubleshooting Steps: Fixing Unresponsive Logitech Options in Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/twitch-trouble-here-are-7-fixes-for-when-streams-arent-loading-correctly/"><u>Twitch Trouble? Here Are 7 Fixes for When Streams Aren't Loading Correctly</u></a></li>
 </ul></div>
 

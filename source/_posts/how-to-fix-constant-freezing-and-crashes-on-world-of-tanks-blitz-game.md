@@ -1,7 +1,7 @@
 ---
 title: How to Fix Constant Freezing and Crashes on World of Tanks Blitz Game
-date: 2024-08-06T09:47:31.914Z
-updated: 2024-08-07T09:47:31.914Z
+date: 2025-03-03T08:05:52.993Z
+updated: 2025-03-04T09:36:16.819Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
 
 ## Easy Fixes for World of Warcraft Crashes - No More Gaming Interruptions
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b4d2c4a74.jpg)
 
  Word of Warcraft (**WOW** )**keeps crashing** in your computer, and sometimes with a black screen? Don’t panic! You can fix the crashing issues on WOW.
@@ -57,15 +54,9 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b336957ab.jpg)
 3. Click the**Update** button next to the flagged video card to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b351ec11a.jpg)
 4. Restart your computer to take effect.
 
@@ -83,16 +74,10 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 3. Click the**Options** button and select**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fe36d60.jpg)
 4. Click**Begin Scan** , and follow the on-screen instructions to finish. It may take a while.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa7275b199.jpg)
 
 Once finish, restart your game and see if it works properly.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Fix 4: Disable DVR app in Xbox
 
  Windows automatically enables DVR in Xbox app, but sometimes this is incompatible with games running in your computer. So you can disable DVR in Xbox, so World of Warcraft stops crashing.
@@ -102,17 +87,11 @@ Here’s what you can do:
 **If you’re using Windows 10 Build 14393 and earlier:**
 
 1. Search**Xbox** from the search box on your desktop, and click**Xbox** to open it.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3940d874.jpg)
 2. You’ll need to log into your Microsoft account if it’s the first time you open it. If that’s the case, enter your Microsoft account to log in.
 3. Click the**Gear** button on the left to open**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3bdbf4aa.jpg)
 4. Click the**Game DVR** tab, and turn it**off** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3e5954b9.png)
 5. Restart your computer and open World of Warcraft to see if it stops crashing.
 
@@ -122,9 +101,6 @@ Here’s what you can do:
 
 1. On your keyboard, press the**Windows logo key** and**I** to open **Settings** .
 2. Click the**Gaming** section.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fab18ae4d5.jpg)
 3. Click**Game DVR** on the left, and make sure to turn off**Record** **in the background while I’m playing a game** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b4223cc30.jpg)
@@ -143,11 +119,31 @@ Here’s what you can do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-ultimate-win10-strategy-for-successful-zoom-sessions/"><u>[New] In 2024, The Ultimate Win10 Strategy for Successful Zoom Sessions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-code-23-no-more-expert-tips-for-a-smooth-apex-legends-gaming-experience/"><u>Error Code 23 No More: Expert Tips for a Smooth Apex Legends Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-to-fixing-voice-chat-glitches-in-among-us-for-pc-users/"><u>Expert Guide to Fixing Voice Chat Glitches in Among Us for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-launch-errors-for-armored-core-vi-fires-of-rubicon-players-experience/"><u>Fixing Launch Errors for Armored Core VI: Fires of Rubicon Players Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guida-completa-e-analisi-di-freemake-video-converter/"><u>Guida Completa E Analisi Di Freemake Video Converter</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-free-up-space-on-your-hard-drive-in-windows-1011-without-losing-any-data-a-step-by-step-guide/"><u>How to Free Up Space on Your Hard Drive in Windows 10/11 without Losing Any Data: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-smartphone-compatible-vr-top-10-devices/"><u>In 2024, Smartphone-Compatible VR Top 10 Devices</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-amazon-luna-smooth-performance-in-cloud-gaming-reviewed/"><u>In-Depth Look at Amazon Luna: Smooth Performance in Cloud Gaming Reviewed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-your-rig-for-flawless-play-addressing-stutters-and-lags-in-video-game-v/"><u>Optimize Your Rig for Flawless Play: Addressing Stutters and Lags in Video Game V</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-resolving-winwordexe-errors-in-seconds/"><u>Quick Solutions: Resolving WINWORD.EXE Errors in Seconds</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-call-of-duty-vanguard-error-n-code-0x00001338-on-pc-fix-guide/"><u>Resolve Call of Duty: Vanguard Error N Code 0X00001338 on PC - Fix Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-detroit-game-issues-experience-the-perfect-run-on-windows-machine/"><u>Solved Detroit Game Issues: Experience the Perfect Run on Windows Machine</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/step-by-step-guide-to-creating-a-split-screen-montage/"><u>Step-by-Step Guide to Creating a Split Screen Montage</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-the-premier-vpn-services-of-2024-in-depth-analysis-and-ratings-cnet/"><u>Ultimate Guide to the Premier VPN Services of 2024: In-Depth Analysis and Ratings | CNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-extravagance-how-a-3000-dell-gaming-powerhouse-transformed-my-tech-expectations-a-deep-dive-review-by-zdnet/"><u>Unleashing Extravagance: How a $3,000 Dell Gaming Powerhouse Transformed My Tech Expectations - A Deep-Dive Review by ZDNet</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-best-photo-slideshow-maker-how-to-make-a-photo-slideshow/"><u>Updated In 2024, Best Photo Slideshow Maker How to Make a Photo Slideshow</u></a></li>
+<li><a href="https://program-issues.techidaily.com/usda-economic-research-service-nd-glyphosate-usage-in-us-crops-retrieved-from-httpswwwersusdagovwebdocspuptwg127045htmsthashocj6ztm9dpuf/"><u>USDA Economic Research Service (N.d.). Glyphosate Usage in U.S. Crops. Retrieved From https://www.ers.usda.gov/webdocs/PUPTWG/127045.htm#sthash.Ocj6zTm9.dpuf</u></a></li>
+</ul></div>
+

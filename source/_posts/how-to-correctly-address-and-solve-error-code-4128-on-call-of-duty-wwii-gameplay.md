@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address and Solve Error Code 4128 on Call of Duty WWII Gameplay
-date: 2025-02-12T18:04:15.079Z
-updated: 2025-02-14T16:11:27.862Z
+date: 2025-03-03T10:56:06.915Z
+updated: 2025-03-04T10:05:04.674Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -47,10 +43,6 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 1. Launch the Battle.net app.
 2. Select**Call of Duty Vanguard** from the top pane. Click the**gear icon** next to the Play button and click**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait for the process to complete. Then restart the game to check if the issue persists. If Yes, continue to the next solution.
 
@@ -82,17 +74,9 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Don’t end any programs you’re not familiar with, as they may be critical to the functioning of your computer.
 
  Launch the game to see if you’re able to play it normally. If not, there’s one more fix you can try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Repair corrupt system files
 
@@ -104,10 +88,6 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
@@ -135,18 +115,22 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-rhythm-raiders-your-guide-to-downloading-skype-melodies/"><u>[New] In 2024, Rhythm Raiders Your Guide to Downloading Skype Melodies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/assassins-creed-valhalla-stability-enhancement-say-goodbye-to-pc-crashes/"><u>Assassin's Creed Valhalla Stability Enhancement - Say Goodbye to PC Crashes!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battlenet-troubleshooting-guide-addressing-non-responsive-launcher-issues-on-windows-os/"><u>Battle.net Troubleshooting Guide: Addressing Non-Responsive Launcher Issues on Windows OS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-guide-to-resolve-constant-crashes-of-alien-fireteam-elite-on-pc/"><u>Expert Guide to Resolve Constant Crashes of Alien: Fireteam Elite on PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oneplus-nord-3-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring OnePlus Nord 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-the-heart-of-video-editing-filmoras-favorites/"><u>In 2024, The Heart of Video Editing Filmora's Favorites</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-video-editing-made-easy-top-free-software-for-32-bit-windows/"><u>In 2024, Video Editing Made Easy Top Free Software for 32-Bit Windows</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtubing-into-visual-wonders-learn-from-greenscreen-pros/"><u>In 2024, Youtubing Into Visual Wonders – Learn From Greenscreen Pros</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-insights/"><u>Navigating the World of Gadgets with Tom's Hardware Insights</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-solving-the-rainbow-six-siege-game-launch-issue/"><u>Resolved: Solving the Rainbow Six Siege Game Launch Issue</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/sideways-vids-phenomenon-anomaly-or-feature-on-instagram/"><u>Sideways Vids Phenomenon Anomaly or Feature on Instagram?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-v-rising-game-crashes-on-windows/"><u>Ultimate Guide: Resolving V-Rising Game Crashes on Windows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-streamlining-presentations-captivate-techniques/"><u>[New] 2024 Approved Streamlining Presentations Captivate Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-quicktime-stall-capture-help/"><u>[Updated] In 2024, QuickTime Stall Capture Help</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-transform-your-phone-with-funimate-the-ultimate-apk-guide/"><u>[Updated] In 2024, Transform Your Phone with Funimate - The Ultimate APK Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-essential-12-pc-clicker-games-to-elevate-gameplay/"><u>2024 Approved Essential 12 PC Clicker Games to Elevate Gameplay</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dragons-dogma-2-optimization-tips-overcoming-fps-lags-and-smoothing-out-hitches/"><u>Dragon's Dogma 2 Optimization Tips: Overcoming FPS Lags & Smoothing Out Hitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-gameplay-in-gta-5-by-resolving-fps-drops-fast-and-efficiently/"><u>Enhance Gameplay in GTA 5 by Resolving FPS Drops Fast & Efficiently</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-persistent-crash-issues-in-world-of-tanks-blitz-mobile-game/"><u>Fixing Persistent Crash Issues in World of Tanks Blitz Mobile Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-troubleshooting-saints-rows-failed-startup-on-windows/"><u>Fixing the Issue: Troubleshooting Saints Row's Failed Startup on Windows</u></a></li>
+<li><a href="https://article-files.techidaily.com/funnyframefinder-your-source-for-meme-creation-online-for-2024/"><u>FunnyFrameFinder Your Source for Meme Creation Online for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-black-ops-cold-war-error-0xc0000005-step-by-step-guide/"><u>How to Fix Black Ops: Cold War 'Error 0xC0000005' - Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/price-comparison-showdown-can-hisense-match-samsungs-frame-quality-for-less/"><u>Price Comparison Showdown: Can Hisense Match Samsung's Frame Quality for Less?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-issue-playing-ready-or-not-without-a-hitch-on-your-pc/"><u>Resolved Issue: Playing 'Ready or Not' Without a Hitch on Your PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-driver-update-process-for-brother-mfc-7360n-on-windows-tips-and-tricks/"><u>Seamless Driver Update Process for Brother MFC-7360N on Windows - Tips & Tricks!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/0-student-friendly-history-yt-series/"><u>Top 10 Student-Friendly History YT Series</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-does-outpost-infinity-siege-keep-crashing-and-how-to-fix-it/"><u>Troubleshooting Guide: Why Does Outpost: Infinity Siege Keep Crashing and How to Fix It?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-stop-assassins-creed-odyssey-from-freezing-on-your-pc-updated-guide/"><u>Troubleshooting Steps to Stop Assassin's Creed Odyssey From Freezing on Your PC (Updated Guide)</u></a></li>
 </ul></div>
 

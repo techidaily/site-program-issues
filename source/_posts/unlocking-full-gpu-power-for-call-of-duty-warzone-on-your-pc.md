@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Full GPU Power for Call of Duty: Warzone on Your PC"
-date: 2025-02-11T22:19:27.674Z
-updated: 2025-02-15T01:16:56.494Z
+date: 2025-02-26T10:10:31.663Z
+updated: 2025-03-04T03:36:17.810Z
 tags:
   - win11
   - win10
@@ -51,10 +51,6 @@ wireless router
 
  Now check if the error goes away. If not, take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2 – Update your graphics driver
 
  An outdated or faulty graphics driver will also trigger Warzone dev error 6328\. If you can’t remember the last time you updated your device drivers, definitely do it now as this could make a big difference to your gaming experience.
@@ -67,10 +63,6 @@ wireless router
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
@@ -92,10 +84,6 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
 
 ### Fix 4 – Increase virtual memory
@@ -109,10 +97,6 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 
@@ -121,10 +105,6 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
@@ -147,15 +127,7 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings1.jpg)
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
 
@@ -181,17 +153,24 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twittersphere-treasures-primes-top-watchers-and-likes/"><u>[New] In 2024, Twittersphere Treasures Prime’s Top Watchers & Likes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminating-issues-steps-to-keep-elite-dangerous-running-smoothly-on-a-pc/"><u>Eliminating Issues: Steps to Keep Elite Dangerous Running Smoothly on a PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-splitgate-playability-fixing-issues-with-low-frames-and-stuttering-effects/"><u>Enhancing Splitgate Playability: Fixing Issues with Low Frames and Stuttering Effects</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/honor-data-recovery-recover-lost-data-from-honor-x7b-by-fonelab-android-recover-data/"><u>Honor Data Recovery – recover lost data from Honor X7b</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-lava-agni-2-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Lava Agni 2 5G</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-twitters-hot-talk-hustle-1-10-viral-visits/"><u>In 2024, Twitter's Hot Talk Hustle #1-#10 Viral Visits</u></a></li>
-<li><a href="https://program-issues.techidaily.com/masterclass-on-fixing-application-malfunctions-from-teardown-to-recovery/"><u>Masterclass on Fixing Application Malfunctions: From Teardown to Recovery</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/revealing-hidden-social-exchanges-in-yt-discussions/"><u>Revealing Hidden Social Exchanges in YT Discussions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tips-for-fixing-auto-switch-functionality-in-your-airpods-on-different-ios-devices/"><u>Tips for Fixing Auto-Switch Functionality in Your AirPods on Different iOS Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-phasmophobia-vr-gameplay-issues/"><u>Troubleshooting Guide: Resolving Phasmophobia VR Gameplay Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-keeping-call-of-dutys-modern-warfare-smoothly-running-on-pc-systems-now/"><u>Troubleshooting Tips: Keeping Call of Duty's Modern Warfare Smoothly Running on PC Systems Now</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-inside-the-best-windows-10-features-for-2024/"><u>[New] Inside the Best Windows 10 Features for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-best-free-youtube-ending-creators-top-6-picks/"><u>[Updated] In 2024, Best Free YouTube Ending Creators - Top 6 Picks!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-revive-your-iphone-ipad-and-macs-airdrop-functionality-with-quick-tips/"><u>[Updated] Revive Your iPhone, iPad & Mac's Airdrop Functionality with Quick Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-balancing-act-lowering-audio-levels/"><u>2024 Approved Balancing Act Lowering Audio Levels</u></a></li>
+<li><a href="https://program-issues.techidaily.com/accelerate-your-progress-efficient-strategies-for-shader-improvement-in-star-wars-battlefront-ii/"><u>Accelerate Your Progress: Efficient Strategies for Shader Improvement in Star Wars Battlefront II</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battle-strategies-to-overcome-tw3s-crash-woes-in-your-gaming-quest/"><u>Battle Strategies to Overcome TW3's Crash Woes in Your Gaming Quest</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boosting-horizon-zero-dawns-speed-tips-for-higher-fps-and-superior-play-experience/"><u>Boosting Horizon Zero Dawn's Speed - Tips for Higher FPS and Superior Play Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-the-subtle-changes-in-the-latest-addition-to-the-galaxy-s-series-the-s21/"><u>Discovering the Subtle Changes in the Latest Addition to the Galaxy S Series - The S21</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-oppo-find-x7-ultra-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-fixing-unresponsive-camera-feature-on-snap-devices/"><u>Guide to Fixing Unresponsive Camera Feature on Snap Devices</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-xs-max-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone XS Max to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-tecno-pova-6-pro-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Tecno Pova 6 Pro 5G</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-future-of-filming-xs-100is-bold-journey/"><u>In 2024, The Future of Filming XS 100I's Bold Journey</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximizing-your-gaming-experience-fixing-gpu-underutilization-in-cyberpunk-2077-for-windows-11-users/"><u>Maximizing Your Gaming Experience: Fixing GPU Underutilization in Cyberpunk 2077 for Windows 11 Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-lag-proven-strategies-for-increasing-fps-in-valorant-2024s-best-fixes/"><u>Say Goodbye to Lag: Proven Strategies for Increasing FPS in Valorant - 2024'S Best Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/smooth-sailing-in-the-wasteland-preventing-fallout-3-crashes-on-your-windows-11-pc/"><u>Smooth Sailing in the Wasteland: Preventing Fallout 3 Crashes on Your Windows 11 PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/speeding-up-your-gameplay-in-assassins-creed-valhalla-fix-the-lags-swiftly/"><u>Speeding Up Your Gameplay in Assassin's Creed Valhalla: Fix the Lags Swiftly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-enhancing-game-performance-by-eliminating-stutters-and-increasing-fps-in-call-of-duty-warzone/"><u>Ultimate Guide: Enhancing Game Performance by Eliminating Stutters & Increasing FPS in Call of Duty: Warzone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-mod-video-editing-on-a-budget-top-5-free-options/"><u>Updated MOD Video Editing on a Budget Top 5 Free Options</u></a></li>
 </ul></div>
 

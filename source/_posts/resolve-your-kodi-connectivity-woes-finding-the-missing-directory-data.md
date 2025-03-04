@@ -1,7 +1,7 @@
 ---
 title: "Resolve Your Kodi Connectivity Woes: Finding the Missing Directory Data"
-date: 2025-01-27T01:22:03.299Z
-updated: 2025-01-31T21:15:59.252Z
+date: 2025-02-28T09:23:04.692Z
+updated: 2025-03-03T16:22:51.941Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 
  The following screenshots are taken from Windows 10, but it’s also applicable to other Windows operating systems.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1 Allow access to your microphone
 
  If your computer doesn’t grant access to the use of a microphone, no app will be able to capture your voice. In other words, you need to allow your system and application to access your microphone.
@@ -55,10 +51,6 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Try to use the microphone on OBS again to see if it works. If not, move on to have another try.
 
 ---
@@ -67,25 +59,13 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 
  Sometimes, OBS mic working issues may happen due to inappropriate sound settings on your computer. Therefore, try to adjust them following the instructions below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Unmute OBS on your computer
 
 1. Right-click the**speaker icon** in the bottom-right corner of your taskbar. And click**Open Volume Mixer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working9.jpg)
 2. Click the**speaker icon** under OBS to unmute it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working22.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Set the target audio device as default & Increase microphone volume
 
@@ -99,10 +79,6 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working13.jpg)
 4. Right-click it again and select**Set as Default Device** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working15.jpg)
 5. Right-click it again and select**Properties** .  
 
@@ -113,10 +89,6 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 7. Click**OK** again.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working25.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Check if mic Exclusive Mode is on
 
@@ -169,17 +141,9 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working19.jpg)
 4. Click**Apply** and**OK** on the bottom-right corner.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Use your microphone to check whether the problem is solved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5 Reinstall OBS
 
@@ -205,10 +169,6 @@ Use your microphone to check whether the problem is solved.
 1. Click**Help** in the navigation bar. Click**Log Files** and**Upload Last Log File** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working5.jpg)
 2. Then you’ll be prompted to a pop-up window. Click**Copy URL** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working4.png)
 3. Visit[**OBS Analyzer web page**](https://obsproject.com/tools/analyzer) . Paste the URL and click**Analyze** .  
@@ -238,22 +198,24 @@ Use your microphone to check whether the problem is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-top-30-webcams-elevating-audio-quality/"><u>[New] In 2024, Top 30 Webcams Elevating Audio Quality</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-seamless-audio-transfer-best-iphone-tools-for-youtube-to-mp3/"><u>[Updated] In 2024, Seamless Audio Transfer Best iPhone Tools for YouTube-to-MP3</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722994160862-ghostwire-tokyo-on-pc-say-goodbye-to-crashes-and-enjoy-seamless-gaming/"><u>Ghostwire: Tokyo on PC – Say Goodbye to Crashes and Enjoy Seamless Gaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-troubleshoot-and-repair-finals-error-code-tfal0002/"><u>How To Troubleshoot and Repair Finals Error Code TFAL0002</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-stability-overcome-technical-glitches-in-total-war-saga-troy-for-pc-gamers/"><u>Mastering Stability: Overcome Technical Glitches in Total War Saga: Troy for PC Gamers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-motorola-edge-40-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Motorola Edge 40</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-internet-explorer-no-longer-works-error-a-step-by-step-guide/"><u>Resolving 'Internet Explorer No Longer Works' Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/secure-your-exclusive-10-savings-on-thevideopool-premium-access-until-august-1st-subscribe-now/"><u>Secure Your Exclusive 10% Savings on TheVideoPool Premium Access Until August 1St - Subscribe Now!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steam-remote-play-not-working-try-these-fixes/"><u>Steam Remote Play Not Working? Try These Fixes!</u></a></li>
-<li><a href="https://games-able.techidaily.com/switch-off-discords-overlay-feature/"><u>Switch Off Discord’s Overlay Feature</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-new-era-of-creating-collective-photographic-works-with-picshot/"><u>The New Era of Creating Collective Photographic Works with Picshot</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-palworlds-session-error-during-searches-expert-tips/"><u>Troubleshooting PalWorld's Session Error During Searches – Expert Tips</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-guide-resolving-pc-game-crashes/"><u>Ultimate Guide: Resolving PC Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-solution-for-the-2024-civilization-vi-access-violation-fixed-with-civ-6-update/"><u>Ultimate Solution for the 2024 Civilization VI Access Violation Fixed with Civ 6 Update</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unstuck-your-watch-dogs-legion-from-endless-loading-complete-fix-guide/"><u>Unstuck Your Watch Dogs: Legion From Endless Loading - Complete Fix Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-most-recent-ipad-release-and-features/"><u>Unveiling the Most Recent iPad Release and Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44ot44oh44kq44kz44oz44oq44o844oi44gn44k144kk44k644oa44km44oz44cb5pcn5asx44gq44gx44gr5a6f54plusplus44gz44kl5pa55rov/"><u>ビデオコンバートでサイズダウン、損失なしに実現する方法</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-harmonic-hits-how-to-choose-the-perfect-song-for-ig-videos/"><u>[New] 2024 Approved Harmonic Hits How to Choose the Perfect Song for IG Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-amp-up-your-sessions-with-essential-tips-from-zooms-changer-suite/"><u>[New] In 2024, Amp Up Your Sessions with Essential Tips From Zoom's Changer Suite</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-mastermind-mind-games-trivia-channel-hunt-for-24/"><u>[New] Mastermind Mind Games - Trivia Channel Hunt for '24</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unleash-potential-our-picks-for-the-most-inspiring-films/"><u>[New] Unleash Potential Our Picks for the Most Inspiring Films</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211152150-9781739495657-5th-dimensional-earth/"><u>5th Dimensional Earth | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-the-blues-fixing-continuous-kinect-xbox-f1-2021-pc-game-crashes/"><u>Banish the Blues: Fixing Continuous Kinect Xbox F1 2021 PC Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diy-guide-to-improve-blurry-graphics-in-call-of-duty-warzone-while-gaming-on-pc/"><u>DIY Guide to Improve Blurry Graphics in Call of Duty: Warzone While Gaming on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-fixes-to-tackle-discord-javascripter-bugs/"><u>Effortless Fixes to Tackle Discord JavaScripter Bugs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-oculus-display-problems-updating-your-graphics-card-software/"><u>Fixing Oculus Display Problems - Updating Your Graphics Card Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/google-chrome-crash-woes-here-are-effortless-remedies/"><u>Google Chrome Crash Woes? Here Are Effortless Remedies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/navigating-through-srt-freeze-in-adobe-premiere-projects/"><u>Navigating Through SRT Freeze in Adobe Premiere Projects</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-assassins-creed-mirage-crash-issues-expert-fixes-and-tricks/"><u>Solve Assassin's Creed Mirage Crash Issues | Expert Fixes & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-house-flipper-2-pc-crash-issues-a-comprehensive-guide/"><u>Solving 'House Flipper 2' PC Crash Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-silent-anthem-issue-restore-audio-on-windows-11/"><u>Solving the Silent Anthem Issue: Restore Audio on Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-solution-uncovered-bypassing-overwatchs-initial-black-screen-glitch/"><u>The Solution Uncovered: Bypassing Overwatch's Initial Black Screen Glitch</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/top-5-ultimate-camera-and-video-recording-apps-iphoneandroid-edition/"><u>Top 5 Ultimate Camera & Video Recording Apps IPhone/Android Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-priced-lenovo-notebooks-ideal-for-hybrid-professionals-save-1k-on-our-picks-zdnet/"><u>Top-Priced Lenovo Notebooks Ideal for Hybrid Professionals - Save $1K on Our Picks | ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-repairing-dota-2-game-crashes-a-comprehensive-guide/"><u>Troubleshooting and Repairing Dota 2 Game Crashes: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-purchase-post-apples-iphone-13-and-15-pro-retirement-expert-recommendations-tech-insights/"><u>What to Purchase Post-Apple's iPhone 13 and 15 Pro Retirement - Expert Recommendations | Tech Insights</u></a></li>
 </ul></div>
 

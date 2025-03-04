@@ -1,7 +1,7 @@
 ---
 title: "Mastering Diablo IV Performance: Top 7 Tactics to Fix Game-Crashing Problems"
-date: 2025-02-13T00:58:22.865Z
-updated: 2025-02-15T01:09:46.418Z
+date: 2025-02-25T04:00:25.504Z
+updated: 2025-03-03T23:48:14.020Z
 tags:
   - win11
   - win10
@@ -37,10 +37,6 @@ GTFO
 5. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Install the latest game patch
 
  10 Chambers, the developers of GTFO, releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -48,10 +44,6 @@ GTFO
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run GTFO and see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -74,16 +66,8 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -101,10 +85,6 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
@@ -166,10 +146,6 @@ There are mainly two methods for you to update the graphics driver:
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 Launch GTFO to see you can play it smoothly.
@@ -197,24 +173,16 @@ Launch GTFO to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/1722993760887-solved-red-dead-redemption-2-wont-launch/"><u>[SOLVED] Red Dead Redemption 2 Won’t Launch</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unlock-likes-by-perfecting-your-square-video-presentation/"><u>[Updated] Unlock Likes by Perfecting Your Square Video Presentation</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013157988-cyberpunk-2077-overcoming-freeze-up-solutions-and-fixes/"><u>Cyberpunk 2077 Overcoming Freeze-Up: Solutions & Fixes!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/empowering-user-engagement-through-cookiebot-analytics-solutions/"><u>Empowering User Engagement Through Cookiebot Analytics Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-back-4-blood-gobi-glitch-on-unreal-engine-4/"><u>Fixing Back 4 Blood Gobi Glitch on Unreal Engine 4</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013692194-fortnite-login-woes-discover-fast-and-simple-fixes-now/"><u>Fortnite Login Woes? Discover Fast and Simple Fixes Now!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-xiaomi-mix-fold-3-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Xiaomi Mix Fold 3 Data? | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-latest-trends-in-mobile-viewing-android-edition-vr360/"><u>In 2024, Latest Trends in Mobile Viewing - Android Edition (VR/360)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-the-novices-route-to-revenue-in-the-youtube-realm/"><u>In 2024, The Novice's Route to Revenue in the YouTube Realm</u></a></li>
-<li><a href="https://program-issues.techidaily.com/in-depth-strategies-to-repair-software-collapse-a-full-guide/"><u>In-Depth Strategies to Repair Software Collapse - A Full Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/key-fact-5-quantitative-analysis-mass-spectrometry-not-only-provides-qualitative-data-but-also-allows-for-the-quantification-of-substances-within-a-sample-b27/"><u>Key Fact #5: Quantitative Analysis - Mass Spectrometry Not only Provides Qualitative Data but Also Allows for the Quantification of Substances Within a Sample Based on Peak Intensities.</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-common-obstacles-restarting-your-logitech-c920-webcam-functionality/"><u>Overcoming Common Obstacles: Restarting Your Logitech C920 Webcam Functionality</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-clearing-up-the-fuzzy-graphics-in-outriders/"><u>Resolved: Clearing Up the Fuzzy Graphics in Outriders</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-guide-retrieving-data-from-a-failed-internal-hdd/"><u>Step-by-Step Guide: Retrieving Data From a Failed Internal HDD</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-introduction-the-art-of-green-screening/"><u>Swift Introduction The Art of Green Screening</u></a></li>
-<li><a href="https://program-issues.techidaily.com/trouble-free-pc-gaming-fixing-continuous-crashes-in-guilty-gear-strive/"><u>Trouble-Free PC Gaming: Fixing Continuous Crashes in Guilty Gear Strive</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-escape-from-tarkov-connection-drops/"><u>Troubleshooting Steps for Escape From Tarkov Connection Drops</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-warzone-cant-locate-games-issue-on-windows/"><u>Troubleshooting Steps: Resolving 'Warzone Can't Locate Games' Issue on Windows</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-v30-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-peek-behind-the-curtain-of-hidden-youtube-videos/"><u>[Updated] In 2024, How to Peek Behind the Curtain of Hidden YouTube Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-leading-8-software-for-linux-video-editors-for-2024/"><u>[Updated] Leading 8 Software for Linux Video Editors for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-immutable-energy-states-in-windows-11/"><u>Bypassing Immutable Energy States in Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-causes-of-chatgpts-intermittent-availability-and-how-users-can-adapt/"><u>Exploring the Causes of ChatGPT's Intermittent Availability and How Users Can Adapt</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-fixes-for-call-of-duty-modern-warfare-2-bypassing-directx-complications/"><u>Mastering Fixes for Call of Duty Modern Warfare 2 - Bypassing DirectX Complications</u></a></li>
+<li><a href="https://driver-download.techidaily.com/mastering-lenovo-ideapad-100-performance-enhancements-essential-driver-downloads-and-updates-for-windows-10/"><u>Mastering Lenovo IdeaPad 100 Performance Enhancements – Essential Driver Downloads & Updates for Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigating-issues-with-avatar-frontiers-of-pandora-a-comprehensive-guide-to-solve-pc-game-crashes/"><u>Navigating Issues with Avatar Frontiers of Pandora - A Comprehensive Guide to Solve PC Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-no-compatible-driver-or-hardware-error-in-rainbow-six-extraction-a-step-by-step-guide/"><u>Resolving 'No Compatible Driver or Hardware' Error in Rainbow Six Extraction - A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989913932-stardew-valley-wont-start-follow-these-steps-to-get-it-running-again/"><u>Stardew Valley Won’t Start? Follow These Steps to Get It Running Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-smooth-gaming-expert-tricks-for-fixing-lag-and-elevating-fps-on-valorant/"><u>Unlock Smooth Gaming: Expert Tricks for Fixing Lag and Elevating FPS on VALORANT</u></a></li>
 </ul></div>
 

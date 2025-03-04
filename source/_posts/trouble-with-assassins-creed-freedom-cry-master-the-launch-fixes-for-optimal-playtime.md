@@ -1,7 +1,7 @@
 ---
 title: Trouble with Assassin’s Creed Freedom Cry? Master the Launch Fixes for Optimal Playtime
-date: 2025-02-08T00:34:58.124Z
-updated: 2025-02-14T18:55:39.871Z
+date: 2025-02-26T05:51:34.374Z
+updated: 2025-03-04T09:29:29.593Z
 tags:
   - win11
   - win10
@@ -65,10 +65,6 @@ The executable for the game is located in:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select the Compatibility tab and tick the box next to**Run this program in compatibility mode for:** and select your previous operating system. Then tick**Run this program as an administrator** . Click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/compatibility.jpg)
@@ -103,10 +99,6 @@ There are two ways for you to update your drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/AMD-driver-downloads-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you’ve downloaded the correct drivers for your system, double click the downloaded file and follow the on-screen instructions to install the driver. After that, restart your computer for the changes to take effect.
 
 #### Option 2: Update your graphics driver automatically (Recommended)
@@ -134,10 +126,6 @@ There are two ways for you to update your drivers:
 4) Restart your PC and launch Witcher 3 again to test the issue.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of game files
 
@@ -169,10 +157,6 @@ There are two ways for you to update your drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type the command:**sfc /scannow** in the window and hit**Enter** .
 
 sfc /scannow
@@ -188,10 +172,6 @@ sfc /scannow
 
  If you receive neither of these messages, you can click **[Microsoft Support Page](https://support.microsoft.com/en-us/help/929833/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system)**  to further fix your problem with File Checker Tool.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Disable in-game overlay
 
  Sometimes in-game overlay can screw over your game and your Witcher 3 not launching issue may be caused by this feature. The game simply takes a lot of time to react when the overlay is on.
@@ -206,10 +186,6 @@ sfc /scannow
   * click on Origin at the top-left corner of the window > select**Application Setting** \>**More** \>**ORIGIN IN-GAME** \> move the slider to turn off**Enable Origin In-Game**
 
  After disabling the in-game overlay, you can launch your Witcher 3 again. If Witcher 3 launches successfully, then great! But if it doesn’t, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Disable Antivirus
 
@@ -237,10 +213,6 @@ Try launching your game again to see if Witcher 3 works normally again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/system-configuration.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** . Click**OK** to apply the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/disable-all-services-1.png)
@@ -250,10 +222,6 @@ Try launching your game again to see if Witcher 3 works normally again.
  4) Select every startup application and click**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-1019-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Restart your PC and launch Witcher 3 again.
 
@@ -330,19 +298,16 @@ RECOMMENDED REQUIREMENTS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-framework-for-visual-storytelling/"><u>[New] 2024 Approved Framework for Visual Storytelling</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-rhythmic-reconnaissance-video-music-matchmaking/"><u>[New] Rhythmic Reconnaissance Video Music Matchmaking</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-the-problem-solving-stability-issues-in-wolcen-gameplay-on-pc/"><u>Diagnosing the Problem: Solving Stability Issues in Wolcen Gameplay on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/ease-into-security-settings-turn-off-defender-firewall/"><u>Ease Into Security Settings: Turn Off Defender Firewall</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-remedies-to-resolve-world-of-warcraft-instability-issues/"><u>Effortless Remedies to Resolve World of Warcraft Instability Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/essential-steps-to-resolve-amd-radeon-program-failure-on-startup/"><u>Essential Steps to Resolve AMD Radeon Program Failure on Startup</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-poco-x5-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-x-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone X To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-of-webp-conversion-to-jpeg-for-2024/"><u>Mastering the Art of WebP Conversion to JPEG for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-game-stability-boosters-how-to-prevent-crashes/"><u>PC Game Stability Boosters: How to Prevent Crashes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/premium-manfrotto-befree-tripod-unmatched-stability/"><u>Premium Manfrotto Befree Tripod: Unmatched Stability</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-end-of-frustrating-input-delay-in-cyberpunk-2077-solutions-applied/"><u>The End of Frustrating Input Delay in Cyberpunk 2077 - Solutions Applied</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-the-issue-of-witcher-3-not-starting/"><u>Ultimate Guide: Solving the Issue of Witcher 3 Not Starting</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/ultimate-how-to-adjust-your-pcs-firewall-options-through-the-windows-control-panel-expert-insights-from-cybersafe-solutions/"><u>Ultimate How-To: Adjust Your PC's Firewall Options Through the Windows Control Panel – Expert Insights From CyberSafe Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/clearing-macs-stored-domain-name-records-a-detailed-walkthrough/"><u>Clearing Mac's Stored Domain Name Records: A Detailed Walkthrough</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-tips-and-tricks-to-avoid-launch-day-issues-with-hogwarts-legacy-for-pc-users/"><u>Essential Tips & Tricks to Avoid Launch Day Issues with Hogwarts Legacy for PC Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-next-level-networking-the-linksys-ea9500-a-revolutionary-intelligent-technology-analysis/"><u>Experience Next-Level Networking: The Linksys EA9500 – A Revolutionary Intelligent Technology Analysis</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-samsung-galaxy-s24plus-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Samsung Galaxy S24+ Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-alternatives-to-vlc-revealed-in-detailed-review/"><u>In 2024, Alternatives to VLC Revealed in Detailed Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-image-transfiguration-winmac-photo-animation-pro/"><u>In 2024, Quick Image Transfiguration Win/Mac Photo Animation Pro</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209518617-9781620558218-jesse-james-and-the-lost-templar-treasure/"><u>Jesse James and the Lost Templar Treasure | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-pc-hiccups-solutions-for-when-pubg-freezes-or-wont-respond/"><u>Overcoming PC Hiccups: Solutions for When PUBG Freezes or Won't Respond</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-eliminating-packet-loss-issues-on-discord/"><u>Resolved: Eliminating Packet Loss Issues on Discord</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-ending-the-frustrating-deathloop-crash-loop-on-your-computer/"><u>Step-by-Step Troubleshooting: Ending the Frustrating Deathloop Crash Loop on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-resolving-alan-wake-2-crashes/"><u>Ultimate Guide to Resolving Alan Wake 2 Crashes</u></a></li>
 </ul></div>
 

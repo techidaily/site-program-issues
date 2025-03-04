@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] How to Fix Persistent Crashing Issues on Your PC While Playing Call of Dute: Black Ops Cold War"
-date: 2025-02-08T00:30:17.469Z
-updated: 2025-02-14T17:52:55.264Z
+date: 2025-03-02T06:51:00.831Z
+updated: 2025-03-04T04:03:06.870Z
 tags:
   - win11
   - win10
@@ -73,17 +73,9 @@ System requirements of WRC 10 from Steam
 2. Click on the **three dots** under the **WRC 10 FIA World Rally Championship** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch WRC 10 and check if this fix works. If the game still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -106,10 +98,6 @@ System requirements of WRC 10 from Steam
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -137,26 +125,14 @@ System requirements of WRC 10 from Steam
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
@@ -197,24 +173,22 @@ System requirements of WRC 10 from Steam
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-drone-motors-choose-the-5-best-motors-for-your-quadcopter/"><u>[Updated] 2024 Approved Drone Motors Choose the 5 Best Motors for Your Quadcopter</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-easing-excessive-encoding-of-obs-media-for-2024/"><u>[Updated] Easing Excessive Encoding of OBS Media for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-innovative-game-recording-on-modern-win10-systems/"><u>[Updated] In 2024, Innovative Game Recording on Modern Win10 Systems</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-top-ranked-costless-pixel-perfection-aid/"><u>[Updated] In 2024, Top-Ranked Costless Pixel Perfection Aid</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-pro-video-cameras-rated-your-guide-to-the-best/"><u>[Updated] Pro Video Cameras Rated - Your Guide to the Best</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-top-screen-replayer-apps-for-modern-web-surfing-for-2024/"><u>[Updated] Top Screen Replayer Apps for Modern Web Surfing for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-building-a-stylish-tiktok-closing-credits-bar/"><u>2024 Approved Building A Stylish TikTok Closing Credits Bar</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dying-lights-mysterious-audio-bug-expert-tips-and-fixes-revealed/"><u>Dying Light's Mysterious Audio Bug: Expert Tips and Fixes Revealed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminating-startup-glitches-in-hogwarts-legacy-with-these-8-methods/"><u>Eliminating Startup Glitches in Hogwarts Legacy with These 8 Methods</u></a></li>
-<li><a href="https://win-forum.techidaily.com/guide-inserting-new-drivers-into-your-pcs-hardware-list-on-windows-11/"><u>Guide: Inserting New Drivers Into Your PC's Hardware List on Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-smooth-gameplay-boosting-fps-and-fixing-lag-problems-on-watch-dogs-legion/"><u>Mastering Smooth Gameplay: Boosting FPS & Fixing Lag Problems on Watch Dogs: Legion</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-stability-avoid-red-dead-online-game-freezes-and-crashes-on-pc/"><u>Mastering Stability: Avoid Red Dead Online Game Freezes and Crashes on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723004139347-no-more-freezes-ensure-uninterrupted-play-in-your-fnaf-adventure-on-pc/"><u>No More Freezes: Ensure Uninterrupted Play in Your FNAF Adventure on PC!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-resolution-eliminating-system-crashes-in-mass-effect-legendary-edition-across-platforms-pcxbox/"><u>Step-by-Step Resolution: Eliminating System Crashes in Mass Effect Legendary Edition Across Platforms (PC/Xbox)</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-of-6-must-visit-platforms-for-music-video-lovers/"><u>The Ultimate List of 6 Must-Visit Platforms for Music Video Lovers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-repairing-issues-with-call-of-duty-modern-warfare-3-mw3-fixes-for-non-startup-problems/"><u>Troubleshooting and Repairing Issues with Call of Duty: Modern Warfare 3 (MW3) - Fixes for Non-Startup Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-the-persistent-black-screen-in-epic-games-launcher/"><u>Troubleshooting Tips for the Persistent Black Screen in Epic Games Launcher</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-directx-issues-in-call-of-duty-modern-warfare-2/"><u>Ultimate Guide: Resolving DirectX Issues in Call of Duty: Modern Warfare 2</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/yl-softwares-ultimate-ferrari-fxx-image-set-for-enthusiasts-and-collectors-alike/"><u>YL Software's Ultimate Ferrari FXX Image Set for Enthusiasts and Collectors Alike</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-ultimate-list-the-best-vr-game-advancements/"><u>[Updated] 2024 Approved Ultimate List The Best VR Game Advancements</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-how-to-make-a-3d-text-effect-in-photoshop-for-2024/"><u>[Updated] How to Make a 3D Text Effect in Photoshop for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/connecting-your-windows-11-pc-to-the-television-a-step-by-step-guide/"><u>Connecting Your Windows 11 PC to the Television: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-strategies-to-resolve-a-non-launching-business-a-comprehensive-guide/"><u>Effective Strategies to Resolve a Non-Launching Business : A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/fiscal-summary-producing-a-music-video/"><u>Fiscal Summary Producing a Music Video</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-revolutionize-your-personal-training-business-with-chatgpt-powered-plans/"><u>How to Revolutionize Your Personal Training Business with ChatGPT-Powered Plans</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-solve-incorrect-setup-for-the-amd-ryzen-performance-monitor/"><u>How to Solve Incorrect Setup for the AMD Ryzen Performance Monitor</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-quick-video-growth-top-20-hacks-for-instant-impact/"><u>In 2024, Quick Video Growth Top 20 Hacks for Instant Impact</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-reno-11f-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo Reno 11F 5G</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-xiaomi-redmi-note-13-proplus-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Xiaomi Redmi Note 13 Pro+ 5G Phone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-itunes-recognition-errors-iphone-unseen-by-windows-11/"><u>Overcoming iTunes Recognition Errors: IPhone Unseen by Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/practices-like-crop-rotation-intercropping-organic-amendments-and-biological-pest-control-decrease-reliance-on-chemical-fertilizers-and-pesticides-while-pro391/"><u>Practices Like Crop Rotation, Intercropping, Organic Amendments, and Biological Pest Control Decrease Reliance on Chemical Fertilizers and Pesticides While Promoting Natural Soil Fertility and Plant Health.</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/quickly-close-unused-tab-feature-in-emeditor-text-editing-efficiency-enhancement/"><u>Quickly Close Unused Tab Feature in EmEditor - Text Editing Efficiency Enhancement</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-errgfxstate-issue-in-red-dead-redemption-2/"><u>Solving the ERR_GFX_STATE Issue in Red Dead Redemption 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-your-v-game-lag-a-step-by-step-guide-for-smoother-play/"><u>Solving Your 'V' Game Lag: A Step-by-Step Guide for Smoother Play</u></a></li>
+<li><a href="https://program-issues.techidaily.com/successful-troubleshooting-sea-of-thieves-no-longer-experiencing-startup-delays/"><u>Successful Troubleshooting: Sea of Thieves No Longer Experiencing Startup Delays</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solutions-for-pc-issues-in-star-wars-jedi-fallen-order/"><u>Troubleshooting and Solutions for PC Issues in Star Wars Jedi: Fallen Order</u></a></li>
 </ul></div>
 

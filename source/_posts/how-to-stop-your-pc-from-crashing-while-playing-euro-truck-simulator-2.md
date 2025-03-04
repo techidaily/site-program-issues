@@ -1,7 +1,7 @@
 ---
 title: How to Stop Your PC From Crashing While Playing Euro Truck Simulator 2
-date: 2025-01-28T16:56:24.237Z
-updated: 2025-01-31T16:14:11.016Z
+date: 2025-02-25T19:35:06.117Z
+updated: 2025-03-04T08:52:27.890Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
  Recently many Forza Horizon 3 players on PC have reported that their Forza Horizon 3 keeps crashing when they launch it or when they are in the middle of the game. It is really annoying! But don’t worry! The good news is you can fix it!
 
  We’ve put together some methods to help you fix the problem. We believe one of these methods can resolve this annoying issue for you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Fixes to try**
 
@@ -82,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap22.png)
 3. Click **Temporary files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap23.png)
 4. Make sure you’ve checked **Temporary files, Temporary Internet Files**  and **Delivery Optimization Files** . Then click **Remove files** .  
 
@@ -104,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 
  If this fix doesn’t work for you, maybe this issue is caused by your outdated graphics driver  . Try the fix below to update your graphics drivers to the latest version.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 5: Update your graphics driver to the latest version**
 
  Updating your graphics driver to the latest version can make your game run smoother and prevents many issues or errors. If you don’t have the time, patience or skills to update your driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .
@@ -121,17 +109,9 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap4-3.png)
 3. Click **Update**  next to your graphics card to automatically download the correct version of this driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All**  ).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap3-2.png)
 
  If you have any issue with**Driver Easy** , please contact Driver Easy’s support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) for advice. You should attach the URL of this article so they can help you better.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 6: Perform a clean boot**
 
@@ -144,19 +124,11 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap17-2.png)
 3. Select the **Startup**  tab and click **Open Task Manager**  .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8-4.jpg)
 4. On the **Startup**  tab in **Task Manager** , for **each**  startup item, select the item and then click   **Disabled**  .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap9.jpg)
 5. Go back to the **System Configuration**  window and click   **OK**  .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap10.jpg)
 6. Click **Restart**  to restart your PC.  
@@ -175,16 +147,8 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap1-1.png)
 2. Click the   **Check for updates**  button to update your Windows system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap2q.png)
 3. Restart your PC when the Windows update process is completed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this fix works, your game won’t keep crashing again. If not, you may need to reinstall the game to resolve the problem.
 
@@ -195,10 +159,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 1. On your keyboard, press**the Windows logo key** and type **Forza Horizon 3** . When you see **Forza Horizon 3**  in the list of results, right-click it and then select **Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap33.png)
 2. Click **Uninstall** to uninstall your Forza Horizon 3.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap29.png)
 3. Open the**Store** app. In the search bar, type**Forza Horizon 3**  and click the**Search** button.  
@@ -226,22 +186,22 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-balancing-dimensions-the-ultimate-guide-to-social-media-video-sizes-on-fb-for-2024/"><u>[New] Balancing Dimensions The Ultimate Guide to Social Media Video Sizes on FB for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-game-record-on-windows-10-top-5-tips/"><u>[New] Mastering Game Record on Windows 10 Top 5 Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/anticipating-rainbow-six-siege-updates-the-comprehensive-guide-to-the-202-cu4-release/"><u>Anticipating Rainbow Six Siege Updates - The Comprehensive Guide to the 202 Cu4 Release</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96476521-9780880500753-earthen-lamps/"><u>Earthen Lamps | Free Book</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/economical-audio-devices-for-vloggers-on-a-budget/"><u>Economical Audio Devices for Vloggers on a Budget</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-gameplay-overcome-persistent-crashes-in-immortals-fenyx-rising/"><u>Fix Your Gameplay: Overcome Persistent Crashes in Immortals: Fenyx Rising</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-silent-menace-resolving-evil-genius-2-audio-malfunction/"><u>Fixing Silent Menace: Resolving 'Evil Genius 2' Audio Malfunction</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-repair-a-broken-battlenet-launcher-for-pc-users/"><u>How to Repair a Broken Battle.net Launcher for PC Users</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/keeping-track-of-facetime-with-facebooks-live-feature/"><u>Keeping Track of FaceTime with Facebook's Live Feature</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-the-art-of-invisible-wi-fi-on-windows/"><u>Master the Art of Invisible Wi-Fi on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-initial-hurdles-diagnosing-and-repairing-startup-malfunctions-in-atomics/"><u>Overcoming Initial Hurdles: Diagnosing and Repairing Startup Malfunctions in Atomics</u></a></li>
-<li><a href="https://program-issues.techidaily.com/persistent-screen-stabilization-in-wow-how-to-stop-fluttering-once-and-for-all/"><u>Persistent Screen Stabilization in Wow: How to Stop Fluttering Once & For All</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-tips-for-curing-gtfo-errors/"><u>Step-by-Step Troubleshooting Tips for Curing GTFO Errors</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/steps-to-successfully-upgrade-to-windows-11-on-incompatible-devices/"><u>Steps to Successfully Upgrade to Windows 11 on Incompatible Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-resin-3d-printer-models-of-2/"><u>Top-Rated Resin 3D Printer Models of 2#!</u></a></li>
-<li><a href="https://solve-news.techidaily.com/transforma-tu-creatividad-movil-edicion-expertos-de-videos-en-android-usando-los-sencillos-6-pasos-de-movavi-clips/"><u>Transforma Tu Creatividad Móvil: Edición Expertos De Vídeos en Android Usando Los Sencillos 6 Pasos De Movavi Clips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/world-of-warcraft-lag-no-more-a-comprehensive-2024-guide-to-overcome-low-fps-challenges/"><u>World of Warcraft Lag No More: A Comprehensive 2024 Guide to Overcome Low FPS Challenges</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-mastering-slow-motion-instagram-a-reel-guide/"><u>[New] In 2024, Mastering Slow-Motion Instagram A Reel Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-revive-the-experience-essential-tips-for-lost-iphone-x-users/"><u>[New] Revive the Experience Essential Tips for Lost iPhone X Users</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-decoding-the-metrics-for-youtube-video-hierarchy/"><u>[Updated] Decoding the Metrics for YouTube Video Hierarchy</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-drones-and-stabilization-your-ultimate-camera-gimbal-selection/"><u>[Updated] In 2024, Drones & Stabilization Your Ultimate Camera Gimbal Selection</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-web-funnies-forge/"><u>[Updated] Web Funnies Forge</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypass-modern-warfares-dev-error-6034-for-console-xbox-and-playstation-and-pc-users-a-step-by-step-guide/"><u>Bypass Modern Warfare's Dev Error 6034 for Console (Xbox & PlayStation) and PC Users - A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-repairing-acrocefexe-application-failures/"><u>Comprehensive Guide to Repairing 'acrocef.exe' Application Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-fluidity-in-age-of-empires-iv-tips-to-stop-the-lagging-and-freezing/"><u>Enhancing Fluidity in Age of Empires IV: Tips to Stop the Lagging and Freezing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-black-screen-at-launch-issue-in-elden-ring-a-comprehensive-guide/"><u>Fixing the 'Black Screen at Launch' Issue in Elden Ring: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-experts-list-of-top-vector-stock-portals/"><u>In 2024, The Expert's List of Top Vector Stock Portals</u></a></li>
+<li><a href="https://program-issues.techidaily.com/level-up-your-gameplay-combat-sudden-fps-dips-irregular-hiccups-and-sporadic-lags-in-real-time-gaming-environments/"><u>Level Up Your Gameplay: Combat Sudden FPS Dips, Irregular Hiccups & Sporadic Lags in Real-Time Gaming Environments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-stuck-on-loading-errors-in-football-manager-2021-game/"><u>Resolving 'Stuck on Loading' Errors in Football Manager 2021 Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722998368692-stardew-valley-launch-trouble-heres-how-to-get-it-running-without-hitches/"><u>Stardew Valley Launch Trouble? Here's How to Get It Running Without Hitches!</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-resolving-a-ce-34878-0-hangtag-error-on-ps4-systems/"><u>Successfully Resolving a CE-34878-0 Hangtag Error on PS4 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723012340481-troubleshooting-game-performance-issues-in-half-life-alyx-no-more-lag/"><u>Troubleshooting Game Performance Issues in Half-Life Alyx - No More Lag!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-your-non-functional-logitech-c920-webcam/"><u>Troubleshooting Guide: Fixing Your Non-Functional Logitech C920 Webcam</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unveiling-distinctions-a-look-at-youtube-and-dailymention/"><u>Unveiling Distinctions A Look at YouTube and DailyMention</u></a></li>
 </ul></div>
 

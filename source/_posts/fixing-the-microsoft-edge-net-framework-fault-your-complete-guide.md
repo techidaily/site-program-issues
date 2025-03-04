@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Microsoft Edge .NET Framework Fault: Your Complete Guide"
-date: 2025-02-13T23:04:56.353Z
-updated: 2025-02-14T21:07:12.596Z
+date: 2025-03-01T02:27:54.980Z
+updated: 2025-03-03T23:40:34.319Z
 tags:
   - win11
   - win10
@@ -59,10 +59,6 @@ _Image source: battle.net_
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-2.jpg)
 4. Scroll down and check if Battle.net is on the list. If it isn’t, proceed to add it to the exception list.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click on the**Change settings** button.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-3.jpg)
@@ -70,10 +66,6 @@ _Image source: battle.net_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-4.jpg)
 7. Click**Browse…** and go to the installation folder.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-5.jpg)  
 
@@ -88,15 +80,7 @@ _Image source: battle.net_
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-7.jpg)
 10. Now make sure Battle.net is added to the list and tick**Domain** ,**Private** , and**Public** . Once you’re done, click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now open Battle.net. If it isn’t opening, try the next fix below.
 
@@ -127,10 +111,6 @@ Now open Battle.net. If it isn’t opening, try the next fix below.
 
  After you’ve finished the process, restart your PC and try to launch the agent. If it still fails to open properly, try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Update your drivers
 
  Each piece of hardware on your system, be it your video card, sound card or others, has its own specific driver, which ensures that different hardware components can work smoothly on your system. However, these hardware drivers are susceptible to corruption. When that happens, your PC performance would suffer and some programs may fail to work properly as expected. In this situation, you should attempt to update your drivers.
@@ -147,17 +127,9 @@ You can update your drivers via the Device Manager:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/how-to-open-the-Device-Manager-Run-Command）.png)
 3. Click on the**arrow >** to expand the section. Then right-click on the device that you’re going to update the driver for and select**Update driver** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-update-drivers-via-the-Device-Manager.jpg)
 
 Then follow the on-screen instructions to get the updates.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your drivers (recommended)
 
@@ -185,10 +157,6 @@ Then follow the on-screen instructions to get the updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-open-the-Command-Prompt-as-an-administrator.jpg)
 2. Click**Yes** when you receive a prompt.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Now copy and paste the following command, and then press**Enter** .  
 
@@ -222,15 +190,7 @@ Then follow the on-screen instructions to get the updates.
 ![how to uninstall an app](https://images.drivereasy.com/wp-content/uploads/2021/06/control-appwiz.cpl_.png)
 3. Locate**Battle.net** . Right-click it and click**Uninstall/Change** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/reinstall-Battle.net_.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When you’re prompted for further confirmation, simply click Yes and proceed. After it’s successfully uninstalled. Go to the place where the Battle.net-Setup.exe file was installed and delete it. Then download and install it from the[official website](https://www.blizzard.com/en-us/download/confirmation?product=bnetdesk) .
 
@@ -253,22 +213,21 @@ Then follow the on-screen instructions to get the updates.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-s17t-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo S17t</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-buy-smart-top-picks-for-high-definition-21-hdmi-screens/"><u>2024 Approved Buy Smart Top Picks for High-Definition 2.1 HDMI Screens</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-comparing-streams-vimeo-versus-youtube/"><u>2024 Approved Comparing Streams Vimeo Versus YouTube</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boosting-utorrent-performance-for-faster-file-downloads/"><u>Boosting uTorrent Performance for Faster File Downloads</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-solution-preventing-samurai-warriors-5-from-crashing-on-your-desktop-computer/"><u>Expert Solution: Preventing Samurai Warriors 5 From Crashing on Your Desktop Computer</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/exploring-the-vision-of-larysa-lototska-as-chief-customer-advocate-at-abbyy/"><u>Exploring the Vision of Larysa Lototska as Chief Customer Advocate at ABBYY</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-corsair-icue-malfunctions-a-guide-for-windows-1011-users/"><u>Fixing Corsair iCUE Malfunctions: A Guide for Windows 10/11 Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-poor-connection-issues-with-path-of-exile-2024-troubleshooting-steps/"><u>How to Fix Poor Connection Issues with Path of Exile: 2024 Troubleshooting Steps</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-realme-gt-3-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Realme GT 3 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/key-tools-enabling-seamless-shift-from-mac-os-to-windows-powered-pc/"><u>Key Tools Enabling Seamless Shift From Mac OS to Windows-Powered PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/origin-download-speeds-on-the-rise-a-guide-for-lightning-fast-transfers/"><u>Origin Download Speeds on the Rise: A Guide for Lightning-Fast Transfers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-stability-issues-in-skyline-urban-development-simulator-on-laptop/"><u>Overcoming Stability Issues in Skyline Urban Development Simulator on Laptop</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/selecting-your-channel-weighing-up-the-merits-of-igtv-and-youtube/"><u>Selecting Your Channel Weighing Up the Merits of IGTV & YouTube</u></a></li>
-<li><a href="https://program-issues.techidaily.com/star-wars-squadrons-gameplay-disruptions-diagnosed-how-to-prevent-future-issues/"><u>STAR WARS: Squadrons Gameplay Disruptions [Diagnosed]: How to Prevent Future Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-titanfall-gropey-graphics-how-to-improve-gameplay-performance/"><u>Troubleshooting Titanfall Gropey Graphics | How to Improve Gameplay Performance</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/understanding-blockchain-a-guide-to-what-is-a-sidechain-in-cryptocurrency/"><u>Understanding Blockchain: A Guide to What Is a Sidechain in Cryptocurrency</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-makes-ai-chatbots-a-preferred-tech-choice/"><u>What Makes AI Chatbots a Preferred Tech Choice?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-excellent-macos-converters-top-5-picklist/"><u>[New] In 2024, Excellent macOS Converters Top 5 Picklist</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mastering-text-memes-using-meme-text-genrator/"><u>[New] Mastering Text Memes Using Meme Text Gen'rator</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-strategy-cradle-nurturing-market-gains-for-2024/"><u>[New] Strategy Cradle Nurturing Market Gains for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-prime-youtube-mp4-encoding-steps/"><u>[Updated] Prime YouTube MP4 Encoding Steps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unlock-the-full-potential-of-your-reels-with-these-6-essentials-for-2024/"><u>[Updated] Unlock the Full Potential of Your Reels with These 6 Essentials for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/asus-proart-review-a-visual-spectacle-unveiled/"><u>ASUS ProArt Review A Visual Spectacle Unveiled</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-slow-motion-cameras-ranked-for-2024/"><u>Best Slow-Motion Cameras Ranked for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-resolving-the-issue-with-a-malfunctioning-mystic-light-on-your-msi-gaming-rig/"><u>Expert Advice: Resolving the Issue with a Malfunctioning Mystic Light on Your MSI Gaming Rig</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-pc-issues-how-to-stop-lost-ark-from-continuously-crashing/"><u>Fixing PC Issues: How to Stop Lost Ark From Continuously Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-cod-battle-royale-dev-hiccup-6328-insider-tricks/"><u>Fixing the Cod: Battle Royale Dev Hiccup 6328 - Insider Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-evil-genius-2-startup-issue-a-step-by-step-guide/"><u>How to Fix 'Evil Genius 2' Startup Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-unexpected-program-crashes-on-your-computer-with-these-6-methods-updated-fix-guide/"><u>How to Stop Unexpected Program Crashes on Your Computer with These 6 Methods | Updated Fix Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010143547-league-of-legends-bug-fixed-swift-and-simple-solutions/"><u>League of Legends Bug Fixed: Swift and Simple Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimal-fixes-and-tweaks-for-a-smooth-run-of-star-wars-jedi-fallen-order-on-pc/"><u>Optimal Fixes & Tweaks for a Smooth Run of Star Wars Jedi: Fallen Order on PC</u></a></li>
+<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-fixing-unknown-usb-device-detected-problems-and-port-resets-in-windows-10/"><u>Step-by-Step Solutions: Fixing 'Unknown USB Device Detected' Problems and Port Resets in Windows 10</u></a></li>
 </ul></div>
 

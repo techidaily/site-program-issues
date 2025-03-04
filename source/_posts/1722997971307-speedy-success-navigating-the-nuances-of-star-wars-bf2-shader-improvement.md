@@ -1,7 +1,7 @@
 ---
 title: "Speedy Success: Navigating the Nuances of Star Wars BF2 Shader Improvement."
-date: 2025-02-12T19:06:43.904Z
-updated: 2025-02-15T03:04:36.993Z
+date: 2025-02-27T09:01:06.340Z
+updated: 2025-03-03T21:02:35.805Z
 tags:
   - win11
   - win10
@@ -41,17 +41,9 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![disable DirectX 12 mode](https://images.drivereasy.com/wp-content/uploads/2021/01/value-equals-0.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click**File > Save** to save the changes.  
   
 ![disable DirectX 12 mode STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/save-the-changes.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you’ve done these, launch your game. This time, while loading into the game, you’ll notice that it simply skips the shaders’ installation completely. This means that you should be able to play the game without any issues.
 
@@ -63,10 +55,6 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![re-enable DirectX 12 mode in STAR WARS Battfront II](https://images.drivereasy.com/wp-content/uploads/2021/01/reenable-DirectX-12-mode-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the GRAPHICS SETTINGS section, locate**ENABLE DIRECTX 12** . If it’s**OFF** , click**ON** . If it’s already ON, take the steps below to enable it in the bootup file.
 
  3) Press the**Windows logo key** and**R** at the same time to open the File Explorer. Then click**Documents** . And open the file**STAR WARS Battlefront II** . Double-click**BootOptions** and open it with**Notepad** .
@@ -75,15 +63,7 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![re-enable DirectX 12 mode in the bootup file STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/re-enable-DirectX-12-mode.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click**File > Save** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why disabling DirectX 12 works
 
@@ -106,21 +86,20 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-online-broadcast-battle-fb-live-and-yt-live-vs-tweetstreams/"><u>[New] 2024 Approved Online Broadcast Battle FB LIVE & YT Live Vs. TweetStreams</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/xploring-youtubes-latest-revenue-guidelines-for-2024/"><u>[New] Exploring YouTube's Latest Revenue Guidelines for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-thumbnail-magic-a-filmmakers-mobile-techniques-for-youtube/"><u>[New] Thumbnail Magic A Filmmaker's Mobile Techniques for YouTube</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-mov-file-saving-techniques-for-windows-11-users/"><u>[Updated] .MOV File Saving Techniques for Windows 11 Users</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/can-you-change-your-voice-magically-explore-alternative-tools/"><u>Can You Change Your Voice Magically? Explore Alternative Tools</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Infinix Smart 7 HD? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/essential-solutions-for-preventing-crashes-when-playing-manor-lords-on-your-computer/"><u>Essential Solutions for Preventing Crashes When Playing 'Manor Lords' On Your Computer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-tips-for-decreasing-the-size-of-mov-videos-efficiently-and-effectively/"><u>Expert Tips for Decreasing the Size of MOV Videos Efficiently and Effectively</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-red-dead-online-troubleshooting-steps-to-resolve-pc-crashes/"><u>Fixing Red Dead Online: Troubleshooting Steps to Resolve PC Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/hitman-3-stability-improvement-tips-for-gaming-enthusiasts/"><u>Hitman 3 Stability Improvement Tips for Gaming Enthusiasts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-unparalleled-top-10-free-image-archiving-hubs-pics-safe-and-sound/"><u>In 2024, Unparalleled Top 10 Free Image Archiving Hubs, Pics Safe and Sound</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-latency-problems-in-valheim-a-guide-for-windows-users/"><u>Resolving Latency Problems in Valheim: A Guide for Windows Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-major-development-errors-a-guide-for-call-of-dutys-latest-titles/"><u>Troubleshooting Major Development Errors: A Guide for Call of Duty's Latest Titles</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-performance-hiccups-enhancing-your-fps-and-fixing-stutter-in-valorant/"><u>Troubleshooting Performance Hiccups: Enhancing Your FPS & Fixing Stutter in Valorant</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-resolving-no-available-camera-error-on-snap-device/"><u>Troubleshooting: Resolving 'No Available Camera' Error on Snap Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/wwe-2k22-resolving-your-pcs-stuttering-and-freezing-issues-expert-tips/"><u>WWE 2K22 - Resolving Your PC's Stuttering and Freezing Issues | Expert Tips!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-art-of-subscriber-chatter-best-practices-for-comments/"><u>[New] 2024 Approved The Art of Subscriber Chatter Best Practices for Comments</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-visual-storytelling-with-harmonic-backdrop-for-2024/"><u>[New] Visual Storytelling with Harmonic Backdrop for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-a-step-by-step-approach-for-thumbnail-creation-professionals/"><u>[Updated] 2024 Approved A Step-By-Step Approach for Thumbnail Creation Professionals</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-vanguard-freezing-quick-tips-to-smooth-your-gaming-experience/"><u>Call of Duty: Vanguard Freezing - Quick Tips to Smooth Your Gaming Experience</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-steps-for-seamless-sync-streaming-apples-latest-ipads-to-mac-devices-with-airplay-technology/"><u>Easy Steps for Seamless Sync: Streaming Apple's Latest iPads to Mac Devices with AirPlay Technology</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-alternative-film-choices-ranked-7-1/"><u>In 2024, Alternative Film Choices Ranked #7-1</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-honor-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Honor Phones with/without a PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/is-optimal-hdr-with-aurora-worth-it/"><u>Is Optimal HDR with Aurora Worth It?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-freezes-the-solution-to-cyberpunk-nk-2077-stuttering-is-here/"><u>No More Freezes - The Solution to Cyberpunk Nk 2077 Stuttering Is Here</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubles-heres-how-to-fix-subnautica-below-zero-constant-crashes/"><u>PC Troubles? Here's How to Fix Subnautica: Below Zero Constant Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-steams-continuous-crashes-with-these-simple-remedies/"><u>Resolve Steam's Continuous Crashes with These Simple Remedies!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-pc-lag-issues-in-outriders-ultimate-guide/"><u>Solving PC Lag Issues in Outriders: Ultimate Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-complete-guide-to-preserving-ps4-gameplay-moments/"><u>The Complete Guide to Preserving PS4 Gameplay Moments</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-bargain-uncover-the-worth-of-a-50-inch-4k-streaming-tv-tcl-roku-model-50s425-reviewed-for-2019/"><u>The Ultimate Bargain: Uncover the Worth of a 50-Inch 4K Streaming TV - TCL Roku (Model 50S425) Reviewed for 2019</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-the-notorious-cyberpunk-2077-freezing-problems/"><u>Troubleshooting Guide: Fixing the Notorious Cyberpunk 2077 Freezing Problems</u></a></li>
 </ul></div>
 

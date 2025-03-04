@@ -1,7 +1,7 @@
 ---
 title: Polycyclic Aromatic Hydrocarbons (PAHs) Are Formed by Fused Benzene Rings and Can Exhibit Different Chemical Properties than Monocyclic Aromatics
-date: 2025-02-10T17:11:26.591Z
-updated: 2025-02-15T02:22:43.858Z
+date: 2025-03-02T18:50:19.577Z
+updated: 2025-03-04T08:31:59.507Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 ## Polycyclic Aromatic Hydrocarbons (PAHs) Are Formed by Fused Benzene Rings and Can Exhibit Different Chemical Properties than Monocyclic Aromatics
 
 Does your FIFA 20 crash on PC so often that it is all but unplayable? If the answer is “yes,” don’t panic – you’re not alone. Although this problem can be quite tricky sometimes, there’re still a few general fixes for you to try. Now let’s dig in and see what’s what.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Check your PC specs first
 
@@ -44,10 +40,6 @@ In case you don’t know how, here’s the guidance:
  4) If you also want to know the screen resolution of your monitor, right-click a blank area of your desktop to open the context menu. Then click **Display settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-15_15-24-55-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) So this is your **screen resolution** , as illustrated in the following screenshot.
 
@@ -86,10 +78,6 @@ In case you don’t know how, here’s the guidance:
  If you find out that your computer cannot keep up with the game, you should upgrade some components first, say replacing your graphics card with a more powerful one (based on your actual situation of course).
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8 fixes for FIFA 20 crashing
 
@@ -137,10 +125,6 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  If you still have random crashes with FIFA 20, you should give the next fix a try.
@@ -158,10 +142,6 @@ In case you don’t know how, here’s the guidance:
  2) In the Device Manager window, double-click on the **Display adapters** node to expand its drop-down list. Then right-click on your graphics card (the one used to run the game) and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-933.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Roll Back Driver** .
 
@@ -191,10 +171,6 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-947.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Wait for the system to search for available updates online. If there’s indeed a pending update, then Windows will automatically download the update and install it. Once the process completes, restart your computer for the changes to be fully implemented.
 
  Now launch FIFA 20 again and see whether it keeps crashing. If it does, then move on to the Fix 4 below.
@@ -220,10 +196,6 @@ In case you don’t know how, here’s the guidance:
  4) After “DIRECTX\_SELECT = 1” is located, change it to**DIRECTX\_SELECT = 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-866.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your**fifasetup.ini** file is already set to**0** when you first open it, then try changing it to**1** instead.
 
@@ -251,10 +223,6 @@ If you continue to face the crashing problem, please move on to Fix 6.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Repair corrupted system files
 
  It’s possible that some of the system files in your PC have been damaged and hence gave rise to crashing in FIFA 20\. To check for such problems, here are at least two things you should do:
@@ -270,10 +238,6 @@ If you continue to face the crashing problem, please move on to Fix 6.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) When Windows asks for permission to make changes to your device, click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
@@ -285,10 +249,6 @@ sfc /scannow
  After you finish entering the command, hit **Enter** on your keyboard. Then the sfc tool will begin to scan all system files and repair the corrupted or missing ones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-183.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Wait until the verification process completes. Then **restart** your computer for the changes to take effect.
 
@@ -352,22 +312,19 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-redefining-the-silver-screen-virtual-reality-cinema/"><u>[New] In 2024, Redefining the Silver Screen Virtual Reality Cinema</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-mastering-photo-background-removal-techniques/"><u>[New] Mastering Photo Background Removal Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-overcoming-thunder-tier-ones-recurring-pc-malfunctions-and-errors/"><u>[Solution] Overcoming Thunder Tier One's Recurring PC Malfunctions and Errors</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-leading-edge-16-youtube-intros-that-skyrocket-views/"><u>[Updated] 2024 Approved Leading Edge 16 YouTube Intros That Skyrocket Views</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-crafting-the-perfect-introduction-15-viral-youtube-video-intros/"><u>[Updated] Crafting the Perfect Introduction 15 Viral YouTube Video Intros</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-inshot-unveiled-effortless-laptoppc-video-editing-for-2024/"><u>[Updated] Inshot Unveiled Effortless Laptop/PC Video Editing for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-overcome-black-display-problems-in-persona-5-strikers/"><u>Comprehensive Guide to Overcome Black Display Problems in Persona 5 Strikers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-ai-dialogue-three-avenues-using-chatgpt-and-wolframalpha/"><u>Enhancing AI Dialogue: Three Avenues Using ChatGPT & WolframAlpha</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-missing-startup-location-issue-on-fortnite-tips-and-tricks/"><u>Fixing the Missing Startup Location Issue on Fortnite - Tips & Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-optimize-forza-horizon-5-graphics-with-the-right-driver-updates/"><u>How to Optimize Forza Horizon 5 Graphics with the Right Driver Updates</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-set-up-an-impromptu-zoom-meeting-with-your-android-smartphone/"><u>How to Set Up an Impromptu Zoom Meeting with Your Android Smartphone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-how-to-uncover-hidden-facebook-vids-updated-guide/"><u>In 2024, How to Uncover Hidden Facebook Vids (Updated Guide)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/nvidia-geforce-overlay-malfunction-here-are-the-fixes-you-need/"><u>NVIDIA GeForce Overlay Malfunction? Here Are the Fixes You Need!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-common-problems-restarting-a-failed-content-warning-in-voice-chat-systems/"><u>Overcoming Common Problems: Restarting a Failed 'Content Warning' In Voice Chat Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-users-say-goodbye-to-frustration-a-step-by-step-solution-to-thaumaturge-app-malfunctions/"><u>PC Users, Say Goodbye to Frustration: A Step-by-Step Solution to Thaumaturge App Malfunctions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-issues-when-starfield-game-crashes-or-fails-to-load-on-pc/"><u>Resolving Issues: When Starfield Game Crashes or Fails to Load on PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/turning-on-and-off-the-touchscreen-keyboard-on-windows-11-a-step-by-step-guide/"><u>Turning On and Off the Touchscreen Keyboard on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-apex-equipment-prime-8k-cameras-unmatched/"><u>[New] Apex Equipment Prime 8K Cameras Unmatched</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-secret-to-stellar-instagram-video-engagement-flawless-sizing-techniques-for-2024/"><u>[New] The Secret to Stellar Instagram Video Engagement Flawless Sizing Techniques for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-expert-tips-for-obs-and-facebook-integration/"><u>[Updated] 2024 Approved Expert Tips for OBS and Facebook Integration</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-tailored-soundscapes-key-audio-setup-for-podcasters/"><u>[Updated] In 2024, Tailored Soundscapes Key Audio Setup for Podcasters</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-modern-warfare-fps-comprehensive-update-for-smooth-gaming/"><u>COD: Modern Warfare FPS - Comprehensive Update for Smooth Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009974011-fix-your-dying-light-game-audio-glitch-in-just-a-few-steps/"><u>Fix Your Dying Light Game Audio Glitch in Just a Few Steps</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-androvid-video-editor-complete-review/"><u>In 2024, AndroVid Video Editor – Complete Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-advanced-greenscreen-techniques-a-complete-guide-to-chroma-key-kinemaster/"><u>In 2024, Unveiling Advanced Greenscreen Techniques A Complete Guide to Chroma Key (KineMaster)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-preventing-dota-2-crashes-with-these-pro-hacks/"><u>Master the Art of Preventing Dota 2 Crashes with These Pro Hacks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-choices-the-differences-between-apple-watch-gps-and-cellular-models/"><u>Navigating Choices: The Differences Between Apple Watch GPS and Cellular Models</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rockstar-games-launcher-problems-proven-solutions-to-get-you-gaming-in-no-time/"><u>Rockstar Games Launcher Problems: Proven Solutions to Get You Gaming in No Time!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-v-series-stuttering-issues-in-pc-gaming/"><u>Ultimate Guide: Solving V Series Stuttering Issues in PC Gaming</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-success-in-live-streaming-of-cricket-matches-for-2024/"><u>Unlocking Success in Live Streaming of Cricket Matches for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlocking-successful-launches-of-csgo-expert-strategies/"><u>Unlocking Successful Launches of CS:GO - Expert Strategies</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Warzone's Memory Error Code 0-1766 on Xbox and PC
-date: 2025-01-30T21:43:28.336Z
-updated: 2025-01-31T21:49:25.973Z
+date: 2025-02-26T05:54:09.180Z
+updated: 2025-03-03T23:40:01.007Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
  Many gamers have been reporting the**Memory Error 0-1766 on COD Warzone** lately, mostly on Xbox and PC. Players are experiencing**endless game crashes** or**being kicked out of the game** a couple of times a day. If you’re in the same boat, no worries. We’ve put together some working fixes and will walk you through the steps in this article.
 
  You may also like…[ \[SOLVED\] Warzone Not Launching](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 
  Before we dive into anything advanced, make sure you’ve tried to re-launch Warzone, and restart your Xbox/PC to see if the error is gone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Check your Internet connection (Xbox & PC)
 
  A quick fix you can try for both Xbox and PC is to check your Internet connection. Low latency issues seem to have caused the Memory Error 0-1766 for some players, so you should check your Internet connection first as well. Here’s a few things you can do:
@@ -64,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 
  If a few games and apps running in the background, your Xbox or PC won’t be able to let Warzone use all the resources and run smoother. Also background programs could interfere with Warzone, causing the Memory Error 0-1766\. Below is how to close the games and apps running in the background:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### On Xbox
 
 1. Press the**Xbox button** on your controller to bring forward the menu sidebar.
@@ -82,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 
  Take Chrome here, for example, right-click it then click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this doesn’t resolve the Memory Error 0-1766 for you, try the fixes for Xbox below, or jump to the[fixes for PC players](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -103,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 6. Uncheck**Allow 4K and Allow HDR** .
 
  If you still get the Memory Error 0-1766 after adjusting the display settings on your Xbox console, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Clear Mac address (Xbox)
 
@@ -145,10 +125,6 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Move to the**Startup** tab, and click**Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Windows 7 users: right-click an empty area on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
@@ -168,10 +144,6 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch Warzone. If you get the Memory Error 0-1176 once again, then you know that one of the services you ticked above is conflicting with it. If the error is gone, then the above five services are fine, and you’ll have to keep looking for the offending service.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Repeat steps 2 and 3 above until you find the service that conflicts with Warzone.  
 
  NOTE: We recommend testing five items in a group since it’s more efficient, but you’re welcome to do it at your own pace.
@@ -187,10 +159,6 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 
 4. Repeat until you find the startup item that’s conflicting with Warzone and causing Memory Error 0-1766.
 5. Disable the problem program and reboot your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus Tip: Update the graphics driver on your PC
 
@@ -241,22 +209,22 @@ Make sure to restart your PC for the new driver to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-behind-the-scenes-look-at-creating-dynamic-facebook-reels/"><u>[New] Behind-the-Scenes Look at Creating Dynamic Facebook Reels</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nmatched-download-experience-with-our-top-tools-list-for-2024/"><u>[New] Unmatched Download Experience with Our Top Tools List for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/can-you-store-high-quality-videos-in-128gb-for-2024/"><u>Can You Store High-Quality Videos in 128Gb for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-game-crashing-issues/"><u>How to Fix Game Crashing Issues</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oppo-reno-9a-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Oppo Reno 9A</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-backtrack-innovation-box/"><u>In 2024, Backtrack Innovation Box</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-age-of-empires-iv-launch-common-fixes-explored/"><u>Mastering the Age of Empires IV Launch - Common Fixes Explored</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-fixes-to-overcome-directx-errors-in-call-of-duty-modern-warfare-2/"><u>Mastering the Fixes to Overcome DirectX Errors in Call of Duty: Modern Warfare ^[2]</u></a></li>
-<li><a href="https://extra-support.techidaily.com/next-gen-storytelling-10-sci-fi-films-transporting-you-elsewhere-for-2024/"><u>Next Gen Storytelling 10 Sci-Fi Films Transporting You Elsewhere for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722987672252-optimizing-gpu-performance-for-warzone-on-windows-11-fixed/"><u>Optimizing GPU Performance for Warzone on Windows 11 - Fixed!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-batman-arkham-knight-crashes-expert-advice-on-resolving-critical-malfunctions/"><u>Overcome BATMAN: ARKHAM KNIGHT Crashes - Expert Advice on Resolving Critical Malfunctions</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-unresponsive-windows-11-cortana-commands/"><u>Overcoming Unresponsive Windows 11 Cortana Commands</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210685368-9781507220894-the-kitchen-witch/"><u>The Kitchen Witch | Free Book</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-quintessential-social-media-quartet-facebook-twitter-instagram-youtube/"><u>The Quintessential Social Media Quartet: Facebook, Twitter, Instagram, YouTube</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-cod-black-ops-cold-war-overcoming-code-80070057-issue/"><u>Troubleshooting COD: Black Ops Cold War – Overcoming Code 80070057 Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-game-startup-issues-ensuring-your-system-has-easy-anti-cheat-installed-for-smooth-operation/"><u>Troubleshooting Game Startup Issues: Ensuring Your System Has Easy Anti-Cheat Installed for Smooth Operation</u></a></li>
-<li><a href="https://program-issues.techidaily.com/windows-compatibility-fixes-to-prevent-xcom-2-from-crashing-during-play/"><u>Windows Compatibility Fixes to Prevent XCOM 2 From Crashing During Play</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-comprehensive-analysis-of-top-6-hdmi-enabled-monitors-for-2024/"><u>[New] Comprehensive Analysis of Top 6 HDMI-Enabled Monitors for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-how-to-download-part-of-a-youtube-videos-in-2024/"><u>[New] How to Download Part of a YouTube Videos, In 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-navigating-the-thin-line-of-vr-content-availability/"><u>[Updated] 2024 Approved Navigating the Thin Line of VR Content Availability</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-epic-footage-and-photos-mastering-the-hero5-black-experience/"><u>[Updated] Epic Footage and Photos Mastering the Hero5 Black Experience</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-best-fps-for-smooth-professional-video-recordings-for-2024/"><u>[Updated] The Best FPS for Smooth, Professional Video Recordings for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-game-lag-how-to-keep-paladins-running-smoothly/"><u>Beat Game Lag - How to Keep Paladins Running Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-crash-blues-masterful-tips-to-prevent-subnautica-below-zero-breaks-on-desktop-computers/"><u>Beat the Crash Blues: Masterful Tips to Prevent Subnautica: Below Zero Breaks on Desktop Computers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-7-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 7 with a Broken Screen?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-poco-c51-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Poco C51 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-call-of-duty-warzone-memory-error-0-1766-on-xbox-and-pc-efficiently/"><u>Resolve Call of Duty: Warzone 'Memory Error 0-1766' On Xbox and PC Efficiently</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-error-887a0005-in-call-of-duty-black-ops-cold-war/"><u>Resolving the 'Error: 887A0005' In Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-client-connection-problem-solved-overcoming-the-local-process-failure/"><u>Steam Client Connection Problem Solved – Overcoming the ‘Local Process Failure’</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/studiofx-2400w-large-softbox-lighting-kit-review/"><u>StudioFX 2400W Large Softbox Lighting Kit Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/supercharge-your-chrome-experience-with-the-auto-tab-cleaner-a-free-solution-reviewed-by-zdnet/"><u>Supercharge Your Chrome Experience with the Auto Tab Cleaner: A FREE Solution Reviewed by ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-fix-the-black-screen-problem-during-discord-screenshare/"><u>Troubleshooting Guide: How to Fix the 'Black Screen' Problem During Discord Screenshare</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-against-launch-glitches-in-pathfinder-wrath-of-the-righteeous-expert-tips-and-tricks/"><u>Winning Against Launch Glitches in Pathfinder: Wrath of the Righteeous - Expert Tips and Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-tactics-for-reducing-game-latency-and-improving-response-time-s-popular-titles/"><u>Winning Tactics for Reducing Game Latency & Improving Response Time 'S Popular Titles</u></a></li>
 </ul></div>
 

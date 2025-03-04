@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Your Console's Audio Issues - The Ultimate Mic Fix Guide for 2nD4
-date: 2025-02-10T19:34:14.100Z
-updated: 2025-02-14T21:42:33.531Z
+date: 2025-02-26T01:58:50.501Z
+updated: 2025-03-03T21:25:56.237Z
 tags:
   - win11
   - win10
@@ -64,10 +64,6 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 
  Sometimes, OBS mic working issues may happen due to inappropriate sound settings on your computer. Therefore, try to adjust them following the instructions below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Unmute OBS on your computer
 
 1. Right-click the**speaker icon** in the bottom-right corner of your taskbar. And click**Open Volume Mixer** .  
@@ -81,10 +77,6 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 1. Right-click the**speaker icon** in the bottom-right corner of your taskbar. And click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working17.jpg)
 2. Select**Recording** . Right-click on any empty place inside the window and tick**Show Disabled Devices** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working14.jpg)
 3. Then right-click your microphone device and click**Enable** .  
@@ -109,22 +101,10 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working17.jpg)
 2. Select**Recording** . Right-click your microphone device and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working18.jpg)
 3. Select the**Advanced** tab. Uncheck**Allow applications to take exclusive control of this device** . Then click**OK** to apply the change.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you have made certain changes to your computer. Try to use the mic device on OBS to see if you have gotten rid of its microphone problem.
 
@@ -143,26 +123,14 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/google-meet-camera-6.jpg)
 3. Click the**Update** button next to the flagged audio drivers to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working23.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Restart your computer to make changes apply. Launch OBS to check for any improvements on the OBS microphone issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4 Modify audio settings on OBS
 
@@ -174,10 +142,6 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working21.jpg)
 3. Click**Hotkeys** on the left tab. Scroll down to locate Push-to-talk. If it’s displaying a key,**delete** it.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working19.jpg)
 4. Click**Apply** and**OK** on the bottom-right corner.
@@ -211,10 +175,6 @@ Use your microphone to check whether the problem is solved.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working5.jpg)
 2. Then you’ll be prompted to a pop-up window. Click**Copy URL** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working4.png)
 3. Visit[**OBS Analyzer web page**](https://obsproject.com/tools/analyzer) . Paste the URL and click**Analyze** .  
 
@@ -244,24 +204,20 @@ Use your microphone to check whether the problem is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-audacity-audio-basics-for-new-mac-users/"><u>[New] 2024 Approved Audacity Audio Basics for New Mac Users</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-record-roblox-gameplay-on-mac/"><u>[New] How to Record Roblox Gameplay on Mac</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-unboxing-revolution-the-most-innovative-yt-channels-of-2024/"><u>[New] Unboxing Revolution The Most Innovative YT Channels of 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-best-camera-stabilizers-for-youtubers/"><u>2024 Approved Best Camera Stabilizers for YouTubers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-youtube-elites-creator-conclave/"><u>2024 Approved YouTube Elites Creator Conclave</u></a></li>
-<li><a href="https://program-issues.techidaily.com/7-simple-solutions-to-stop-your-pc-from-crashing-on-halo-infinite/"><u>7 Simple Solutions to Stop Your PC From Crashing on Halo Infinite</u></a></li>
-<li><a href="https://program-issues.techidaily.com/achieve-smoother-visuals-in-ring-of-elysium-improve-your-frame-rate-now/"><u>Achieve Smoother Visuals in Ring of Elysium - Improve Your Frame Rate Now!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/chrome-stalling-or-freezing-on-windows-11-heres-how-to-smoothly-resolve-it/"><u>Chrome Stalling or Freezing on Windows 11? Here's How to Smoothly Resolve It</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/discover-the-13-essential-earning-tactics-for-novices-on-reddit/"><u>Discover the 13 Essential Earning Tactics for Novices on Reddit</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Honor X50i+? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-ways-to-stop-football-manager-2020-from-crashing-on-pc/"><u>Effective Ways to Stop Football Manager 2020 From Crashing on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-steps-to-resolve-security-error-in-windows-11/"><u>Essential Steps to Resolve Security Error in Windows 11</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/expert-insights-bridging-obs-and-facebook-live-streaming-for-2024/"><u>Expert Insights Bridging OBS and Facebook Live Streaming for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-black-screen-error-thats-plaguing-your-persona-amoji-gameplay/"><u>How to Resolve the Black Screen Error That's Plaguing Your Persona Amoji Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/operation-translate-all-instances-of-inflammation-into-a-series-of-musical-notes-that-follow-the-pattern-found-in-beethovens-symphony-no5-first-movement-all485/"><u>Operation: Translate All Instances of Inflammation Into a Series of Musical Notes that Follow the Pattern Found in Beethoven's Symphony No.5, First Movement (Allegro Con Brio)</u></a></li>
-<li><a href="https://win-updates.techidaily.com/transferring-your-ios-melodies-a-step-by-step-guide-to-moving-songs-from-iphone-to-itunes-on-windows-10/"><u>Transferring Your iOS Melodies: A Step-by-Step Guide to Moving Songs From iPhone to iTunes on Windows 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-call-of-duty-warzones-error-6634/"><u>Ultimate Guide: Resolving Call of Duty: Warzone's Error 6634</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-lag-problems-with-avatar-game-on-pandoras-frontier-adventure/"><u>Ultimate Guide: Resolving Lag Problems with Avatar Game on Pandora’s Frontier Adventure</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722991603015-update-error-in-discord-problem-solved-with-latest-fix/"><u>Update Error in Discord? Problem Solved with Latest Fix</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-ultimate-guide-to-capturing-professional-quality-in-zoom-podcasts/"><u>[New] The Ultimate Guide to Capturing Professional Quality in Zoom Podcasts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-how-to-strategically-use-tags-for-youtube-success/"><u>[Updated] 2024 Approved How to Strategically Use Tags for YouTube Success</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-innovative-ideas-in-immersive-realms-30plus-quotes-to-motivate-you-for-2024/"><u>[Updated] Innovative Ideas in Immersive Realms 30+ Quotes to Motivate You for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/correcting-issues-with-improper-installation-of-the-ryzen-utilities-suite/"><u>Correcting Issues with Improper Installation of the Ryzen Utilities Suite</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/foundations-of-video-editing-in-the-gaming-world/"><u>Foundations of Video Editing in the Gaming World</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-f34-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy F34 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-13t-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi 13T by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mass-effect-legendary-edition-patch-update-for-smoother-gameplay-experience/"><u>Mass Effect Legendary Edition Patch Update for Smoother Gameplay Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/new-leak-suggests-apple-pushes-back-launch-of-ai-capabilities-to-october-insights/"><u>New Leak Suggests Apple Pushes Back Launch of AI Capabilities to October - Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revamped-planet-continually-encounters-frost-insights-and-solutions/"><u>Revamped Planet Continually Encounters Frost: Insights & Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/strategies-for-successful-appeals-in-civic-litigation-a-focus-on-case-no-6-and-the-challenge-of-permission-denial/"><u>Strategies for Successful Appeals in Civic Litigation: A Focus on Case No. 6 and the Challenge of Permission Denial</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-smart-choice-essential-steps-in-upgrading-your-tech-for-2024/"><u>The Smart Choice Essential Steps in Upgrading Your Tech for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-non-responsive-utorrent-with-these-7-techniques/"><u>Troubleshooting Non-Responsive Utorrent with These 7 Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-solution-for-black-desert-pc-stability-no-more-frustrating-freezes/"><u>Ultimate Solution for Black Desert PC Stability: No More Frustrating Freezes</u></a></li>
 </ul></div>
 

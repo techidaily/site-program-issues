@@ -1,7 +1,7 @@
 ---
 title: "Resolving the ERR_GFX_STATE Issue in Red Dead Redemption 2: A Comprehensive Guide"
-date: 2025-02-11T00:37:14.434Z
-updated: 2025-02-14T21:39:16.863Z
+date: 2025-02-28T09:44:55.865Z
+updated: 2025-03-04T07:47:47.727Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ Sifu
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Install the latest game patch
 
  The French studio Sloclap releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -74,10 +70,6 @@ There are mainly two methods for you to update the graphics driver:
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -130,10 +122,6 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Sifu and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Change Windows power plan
@@ -158,19 +146,11 @@ There are mainly two methods for you to update the graphics driver:
 
  Lauch the game to see if Sifu’s in-game FPS improves after changing the power plan. If you didn’t see much in-game FPS boosts, read on and try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Disable overlays
 
  Apps like Discord, Nvidia GeForce Experience, Twitch supprt the overlay feature. Although the overlay feature is handy, it may interfere with many games, and sometimes it would even introduce performance issues and compatibility issues.
 
  If you’ve enabled overlays while playing Sifu, try disabling it. Then launch Sifu again and see if the in-game FPS improves. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
 
@@ -182,10 +162,6 @@ There are mainly two methods for you to update the graphics driver:
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
@@ -214,18 +190,22 @@ Launch Sifu to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-crystal-clear-captures-removing-fog-from-gopro-shots/"><u>[Updated] In 2024, Crystal Clear Captures Removing Fog From GoPro Shots</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-top-8-online-places-for-free-3d-text-files/"><u>[Updated] The Ultimate Guide Top 8 Online Places for Free 3D Text Files</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-ultimate-guide-to-android-video-calls/"><u>2024 Approved The Ultimate Guide to Android Video Calls</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-rated-zero-price-after-effects-samples/"><u>2024 Approved Top-Rated, Zero-Price After Effects Samples</u></a></li>
-<li><a href="https://program-issues.techidaily.com/are-there-any-connectivity-issues-with-xbox-live-today/"><u>Are There Any Connectivity Issues with Xbox Live Today?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/enhancing-your-network-coverage-the-tp-link-re505x-range-extender-scrutinized/"><u>Enhancing Your Network Coverage: The TP-Link RE505X Range Extender Scrutinized</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-stop-praey-for-the-overlord-from-crashing-on-your-computer/"><u>Fixes & Solutions: How to Stop Praey for the Overlord From Crashing on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/gas-station-simulator-windows-errors-heres-a-solution/"><u>Gas Station Simulator Windows Errors? Here's a Solution!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-21-edition-examination-the-gamblers-guide-to-vegas-pro/"><u>In 2024, '21 Edition Examination – The Gambler’s Guide to Vegas Pro</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-minecraft-expert-advice-for-eliminating-lag-and-enhancing-pc-gaming-experience/"><u>Mastering Minecraft: Expert Advice for Eliminating Lag and Enhancing PC Gaming Experience</u></a></li>
-<li><a href="https://android-frp.techidaily.com/review-of-the-best-value-smartphone-moto-g-stylus-edition-powerful-and-easy-to-use/"><u>Review of the Best Value Smartphone: Moto G Stylus Edition – Powerful and Easy to Use!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-guide-resolve-continuous-freezing-and-crashing-issues-in-escape-from-tarkov-on-computer-systems/"><u>Solution Guide: Resolve Continuous Freezing and Crashing Issues in Escape From Tarkov on Computer Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steps-to-solve-pc-hiccups-with-slimerancher-navigating-through-crashes-and-freezes/"><u>Steps to Solve PC Hiccups with Slimerancher Navigating Through Crashes and Freezes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-screen-recording-via-mobile-devices-a-guide/"><u>[New] In 2024, Snapchat Screen Recording via Mobile Devices A Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-pioneering-technology-cutting-edge-screen-capture-software-listings-for-2024/"><u>[New] Pioneering Technology Cutting-Edge Screen Capture Software Listings for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-double-delight-maximizing-the-use-of-netflixs-floating-window/"><u>[Updated] In 2024, Double Delight Maximizing the Use of Netflix's Floating Window</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-superior-facebook-extras-secure-video-grab-and-firefox-use-for-2024/"><u>[Updated] Superior Facebook Extras Secure Video Grab & Firefox Use for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-ways-to-fix-an-unresponsive-epic-games-launcher-on-any-device/"><u>Easy Ways to Fix an Unresponsive Epic Games Launcher on Any Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enjoy-tiktok-videos-on-your-tv-a-comprehensive-walkthrough/"><u>Enjoy TikTok Videos on Your TV: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/everything-you-should-know-about-instagram-video-length-for-2024/"><u>Everything You Should Know About Instagram Video Length for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-the-latest-in-tech-samsung-upgrades-its-premier-tablet-line-with-android-13/"><u>Experience the Latest in Tech: Samsung Upgrades Its Premier Tablet Line with Android 13</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tactics-for-getting-valorant-to-start-properly-on-your-computer/"><u>Expert Tactics for Getting Valorant to Start Properly on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fast-track-to-optimal-performance-in-assassins-creed-valhalla-no-more-delays/"><u>Fast Track to Optimal Performance in Assassin's Creed Valhalla - No More Delays</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-path-of-exiles-inability-to-connect-with-the-game-server/"><u>How to Fix Path of Exile's Inability to Connect with the Game Server</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leverage-cookiebot-technology-for-superior-user-analytics-and-seo-performance/"><u>Leverage Cookiebot Technology for Superior User Analytics and SEO Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/microsoft-flight-simulator-2020-strategies-to-bypass-and-complete-updates-quickly/"><u>Microsoft Flight Simulator 2020 - Strategies to Bypass and Complete Updates Quickly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-baldurs-gate-3-top-6-strategies-to-tackle-excessive-cpu-demands-updated-guide/"><u>Resolving Baldur's Gate 3: Top 6 Strategies to Tackle Excessive CPU Demands - Updated Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/reviving-your-cortana-guided-steps-for-smooth-operation/"><u>Reviving Your Cortana: Guided Steps for Smooth Operation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-battlenet-launch-problems-with-our-expert-2024-tips-and-solutions/"><u>Troubleshoot Battle.net Launch Problems with Our Expert 2024 Tips & Solutions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-the-samsung-galaxy-s21-ultra-reigns-supreme-on-google-play/"><u>Why the Samsung Galaxy S21 Ultra Reigns Supreme on Google Play</u></a></li>
 </ul></div>
 

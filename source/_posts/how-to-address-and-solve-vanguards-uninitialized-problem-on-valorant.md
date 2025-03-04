@@ -1,7 +1,7 @@
 ---
 title: How to Address and Solve Vanguard's Uninitialized Problem on Valorant
-date: 2025-02-08T01:07:29.948Z
-updated: 2025-02-14T21:38:58.870Z
+date: 2025-03-01T08:00:38.828Z
+updated: 2025-03-04T09:50:41.077Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 * Software confliction
 * etc.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix ‘ **_Connection to the Battle.net game server has been lost_**  ‘?
 
  Before you try any of these fixes below, please make sure to[check the game server status](https://support.activision.com/onlineservices) and restart your modem and router to rule out any possible connection issues.
@@ -55,10 +51,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 5. [Use a VPN](https://tools.techidaily.com/drivereasy/download/)
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1\. Allow your game to run through Windows Firewall
 
@@ -75,10 +67,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As you know Public network is an unsafe territory, do not allow any third-party application of unknown origin on any public network in your computer settings.
 
@@ -117,16 +105,8 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
@@ -136,10 +116,6 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click **OK** to apply.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
 
@@ -161,10 +137,6 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
 
@@ -204,18 +176,19 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-redefine-video-communication-with-your-webcam/"><u>[New] Redefine Video Communication with Your Webcam</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-the-ultimate-trivia-collection-general-knowledge-2024/"><u>[New] The Ultimate Trivia Collection - General Knowledge 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-chill-vibes-at-the-beijing-winter-olympics-2022/"><u>2024 Approved Chill Vibes at the Beijing Winter Olympics 2022</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-closer-look-at-antroachs-at-1-27-the-perfect-blend-of-elegance-and-excellent-reception-for-your-home-entertainment/"><u>A Closer Look at Antroach's AT-1 27: The Perfect Blend of Elegance & Excellent Reception for Your Home Entertainment</u></a></li>
-<li><a href="https://program-issues.techidaily.com/civil-court-case-6-addressing-access-denials-in-the-2024-legal-year/"><u>Civil Court Case 6: Addressing Access Denials in the 2024 Legal Year</u></a></li>
-<li><a href="https://program-issues.techidaily.com/discord-stream-interrupted-by-endless-loading-heres-how-to-get-your-live-event-running-again/"><u>Discord Stream Interrupted by Endless Loading? Here's How to Get Your Live Event Running Again</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-preventing-frequent-crashes-and-freezing-in-gta-5/"><u>Expert Tips for Preventing Frequent Crashes & Freezing in GTA 5</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-dbos-the-perfect-choice-for-cloud-computing-over-linux-discover-and-download-your-free-trial/"><u>Exploring DBOS: The Perfect Choice for Cloud Computing Over Linux - Discover & Download Your Free Trial!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-game-ultimate-troubleshooting-guide-to-prevent-state-of-decay-2-from-crashing/"><u>Fix Your Game: Ultimate Troubleshooting Guide to Prevent State of Decay 2 From Crashing</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/how-to-go-live-on-facebook/"><u>How to Go Live on Facebook?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facebook-video-treasures-top-5-list/"><u>In 2024, Facebook Video Treasures - Top 5 List</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-challenges-for-a-smoother-launch-insights-into-wolcens-development-hurdles/"><u>Overcoming Challenges for a Smoother Launch: Insights Into Wolcen's Development Hurdles</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-6-solutions-how-to-troubleshoot-when-your-steam-vr-is-unseen-by-pc/"><u>Top 6 Solutions: How To Troubleshoot When Your Steam VR Is Unseen By PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-instant-reddit-history-retrieval-for-deleted-threads/"><u>[New] Instant Reddit History Retrieval for Deleted Threads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-platforms-creating-movies-from-photo-galleries/"><u>[Updated] Ideal Platforms Creating Movies From Photo Galleries</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2021-fixing-the-endless-startup-loop/"><u>Football Manager 2021: Fixing the Endless Startup Loop</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-rid-of-that-apple-logo-7-proven-techniques-to-fix-a-frozen-iphone/"><u>Get Rid of That Apple Logo: 7 Proven Techniques to Fix a Frozen iPhone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-free-download-hp-photosmart-7520-printer-software-today/"><u>Get Your [Free Download] HP Photosmart 7520 Printer Software Today!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-vivo-y100i-power-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Vivo Y100i Power 5G online without jailbreak</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-xiaomi-redmi-13c-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Xiaomi Redmi 13C Without PUK Codes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007945700-jump-the-queue-handy-tips-to-resolve-loading-screen-deadlocks-in-forza-horizon-5/"><u>Jump the Queue: Handy Tips to Resolve Loading Screen Deadlocks in Forza Horizon 5</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/must-play-biking-games-anthology-for-2024/"><u>Must-Play Biking Games Anthology for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-black-screens-expert-fixes-for-star-wars-battlefront-ii-graphics-glitch/"><u>No More Black Screens: Expert Fixes for Star Wars Battlefront II Graphics Glitch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gamers-struggle-with-playstation-all-stars-battle-royale-how-to-fix-it/"><u>PC Gamers Struggle with PlayStation All-Stars Battle Royale: How to Fix It?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-perils-decoded-understanding-the-double-dip-disaster-scenario/"><u>PC Perils Decoded: Understanding the 'Double-Dip Disaster' Scenario</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/egies-to-arrange-content-in-youtube-media-for-2024/"><u>Strategies to Arrange Content in YouTube Media for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-frame-drops-and-jitter-in-fortnite-for-pc-users/"><u>Troubleshooting Frame Drops and Jitter in Fortnite for PC Users</u></a></li>
 </ul></div>
 

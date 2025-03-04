@@ -1,7 +1,7 @@
 ---
 title: Accelerating Ubisoft Connect Transfer Rates - Tips & Tricks
-date: 2025-02-10T21:39:14.229Z
-updated: 2025-02-15T00:53:39.014Z
+date: 2025-03-03T10:01:53.905Z
+updated: 2025-03-04T00:39:42.656Z
 tags:
   - win11
   - win10
@@ -39,26 +39,14 @@ thumbnail: https://thmb.techidaily.com/a8b16314a41e8185a53e16911a8cd83652896b677
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/xbox-supporting-apps.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you have the**Xbox Console Companion** installed, please uninstall it. To do so:
 
 1. On your keyboard, press the**Windows logo key** and**X** together to open the Quick Link menu. Then select**Apps and Features** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/apps-features.jpg)
 2. Under Apps & features, click**Xbox Console Companion** and select**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-xbox-console-companion.jpg)
 3. Click**Uninstall** again.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall.jpg)
 
@@ -71,10 +59,6 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
  Your antivirus software could block the normal operation of State of Decay 2 and cause the game to keep crashing. To ensure that State of Decay 2 works properly, you should add it as an exception to your antivirus software. This will vary depending on the antivirus software you’re using.
 
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -109,10 +93,6 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you’ve installed all the updates, restart your computer and launch State of Decay 2 to see if the crashing issue remains.
 
 If this method doesn’t help, check out the next solution.
@@ -128,16 +108,8 @@ If this method doesn’t help, check out the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-options.jpg)
 3. Scroll down the page, then click**Reset** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset-app.jpg)
 4. Click**Reset** to confirm again.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset.jpg)
 5. Once the process is complete, restart your computer.
@@ -174,10 +146,6 @@ If this method doesn’t do the trick, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-a-language.jpg)
 3. Select**English (United States)** , then click**Next** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/next.jpg)
 4. Click**Install** .  
 
@@ -186,17 +154,9 @@ If this method doesn’t do the trick, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/set-as-default.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now restart your PC and test if State of Decay 2 still crashes.
 
 If this solution doesn’t work for you, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Perform a clean boot
 
@@ -259,16 +219,21 @@ If this solution doesn’t work for you, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-mastering-windows-11-photo-app-stability-troubleshooting/"><u>[New] In 2024, Mastering Windows 11 Photo App Stability Troubleshooting</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ideo-perfection-streamlined-subtitlecc-implementation-on-youtube-for-2024/"><u>[New] Video Perfection Streamlined Subtitle/CC Implementation on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-master-rapidly-expertise-in-designing-valorant-thumbnails/"><u>2024 Approved Master Rapidly Expertise in Designing Valorant Thumbnails</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-image-files-management-on-ios-jpegpng-to-pdf/"><u>2024 Approved Seamless Image Files Management on IOS JPEG/PNG to PDF</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-transformation-of-windows-10-landscape/"><u>2024 Approved The Transformation of Windows 10 Landscape</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-restoring-your-logitech-c92eb-camera-functionality/"><u>Diagnosing and Restoring Your Logitech C92eb Camera Functionality</u></a></li>
-<li><a href="https://program-issues.techidaily.com/essential-troubleshooting-tips-for-major-bugs-in-activisions-popular-fps-games/"><u>Essential Troubleshooting Tips for Major Bugs in Activision's Popular FPS Games</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-darkness-resolving-your-halo-infinites-screen-issue/"><u>How to Overcome Darkness: Resolving Your Halo Infinite's Screen Issue</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/schritt-fur-schritt-anleitung-zum-konvertieren-von-hevc-zu-mp4-ohne-qualitatsverluste/"><u>Schritt-Für-Schritt-Anleitung Zum Konvertieren Von HEVC Zu MP4 Ohne Qualitätsverluste</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-resolve-crashes-in-division-2-ultimate-guide/"><u>Troubleshooting Steps to Resolve Crashes in Division 2: Ultimate Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/video-editing-on-a-shoestring-best-software-for-2024/"><u>Video Editing on a Shoestring Best Software for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unveiling-economical-virtual-reality-solutions-for-2024/"><u>[New] Unveiling Economical Virtual Reality Solutions for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-creating-on-the-side-balancing-employment-with-youtube/"><u>[Updated] Creating on the Side Balancing Employment with YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-on-resolving-crashes-of-elite-dangerous-when-played-on-a-computer/"><u>Comprehensive Guide on Resolving Crashes of Elite Dangerous When Played on a Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/does-chatgpt-have-what-it-takes-to-brew-perfect-cocktails/"><u>Does ChatGPT Have What It Takes to Brew Perfect Cocktails?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elevate-your-valorant-experience-by-eliminating-stutters-and-maximizing-frame-rates/"><u>Elevate Your Valorant Experience by Eliminating Stutters and Maximizing Frame Rates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722992772403-fast-fix-resolve-your-apps-origin-crash-problem-with-simple-steps/"><u>Fast Fix: Resolve Your App's 'Origin Crash Problem' With Simple Steps!</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-z-flip-5-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy Z Flip 5 Without Password | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-oppo-reno-10-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Oppo Reno 10 5G</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigating-obstacles-in-advancing-collective-human-endeavors/"><u>Navigating Obstacles in Advancing Collective Human Endeavors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-system-to-prevent-stutters-during-v-online-play/"><u>Optimizing Your System to Prevent Stutters During V Online Play</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pathfinder-launch-woes-heres-how-to-get-your-wrath-of-the-righteous-game-up-and-running/"><u>Pathfinder Launch Woes? Here's How to Get Your 'Wrath of the Righteous' Game Up and Running</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-for-opening-unresponsive-epic-games-launcher/"><u>Quick Solutions for Opening Unresponsive Epic Games Launcher</u></a></li>
+<li><a href="https://facebook.techidaily.com/revive-your-feed-10-steps-to-get-facebook-videos-rolling/"><u>Revive Your Feed: 10 Steps to Get Facebook Videos Rolling</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-guide-to-fast-nvidia-drivers-update/"><u>Step-by-Step Guide to Fast Nvidia Drivers Update</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317256-9781401936235-the-power-of-self-healing/"><u>The Power of Self-Healing | Free Book</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unhindered-routine-changing-video-direction-with-vlc-for-2024/"><u>Unhindered Routine Changing Video Direction with VLC for 2024</u></a></li>
 </ul></div>
 

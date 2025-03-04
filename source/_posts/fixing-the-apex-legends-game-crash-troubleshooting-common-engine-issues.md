@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Apex Legends Game Crash: Troubleshooting Common Engine Issues"
-date: 2025-02-12T01:14:19.508Z
-updated: 2025-02-15T03:20:07.581Z
+date: 2025-02-25T09:50:33.537Z
+updated: 2025-03-03T23:49:26.744Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 2. **[Run Apex Legends as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Verify game files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Edit registry](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update the graphics driver
 
@@ -68,10 +64,6 @@ Here is how to grant administrative privileges to Apex Legends:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-564.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In File Explorer, right click on **Apex Legends .exe**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-565.png)
@@ -92,17 +84,9 @@ Here is how to verify game files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-439-1024x522.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Right-click on**Apex Legends** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-561.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Wait until the repair process finishes.
 
@@ -111,10 +95,6 @@ Here is how to verify game files:
  4) Once done, run Apex Legends and check if the engine error is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Edit Registry
 
@@ -139,10 +119,6 @@ Windows Registry Editor Version 5.00
  3) Click**File** \>**Save as…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-476.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Save the file name as**fix.reg** and select the type as**All files** . then click Save.
 
@@ -174,20 +150,21 @@ Windows Registry Editor Version 5.00
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-travel-through-time-on-instagram-the-reverse-video-guide/"><u>[New] 2024 Approved Travel Through Time on Instagram The Reverse Video Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-realities-redefined-the-metaverse-vs-omniverse-showdown-explained/"><u>[New] In 2024, Realities Redefined The Metaverse Vs. Omniverse Showdown Explained</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-uncover-the-past-advanced-methods-for-instagram-image-retrieval-for-2024/"><u>[Updated] Uncover the Past Advanced Methods for Instagram Image Retrieval for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-honor-x50-frp-bypass-by-drfone-android/"><u>About Honor X50 FRP Bypass</u></a></li>
-<li><a href="https://program-issues.techidaily.com/assassins-creed-valhalla-on-pc-say-goodbye-to-gameplay-interruptions-and-stutter/"><u>Assassin's Creed Valhalla on PC - Say Goodbye to Gameplay Interruptions and Stutter</u></a></li>
-<li><a href="https://program-issues.techidaily.com/decrease-your-warzone-20-ping-for-competitive-advantage-insider-tips-and-tricks-players/"><u>Decrease Your Warzone 2.0 Ping for Competitive Advantage - Insider Tips & Tricks Players</u></a></li>
-<li><a href="https://win-updates.techidaily.com/discover-the-ideal-compact-flash-drive-for-djing-excellence-approved-by-pro-cdjs/"><u>Discover the Ideal Compact Flash Drive for DJing Excellence, Approved by Pro CDJs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-solutions-for-recurrent-crashing-in-the-rust-language-environment/"><u>Expert Solutions for Recurrent Crashing in the Rust Language Environment</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-possibnilities-of-nvidias-ai-foundations-for-customizable-generative-ai-and-user-accessibility/"><u>Exploring the Possibnilities of Nvidia's AI Foundations for Customizable Generative AI and User Accessibility</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-itel-a60s-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Itel A60s Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-wwe-2k22-from-crashing-on-your-computer/"><u>How to Stop WWE 2K22 From Crashing on Your Computer</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-elevating-your-igtv-presence-a-guide-to-effective-hash-tags/"><u>In 2024, Elevating Your IGTV Presence A Guide to Effective Hash Tags</u></a></li>
-<li><a href="https://extra-support.techidaily.com/professional-techniques-for-video-narrative-inclusion-for-2024/"><u>Professional Techniques for Video Narrative Inclusion for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723014025877-troubleshooting-your-call-of-duty-black-ops-4-fail-to-start-we-have-the-answers/"><u>Troubleshooting Your Call of Duty Black Ops 4 Fail to Start - We Have the Answers!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unveiling-fact-from-fiction-assassins-creed-valhalla-arrival-timeline-confirmed/"><u>Unveiling Fact From Fiction: Assassin's Creed Valhalla Arrival Timeline Confirmed!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-first-step-in-telegram-mastery-marketing-basics-unveiled/"><u>[New] First Step in Telegram Mastery Marketing Basics Unveiled</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ynchronize-your-surfing-master-multi-video-youtube-use-for-2024/"><u>[New] Synchronize Your Surfing Master Multi-Video YouTube Use for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-mastering-video-success-on-facebook-platforms/"><u>2024 Approved Mastering Video Success on Facebook Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battle-against-warzone-20-high-pings-expert-tips-for-stable-gameplay-in-202n/"><u>Battle Against Warzone 2.0 High Pings: Expert Tips for Stable Gameplay in 202N</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battling-launch-errors-in-diablo-ii-reborn-tips-and-tricks/"><u>Battling Launch Errors in Diablo II Reborn - Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/counter-strike-2-stability-fixes-for-windows-computers/"><u>Counter-Strike 2 Stability Fixes for Windows Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diy-digital-diplomats-building-bespoke-chatbots/"><u>DIY Digital Diplomats: Building Bespoke ChatBots</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-in-place-for-star-wars-jedi-fallen-order-initialization-errors/"><u>Fixes in Place for Star Wars Jedi: Fallen Order Initialization Errors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-starting-simple-how-to-create-your-own-twitter/"><u>In 2024, Starting Simple How to Create Your Own Twitter</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/marvel-heroes-on-screen-navigating-through-the-midway-points-of-excellence-and-mediocrity/"><u>Marvel Heroes on Screen: Navigating Through the Midway Points of Excellence & Mediocrity</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-fix-a-step-by-step-guide-to-overcoming-directdraw-problems/"><u>Mastering the Fix: A Step-by-Step Guide to Overcoming DirectDraw Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximizing-fps-fixing-gpu-issues-in-call-of-duty-warzone-on-windows-11/"><u>Maximizing FPS: Fixing GPU Issues in Call of Duty Warzone on Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722990841883-quick-fixes-stop-borderlands-3-from-crashing-instantly/"><u>Quick Fixes: Stop Borderlands 3 From Crashing Instantly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-talk-understanding-forefront-ai-versus-chatgpt/"><u>Tech Talk: Understanding Forefront AI Versus ChatGPT</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-fixing-frequent-warno-pc-game-crashes/"><u>Troubleshooting Tips for Fixing Frequent Warno PC Game Crashes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-12-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 12</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Far Cry 6 Fix: Ultimate Guide to Resolve the Notorious Black Screen Problem"
-date: 2025-01-29T01:17:39.523Z
-updated: 2025-02-01T01:09:10.346Z
+date: 2025-03-02T02:33:19.158Z
+updated: 2025-03-04T00:21:25.628Z
 tags:
   - win11
   - win10
@@ -45,15 +45,7 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run Discord as administrator
 
@@ -62,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
  1) On your desktop,**right-click** the shortcut of **Discord** and then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
@@ -76,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
  4) Run your game again.
 
 See if this issue reappears. If not, you have fixed this issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
@@ -109,10 +93,6 @@ See if this issue reappears. If not, you have fixed this issue.
 
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Reinstall Discord
 
  If you’ve tried all the fixes above but this issue persists, try**reinstalling Discord** . Here is how to do it:
@@ -123,17 +103,9 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  iii.**Double-click** **Discord** to uninstall it.  
 
@@ -193,24 +165,17 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-inside-the-world-of-haul-video-production/"><u>[New] 2024 Approved Inside the World of Haul Video Production</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-tiktok-beats-as-ringtones-practical-approach-for-mobile-users/"><u>[New] 2024 Approved TikTok Beats as Ringtones Practical Approach for Mobile Users</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-youtube-studio-review-profits-and-payments/"><u>[New] 2024 Approved YouTube Studio Review Profits and Payments</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-navigating-tiktok-success-methods-for-increasing-your-view-count-for-2024/"><u>[New] Navigating TikTok Success Methods for Increasing Your View Count for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-perfect-package-presentation-transformative-openings/"><u>[New] Perfect Package Presentation Transformative Openings</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-cyberpunk-2077-black-screen/"><u>[SOLVED] Cyberpunk 2077 Black Screen</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-streamline-your-thumbnail-design-journey-today-in-2024/"><u>[Updated] Streamline Your Thumbnail Design Journey Today, In 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-humorhexagonhub-photofunniesfactory/"><u>2024 Approved HumorHexagonHub PhotoFunniesFactory</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-in-class-slideshow-maker-xi-to-x-series-iphones-for-2024/"><u>Best-in-Class Slideshow Maker XI to X Series iPhones for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bid-farewell-to-terraria-crashing-issues-with-these-expert-strategies/"><u>Bid Farewell to Terraria Crashing Issues with These Expert Strategies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-fixes-for-a-non-responsive-msi-dragon-center-experience/"><u>Easy Fixes for a Non-Responsive MSI Dragon Center Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/foxhole-a-compound-word-becomes-foxholes/"><u>Foxhole (a Compound Word) Becomes Foxholes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/getting-your-skyline-up-and-running-fixing-cities-2s-initialization-woes/"><u>Getting Your Skyline Up and Running: Fixing Cities 2'S Initialization Woes</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-7-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 to the Previous iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-fallout-3-ultimate-tips-to-fix-boot-up-glitches/"><u>Mastering Fallout 3: Ultimate Tips to Fix Boot-Up Glitches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/nba-2k21-pc-stability-enhancements-overcoming-game-crashes-for-smooth-play/"><u>NBA 2K21 PC Stability Enhancements: Overcoming Game Crashes for Smooth Play</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-glitches-mastering-stable-premiere-pro-workflow-in-windows-11-and-10/"><u>No More Glitches: Mastering Stable Premiere Pro Workflow in Windows 11 and 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008444194-pathfinder-wrath-of-the-righteous-not-starting-heres-how-to-fix-it-quickly/"><u>Pathfinder: Wrath of the Righteous Not Starting? Here's How to Fix It Quickly!</u></a></li>
-<li><a href="https://games-able.techidaily.com/streaming-harmony-pause-then-reinvite-viewers-to-twitch/"><u>Streaming Harmony: Pause, Then Reinvite Viewers to Twitch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-glitches-proven-methods-for-unfreezing-borderlands-3-during-playtime/"><u>Beat the Glitches: Proven Methods for Unfreezing Borderlands 3 During Playtime</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-oneplus-12-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of OnePlus 12</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comment-fait-on-guide-complet-en-3-etapes-pour-migrer-des-films-dvd-vers-votre-bibliotheques-plex-efficiemment-et-sans-problemes/"><u>Comment Fait-On? - Guide Complet en 3 Étapes Pour Migrer Des Films DVD Vers Votre Bibliothèques Plex Efficiemment Et Sans Problèmes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-direct-youtube-file-access-tips/"><u>In 2024, Direct YouTube File Access Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-the-quintessential-guide-to-selecting-premium-drone-engines/"><u>In 2024, The Quintessential Guide to Selecting Premium Drone Engines</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/no-more-glitches-master-easy-techniques-for-stable-rage-2-gameplay/"><u>No More Glitches: Master Easy Techniques for Stable RAGE 2 Gameplay</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/nutritional-counseling-high-risk-patients-may-receive-guidance-on-proper-nutrition-supplements-like-folic-acid-iron-calcium-and-managing-dietary-restriction91/"><u>Nutritional Counseling: High-Risk Patients May Receive Guidance on Proper Nutrition, Supplements (Like Folic Acid, Iron, Calcium), and Managing Dietary Restrictions for Specific Medical Conditions or Complications During Pregnancy.</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/onenote-on-windows-11/"><u>OneNote on Windows 11に完璧な復元方法説明 - バックアップ手順</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-launch-problem-essential-guide-to-fixing-division-n/"><u>Solving the Launch Problem: Essential Guide to Fixing Division N</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-resolving-witcher-3-wild-hunt-startup-issues/"><u>Troubleshooting Tips for Resolving 'Witcher 3: Wild Hunt' Startup Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-your-pc-when-call-of-duty-mobile-suit-warzone-ii-continuously-crashes/"><u>Troubleshooting Your PC When Call of Duty: Mobile Suit Warzone II Continuously Crashes</u></a></li>
 </ul></div>
 

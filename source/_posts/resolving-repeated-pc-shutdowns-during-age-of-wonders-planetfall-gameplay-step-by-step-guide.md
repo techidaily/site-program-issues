@@ -1,7 +1,7 @@
 ---
 title: "Resolving Repeated PC Shutdowns During 'Age of Wonders: Planetfall' Gameplay - Step-by-Step Guide"
-date: 2025-02-11T01:07:30.108Z
-updated: 2025-02-14T16:28:13.138Z
+date: 2025-02-25T17:25:26.437Z
+updated: 2025-03-03T19:36:52.767Z
 tags:
   - win11
   - win10
@@ -41,19 +41,11 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
  If you’re quite sure there is nothing to do with your antivirus application, try the fixes listed below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Update your graphics driver
 
  Performance issues such as freezing and stuttering may be caused by an outdated or misconfigured graphics driver. If you can’t remember when was the last time you updated your drivers, definitely do it right now. This is probably the best shot you have got without doing a lot of troubleshooting. Additionally, graphics card manufacturers usually release game ready drivers to guarantee that players can get the best performance out of your graphics card.
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1 – Manually update your graphics driver
 
@@ -65,10 +57,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2 – Automatically update your graphics driver (recommended)
 
  Updating drivers manually does require a certain level of computer knowledge and can be error-prone. If you don’t feel like doing it on your own, we recommend you use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  , an automatic driver updater. With Driver Easy, you don’t need to waste your time hunting for driver updates as it will take care of the busy work for you.
@@ -79,17 +67,9 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -120,10 +100,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
  When it’s all done, relaunch your game. If the freezing issue persists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Disable overlays
 
  Commonly used in various programs, overlay technology allows you to enjoy some exclusive features, but can also cause performance issues with some games. Therefore, you should disable the Steam overlay and check if it can give you a performance boost. Here’s how you can do this:
@@ -136,15 +112,7 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After applying the changes, play Pathfinder: Wrath of the Righteous and your problem should be alleviated. However, if the freezing issue still occurs, don’t worry. Below are other fixes for you to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Launch your game from .exe file
 
@@ -195,24 +163,24 @@ Once done, restart your game and test the gameplay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-clear-shots-for-youtube-filmmakers-for-2024/"><u>[New] Clear Shots for YouTube Filmmakers for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-unveiling-immersion-the-lg-360-virtual-reality-experience/"><u>[New] In 2024, Unveiling Immersion The LG 360 Virtual Reality Experience</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-top-5-under-100-gaming-keyboards-your-next-purchase-in-2024/"><u>[New] Top 5 Under-$100 Gaming Keyboards – Your Next Purchase, In 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-c67-4g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-samsung-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Samsung .</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-to-correct-error-6-when-playing-dive-missions-in-cod-moden-warfare-pc-edition/"><u>Expert Tips to Correct Error #6 When Playing Dive Missions in CoD: Moden Warfare - PC Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-game-crashes-solutions-for-when-modern-warfare-2-wont-open/"><u>Fix Your Game Crashes - Solutions for When 'Modern Warfare 2' Won't Open</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-common-steam-issue-cant-link-with-local-steam-software/"><u>Fixing the Common Steam Issue: Can't Link With Local Steam Software?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Realme 12+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-the-no-matches-available-problem-in-fortnites-warzone-when-playing-from-a-computer/"><u>How to Fix the No Matches Available Problem in Fortnite's Warzone When Playing From a Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-stuttering-and-latency-problems-while-playing-forza-horizon-5-solutions-unveiled/"><u>How to Overcome Stuttering & Latency Problems While Playing Forza Horizon 5 - Solutions Unveiled!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/introduction-to-wet-scrubbers-and-their-use-in-removing-gaseous-pollutants-from-exhaust-streams-using-a-liquid-medium/"><u>Introduction to Wet Scrubbers and Their Use in Removing Gaseous Pollutants From Exhaust Streams Using a Liquid Medium.</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-gionee-f3-pro-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Gionee F3 Pro FRP Without Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-updater-0x8024a205-issue/"><u>Overcoming Windows Updater 0X8024a205 Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/scavengers-on-pc-overcoming-technical-glitches-and-ensuring-smooth-playtime/"><u>Scavengers On PC: Overcoming Technical Glitches and Ensuring Smooth Playtime</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-troubleshooting-lag-and-stutter-in-half-life-alyx-pc-fixes/"><u>Solved: Troubleshooting Lag & Stutter in Half-Life: Alyx - PC Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-high-latency-in-bless-unleashed-steps-to-reduce-lag-and-improve-pc-performance/"><u>Solving High Latency in Bless Unleashed: Steps to Reduce Lag and Improve PC Performance</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/uncovering-the-serial-and-model-numbers-on-your-macbook/"><u>Uncovering the Serial and Model Numbers on Your MacBook</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/mkvavi/"><u>マックヴからアビ簡単な変換 - MKVをAVIに電光石火の速さで！</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-precision-photography-the-most-exceptional-phones-for-4k-imaging/"><u>[New] 2024 Approved Precision Photography The Most Exceptional Phones for 4K Imaging</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-understanding-and-executing-photo-gender-modification-online/"><u>[New] Understanding and Executing Photo Gender Modification Online</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-pc-boot-issues-with-resident-evil-5-expert-troubleshooting-steps-inside/"><u>Banish PC Boot Issues with Resident Evil 5 - Expert Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-your-secret-weapon-for-advanced-web-traffic-analysis-and-growth/"><u>Cookiebot: Your Secret Weapon for Advanced Web Traffic Analysis and Growth</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/cutting-edge-tools-for-igtv-content-creation-and-editing/"><u>Cutting-Edge Tools for IGTV Content Creation and Editing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-innovation-at-the-apple-iphone-worldwide-rollout-ceremony/"><u>Discovering Innovation at the Apple iPhone Worldwide Rollout Ceremony</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-valheim-experience-overcoming-pc-system-lag-and-hitches/"><u>Enhance Your Valheim Experience: Overcoming PC System Lag & Hitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-resolving-recurrent-game-interruptions-in-tormented-souls-for-pc-users/"><u>Expert Advice: Resolving Recurrent Game Interruptions in Tormented Souls for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-phasmophobia-bugs-and-crashes-with-new-patch-of-2024/"><u>Fixing Phasmophobia Bugs and Crashes with New Patch of 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-why-is-razer-synapse-app-wont-launch/"><u>Fixing the Issue: Why Is Razer Synapse App Won't Launch?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-uninterrupted-play-expert-solutions-to-garrys-mod-crash-problems-updated/"><u>Master Uninterrupted Play: Expert Solutions to Garry's Mod Crash Problems - Updated</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigate-common-crashes-in-world-of-warships-for-windows-discover-our-5-key-remedies/"><u>Navigate Common Crashes in World of Warships for Windows: Discover Our 5 Key Remedies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/online-prevod-videovy-format-videa-na-mp4-sestupne-a-bez-potize-rychla-loupez/"><u>Online Převod Vídeový Formát Videa Na MP4 Sestupně a Bez Potíže - Rychlá Loupež</u></a></li>
+<li><a href="https://program-issues.techidaily.com/seamless-gaming-why-does-stardew-valley-crash-and-how-to-fix-it/"><u>Seamless Gaming: Why Does Stardew Valley Crash & How to Fix It</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-ad-free-and-no-cost-mobile-gaming-hits/"><u>Top 10 Ad-Free & No-Cost Mobile Gaming Hits</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-eradicate-lags-in-guilty-gear-strive-for-optimal-playing-experience/"><u>Troubleshooting Guide: Eradicate Lags in Guilty Gear -Strive- for Optimal Playing Experience</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/video-anonymity-tips-for-blurring-private-data-for-2024/"><u>Video Anonymity Tips for Blurring Private Data for 2024</u></a></li>
 </ul></div>
 

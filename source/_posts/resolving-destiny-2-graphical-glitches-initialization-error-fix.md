@@ -1,7 +1,7 @@
 ---
 title: Resolving Destiny 2 Graphical Glitches - Initialization Error Fix
-date: 2025-02-10T17:04:06.512Z
-updated: 2025-02-14T18:23:56.419Z
+date: 2025-03-02T18:47:50.392Z
+updated: 2025-03-04T10:27:01.698Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ STAR WARS The Old Republic (SWTOR) window does not show after you press Play? Yo
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -48,10 +44,6 @@ STAR WARS The Old Republic (SWTOR) window does not show after you press Play? Yo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_11-51.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Running third-party programs in the background can also interfere with your game and lead to issues like this (_especially overlay programs_ ). So, if you’re running multiple programs while gaming, please close them to rule out software conflicts and free up resources for your game.
 
  If your**antivirus** is running, temporarily disable it and check if the problem persists. This is because antivirus sometimes mistakenly identifies the game login module as a security threat.
@@ -61,10 +53,6 @@ STAR WARS The Old Republic (SWTOR) window does not show after you press Play? Yo
  If SWTOR works properly after you disable the antivirus software, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution.
 
 If SWTOR still won’t start, read on and try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run SWTOR in Admin mode
 
@@ -82,10 +70,6 @@ If SWTOR still won’t start, read on and try the next fix below.
 
 If this doesn’t work for you, then go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your graphics driver
 
  Your graphics card (GPU) is the most important component when it comes to determining gaming performance. If you’re using an outdated graphics driver, or the driver is corrupted, you’re likely to encounter game issues. So, make sure you update your graphics driver. There are two ways you can do this:
@@ -101,10 +85,6 @@ If this doesn’t work for you, then go ahead with the next fix.
 **2)**  Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-17-00.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -134,10 +114,6 @@ If your game still won’t launch, then go ahead with the fix below.
 **3)**  Right-click **STAR WARS: The Old Republic** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-56-38.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -186,10 +162,6 @@ If SWTOR is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-43-29.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **7)** On your keyboard, press the**Ctrl key and S** to save the changes. Then close Notepad.
 
 **8)** Delete the**Bitraider folder** .
@@ -227,16 +199,20 @@ If SWTOR is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-basic-principles-of-story-artistry/"><u>[New] Basic Principles of Story Artistry</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-step-up-video-playback-enable-youtubes-advanced-av1-setting/"><u>[Updated] Step Up Video Playback Enable YouTube's Advanced AV1 Setting</u></a></li>
-<li><a href="https://facebook.techidaily.com/accelerating-friend-finding-in-messaging-platforms/"><u>Accelerating Friend-Finding in Messaging Platforms</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/budget-friendly-sky-vault-optimal-large-file-haven/"><u>Budget-Friendly Sky Vault Optimal Large File Haven</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013736574-cod-vanguard-error-code-0x00001338-n-troubleshooting-guide-now-fixed/"><u>COD Vanguard Error Code 0X00001338 N Troubleshooting Guide – Now Fixed</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-tutorial-for-refreshing-driver-software-on-a-windows-pcs-motherboard/"><u>Easy Tutorial for Refreshing Driver Software on a Windows PC's Motherboard</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-tips-resolving-start-menu-issues-on-windows-11/"><u>Fixes & Tips: Resolving Start Menu Issues on Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-steam-error-code-130-solved/"><u>How to Fix Steam Error Code 130? [SOLVED]</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-to-eliminate-lag-and-raise-fps-on-the-game-the-ascent/"><u>Optimizing Your PC to Eliminate Lag & Raise FPS on the Game, 'The Ascent'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722986886208-sea-of-thieves-game-crash-bug-fixed/"><u>Sea of Thieves Game Crash Bug Fixed</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-empowering-remote-teams-with-google-meets-whiteboard-features-on-various-devices-for-2024/"><u>[New] Empowering Remote Teams with Google Meet's Whiteboard Features on Various Devices for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-experience-gaming-excellence-with-kinemaster-on-android/"><u>[New] In 2024, Experience Gaming Excellence with KineMaster on Android</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-how-to-check-who-unfollowed-me-on-instagram/"><u>[Updated] 2024 Approved How to Check Who Unfollowed Me on Instagram?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-puzzle-a-step-by-step-guide-to-fixing-robloxs-pc-error-code-277/"><u>Beat the Puzzle: A Step-by-Step Guide to Fixing Roblox's PC Error Code 277</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chucklecanvas-funny-images-for-social-media-sharing/"><u>ChuckleCanvas Funny Images for Social Media Sharing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-strategies-for-the-battlefield-5-launch-issue-solution/"><u>Comprehensive Strategies for the 'Battlefield 5 Launch Issue' Solution</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/determining-the-right-timing-how-regularly-should-you-consider-a-new-mobile-device/"><u>Determining The Right Timing: How Regularly Should You Consider a New Mobile Device?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pixel-playfulness-harnessing-funny-lenses-in-snapchat/"><u>In 2024, Pixel Playfulness Harnessing Funny Lenses in Snapchat</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-streamline-your-content-with-these-4-instagram-looping-hacks/"><u>In 2024, Streamline Your Content with These 4 Instagram Looping Hacks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125158846-introducing-the-miniature-marvel-of-additive-manufacturing-a-coin-sized-3d-printer-using-cutting-edge-silicon-technology-no-moving-parts/"><u>Introducing the Miniature Marvel of Additive Manufacturing: A Coin-Sized 3D Printer Using Cutting-Edge Silicon Technology, No Moving Parts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-get-starfield-running-on-steam-and-xbox/"><u>Resolving Issues: Get Starfield Running on Steam and Xbox</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-game-interruptions-essential-tips-to-prevent-cities-skylines-crashes/"><u>Say Goodbye to Game Interruptions: Essential Tips to Prevent Cities: Skylines Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/technical-checklist-confirm-your-cpus-eligibility-to-run-vanguard-effectively/"><u>Technical Checklist: Confirm Your CPU's Eligibility to Run Vanguard Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/techniques-to-lower-cpu-consumption-caused-by-new-software-release/"><u>Techniques to Lower CPU Consumption Caused by New Software Release</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-stardew-valley-launch-glitches-successfully-explained/"><u>Troubleshooting Stardew Valley Launch Glitches Successfully Explained</u></a></li>
 </ul></div>
 

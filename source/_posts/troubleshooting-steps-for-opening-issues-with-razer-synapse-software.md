@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Opening Issues with Razer Synapse Software
-date: 2025-02-13T00:32:55.553Z
-updated: 2025-02-14T22:31:23.478Z
+date: 2025-02-26T17:45:49.953Z
+updated: 2025-03-04T02:04:17.660Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 4. [Turn off background apps](https://tools.techidaily.com/drivereasy/download/)
 5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Check the minimum system requirement
 
  Before trying any complicated fixes, make sure your PC meets the minimum system requirement of Halo Infinite. You’ll meet Halo Infinite stuttering issue or other problems if your hardware is not powerful enough to support the game.
@@ -50,10 +46,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 
 You can fix it by uninstalling the multiplayer HD texture packs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Update your graphic driver
 
  Halo Infinite stuttering or lagging problem is usually related to the graphic driver. Make sure your GPU is fully up to date, the older GPU drivers can lead to poor performance and micro stutter.
@@ -68,10 +60,6 @@ There are mainly two ways you can update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
@@ -98,10 +86,6 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
@@ -125,10 +109,6 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Change NVIDIA resolution
 
@@ -155,16 +135,19 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-engaging-local-audiences-with-social-media-videos/"><u>[New] In 2024, Engaging Local Audiences with Social Media Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-secrets-lowering-playback-rate-for-better-views/"><u>[New] Snapchat Secrets Lowering Playback Rate for Better Views</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-direct-stream-from-fb-to-whatsapp-group-chat-for-2024/"><u>[Updated] Direct Stream From FB to WhatsApp Group Chat for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagrams-video-chatting-compendium/"><u>[Updated] In 2024, Instagram's Video Chatting Compendium</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagram-video-restrictions-what-you-must-know/"><u>[Updated] Instagram Video Restrictions What You Must Know</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-pc-performance-comprehensive-solutions-for-overcoming-fortnites-hiccups/"><u>Enhancing PC Performance: Comprehensive Solutions for Overcoming Fortnite's Hiccups</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-13t-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi 13T Pro Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/left-4-dead-out-of-the-woods-no-more-crashes/"><u>Left 4 Dead ² Out of the Woods - No More Crashes!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-problem-of-non-launching-2024-finals-effective-strategies-and-expert-advice/"><u>Solving the Problem of Non-Launching 2024 Finals: Effective Strategies & Expert Advice</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-game-torrents-at-a-glance-navigating-the-best-free-downloading-portals/"><u>Top Game Torrents at a Glance: Navigating the Best Free Downloading Portals</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-and-master-discord-setup-no-more-failures/"><u>Troubleshoot and Master Discord Setup – No More Failures</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-professionals-picks-smoothest-drone-gimbals/"><u>[New] 2024 Approved Professional's Picks Smoothest Drone Gimbals</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unleashing-potential-with-well-planned-instagram-content/"><u>[New] 2024 Approved Unleashing Potential with Well-Planned Instagram Content</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-future-appraisal-unconventional-thoughts/"><u>[New] In 2024, Future Appraisal Unconventional Thoughts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-ultimate-guide-the-art-of-background-music-for-video-unboxing/"><u>[Updated] In 2024, Ultimate Guide The Art of Background Music for Video Unboxing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/t-tips-for-streamlining-youtube-audio-into-imovie-for-2024/"><u>Expert Tips for Streamlining YouTube Audio Into iMovie for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-overcoming-the-endless-load-of-minecraft/"><u>Fixes & Solutions: Overcoming the Endless Load of Minecraft</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-continuous-collapses-in-tower-of-fantasy-gameplay-on-pc/"><u>Fixing the Continuous Collapses in Tower of Fantasy Gameplay on PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-honor-x9a-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor X9a Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-compatibility-problems-with-a-total-war-saga-troy-on-your-computer/"><u>How to Overcome Compatibility Problems with A Total War Saga: Troy on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-for-chrome-crashing-on-windows-11-simple-solutions/"><u>Quick Fixes for Chrome Crashing on Windows 11 - Simple Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722995490483-remnant-from-the-ashes-update-ending-frequent-game-crash-episodes-once-and-for-all/"><u>Remnant: From the Ashes Update: Ending Frequent Game-Crash Episodes Once and for All!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/resolving-class-not-found-issues-in-windows-a-step-by-step-guide/"><u>Resolving 'Class Not Found' Issues in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-recurring-gameplay-interruptions-tips-for-stable-path-of-exile-experience/"><u>Resolving Recurring Gameplay Interruptions: Tips for Stable Path of Exile Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-the-look-of-your-macbook-discover-top-bag-options-backed-by-zdnet/"><u>Transform the Look of Your MacBook: Discover Top Bag Options Backed by ZDNet</u></a></li>
 </ul></div>
 

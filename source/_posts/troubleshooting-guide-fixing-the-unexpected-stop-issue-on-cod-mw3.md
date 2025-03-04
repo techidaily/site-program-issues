@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing the Unexpected Stop Issue on COD MW3"
-date: 2025-01-26T00:30:25.782Z
-updated: 2025-01-31T19:27:25.481Z
+date: 2025-02-26T22:14:00.976Z
+updated: 2025-03-04T04:19:16.846Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-preview-obs.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Turning off OBS preview should also mitigate the FPS drops while recording. But if this doesn’t help your case, have a look at the second method below.
 
 ### Fix 2 – Run OBS as an administrator
@@ -46,10 +42,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 1. Right-click the**OBS icon** on your desktop and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 2. Select the**Compatibility** tab, tick**Run this program as an administrator** and click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-obs-as-administrator.jpg)
 
@@ -67,10 +59,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
  Once done, restart OBS to test. If the OBS not recording problem persists, continue to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Change the graphics settings
 
@@ -93,15 +81,7 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  See if OBS works without trouble. If you’re still unable to use screen capture, there might be something wrong with your device drivers. Check out Fix 5 to solve it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Update your device drivers
 
@@ -117,10 +97,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/update-all-de.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -148,17 +124,16 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-eizos-ultra-hd-display-a-detailed-look-at-cg318-4k/"><u>[New] EIZO's Ultra HD Display A Detailed Look at CG318-4K</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-the-ultimate-guide-to-import-photos-and-videos-into-windows-10/"><u>[New] In 2024, The Ultimate Guide to Import Photos & Videos Into Windows 10</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-capture-clarity-top-10-photo-lens-selections-for-2024/"><u>[Updated] Capture Clarity Top 10 Photo Lens Selections for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/economical-aerial-aviators-affordable-drones-guide-(500/"><u>Economical Aerial Aviators Affordable Drones Guide <$500</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722989865910-get-your-discord-overlays-back-with-simple-steps-a-step-by-step-guide/"><u>Get Your Discord Overlays Back with Simple Steps - A Step-by-Step Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/repossessing-corrupted-or-erased-information-a-3-step-guide-on-your-external-hard-disk/"><u>Repossessing Corrupted or Erased Information: A 3-Step Guide on Your External Hard Disk</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-common-problem-why-does-my-blender-keep-crashing-and-how-to-fix-it/"><u>Solving the Common Problem: Why Does My Blender Keep Crashing and How To Fix It?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tackling-service-interruptions-in-chatgpt-plugin-relationships/"><u>Tackling Service Interruptions in ChatGPT-Plugin Relationships</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-frozen-frames-in-deathloop-optimize-your-play-on-pcps5/"><u>Troubleshooting Frozen Frames in Deathloop - Optimize Your Play on PC/PS5</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-installs-minecraft-flawlessly-on-your-windows-11-pc/"><u>Troubleshooting Tips: Installs Minecraft Flawlessly on Your Windows 11 PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-does-necromunda-hired-gun-continuously-fail-to-load-on-your-pc-find-out-here/"><u>Why Does 'Necromunda: Hired Gun' Continuously Fail to Load on Your PC? Find Out Here</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehending-the-basics-of-whatsapp-calls/"><u>[Updated] Comprehending the Basics of WhatsApp Calls</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-cost-effective-video-capture-for-less-expensive-systems/"><u>[Updated] Cost-Effective Video Capture for Less Expensive Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/8-essential-apple-watch-configuration-tweaks-for-extended-battery-performance-tips-from-zdnet/"><u>8 Essential Apple Watch Configuration Tweaks for Extended Battery Performance - Tips From ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-gameplay-in-battlefield-2042-fixing-low-fps-and-smoothness-issues-for-pc-users/"><u>Enhance Gameplay in Battlefield 2042 - Fixing Low FPS and Smoothness Issues for PC Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-resolving-audio-glitches-in-halo-infinite/"><u>Step-by-Step Guide: Resolving Audio Glitches in Halo Infinite</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-tips-to-overcome-performance-hiccups-lowering-ping-in-bless-unleashed-on-windows/"><u>Step-by-Step Tips to Overcome Performance Hiccups: Lowering Ping in Bless Unleashed on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-solution-to-updating-difficulties-with-minecraft-native-launcher/"><u>The Ultimate Solution to Updating Difficulties with Minecraft Native Launcher</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-prevent-warcraft-3-reforged-pc-game-crashes-tips/"><u>Troubleshooting Steps to Prevent Warcraft 3 Reforged PC Game Crashes - Tips</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-best-free-mov-trimmers-top-picks-for-video-editing/"><u>Updated 2024 Approved Best Free MOV Trimmers Top Picks for Video Editing</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-subtitle-editing-in-fcpx-best-practices-and-techniques/"><u>Updated Subtitle Editing in FCPX Best Practices and Techniques</u></a></li>
 </ul></div>
 

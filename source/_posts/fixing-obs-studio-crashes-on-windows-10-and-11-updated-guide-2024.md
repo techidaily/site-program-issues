@@ -1,7 +1,7 @@
 ---
 title: Fixing Obs Studio Crashes on Windows 10 & 11 (Updated Guide, 2024)
-date: 2025-01-25T00:53:21.812Z
-updated: 2025-01-31T18:51:46.629Z
+date: 2025-03-01T02:19:52.381Z
+updated: 2025-03-03T21:39:18.823Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/7b6a77243ca66b31a91ff4bded488c1c26ccff28e
 ## [FIXED] Why Does Adobe After Effects Keep Crashing on Windows 11 & 10? Solutions Inside
 
 **After Effects keeps crashing on your Windows computer?** Don’t worry… Although it’s frustrating, you’re definitely not the only one to run into this problem. Lots of Windows users have reported the very same issue recently. The good news is, you’ve landed in the right spot and you should be able to fix it pretty easily.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/7b6a77243ca66b31a91ff4bded488c1c26ccff28e
 ![How to disable GPU acceleration in After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/How-to-disable-GPU-acceleration-in-After-Effects.jpg)
 2. **Untick the box** next to**Hardware Accelerate Composition, Layer, and Footage Panels** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![How to disable GPU acceleration in After Effects 1](https://images.drivereasy.com/wp-content/uploads/2021/03/How-to-disable-GPU-acceleration-in-After-Effects-1.jpg)
 
  If you have two graphics cards and After Effects crashed when you’re using your dedicated graphics card for fast previews, you can also try switching your dedicated graphics card (GPU) to integrated graphics card (CPU) for fast previews. Here is how to do it:
@@ -56,17 +48,9 @@ thumbnail: https://thmb.techidaily.com/7b6a77243ca66b31a91ff4bded488c1c26ccff28e
 ![Switch GPU to CPU for fast previews in After Effects 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Switch-GPU-to-CPU-for-fast-previews-in-After-Effects-1.jpg)
 2. Click the**GPU information** button in the Fast previews section and switch GPU to CPU.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Switch GPU to CPU for fast previews in After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Switch-GPU-to-CPU-for-fast-previews-in-After-Effects.jpg)
 
  After you switched to CPU for fast previews, After Effects may take more time for fast previews, but it would reduce the possibilities of random crashes. If this fix doesn’t work for you, don’t worry. Try the next fix below to update your graphics driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -100,10 +84,6 @@ There’re mainly two ways you can update your graphics drivers:
 
 **Or**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -120,10 +100,6 @@ There’re mainly two ways you can update your graphics drivers:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
@@ -146,10 +122,6 @@ There’re mainly two ways you can update your graphics drivers:
 
 ![Purge all memory and disk cache 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache-1.jpg)
 3. Launch After Effects again to see if it crashes or not. If it still crashes, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If After Effects works well after you purged memory and disk cache, it may suggests that currently your computer doesn’t has sufficient RAM or storage for After Effects to run properly and you may need to upgrade the memory or storage to prevent crashes due to insufficient resources in the future.
 
@@ -205,14 +177,24 @@ If After Effects still crashes, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-command-over-youtubes-video-playback-speed/"><u>[New] In 2024, Gain Command Over YouTube's Video Playback Speed</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-crafting-quality-content-image-submission-for-youtubers/"><u>[Updated] In 2024, Crafting Quality Content Image Submission for YouTubers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-craft-a-captivating-story-integrating-images-on-instagram/"><u>2024 Approved Craft a Captivating Story Integrating Images on Instagram</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/insurgency-overcoming-stability-issues-in-the-new-sandstorm-update/"><u>Insurgency: Overcoming Stability Issues in the New Sandstorm Update!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-instructions-to-restore-visibility-on-dell-laptop-screens/"><u>Step-by-Step Instructions to Restore Visibility on Dell Laptop Screens</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-fixing-your-obs-screen-recordings-issue-now-solved/"><u>Troubleshooting and Fixing Your OBS Screen Recordings – Issue Now Solved</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-cod-mw3-when-it-suddenly-stops-working/"><u>Troubleshooting COD: MW3 When It Suddenly Stops Working</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-how-to-correctly-address-a-new-world-connection-mishap/"><u>Troubleshooting Tips: How To Correctly Address a New World Connection Mishap</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-hit-the-right-notes-music-mastery-on-instagram/"><u>[New] Hit the Right Notes Music Mastery on Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-creme-de-la-meme-collection-10/"><u>[Updated] The Crème De La Meme Collection - #10</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-a-guide-to-gathering-gold-from-guided-goods-gazes-online/"><u>2024 Approved A Guide to Gathering Gold From Guided Goods' Gazes Online</u></a></li>
+<li><a href="https://program-issues.techidaily.com/access-restored-origin-online-sign-in-now-fully-operational/"><u>Access Restored: Origin Online Sign-In Now Fully Operational</u></a></li>
+<li><a href="https://program-issues.techidaily.com/breaking-news-mystery-solved-mafia-definitive-edition-hits-shelves-soon/"><u>Breaking News: Mystery Solved – Mafia: Definitive Edition Hits Shelves Soon</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bug-fix-guide-how-to-overcome-modern-warfare-3s-12707-memory-issue/"><u>Bug Fix Guide: How to Overcome Modern Warfare 3'S 12707 Memory Issue</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-epson-driver-download-and-update-for-windows-users/"><u>Effortless Epson Driver Download & Update for Windows Users</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-viewership-3-key-storytelling-approaches/"><u>Elevate Viewership 3 Key Storytelling Approaches</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oneplus-11r-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead OnePlus 11R Safely | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-issues-with-nvidia-control-panel-opening-or-stability/"><u>How to Overcome Issues with NVIDIA Control Panel Opening or Stability</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-fusing-iphones-audio-and-visuals-together/"><u>In 2024, Fusing iPhones' Audio and Visuals Together</u></a></li>
+<li><a href="https://program-issues.techidaily.com/minecraft-launcher-fix-for-error-code-0x803f8001-a-step-by-step-guide-for-users-of-windows-11-and-10/"><u>Minecraft Launcher Fix for Error Code 0X803F8001: A Step-by-Step Guide for Users of Windows 11 and 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-resolve-the-winwordexe-app-crashing-issue-with-these-simple-fixes/"><u>Quick Solutions: Resolve the 'WINWORD.EXE' App Crashing Issue with These Simple Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-2024-solution-defeating-zooms-dark-screen-issues-on-windows-and-mac-computers/"><u>The Ultimate 2024 Solution: Defeating Zoom's Dark Screen Issues on Windows & Mac Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-anno-1800s-directx-glitches-for-smooth-gaming-experience/"><u>Troubleshooting Anno 1800'S DirectX Glitches for Smooth Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-server-connection-lost-error-in-escape-from-tarkov/"><u>Troubleshooting Guide: Resolving 'Server Connection Lost' Error in Escape From Tarkov</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-tascam-cd-200bt-a-masterful-music-production-device-with-ble/"><u>Unveiling the Tascam CD-200BT: A Masterful Music Production Device with BLE</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/vdg-screen-snatcher-synopsis-full-breakdown-for-2024/"><u>VDG Screen Snatcher Synopsis Full Breakdown for 2024</u></a></li>
 </ul></div>
 

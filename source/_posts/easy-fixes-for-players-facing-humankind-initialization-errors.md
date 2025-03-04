@@ -1,7 +1,7 @@
 ---
 title: Easy Fixes for Players Facing 'Humankind' Initialization Errors
-date: 2024-08-06T09:47:32.225Z
-updated: 2024-08-07T09:47:32.225Z
+date: 2025-03-03T05:40:18.710Z
+updated: 2025-03-03T22:06:01.405Z
 tags:
   - win11
   - win10
@@ -41,9 +41,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 
 You can fix it by uninstalling the multiplayer HD texture packs.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphic driver
 
  Halo Infinite stuttering or lagging problem is usually related to the graphic driver. Make sure your GPU is fully up to date, the older GPU drivers can lead to poor performance and micro stutter.
@@ -56,16 +53,10 @@ There are mainly two ways you can update the graphics driver:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
 
@@ -92,17 +83,10 @@ There are mainly two ways you can update the graphics driver:
 
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
 
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
 
 7) Run the game to check.
@@ -121,9 +105,6 @@ If it’s not working, move to the next fix.
 
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## Fix 5: Change NVIDIA resolution
 
  Open the NVIDIA control panel and change the resolution from 4k to 1440p. Click**Apply > Yes** to save the change.
@@ -140,11 +121,30 @@ If it’s not working, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-illustration-enthusiasts-dream-best-free-tools-for-mac/"><u>[New] 2024 Approved Illustration Enthusiasts' Dream - Best FREE Tools for Mac</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-experience-seamless-video-production-start-for-2024/"><u>[Updated] Experience Seamless Video Production Start for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pro-snipping-made-simple-the-top-5-pc-screen-capture-apps-revealed/"><u>[Updated] Pro Snipping Made Simple The Top 5 PC Screen Capture Apps Revealed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/a-comprehensive-approach-to-solving-the-mystery-why-slime-rancher-2-keeps-crashing-on-windowsmac-and-how-to-fix-it/"><u>A Comprehensive Approach to Solving the Mystery: Why Slime Rancher 2 Keeps Crashing on Windows/Mac and How to Fix It</u></a></li>
+<li><a href="https://some-tips.techidaily.com/android-devotees-and-innovators-reap-rewards-from-googles-landmark-legal-agreement-zdnet-exclusives/"><u>Android Devotees and Innovators Reap Rewards From Google's Landmark Legal Agreement | ZDNet Exclusives</u></a></li>
+<li><a href="https://driver-download.techidaily.com/approach-discuss-the-concept-of-multiple-load-paths/"><u>Approach: Discuss the Concept of Multiple Load Paths.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-visual-clutter-inside-windows-search/"><u>Avoiding Visual Clutter Inside Windows Search</u></a></li>
+<li><a href="https://program-issues.techidaily.com/best-practices-to-resolve-a-total-war-saga-troy-game-crashes-for-personal-computers/"><u>Best Practices to Resolve 'A Total War Saga: Troy' Game Crashes for Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-discord-crash-issues-in-just-5-easy-steps/"><u>Fix Your Discord Crash Issues in Just 5 Easy Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-diagnose-and-repair-malfunctions-in-gamer-oriented-utility-centers-like-raijinteks-afterburner/"><u>How to Diagnose & Repair Malfunctions in Gamer-Oriented Utility Centers Like Raijintek's Afterburner</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-canon-mg2900-the-ultimate-driver-downloads-guide/"><u>How to Update Your Canon MG2900: The Ultimate Driver Downloads Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-first-impressions-a-deep-dive-into-3d-printing-alone/"><u>In 2024, First Impressions A Deep Dive Into 3D Printing Alone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-download-the-ultimate-guide-to-installing-your-dell-latitude-e620-drivers/"><u>Speedy Download: The Ultimate Guide to Installing Your Dell Latitude E6#20 Drivers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-helldivers-ii-boot-failure-and-dark-startup/"><u>Step-by-Step Solution for Helldivers II Boot Failure and Dark Startup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-live-server-connection-failure-alerts/"><u>Troubleshooting Tips for 'Live Server Connection Failure' Alerts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fix-guide-resolving-biomutant-game-crashes/"><u>Ultimate Fix Guide: Resolving Biomutant Game Crashes</u></a></li>
+</ul></div>
+

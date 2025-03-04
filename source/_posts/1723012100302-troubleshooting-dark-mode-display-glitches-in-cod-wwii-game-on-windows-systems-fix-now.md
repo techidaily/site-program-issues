@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Dark Mode Display Glitches in COD: WWII Game on Windows Systems – Fix Now!"
-date: 2025-02-12T21:54:45.401Z
-updated: 2025-02-14T22:20:27.453Z
+date: 2025-03-01T03:38:04.120Z
+updated: 2025-03-03T23:51:07.778Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ Recently many Fallout 76 players have been plagued by the**Fallout 76 disconnect
 6. **[Switch the DNS server](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Is Fallout 76 down?](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1:**Reset Winsock**
 
  Winsock is an application in Windows that handles the data on the computer that programs use for Internet access. So when you can’t connect Fallout 76 to its server, you can give Winsock a try. It reverts the Winsock Catalog back to its default settings, which often proves useful in network problems.
@@ -47,10 +43,6 @@ Here is how to reset Winsock data:
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
@@ -64,10 +56,6 @@ Here is how to reset Winsock data:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2:**Close bandwidth hogging applications**
 
  If you’re running other programs like OneDrive, Dropbox or iCloud that use lots of bandwidth, or your family is streaming videos on YouTube or Netflix, Fallout 76 may lose connection from its game server. So you should close these bandwidth hungry apps and services to see if it can fix the**Fallout 76 disconnected from server** issue.
@@ -79,10 +67,6 @@ Here is how to do it:
  2) Right-click on **a bandwidth hogging app** and click **End Task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1deba6c03f2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Repeat step **2)** on every other bandwidth hogging programs.
 
@@ -104,10 +88,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
@@ -119,10 +99,6 @@ Here is how to do it:
 5) Run Fallout 76 again and see if the**Fallout 76 disconnected from server** is resolved. If yes, then congrats and enjoy the game! If the issue persists, please move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Restart your network
 
@@ -158,10 +134,6 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) Type**the following command line** and press **Enter**  on your keyboard.**ipconfig /flushdns**
@@ -187,10 +159,6 @@ _wireless router_
 **ipconfig /renew**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Launch Fallout 76.
 
@@ -236,10 +204,6 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Is Fallout 76 down?
 
  If you’ve exhausted all the solutions above but the problem is still not resolved, then it’s probably a server outage with the game. You can check Fallout 76 official[**Facebook**](https://www.facebook.com/fallout76/) or**[Twitter](https://twitter.com/fallout?lang=en)** to see if it is down and wait until the game is fully restored.
@@ -267,22 +231,24 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-composing-the-unseen-background-sounds-for-movie-teasers/"><u>[New] Composing the Unseen Background Sounds for Movie Teasers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-a-compreenasian-guide-to-obs-installation-on-apple-systems/"><u>[Updated] In 2024, A Compreenasian Guide to OBS Installation on Apple Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-freeze-expert-advice-on-repairing-crashes-in-call-of-duty-vanguard-for-optimal-performance/"><u>Beat the Freeze: Expert Advice on Repairing Crashes in Call of Duty: Vanguard for Optimal Performance</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/can-you-trust-tiktok-shops-my-unexpectedly-pleasant-purchase-as-revealed-on-zdnet/"><u>Can You Trust TikTok Shops? My Unexpectedly Pleasant Purchase, as Revealed on ZDNET</u></a></li>
-<li><a href="https://program-issues.techidaily.com/clearing-roadblocks-in-forza-horizon-5-a-guide-to-fixing-endless-startup-loads/"><u>Clearing Roadblocks in Forza Horizon 5: A Guide to Fixing Endless Startup Loads</u></a></li>
-<li><a href="https://win-web3.techidaily.com/customizing-your-windows-11-setup-and-overcoming-microsofts-limits-expert-tips/"><u>Customizing Your Windows 11 Setup & Overcoming Microsoft's Limits - Expert Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722996122488-effortless-ways-to-stop-control-crashes-and-boost-productivity/"><u>Effortless Ways to Stop 'Control Crashes' And Boost Productivity!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-reactivating-the-msi-mystic-light-feature-in-windows-environments/"><u>Expert Advice: Reactivating the MSI Mystic Light Feature in Windows Environments</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008004892-get-past-forza-horizon-ns-load-screen-the-ultimate-fix-guide/"><u>Get Past Forza Horizon N's Load Screen: The Ultimate Fix Guide!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-samsung-galaxy-a34-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Samsung Galaxy A34 5G Devices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/nine-new-dimensions-ai-altering-creative-processes/"><u>Nine New Dimensions: AI Altering Creative Processes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-solutions-for-immediate-resolution-of-your-fortnite-account-login-problems/"><u>Quick Solutions for Immediate Resolution of Your Fortnite Account Login Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steamvr-troubleshooting-made-simple-and-fast/"><u>SteamVR Troubleshooting Made Simple and Fast!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-overcoming-battlefield-5s-wont-start-dilemma/"><u>Step-by-Step Guide: Overcoming Battlefield 5'S Won’t Start Dilemma</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-10-strategies-how-chatgpt-can-boost-your-linkedin-employment-odds/"><u>Top 10 Strategies: How ChatGPT Can Boost Your LinkedIn Employment Odds</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-list-of-expertly-vetted-smart-home-innovations-for-2-cups-and-let-them-steep-for-about-5-minutes-or-until-your-desired-strength-is-reached/"><u>Ultimate List of Expertly Vetted Smart Home Innovations for 2 Cups, and Let Them Steep for About 5 Minutes or Until Your Desired Strength Is Reached.</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-king-of-slate-a-comprehensive-review-of-the-2018-apple-ipad-pro-11-inch-market-dominators/"><u>Unveiling the King of Slate: A Comprehensive Review of the 2018 Apple iPad Pro (11-Inch) - Market Dominators!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-elevate-your-content-with-advanced-vsco-techniques-for-2024/"><u>[New] Elevate Your Content with Advanced VSCO Techniques for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-precision-screensaver-for-chromebooks-for-2024/"><u>[New] Precision Screensaver for Chromebooks for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-proven-pathways-for-sound-alteration-in-pubg-gamers/"><u>[New] Proven Pathways for Sound Alteration in PUBG Gamers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-key-landscapes-perfectly-capturing-live-streams/"><u>2024 Approved Key Landscapes Perfectly Capturing Live Streams</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/accelerate-your-pc-top-strategies-from-yl-computings-expert-guide/"><u>Accelerate Your PC: Top Strategies From YL Computing’s Expert Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/atomic-heart-malfunction-during-system-boot-up-a-comprehensive-guide/"><u>Atomic Heart Malfunction During System Boot-Up: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722988506423-cyberpunk-2077-overheating-issues-heres-the-solution-for-lowering-cpu-load/"><u>Cyberpunk 2077 Overheating Issues? Here’s the Solution for Lowering CPU Load</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/dejouez-les-protections-drm-de-disney-et-convertissez-vos-dvd-en-formats-compatibles/"><u>Déjouez Les Protections DRM De Disney Et Convertissez Vos DVD en Formats Compatibles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-eliminating-crashing-issues-within-resident-evil-4-rebuilt-version/"><u>Expert Tips for Eliminating Crashing Issues Within Resident Evil 4 Rebuilt Version</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-issues-with-the-windows-11-spotlight-feature/"><u>Fixing Issues with the Windows 11 Spotlight Feature</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-fixing-repeated-malfunctions-of-the-content-warning-feature-in-windows-systems/"><u>Guide: Fixing Repeated Malfunctions of the Content Warning Feature in Windows Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-ark-survival-ascended-on-pc-avoid-the-crashes-with-our-9-expert-tips/"><u>Mastering ARK: Survival Ascended on PC - Avoid the Crashes with Our 9 Expert Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/pioneering-windows-interface-next-chapter-after-11/"><u>Pioneering Windows Interface: Next Chapter After 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-repetitive-microsoft-edge-symbols/"><u>Removing Repetitive Microsoft Edge Symbols</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-troubleshooting-oculus-graphics-driver-errors/"><u>Resolving Issues: Troubleshooting Oculus Graphics Driver Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-steam-game-startup-issues-on-windows-10-computers/"><u>Solving Steam Game Startup Issues on Windows 10 Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-ps5-game-library-management/"><u>Streamlining PS5 Game Library Management</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tips-and-tricks-to-stop-high-performance-programs-overloading-your-computer/"><u>Tips and Tricks to Stop High-Performance Programs Overloading Your Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-know-about-apples-upcoming-m4-mac-mini-news-on-launch-schedule-pricing-forecasts-and-internal-features/"><u>What to Know About Apple's Upcoming M4 Mac Mini - News on Launch Schedule, Pricing Forecasts, and Internal Features</u></a></li>
 </ul></div>
 

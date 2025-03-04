@@ -1,7 +1,7 @@
 ---
 title: Solution Guide for Managing Google Chrome’s Heavy Load on Your Computer's CPU
-date: 2025-02-11T21:53:35.220Z
-updated: 2025-02-14T19:42:11.054Z
+date: 2025-02-25T10:25:27.618Z
+updated: 2025-03-04T08:36:22.404Z
 tags:
   - win11
   - win10
@@ -71,10 +71,6 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Turn off Steam Overlay
 
  Many games still don’t work well with Steam Overlay. If you turned on Steam Overlay in the past, and you notice that the FPS drops while playing It Takes Two, just try disabling Steam Overlay for It Takes Two to see the in-game FPS increases. Here is how to do it:
@@ -107,16 +103,8 @@ To optimize the graphics settings, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **Manage 3D Settings** on the left, then navigate to the **Program Settings** tab. In the **Select a program to customize:**  part, add**It Takes Two** from the program list.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. In the **Specify the settings for this program** : part, modify following settings:  
 
@@ -145,10 +133,6 @@ To optimize the graphics settings, follow the steps below:
 
  If the FPS still doesn’t improved after you optimized the graphics settings, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 5: Disable background recording and Xbox Game Bar
 
  Microsoft introduces many gaming features to Windows 10, such as background recording, Xbox Game Bar, etc.. Once enabled, they’ll constantly run in the background, hogging a ton of resources.
@@ -162,10 +146,6 @@ To optimize the graphics settings, follow the steps below:
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click**Captures** on the left, then**turn off** the toggle udner**Background recording** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
  Launch It Takes Two to see you can play it smoothly. If not, try the next fix, below.
@@ -178,15 +158,7 @@ To optimize the graphics settings, follow the steps below:
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![Restrict applications and downloads in the background](https://images.drivereasy.com/wp-content/uploads/2019/08/Task-Manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch It Takes Two to see if the in-game FPS increases. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Set the Power Plan of your PC for Best Performance
 
@@ -198,15 +170,7 @@ To optimize the graphics settings, follow the steps below:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Launch It Takes Two to see if you would get a better FPS.
 
@@ -232,18 +196,24 @@ Launch It Takes Two to see if you would get a better FPS.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-learn-to-conduct-zoom-webinars-a-newbies-blueprint/"><u>[New] 2024 Approved Learn to Conduct Zoom Webinars A Newbie's Blueprint</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-9-leading-live-gaming-services/"><u>[New] 9 Leading Live Gaming Services</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-next-gen-game-viewing-top-5-hdmi-21-infinity-refresh-rates/"><u>[New] In 2024, Next-Gen Game Viewing Top 5 HDMI 2.1 Infinity Refresh Rates</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-managing-moments-in-live-streams-an-obs-timer-guide/"><u>[New] Managing Moments in Live Streams An OBS Timer Guide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-break-into-cash-with-periscope-first-timers-tips/"><u>[Updated] In 2024, Break Into Cash with Periscope First-Timers' Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/chatgpt-plus-to-the-rescue-my-journey-from-needing-a-mechanic-to-making-an-informed-choice-without-reading-online-reviews-zdnet-insights/"><u>ChatGPT Plus to the Rescue: My Journey From Needing a Mechanic to Making an Informed Choice Without Reading Online Reviews | ZDNet Insights</u></a></li>
-<li><a href="https://program-issues.techidaily.com/end-lost-arks-endless-pc-crashing-effective-techniques-revealed-here/"><u>End Lost Ark's Endless PC Crashing: Effective Techniques Revealed Here!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/end-of-frustration-a-step-by-step-guide-to-fixing-your-screens-flicker-problem/"><u>End of Frustration: A Step-by-Step Guide to Fixing Your Screen's Flicker Problem</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-packaging-perfection-strategies-for-stunning-first-touches/"><u>In 2024, Packaging Perfection Strategies for Stunning First Touches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-gameplay-interruptions-fixing-battlefield-v-pc-crashes-easily/"><u>Overcoming Gameplay Interruptions: Fixing Battlefield V PC Crashes Easily</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/reducing-file-size-mov-videos-and-emphasizing-the-process-with-words-such-as-best-techniques-or-step-by-step-guide/"><u>Reducing File Size, MOV Videos, and Emphasizing the Process with Words Such as Best Techniques or Step-by-Step Guide.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-webex-audio-the-ultimate-fixes-for-mic-issues/"><u>Reviving Your Webex Audio: The Ultimate Fixes for Mic Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/valheim-on-windows-ultimate-guide-to-overcoming-slow-server-response-time/"><u>Valheim on Windows: Ultimate Guide to Overcoming Slow Server Response Time</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-screen-capture-power-play-apowsort-reviewed-and-comparisons-made/"><u>[New] Screen Capture Power Play Apowsort Reviewed & Comparisons Made</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-skald-rage-new-age-of-might/"><u>[Updated] 2024 Approved Skald Rage New Age of Might</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-ig-videos-building-a-powerful-focused-marketing-plan/"><u>2024 Approved Mastering IG Videos Building a Powerful, Focused Marketing Plan</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/6-effortless-steps-to-add-social-media-live-content-online-for-2024/"><u>6 Effortless Steps to Add Social Media Live Content Online for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battlefield-official-fixes-overcoming-frame-rate-stutters-and-latency-issues-on-the-pc-platform/"><u>Battlefield # Official Fixes: Overcoming Frame Rate Stutters & Latency Issues on the PC Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-back-4-bloods-ue4-game-breaking-gobi-glitch-with-these-expert-fixes/"><u>Eliminate Back 4 Blood's UE4 Game-Breaking Gobi Glitch with These Expert Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-tips-for-addressing-the-error-of-a-missing-msstdfmtdll-component/"><u>Essential Tips for Addressing the Error of a Missing Msstdfmt.dll Component</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-continuous-pc-crash-issues-in-arcadegeddon-fixed/"><u>How to Overcome Continuous PC Crash Issues in Arcadegeddon [FIXED]</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-100-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Honor 100 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-fixes-for-sudden-fps-dips-in-pc-games/"><u>Mastering Stability: Fixes for Sudden FPS Dips in PC Games</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-troubleshooting-essential-solutions-for-arise-game-crashes-on-unreal-engine-5-platforms/"><u>Mastering Troubleshooting: Essential Solutions for Arise Game Crashes on Unreal Engine 5 Platforms</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-how-to-translate-instagram-videos-for-global-engagement/"><u>New 2024 Approved How to Translate Instagram Videos for Global Engagement</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-delays-and-stuttering-an-ultimate-fix-for-outriders-console-issues/"><u>Overcoming Delays and Stuttering - An Ultimate Fix for Outriders Console Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-no-ping-detected-in-halo-infinity-a-step-by-step-guide/"><u>Resolving 'No Ping Detected' In Halo Infinity - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-portability-how-the-new-20-anker-battery-eliminates-charger-woes-insights-from-zdnet/"><u>Revolutionizing Portability: How the New $20 Anker Battery Eliminates Charger Woes - Insights From ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-crash-issues-in-yakuza-nthe-song-of-life-for-windows-users/"><u>Troubleshooting Guide: Resolving Crash Issues in Yakuza nThe Song of Life for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-manor-lords-game-crashes-on-your-computer/"><u>Troubleshooting Tips: Resolving Manor Lords Game Crashes on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/update-on-the-ascent-understanding-its-delayed-launch-scenario/"><u>Update on 'The Ascent': Understanding Its Delayed Launch Scenario</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-winservicesexe-on-windows-heres-how-to-fix-errors-related-to-it/"><u>What Is winservices.exe on Windows? Here's How to Fix Errors Related to It</u></a></li>
 </ul></div>
 

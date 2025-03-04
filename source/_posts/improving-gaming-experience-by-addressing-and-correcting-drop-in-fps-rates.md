@@ -1,7 +1,7 @@
 ---
 title: Improving Gaming Experience by Addressing and Correcting Drop in FPS Rates
-date: 2025-02-13T01:08:23.085Z
-updated: 2025-02-14T20:24:28.474Z
+date: 2025-02-25T00:27:30.247Z
+updated: 2025-03-04T05:22:53.588Z
 tags:
   - win11
   - win10
@@ -43,10 +43,6 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Make sure your computer is not overheating
 
  If the ventilation for your computer is rather poor, your machine may run hot, thus with the FPS dropping problems in games, among many other PC performance issues.
@@ -56,10 +52,6 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
  Here is a detailed post for your reference if your computer is overheating: [**How to Know Your CPU Overheating and How to Fix It**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Close CPU- and bandwidth-intensive services and applications
 
@@ -73,10 +65,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
 3. Pay extra attention to**Intel Turbo Boost Technology** : if you have it running, please disable it as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then run your game again and see if the FPS dropping issue is fixed. If the problem still remains, please move on to the next fix below.
 
@@ -98,10 +86,6 @@ To do so:
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4.1 Flush your DNS
 
  By flushing your DNS, your DNS cache will be cleared. When your PC needs to access a website, it’ll need to obtain the address from the DNS server again. This may fix the FPS dropping issue if the DNS cache data was invalid or corrupt. Here’s how:
@@ -111,22 +95,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4.2 Switch to a public DNS server
 
@@ -150,10 +122,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run your game again to see if the frame rate per second still drops. If the problem still persists, please move on.
 
 ---
@@ -163,10 +131,6 @@ To do so:
  Another reason why FPS drops in your games is probably outdated or incorrect drivers for your graphics and network cards. This is because outdated, incorrect, or missing drivers for your display card and network card could lead to unstable graphics rendering and slow network connection, and therefore the stuttering and the FPS dropping problems. So you should update your device drivers to see if it helps.
 
  There are mainly 2 ways you can update the drivers for your video card and network card: manually or automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics and network drivers manually
 
@@ -249,18 +213,24 @@ To change the power mode:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-mac-users-manual-recording-high-quality-audio-with-audacity/"><u>[New] In 2024, Mac Users' Manual Recording High-Quality Audio with Audacity</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-elevate-your-brand-with-these-essential-fb-strategies-for-all-for-2024/"><u>[Updated] Elevate Your Brand with These Essential FB Strategies (for All) for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-substitutes-to-winmovie-making-software/"><u>2024 Approved Substitutes to WinMovie Making Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-windows-system-up-to-speed-with-geforce-gtx-460-driver-download/"><u>Get Your Windows System Up to Speed with GeForce GTX 460 Driver Download</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-days-gone-when-it-wont-start-on-your-pc-solution/"><u>How to Fix 'Days Gone' When It Won't Start on Your PC – SOLUTION!</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Oppo Reno 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mastering-quick-fixes-for-pcl-xl-errors/"><u>Mastering Quick Fixes for PCL XL Errors</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-t2-pro-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo T2 Pro 5G – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-network-hiccups-a-step-by-step-guide-to-eliminate-lag-in-chivalry-2-new-insights/"><u>Overcome Network Hiccups: A Step-by-Step Guide to Eliminate Lag in Chivalry 2 (New Insights )</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revive-your-valorant-experience-fixes-for-pc-startup-problems-updated-guide/"><u>Revive Your Valorant Experience: Fixes for PC Startup Problems - Updated Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-fixing-pc-issues-preventing-fallout-4-from-crashing/"><u>Solved: Fixing PC Issues - Preventing Fallout 4 From Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fix-preventing-recurring-pc-game-errors-in-hell-let-loose/"><u>Ultimate Fix: Preventing Recurring PC Game Errors In 'Hell Let Loose'</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-removing-unwanted-audio-from-videos-essential-steps/"><u>[New] 2024 Approved Removing Unwanted Audio From Videos - Essential Steps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-setting-up-your-microphone-on-windows-11/"><u>[Updated] In 2024, Setting Up Your Microphone on Windows 11</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-chart-success-the-top-online-stock-portals/"><u>2024 Approved Chart Success The Top Online Stock Portals</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-bug-blitz-ultimate-guide-to-fixing-pc-crash-issues-with-zombie-army-4-dead-war/"><u>Beat the Bug Blitz: Ultimate Guide to Fixing PC Crash Issues with Zombie Army 4: Dead War</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bug-squashed-misty-veil-leads-to-pc-malfunction/"><u>Bug Squashed: Misty Veil Leads to PC Malfunction</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crash-free-gameplay-overcoming-issues-in-total-war-three-kingdoms-now-fixed/"><u>Crash-Free Gameplay: Overcoming Issues in Total War: Three Kingdoms Now Fixed</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/crossing-continents-in-conversation/"><u>Crossing Continents in Conversation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/efficient-remedies-for-corsair-icue-connectivity-problems-in-windows-11-environments/"><u>Efficient Remedies for Corsair iCUE Connectivity Problems in Windows 11 Environments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-solutions-eliminating-fatal-errors-in-the-unreal-engine-4-version-of-tales-of-arise/"><u>Expert Solutions: Eliminating Fatal Errors in the Unreal Engine 4 Version of 'Tales of Arise'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-playstations-blackout-blunder-in-call-of-duty-wwii-for-windows-users/"><u>How to Stop PlayStation's 'Blackout Blunder' In Call of Duty: WWII for Windows Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-a-step-by-step-approach-to-zooming-success/"><u>In 2024, A Step-by-Step Approach to Zooming Success</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-itel-p55plus-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Itel P55+ FRP</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-5-best-online-tone-generators-for-you/"><u>New 2024 Approved 5 Best Online Tone Generators for You</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-solutions-to-address-and-repair-the-50-growers-server-error-code/"><u>Quick Solutions to Address and Repair the 50 Grower's Server Error Code</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-fixing-modern-warfares-critical-dev-error-6034-across-consoles/"><u>Step-by-Step Solutions for Fixing Modern Warfare's Critical Dev Error 6034 Across Consoles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-to-resolve-sudden-shutdowns-during-halo-3-sessions-on-pc/"><u>Steps to Resolve Sudden Shutdowns During Halo 3 Sessions on PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-10-free-video-tools-cross-platform-os-support/"><u>Top 10 Free Video Tools Cross-Platform OS Support</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-fixing-monster-hunter-stories-2-wings-of-ruin-failed-startup-issue/"><u>Troubleshooting Steps for Fixing 'Monster Hunter Stories 2: Wings of Ruin' Failed Startup Issue</u></a></li>
 </ul></div>
 

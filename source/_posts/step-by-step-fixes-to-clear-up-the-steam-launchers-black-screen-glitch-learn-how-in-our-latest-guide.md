@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fixes to Clear Up the Steam Launcher's Black Screen Glitch – Learn How in Our Latest Guide
-date: 2025-02-09T18:20:04.445Z
-updated: 2025-02-15T03:16:00.714Z
+date: 2025-02-27T04:12:42.521Z
+updated: 2025-03-04T04:33:10.521Z
 tags:
   - win11
   - win10
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/798da70479f84a42f596309bd983075c08c6ee00e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-2.jpg)
 3. Click**Change settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-3.jpg)
 4. Scroll down to locate Lost Ark. Then**check the boxes under the Domain, Private and Public tabs** , and click**OK** to save the settings.  
 
@@ -54,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/798da70479f84a42f596309bd983075c08c6ee00e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-4.jpg)
 6. Click**Browse** , navigate to the Lost Ark installation folder and choose the**LostArk.exe file** . Then click**Add** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Make sure the game is allowed for Domain, Private and Public access, and click**OK** to confirm the changes.
 
@@ -70,10 +62,6 @@ Now see if you could start the game. If not, try the next method.
 1. Launch the Steam client and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click**Lost Ark** and select**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Click the**Local Files** tab, and click**Verify integrity of game files** .  
@@ -95,10 +83,6 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also get the drivers you need for free, but you’ll need to download them one at a time and manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
@@ -119,15 +103,7 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-1.jpg)
 4. Click**OK** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Try launching the game to see how things go. Still no luck? Take a look at the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Turn off unnecessary programs
 
@@ -137,21 +113,9 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/taks-manager-1.jpg)
 2. Select the program and click**End task** until you close all the unneeded applications.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/taks-manager-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart and check the game. If it still can’t get past the loading screen, continue to Fix 6.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6 – Switch to DX9
 
@@ -208,22 +172,20 @@ Restart your game and check if Lost Ark goes back to the normal state.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/1722987679195-fixed-diablo-immortal-keeps-crashing-pc-guide-2024/"><u>[FIXED] Diablo Immortal Keeps Crashing - PC Guide 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/chieve-professional-quality-on-yt-with-simple-blurring/"><u>[New] Achieve Professional Quality on YT with Simple Blurring</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-elevating-your-medical-ad-game-secrets-to-success-on-facebook-for-2024/"><u>[New] Elevating Your Medical Ad Game Secrets to Success on Facebook for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elite-25-instagram-personalities-worth-following/"><u>[New] In 2024, Elite 25 Instagram Personalities Worth Following</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/treamlining-your-personal-library-from-spotify-to-youtube-music-for-2024/"><u>[New] Streamlining Your Personal Library From Spotify, To YouTube Music for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-5-best-snipping-tool-for-chromebook/"><u>[Updated] 2024 Approved 5 Best Snipping Tool For Chromebook</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-facebooks-inverse-image-labyrinth-navigate-with-these-3-methods-for-2024/"><u>[Updated] Facebook's Inverse Image Labyrinth - Navigate with These 3 Methods for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-synthesizing-elements-crafting-a-captivating-youtube-video-start/"><u>2024 Approved Synthesizing Elements Crafting a Captivating YouTube Video Start</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-praeys-for-the-gods-solutions-to-prevent-pc-crashes/"><u>Fix Praeys for the Gods: Solutions to Prevent PC Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-cyberpunk-2077-wont-start-problem/"><u>How to Fix Cyberpunk 2077 Won't Start Problem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-longer-waiting-immerse-yourself-in-the-world-of-immortals-fenyx-rising/"><u>No Longer Waiting? Immerse Yourself in the World of Immortals Fenyx Rising</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-guide-overcoming-error-0x803f8001-in-minecraft-for-windows-users/"><u>Solution Guide: Overcoming Error 0X803f8001 in Minecraft for Windows Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-steps-how-to-restore-functionality-of-your-logitech-g-hub-on-a-pc/"><u>Solution Steps: How to Restore Functionality of Your Logitech G Hub on a PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-overcome-d3derr-not-available-issues/"><u>Step-by-Step Solutions to Overcome 'D3DERR Not Available' Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/success-story-overcoming-geforce-error-and-restart-issues-seamlessly/"><u>Success Story: Overcoming GeForce Error and Restart Issues Seamlessly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-resolving-crashes-in-mass-effect-3s-legendary-edition-for-both-pc-and-xbox/"><u>Troubleshooting and Resolving Crashes in Mass Effect 3'S Legendary Edition for Both PC and Xbox</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/yl-softwares-guide-best-practices-for-shielding-your-pc-from-malware-threats/"><u>YL Software's Guide: Best Practices for Shielding Your PC From Malware Threats</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-maximize-reach-the-top-ten-keywords-discovery-platforms-for-youtubers/"><u>[New] 2024 Approved Maximize Reach The Top Ten Keywords Discovery Platforms for YouTubers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-avoiding-grainy-zoom-videos-techniques-included-for-2024/"><u>[New] Avoiding Grainy Zoom Videos – Techniques Included for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-how-to-record-internal-audio-on-android-video-or-gameplay/"><u>[Updated] 2024 Approved How to Record Internal Audio on Android [Video or Gameplay]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-luminary-lessons-teaching-the-power-of-proper-lighting-for-2024/"><u>[Updated] Luminary Lessons Teaching the Power of Proper Lighting for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pixelate-photo-visages-a-selection-of-powerful-utilities/"><u>[Updated] Pixelate Photo Visages A Selection of Powerful Utilities</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoiding-frustration-in-wwe-2k20-play-effective-fixes-for-preventing-pc-game-crashes/"><u>Avoiding Frustration in WWE 2K20 Play: Effective Fixes for Preventing PC Game Crashes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/avoiding-key-errors-essential-tips-for-effective-chatgpt-prompt-strategies/"><u>Avoiding Key Errors: Essential Tips for Effective ChatGPT Prompt Strategies</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/boost-your-efficiency-with-apples-latest-release-the-ipad-10nch-changes-everything/"><u>Boost Your Efficiency with Apple's Latest Release - The iPad 10.nch Changes Everything</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-x-jump-cuts-take-your-editing-to-the-next-level/"><u>Final Cut Pro X Jump Cuts Take Your Editing to the Next Level</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Infinix Smart 8 HD? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/instantaneous-guide-effortless-shader-tuning-for-star-wars-battlefront-ii/"><u>Instantaneous Guide: Effortless Shader Tuning for Star Wars Battlefront II</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-play-how-to-enhance-avatar-frontiers-of-pandora-load-times/"><u>Optimizing Play: How to Enhance Avatar: Frontiers of Pandora Load Times</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-effective-solutions-to-lower-lag-time-in-back-4-blood/"><u>Resolved: Effective Solutions to Lower Lag Time in 'Back 4 Blood'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-solve-stuttering-and-boost-frame-rate-in-naraka-bladepoint/"><u>Ultimate Guide to Solve Stuttering & Boost Frame Rate in Naraka: Bladepoint</u></a></li>
+<li><a href="https://program-issues.techidaily.com/xcom-2-stability-issues-fixing-game-crashes-on-windows-platforms/"><u>XCOM 2 Stability Issues: Fixing Game Crashes on Windows Platforms</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Defeating Lag and Glitches: A Player's Manual for Fixing FIFA 19 PC Stability Problems"
-date: 2025-02-12T21:41:23.123Z
-updated: 2025-02-15T00:53:25.287Z
+date: 2025-02-27T18:02:52.556Z
+updated: 2025-03-04T03:35:40.709Z
 tags:
   - win11
   - win10
@@ -34,19 +34,11 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 8: Disable fullscreen optimizations](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your computer
 
  If you haven’t done this yet, give it a shot. A simple restart will reset your software and desktop environment and can often fix software glitches like this.
 
  If you encounter the crashing issue again when playing Phasmophobia, move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
 
@@ -78,17 +70,9 @@ Game crashing issues might happen when your game files are corrupted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Relaunch the game to test the issue.
 
@@ -117,10 +101,6 @@ If the game still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -129,10 +109,6 @@ If the game still crashes, try the next fix below.
 4) Relaunch the game to test your issue.
 
 If the crash still occurs, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Lower your graphics settings
 
@@ -194,10 +170,6 @@ If the problem still exists, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
 
 * [game crash](https://tools.techidaily.com/drivereasy/download/)
@@ -217,17 +189,18 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-vivo-t2-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Vivo T2 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-code-warriors-can-gemini-outperform-chatgpt-for-developers/"><u>AI Code Warriors: Can Gemini Outperform ChatGPT for Developers?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/destiny-2-beyond-light-update-successfully-eliminates-pc-crashes/"><u>Destiny 2: Beyond Light Update Successfully Eliminates PC Crashes</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-the-unsupported-windows-hello-scanner-mismatch/"><u>Eliminating the Unsupported Windows Hello Scanner Mismatch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/game-crash-no-more-top-techniques-to-secure-seamless-pc-gaming/"><u>Game-Crash No More - Top Techniques to Secure Seamless PC Gaming</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-realme-12-5g-by-drfone-android/"><u>How to Bypass FRP from Realme 12 5G?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improve-your-gaming-experience-addressing-low-fps-issues-in-new-releases/"><u>Improve Your Gaming Experience: Addressing LOW FPS Issues in New Releases</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maximizing-origin-download-velocity-proven-techniques-to-enhance-speed-insights/"><u>Maximizing Origin Download Velocity: Proven Techniques to Enhance Speed - Insights</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-an-unresponsive-iphone-control-center-try-these-8-proven-fixes/"><u>Struggling with an Unresponsive iPhone Control Center? Try These 8 Proven Fixes</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/the-ultimate-guide-to-whatsapp-calls-on-your-phone/"><u>The Ultimate Guide to WhatsApp Calls on Your Phone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-fixes-for-internet-explorer-viewing-problems/"><u>Troubleshooting Fixes for Internet Explorer Viewing Problems</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-essential-ae-design-best-free-templates-for-professionals/"><u>[New] 2024 Approved Essential AE Design Best Free Templates for Professionals</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-preferred-options-superior-mac-video-capture-apps/"><u>[New] 2024 Approved Preferred Options Superior Mac Video Capture Apps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/best-kept-secrets-elite-mac-speech-apps-youre-missing-out-on/"><u>Best-Kept Secrets Elite Mac Speech Apps You're Missing Out On</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-experience-eliminating-lags-within-the-elder-scrolls-online-blackwood-fixes-applied/"><u>Enhancing Experience: Eliminating Lags Within The Elder Scrolls Online – Blackwood Fixes Applied</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-recurring-microsoft-edge-browser-crash-errors-on-windows-11-what-you-need-to-know/"><u>Fix Recurring Microsoft Edge Browser Crash Errors on Windows 11 – What You Need To Know</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/gravacao-e-conversao-de-audio-mpeg-para-flac-free-online-com-o-movavi/"><u>Gravação E Conversão De Áudio: MPEG Para FLAC Free Online Com O Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-effortlessly-fix-corrupt-disks-when-playing-steam-games/"><u>How to Effortlessly Fix Corrupt Disks When Playing Steam Games</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-infinix-hot-40-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Infinix Hot 40 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/path-of-exile-instance-connection-issue-a-comprehensive-troubleshooting-guide/"><u>Path of Exile Instance Connection Issue: A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-overcoming-the-you-lack-authorization-hurdle-in-fortnite/"><u>Resolved: Overcoming the 'You Lack Authorization' Hurdle in Fortnite</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-call-of-duty-warzone-missing-texture-issues/"><u>Resolving Call of Duty Warzone: Missing Texture Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-microsofts-family-safety-features/"><u>Understanding Microsoft's Family Safety Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-camera-malfunction-overcome-error-code-0xa00f4292-with-these-simple-fixes/"><u>Windows Camera Malfunction? Overcome Error Code 0XA00F4292 with These Simple Fixes</u></a></li>
 </ul></div>
 

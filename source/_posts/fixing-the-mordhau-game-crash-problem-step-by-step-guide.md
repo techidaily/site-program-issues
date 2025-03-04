@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Mordhau Game Crash Problem: Step-by-Step Guide"
-date: 2025-01-24T19:16:05.963Z
-updated: 2025-01-31T17:49:32.249Z
+date: 2025-03-01T16:24:31.974Z
+updated: 2025-03-03T17:44:46.515Z
 tags:
   - win11
   - win10
@@ -57,10 +57,6 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-28.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Check your **operating system, processor, and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-32.jpg)
@@ -84,10 +80,6 @@ Follow the instructions below to view your computer hardware information:
 **2)** Right-click the**Steam icon** and select**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_10-11-20.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click**Yes** .
 
@@ -121,17 +113,9 @@ If this didn’t work for you, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-57.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Click the**LOCAL FILES** tab, and then click**VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-47-01.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Relaunch Mordhau to test your issue.
 
@@ -159,10 +143,6 @@ If Mordhau is still crashing, move on and check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-47-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -179,10 +159,6 @@ If your problem persists, move on to Fix 6.
 **1)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-47-38.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Under **View by,** click **Large icons** .
 
@@ -204,10 +180,6 @@ If your problem persists, move on to Fix 6.
 
 If your game is still unplayable, move on to the fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Configure your virtual memory
 
 **Virtual memory** is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive. If your computer runs out of RAM when performing an intensive task, Windows will dip into virtual memory for temporary file storage.
@@ -226,10 +198,6 @@ If your game is still unplayable, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Click the**Advanced** tab, and then click**Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-17.jpg)
@@ -247,10 +215,6 @@ If your game is still unplayable, move on to the fix below.
  Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger. In most cases, setting your virtual memory as 4 GB is enough.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-34-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **8)** Click**Set** , and then click**OK** .
 
@@ -273,10 +237,6 @@ If your game is still unplayable, move on to the fix below.
 **3)**  Right-click **Mordhau**  and select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-47-20-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  On your keyboard, press the**Windows logo key** and**R** at the same time.
 
@@ -317,21 +277,21 @@ If your game is still unplayable, move on to the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/xpert-tips-on-camera-lens-selection-for-professional-vloggers-for-2024/"><u>[New] Expert Tips on Camera Lens Selection For Professional Vloggers for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-professional-videographers-choice-for-screen-recordings/"><u>[New] Professional Videographer's Choice for Screen Recordings</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-srt-conversion-masterclass-direct-route-to-sub/"><u>[Updated] 2024 Approved SRT Conversion Masterclass Direct Route to SUB</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-step-by-step-inserting-music-in-your-ppt-masterpieces/"><u>[Updated] Step-by-Step Inserting Music in Your PPT Masterpieces</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-maximize-viewer-interest-with-best-post-schedule/"><u>2024 Approved Maximize Viewer Interest with Best Post Schedule</u></a></li>
-<li><a href="https://program-issues.techidaily.com/achieve-smooth-performance-fixing-stutter-issues-for-better-fps-on-valorant/"><u>Achieve Smooth Performance: Fixing Stutter Issues for Better FPS on Valorant</u></a></li>
-<li><a href="https://program-issues.techidaily.com/although-fired-tiles-are-durable-they-should-be-handled-with-care-to-avoid-chipping-or-cracking-clean-gently-with-a-soft-cloth-when-needed-avoid-harsh-chemi564/"><u>Although Fired Tiles Are Durable, They Should Be Handled with Care to Avoid Chipping or Cracking. Clean Gently with a Soft Cloth when Needed; Avoid Harsh Chemicals that Could Damage the Surface</u></a></li>
-<li><a href="https://program-issues.techidaily.com/destiny-2-fix-resolving-centipede-error-message-effectively/"><u>Destiny 2 Fix: Resolving Centipede Error Message Effectively</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-restoring-the-launch-function-of-thaumaturge-software/"><u>Diagnosing and Restoring the Launch Function of Thaumaturge Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722990448600-football-manager-2022-pc-stability-fixed-no-more-crashes/"><u>Football Manager 2022 PC Stability Fixed - No More Crashes!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improving-download-speeds-in-utorrent-top-strategies-that-worked/"><u>Improving Download Speeds in uTorrent - Top Strategies That Worked</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-access-tons-of-free-vocal-textures/"><u>In 2024, Access Tons of Free Vocal Textures!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-fixes-stop-diablo-2-re-from-crashing-expert-advice/"><u>Mastering the Fixes: Stop Diablo 2 RE From Crashing – Expert Advice</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-swap-faces-like-a-pro-the-best-apps-for-ios-and-android/"><u>New Swap Faces Like a Pro The Best Apps for iOS and Android</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-the-source-of-media-failures/"><u>Unraveling the Source of Media Failures</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-instagram-algorithm-update-will-affect-you/"><u>[New] How Instagram Algorithm Update Will Affect You</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-explore-the-top-10-fastest-growing-youtube-platforms-to-motivate-you/"><u>[New] In 2024, Explore the Top 10 Fastest Growing YouTube Platforms to Motivate You</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-youtube-editing-competitors-ranked-top-5-non-youtube-sites-list/"><u>[New] In 2024, YouTube Editing Competitors Ranked Top 5 Non-YouTube Sites List</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-how-to-make-every-minute-count-for-view-growth-with-youtube-shorts/"><u>[Updated] 2024 Approved How to Make Every Minute Count for View Growth with YouTube Shorts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-peek-into-fb-episodes-unseen/"><u>[Updated] 2024 Approved Peek Into FB Episodes, Unseen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-tesos-launch-error-effective-troubleshooting-steps-inside/"><u>Beat TESO's Launch Error – Effective Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/combine-your-fortnite-gamer-ids-in-minutes/"><u>Combine Your Fortnite Gamer IDs in Minutes!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-persistent-crash-issues-in-doom-eternal-a-step-by-step-approach/"><u>Fixing Persistent Crash Issues in DOOM Eternal: A Step-by-Step Approach</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722983819287-how-to-stop-your-gas-station-simulator-from-keeping-the-computer-down/"><u>How to Stop Your Gas Station Simulator From Keeping the Computer Down</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-smooth-gaming-eliminate-minecraft-freezes-with-cutting-edge-tips-for-pc-gamers/"><u>Master Smooth Gaming: Eliminate Minecraft Freezes with Cutting-Edge Tips for PC Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-conflict-zone-survival-correcting-error-code-103003-in-tarkov/"><u>Mastering Conflict Zone Survival: Correcting Error Code 103003 in Tarkov</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-pc-disruptions-expert-tips-to-eliminate-scavengers-game-crashes/"><u>No More Pc Disruptions: Expert Tips to Eliminate Scavengers Game Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-route-to-enabling-the-dark-mode-in-notepad-on-win-11/"><u>Quick Route to Enabling the Dark Mode in Notepad on Win 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformacion-gratis-y-rapida-de-formatos-convierte-mp4-en-wmv-online-con-movavi/"><u>Transformación Gratis Y Rápida De Formatos: Convierte MP4 en WMV Online Con Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-stop-hearthstone-from-crashing-on-your-pc/"><u>Troubleshooting Guide: How to Stop Hearthstone From Crashing on Your PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Conquer PC Issues: Modern Warfare Launch Guide Gamer Troubles"
-date: 2025-01-29T17:17:27.429Z
-updated: 2025-02-01T00:53:52.709Z
+date: 2025-02-28T00:57:23.010Z
+updated: 2025-03-04T06:48:24.539Z
 tags:
   - win11
   - win10
@@ -30,14 +30,6 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Call-of-Duty-Modern-Warfare-II-not-launching-1200x675.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Allow your game through Windows Firewall
 
  When a program fails to load properly, chances are your firewall is blocking it, even though the program you’re starting is legitimate and doesn’t do harm to your system. To ensure your game has access to your connection, take the steps as follows.
@@ -50,19 +42,11 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 3. Under the **Allowed apps and features**  section, scroll down and find Modern Warfare II. If it’s not on the list, click **Change settings > Allow another app…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/allow-modern-warfare-through-windows-firewall.jpg)
 
  Now navigate to your game’s installation folder and add it to the list. Then check the boxes under**Domain** ,**Private** , and**Public** . Once done, click**OK** to apply the changes.
 
 If this doesn’t do the trick, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run your game launcher as administrator
 
@@ -87,10 +71,6 @@ If this doesn’t do the trick, try the next fix below.
 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes**  tab, select the program and click **End task** until you close all the unneeded applications.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Some gamers did find that the Razer Synapse is more likely to be in conflict with a number of big releases. Therefore, if you have it installed in your computer, stop it from running in the background. )  
 
@@ -164,10 +144,6 @@ If this doesn’t do the trick, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you have to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
@@ -175,10 +151,6 @@ If this doesn’t do the trick, try the next fix below.
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. If your game still fails to launch, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Run a full system scan
 
@@ -213,17 +185,18 @@ If this doesn’t do the trick, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-screen-saviors-ranked-top-8-for-ios-filmmaking-apps/"><u>2024 Approved Screen Saviors Ranked Top 8 for iOS Filmmaking Apps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-face-off-snapchat-vs-microsoft-bing-eight-essential-contrasts-for-skype-integration/"><u>AI Face-Off: Snapchat Vs. Microsoft Bing – Eight Essential Contrasts for Skype Integration</u></a></li>
-<li><a href="https://program-issues.techidaily.com/deathloop-not-launched-heres-how-you-can-solve-it/"><u>Deathloop Not Launched? Here’s How You Can Solve It!</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-vivo-x-fold-2-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Vivo X Fold 2 FRP</u></a></li>
-<li><a href="https://program-issues.techidaily.com/last-epoch-wont-boot-on-your-pc-masterful-fixes-and-updates-for-a-seamless-gaming-experience-202n/"><u>Last Epoch Won't Boot on Your PC? Masterful Fixes and Updates for a Seamless Gaming Experience (202N)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-launch-screen-hiccups-in-cold-war-a-guide-for-players-and-consoles-users/"><u>Overcoming Launch Screen Hiccups in 'Cold War': A Guide for Players and Consoles Users</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/screen-recorder-mac-with-audio/"><u>Screen Recorder Mac with Audio</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-fall-guys-not-starting-up-correctly-play-without-interruptions/"><u>Step-by-Step Fixes for Fall Guys Not Starting Up Correctly - Play Without Interruptions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/steps-to-avoid-automatic-podcast-suggestions-on-spotify-for-2024/"><u>Steps to Avoid Automatic Podcast Suggestions on Spotify for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ontent-kings-chronicle-mastering-youtube-monetization-no-ads-involved/"><u>The Content King's Chronicle Mastering YouTube Monetization, No Ads Involved</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-in-computing-innovation-featured-by-toms-hardware-specialists/"><u>Top Picks in Computing Innovation Featured by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-essence-of-insta-bokeh-a-step-by-step-guide-for-2024/"><u>[Updated] The Essence of Insta Bokeh - A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cambiar-de-formato-flv-a-m4v-online-sin-coste-hacerlo-con-eficacia/"><u>Cambiar De Formato FLV a M4V Online Sin Coste - Hacerlo Con Eficacia</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquering-error-code-0x80070643-effective-solutions-for-windows-updateinstallation-failures/"><u>Conquering Error Code 0X80070643: Effective Solutions for Windows Update/Installation Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-solutions-for-overcoming-game-crashes-fixing-resident-evil-village-on-pc/"><u>Expert Solutions for Overcoming Game Crashes: Fixing Resident Evil Village on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-on-resolving-connectivity-problems-in-new-world-game/"><u>Expert Tips on Resolving Connectivity Problems in New World Game</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-depths-of-galactic-warfare-a-thorough-review-of-star-wars-squadrons/"><u>Exploring the Depths of Galactic Warfare - A Thorough Review of Star Wars: Squadrons</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/gimmicks-to-giants-navigating-popular-short-hashtags/"><u>From Gimmicks to Giants Navigating Popular Short Hashtags</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-enable-msi-afterburner-detect-gpu-feature-for-seamless-performance-on-windows-11-systems/"><u>How to Enable MSI Afterburner Detect GPU Feature for Seamless Performance on Windows 11 Systems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-ios-174-explore-and-maximize-your-iphones-recent-upgrades/"><u>Mastering IOS 17.4: Explore and Maximize Your iPhone's Recent Upgrades</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/roguelike-vs-roguelite-debates-and-history-for-2024/"><u>Roguelike Vs. Roguelite Debates and History for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-overcoming-fifa-22s-pc-crash-issues-easily/"><u>Solution Guide: Overcoming FIFA 22'S PC Crash Issues Easily</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/stopcapture-screen-freeze-assist-for-2024/"><u>StopCapture Screen Freeze Assist for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-getting-rid-of-the-dark-pixels-rainbow-six-siege-for-pc-users/"><u>Troubleshooting Tips: Getting Rid of the Dark Pixels – Rainbow Six Siege for PC Users</u></a></li>
 </ul></div>
 
